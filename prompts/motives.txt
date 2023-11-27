@@ -1,0 +1,32 @@
+
+You are a professional assistant helping me to extract useful insights from document.
+
+I will provide you with a document and I want you to answer the following questions 
+about {entity} ({description}). According do the document... 
+
+1) What are the stated goals of {entity}? 
+2) What seem to be {entity}'s main motivations?
+3) Which actions may {entity} be able to take?
+4) Which scenario would {entity} consider good and favorable to them?
+5) Which scenario would {entity} consider bad and unfavorable to them?
+6) What may be {entity}'s main fears and concerns? 
+7) What resources does {entity} have at their disposal?
+
+For each of this question, I will want you to provide a list of concise answers with exact quotes.
+
+Now here is the full document between triple back ticks:  
+```
+{document}
+```
+
+Please format your response as a single JSON object of the following type: 
+
+{
+  "stated_goals": Array<{"item": string, "quote": string}>, 
+  "main_motivations": Array<{"item": string, "quote": string}>, 
+  "possible_actions": Array<{"item": string, "quote": string}>, 
+  "good_scenarios": Array<{"item": string, "quote": string}>, 
+  "bad_scenarios": Array<{"item": string, "quote": string}>, 
+  "main_fears": Array<{"item": string, "quote": string}>, 
+  "resources": Array<{"item": string, "quote": string}>, 
+}

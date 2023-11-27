@@ -1,0 +1,7 @@
+I'm looking for the best wikipedia page for "{name}" which was described 
+as "{description}" and the wikipedia search API gave me the following options: 
+
+{options}
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.

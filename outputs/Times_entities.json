@@ -1,0 +1,1252 @@
+[
+  {
+    "name": "Hamas",
+    "description": "A Palestinian Sunni-Islamic fundamentalist militant organization governing the Gaza Strip since 2005",
+    "mentions": 28,
+    "wikipedia": {
+      "id": "13913",
+      "name": "Hamas",
+      "extract": "Hamas (UK:  hə-MASS, US:   hə-MAHSS; Arabic: حماس, romanized: Ḥamās, IPA: [ħaˈmaːs]), an acronym of its official name, the Islamic Resistance Movement (حركة المقاومة الإسلامية Ḥarakat al-Muqāwamah al-ʾIslāmiyyah), is a Sunni Islamist political and military organization   governing the Gaza Strip of the Israeli-occupied Palestinian territories. Headquartered in Gaza City, it also has a presence in the West Bank (the larger of the two Palestinian territories), in which its secular rival Fatah exercises control.\nIn 1987, after the outbreak of the First Intifada against Israel, Hamas was founded by Palestinian imam and activist Ahmed Yassin. It emerged out of his Mujama al-Islamiya, which had been established in Gaza in 1973 as an Islamic charity involved with the Egypt-based Muslim Brotherhood. Hamas became increasingly involved in the Israeli–Palestinian conflict by the late 1990s; it opposed the Israel–PLO Letters of Mutual Recognition as well as the Oslo Accords, which saw Fatah renounce \"the use of terrorism and other acts of violence\" and recognize Israel in pursuit of a two-state solution. Hamas continued to advocate Palestinian armed resistance, won the 2006 Palestinian legislative election, gaining a majority in the Palestinian Legislative Council, and took control of the Gaza Strip from Fatah following a civil war in 2007. Since then, it has run Gaza as a de facto autocratic and one-party state.While historically seeking an Islamic Palestinian state over the combined territory of Israel, the West Bank, and the Gaza Strip (rejecting the two-state solution), Hamas began negotiating with Israel and the 1967 borders in the agreements it signed with Fatah in 2005, 2006 and 2007.  In 2017, Hamas released a new charter that supported a Palestinian state within the 1967 borders without recognizing Israel. Hamas's repeated offers of a truce (for a period of 10–100 years) based on the 1967 borders are seen by many as being consistent with a two-state solution, while others state that Hamas retains the long-term objective of establishing one state in former Mandatory Palestine. Under the ideological principles of Islamism, Hamas promotes Palestinian nationalism in an Islamic context; it has pursued a policy of jihad (armed struggle) against Israel. It has a social service wing, Dawah, and a military wing, the Izz ad-Din al-Qassam Brigades. Since the mid-1990s, Hamas has gained widespread popularity within Palestinian society for its anti-Israeli stance. The group's attacks, including suicide bombings against civilian targets and indiscriminate rocket attacks, have led many countries and academics to designate Hamas a terrorist organization. A 2018 attempt to condemn Hamas for \"acts of terror\" at the United Nations failed.The Gaza Strip is currently under blockade. Israel and Hamas have fought a number of wars there, including in 2008–09, in 2012 and in 2014. In the 2023 war, Hamas launched \"Operation Al-Aqsa Flood\" and its fighters broke through the Gaza barrier, attacked Israeli military bases, massacred civilians and took civilian and soldier hostages back to Gaza. The attack has been described as the biggest military setback for Israel since the 1973 Arab–Israeli War. In response, Israel intensified the existing Gaza blockade and began a large-scale aerial bombardment campaign over the territory in preparation for a ground assault, having announced its intention to destroy Hamas. The European Parliament and the US have also called for the elimination of Hamas.\n\n",
+      "description": "Hamas is a Sunni Islamist political and military organization, governing the Gaza Strip of the Israeli-occupied Palestinian territories, with its headquarters in Gaza City. It was founded in 1987 and promotes Palestinian nationalism in an Islamic context, leading to its involvement in multiple conflicts with Israel."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Sabotage Arab-Israeli peace efforts",
+          "quote": "Why Hamas Tried to Sabotage Arab-Israeli Peace Prospects With a Massive Unprovoked Attack"
+        },
+        {
+          "item": "Prevent normalization between Israel and Saudi Arabia",
+          "quote": "The trigger to the attack was likely that the prospect of a wider Mideast peace was almost at hand through an impending deal between Israel and Saudi Arabia."
+        },
+        {
+          "item": "Derail regional transformation",
+          "quote": "But by sabotaging imminent peace, Hamas sadly derails the transformation of the region which had started with the Abraham Accords."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Disrupt prospective Israeli-Palestinian peace plan",
+          "quote": "Hamas’ sabotage parallels the disruption of the prospective Israeli-Palestinian peace plan in 2000 on the heels of a Camp David Summit when the devastation of the Second Intifada ruined any dreams of normalization and resulted in the deaths of thousands of civilians."
+        },
+        {
+          "item": "Opposition to widespread regional peace and economic security",
+          "quote": "Hamas sadly derails the transformation of the region which had started with the Abraham Accords shepherded by Jared Kushner, which the first author helped advise and participated in, and the worst loser in all this is the Palestinian people, who will lose out on the promise of economic and security revitalization that just days ago seemed so possible."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Carry out military attacks by land, sea, and air",
+          "quote": "managed to carry out an unprecedented and unprovoked attack by land, sea, and air—and the results that prompted Israel to declare all-out war"
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Increase pressure on Iran from increased global rejection",
+          "quote": "privately, Saudi leaders are likely celebrating the reality that Iran will face increased global rejection for funding Hamas"
+        },
+        {
+          "item": "Uniting regional forces against common threats",
+          "quote": "Israel and Saudi are clearly stronger standing together against Iran than individually."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Regional transformation with peaceful cooperation",
+          "quote": "Hamas sadly derails the transformation of the region which had started with the Abraham Accords."
+        },
+        {
+          "item": "Normalization of Saudi-Israel diplomatic relations",
+          "quote": "Clearly that was the intent by Hamas; and indeed it now appears very unlikely there will be any near-term normalization of diplomatic relations as was expected."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Normalization between Israel and Saudi Arabia",
+          "quote": "the trigger to the attack was likely that the prospect of a wider Mideast peace was almost at hand"
+        }
+      ],
+      "resources": [
+        {
+          "item": "Funding and military aid from Iran",
+          "quote": "Iran has always been Hamas’ single largest sponsor, providing 70% of the financing for Hamas including upwards of $100 million in military aid every year"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Israel",
+    "description": "A country and parliamentary democracy in the Middle East. Fought against Hamas in the described conflict",
+    "mentions": 37,
+    "wikipedia": {
+      "id": "9282173",
+      "name": "Israel",
+      "extract": "Israel (; Hebrew: יִשְׂרָאֵל Yisrāʾēl [jisʁaˈʔel]; Arabic: إِسْرَائِيل ʾIsrāʾīl), officially the State of Israel (מְדִינַת יִשְׂרָאֵל Medīnat Yisrāʾēl [mediˈnat jisʁaˈʔel]; دَوْلَة إِسْرَائِيل Dawlat Isrāʾīl), is a country in West Asia. It is bordered by Lebanon to the north, by Syria to the northeast, by Jordan to the east, by the Red Sea to the south, by Egypt to the southwest, by the Mediterranean Sea to the west, and by the Palestinian territories –  the West Bank along the east and the Gaza Strip along the southwest. Tel Aviv is the financial, economic, and technological center of the country, while its seat of government is in its proclaimed capital of Jerusalem, although Israeli sovereignty over both  West and East Jerusalem is unrecognized internationally.Israel is located in the Southern Levant, a region known historically as Canaan, the Land of Israel, Palestine and the Holy Land. In antiquity, it was home to several Israelite and Jewish kingdoms, including Israel and Judah and Hasmonean Judea. Over the ages, the region was ruled by imperial powers such as the Assyrians, Babylonians, Persians, Greeks, and Romans. During Roman rule, Jews became a minority in Palestine. The region later came under Byzantine and Arab rule. In the medieval period, it was part of the Islamic caliphates, the Crusader Kingdom of Jerusalem, and the Ottoman Empire. The late 19th century saw the rise of Zionism, a movement advocating for the establishment of a Jewish homeland, during which the Jewish people began purchasing land in Palestine. Under the British Mandate by the League of Nations after World War I, Jewish immigration to the region increased considerably, leading to tensions between Jews and the Arab majority population. The UN-approved 1947 partition plan triggered a civil war between these two peoples. The British terminated the Mandate on 14 May 1948, and Israel declared independence on the same day.\nOn 15 May 1948, the armies of five neighboring Arab states began entering the area of the former Mandatory Palestine, starting the First Arab–Israeli War. An armistice in 1949 left Israel in control of more territory than the U.N. partition plan had called for; and no new independent Arab state was created as the rest of the former Mandate territory were held by Egypt and Jordan, respectively the Gaza Strip and the West Bank. The conflict resulted in the expulsion or flight of over 700,000 Palestinian Arabs from Israeli territory to neighboring countries, leaving fewer than 150,000 within the Green Line. The number of Jews who emigrated, fled, or were expelled from the Arab world to Israel was around 260,000 during and immediately after the war, reaching approximately 650,000 over the subsequent two decades. The 1967 Six-Day War resulted in the Israeli occupation of the Palestinian territories of the West Bank and Gaza Strip, along with the Egyptian Sinai Peninsula and the Syrian Golan Heights. Israel has since effectively annexed both East Jerusalem and the Golan Heights, and has established settlements across the occupied territories, actions which were rejected as illegal under international law. Since the 1973 Yom Kippur War, Israel has signed peace treaties with Egypt, returning the Sinai Peninsula, and with Jordan, and more recently normalized relations with several Arab countries, though efforts to resolve the Israeli–Palestinian conflict have not succeeded. Israel's practices, in the longest military occupation in modern history, have drawn international condemnation for violating the human rights of the Palestinians.The country has a parliamentary system elected by means of proportional representation. The prime minister serves as head of government, and is elected by the Knesset, Israel's unicameral legislature. Israel is a developed country and an OECD member. It has the highest standards of living in the Middle East, and is one of the most advanced and technological countries, with a population of nearly 10 million people, as of 2023. It has the world's 29th-largest economy by nominal GDP and 18th by nominal GDP per capita.",
+      "description": "Israel, officially known as the State of Israel, is a country in West Asia bordered by Lebanon, Syria, Jordan, the Red Sea, Egypt, and the Mediterranean Sea, recognized for its high standards of living and its status as one of the most technologically advanced countries in the Middle East."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Neutralizing Hamas' ability to carry out terrorist attacks",
+          "quote": "As Israel focuses on neutralizing Hamas’ ability to carry out terrorist attacks, there will be elevated scrutiny on Iran from the international community in the days ahead."
+        },
+        {
+          "item": "Winning the war against Hamas",
+          "quote": "Hamas started this war, and now Israel has to win it."
+        },
+        {
+          "item": "Restoring deterrence",
+          "quote": "require Israelis to prove they are much stronger than Hamas and any Palestinian factions."
+        },
+        {
+          "item": "Forging a historic peace with Saudi Arabia",
+          "quote": "Netanyahu similarly stated that he was confident of forging “a historic peace” between his country and Saudi Arabia."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Peace and regional transformation",
+          "quote": "But by sabotaging imminent peace, Hamas sadly derails the transformation of the region which had started with the Abraham Accords."
+        },
+        {
+          "item": "Economic and security revitalization",
+          "quote": "the Palestinian people, who will lose out on the promise of economic and security revitalization that just days ago seemed so possible."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "All-out war declaration",
+          "quote": "the results that prompted Israel to declare all-out war included massacres of hundreds of innocent civilians of all ages."
+        },
+        {
+          "item": "Long and challenging conflict preparation",
+          "quote": "Prime Minister Netanyahu is already declaring that Israel is prepared for a “long and challenging” conflict."
+        },
+        {
+          "item": "Showing overwhelming force",
+          "quote": "To “restore deterrence,” and to prove Israel’s overwhelming force would require a lot of destruction within the Gaza Strip."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Achieving a peace deal with Saudi Arabia",
+          "quote": "This time, by all accounts, Israel, Saudi Arabia, and the United States were inching closer towards a transformative three-way deal."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Sabotage of peace plans and increased hostility",
+          "quote": "But by sabotaging imminent peace, Hamas sadly derails the transformation of the region which had started with the Abraham Accords."
+        },
+        {
+          "item": "Massive unprovoked attacks by Hamas",
+          "quote": "The radical Palestinians of Hamas... managed to carry out an unprecedented and unprovoked attack by land, sea, and air—."
+        },
+        {
+          "item": "Normalization of diplomatic relations derails",
+          "quote": "Clearly that was the intent by Hamas; and indeed it now appears very unlikely there will be any near-term normalization of diplomatic relations as was expected."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Surprise attacks by Hamas",
+          "quote": "Exactly 50 years ago... Now we see Israel taken by surprise once again."
+        },
+        {
+          "item": "Loss of legitimacy and regional disruption by Iran through Hamas",
+          "quote": "Iran needed this conflict very badly, as the hardline regime has been facing its fair share of domestic challenges... and its survival depends to a large degree on symbiotic relationships with other extremists who will do Iran’s bidding."
+        },
+        {
+          "item": "Underestimation of Hamas' capabilities",
+          "quote": "The IDF evidently did not believe this kind of attack was even possible."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Defense assistance from the U.S.",
+          "quote": "The U.S. provides over $3 billion in defense assistance to Israel annually."
+        },
+        {
+          "item": "Advanced arms industry and storehouses",
+          "quote": "Israel’s arms industry and storehouses are more advanced today and much larger."
+        },
+        {
+          "item": "Iron Dome missile-defense system",
+          "quote": "but they were relying on the Iron Dome missile-defense system to protect them."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Saudi Arabia",
+    "description": "An Arab sovereign state in Western Asia constituting the majority of the Arabian Peninsula",
+    "mentions": 7,
+    "wikipedia": {
+      "id": "349303",
+      "name": "Saudi Arabia",
+      "extract": "Saudi Arabia, officially the Kingdom of Saudi Arabia (KSA), is a country in West Asia. It covers the bulk of the Arabian Peninsula and has a land area of about 2150000 km2 (830000 sq mi), making it the fifth-largest country in Asia and the largest in the Middle East. It is bordered by the Red Sea to the west; Jordan, Iraq, and Kuwait to the north; the Persian Gulf, Qatar and the United Arab Emirates to the east; Oman to the southeast; and Yemen to the south. Bahrain is an island country off its east coast. The Gulf of Aqaba in the northwest separates Saudi Arabia from Egypt and Israel. Saudi Arabia is the only country with a coastline along both the Red Sea and the Persian Gulf, and most of its terrain consists of arid desert, lowland, steppe, and mountains. Saudi Arabia's capital and largest city is Riyadh; the kingdom also is the location of Islam's two holiest cities of Mecca and Medina.\nPre-Islamic Arabia, the territory that constitutes modern-day Saudi Arabia, was the site of several ancient cultures and civilizations; the prehistory of Saudi Arabia shows some of the earliest traces of human activity outside Africa. The world's second-largest religion, Islam, emerged in what is now Saudi Arabia. In the early 7th century, the Islamic prophet Muhammad united the population of the Arabian Peninsula and created a single Islamic religious polity. Following his death in 632, his followers rapidly expanded the territory under Muslim rule beyond Arabia, conquering huge and unprecedented swathes of territory (from the Iberian Peninsula in the west to parts of Central and South Asia in the east) in a matter of decades. Arab dynasties originating from modern-day Saudi Arabia founded the Rashidun (632–661), Umayyad (661–750), Abbasid (750–1517), and Fatimid (909–1171) caliphates, as well as numerous other dynasties in Asia, Africa, and Europe.\nThe area of modern-day Saudi Arabia formerly consisted of mainly four distinct historical regions: Hejaz, Najd, and parts of Eastern Arabia (Al-Ahsa) and South Arabia ('Asir). The Kingdom of Saudi Arabia was founded in 1932 by King Abdulaziz (known as Ibn Saud in the West). He united the four regions into a single state through a series of conquests beginning in 1902 with the capture of Riyadh, the ancestral home of his family, the House of Saud. Saudi Arabia has since been an absolute monarchy, where political decisions are made on the basis of consultation among the King, the Council of Ministers, and the country's traditional elites that oversee a highly authoritarian regime. The ultraconservative Wahhabi religious movement within Sunni Islam was described as a \"predominant feature of Saudi culture\" until the 2000s. In 2016, the Saudi Arabian government curtailed the influence of the Wahhabi religious establishment and restricted the activities of the morality police, launching the economic programme of Saudi Vision 2030 in an attempt to revive social development and build a more effective society. In its Basic Law, Saudi Arabia defines itself as a sovereign Arab Islamic state with Islam as its official religion and Arabic as its official language.\nPetroleum was discovered in 1938 and followed up by several other finds in the Eastern Province. Saudi Arabia has since become the world's third-largest oil producer and largest oil exporter, controlling the world's second-largest oil reserves and the sixth-largest gas reserves. The kingdom is categorized as a World Bank high-income economy and is the only Arab country to be part of the G20 major economies. The state has attracted criticism for issues including its role in the Yemeni Civil War, alleged sponsorship of Islamic terrorism and its poor human rights record, including the excessive and often extrajudicial use of capital punishment.Saudi Arabia is considered both a regional and middle power. The Saudi economy is the largest in the Middle East; the world's eighteenth-largest economy by nominal GDP and the seventeenth largest by PPP. As a country with a very high Human Development Index, it offers a tuition-free university education, no personal income tax, and a free universal health care system. With its dependency on foreign labour, Saudi Arabia is home to the world's third-largest immigrant population. It also has one of the world's youngest populations, with approximately 50% of its population of 32.2 million being under 25 years old. In addition to being a member of the Gulf Cooperation Council, Saudi Arabia is an active and founding member of the United Nations, Organisation of Islamic Cooperation, Arab League, Arab Air Carriers' Organization and OPEC. Saudi Arabia is a dialogue partner of the Shanghai Cooperation Organisation.",
+      "description": "Saudi Arabia is a country in West Asia, known as the birthplace of Islam, with its capital and largest city as Riyadh and is home to the two holiest cities of Mecca and Medina. It has the world's third-largest oil reserves and is the only Arab country to be part of the G20 major economies, despite criticisms for its role in various conflict regions and its human rights record."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Achieving a wider Mideast peace through an impending deal with Israel",
+          "quote": "Rather, the trigger to the attack was likely that the prospect of a wider Mideast peace was almost at hand through an impending deal between Israel and Saudi Arabia."
+        },
+        {
+          "item": "Formal recognition and an economic partnership with Israel",
+          "quote": "Israel, Saudi Arabia, and the United States were inching closer towards a transformative three-way deal, which would have seen Israel and Saudi formally recognize each other within a security, defense, and economic partnership with the U.S."
+        },
+        {
+          "item": "Fostering 'a historic peace' between Saudi Arabia and Israel",
+          "quote": "Netanyahu similarly stated that he was confident of forging “a historic peace” between his country and Saudi Arabia."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Preventing Iran from gaining more influence",
+          "quote": "However, privately, Saudi leaders are likely celebrating the reality that Iran will face increased global rejection for funding Hamas, and that the U.S. especially, and Israel, will be even more motivated and mobilized to engage Iran as their single largest regional threat."
+        },
+        {
+          "item": "Positioning against Iran as a common security threat",
+          "quote": "It is possible that the prospects for diplomatic normalization in the longer term remain promising, as Iran remains the single largest common security threat in the region and Israel and Saudi are clearly stronger standing together against Iran than individually."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Continuing progress towards normalization with Israel",
+          "quote": "It is possible that the prospects for diplomatic normalization in the longer term remain promising."
+        },
+        {
+          "item": "Further motivation and engagement to counter Iran",
+          "quote": "However, privately, Saudi leaders are likely celebrating...that the U.S. especially, and Israel, will be even more motivated and mobilized to engage Iran as their single largest regional threat."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Completing the transformative deal with Israel and the US",
+          "quote": "Israel, Saudi Arabia, and the United States were inching closer towards a transformative three-way deal, which would have seen Israel and Saudi formally recognize each other within a security, defense, and economic partnership with the U.S."
+        },
+        {
+          "item": "Global rejection of Iran due to its association with Hamas",
+          "quote": "However, privately, Saudi leaders are likely celebrating the reality that Iran will face increased global rejection for funding Hamas."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Sabotage of peace efforts by Hamas, delaying normalization with Israel",
+          "quote": "Saturday’s invasion of Israel by Hamas seems to derail that in the near term, just as Hamas intended."
+        },
+        {
+          "item": "Increased Iranian influence and a stronger regional stance against Saudi interests",
+          "quote": "It is possible that the prospects for diplomatic normalization in the longer term remain promising, as Iran remains the single largest common security threat in the region."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Public inability to support normalization with Israel during Palestinian crisis",
+          "quote": "When there is a major Palestinian crisis, it becomes impossible for the leadership of Saudi Arabia to publicly break ranks from the Islamic and Arabic camp."
+        },
+        {
+          "item": "Losing momentum for economic and security revitalization for the Palestinians and by extension, the region",
+          "quote": "But by sabotaging imminent peace, Hamas sadly derails the transformation of the region which had started with the Abraham Accords."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Potential united stance with Israel against Iran",
+          "quote": "Israel and Saudi are clearly stronger standing together against Iran than individually."
+        },
+        {
+          "item": "Private sector economic contributions",
+          "quote": "By generating jobs, income opportunities and filling gaps in delivering basic services, the private sector can help build momentum behind a fragile economy and instill hope in the people of the region."
+        }
+      ]
+    }
+  },
+  {
+    "name": "United States",
+    "description": "A country in the North America. It is known for standing behind Israel in their conflicts",
+    "mentions": 10,
+    "wikipedia": {
+      "id": "3434750",
+      "name": "United States",
+      "extract": "The United States of America (USA), commonly known as the United States (US) or simply America, is a country primarily located in North America and consisting of 50 states, a federal district, five major unincorporated territories, and nine Minor Outlying Islands. It includes 326 Indian reservations. It is the world's third-largest country by both land and total area. It shares land borders with Canada to its north and with Mexico to its south and has maritime borders with the Bahamas, Cuba, Russia, and other nations. With a population of over 333 million, it is the most populous country in the Americas and the third-most populous in the world. The national capital of the United States is Washington, D.C., and its most populous city and principal financial center is New York City.\nIndigenous peoples have inhabited the Americas for thousands of years. Beginning in 1607, British colonization led to the establishment of the Thirteen Colonies in what is now the Eastern United States. They clashed with the British Crown over taxation and political representation, which led to the American Revolution and the ensuing Revolutionary War. The United States declared independence on July 4, 1776, becoming the first nation-state founded on Enlightenment principles of unalienable natural rights, consent of the governed, and liberal democracy. The country began expanding across North America, spanning the continent by 1848. Sectional division over slavery led to the secession of the Confederate States of America, which fought the remaining states of the Union during the American Civil War (1861–1865). With the Union's victory and preservation, slavery was abolished nationally. By 1900, the United States had established itself as a great power, becoming the world's largest economy. After Japan's attack on Pearl Harbor in 1941, the US entered World War II on the side of the Allies. The aftermath of the war left the United States and the Soviet Union as the world's two superpowers and led to the Cold War, during which both countries engaged in a struggle for ideological dominance and international influence but avoided direct military conflict. Their Space Race culminated in the 1969 landing of Apollo 11 on the Moon, the first of NASA's six crewed lunar landings. With the Soviet Union's collapse and the subsequent end of the Cold War in 1991, the United States emerged as the world's sole superpower.\nThe United States government is a federal presidential constitutional republic and liberal democracy with three separate branches of government: executive, legislative, and judicial. It has a bicameral national legislature composed of the House of Representatives, a lower house based on population; and the Senate, an upper house based on equal representation for each state. Many policy issues are decentralized at a state or local level, with widely differing laws by jurisdiction which may not conflict with the Constitution. The US ranks very highly in international measures of quality of life, income and wealth, economic competitiveness, human rights, innovation, and education; it has low levels of perceived corruption. It has higher levels of incarceration and inequality than most other liberal democracies and is the only liberal democracy without universal healthcare. As a melting pot of cultures and ethnicities, the US has been extensively shaped by the world's largest immigrant population.\nHighly developed, the US has by far the largest amount of wealth of any country. The American economy accounts for approximately a quarter of global GDP and is the world's largest by nominal GDP. The US is the world's largest importer and second-largest exporter, as well as the largest consumer market. It is a founding member of the United Nations, the World Bank, the International Monetary Fund, the Organization of American States, NATO and WHO, and is a permanent member of the United Nations Security Council. It is the world's foremost political, cultural, economic, military, and scientific power.",
+      "description": "The United States of America, commonly known as the United States, is a North American country consisting of 50 states and is recognized internationally for its political, cultural, economic and military influence; it's known as the world's third-largest country by land and population, hosting the world's largest economy and being a key player in various global organizations."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Support Israel",
+          "quote": "President Biden and leading U.S. Republican voices alike are vowing to stand strongly behind Israel."
+        },
+        {
+          "item": "Promote Middle-East Peace",
+          "quote": "This time, by all accounts, Israel, Saudi Arabia, and the United States were inching closer towards a transformative three-way deal, which would have seen Israel and Saudi formally recognize each other within a security, defense, and economic partnership with the U.S."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Ensuring Israel's Security",
+          "quote": "President Biden and GOP leaders are expressing total, bipartisan support for Israel and endorsing Israel’s right to respond—what Israel calls “restoring deterrence,"
+        },
+        {
+          "item": "Countering Iran as a regional threat",
+          "quote": "However, privately, Saudi leaders are likely celebrating the reality that Iran will face increased global rejection for funding Hamas, and that the U.S. especially, and Israel, will be even more motivated and mobilized to engage Iran as their single largest regional threat."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Increase defense support for Israel",
+          "quote": "The U.S. provides over $3 billion in defense assistance to Israel annually, with Israel the single largest recipient, and that number could conceivably increase—because otherwise, any regional vacuum left by the U.S. will clearly be filled by a stronger Iran, and potentially by China and Russia."
+        },
+        {
+          "item": "Increase scrutiny and pressure on Iran",
+          "quote": "As Israel focuses on neutralizing Hamas’ ability to carry out terrorist attacks, there will be elevated scrutiny on Iran from the international community in the days ahead; and Iran will likely come under increasing pressure, especially through the potential withholding of the sanctions relief that Iran so desperately needs."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Restoring deterrence for Israel",
+          "quote": "An immediate bipartisan consensus appeared, supporting Israel in whatever response it chooses, with some voices calling for the full-scale destruction of Hamas."
+        },
+        {
+          "item": "Long-term normalization between Israel and Saudi",
+          "quote": "It is possible that the prospects for diplomatic normalization in the longer term remain promising, as Iran remains the single largest common security threat in the region and Israel and Saudi are clearly stronger standing together against Iran than individually."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Normalization of relations disrupted",
+          "quote": "Saturday’s invasion of Israel by Hamas seems to derail that in the near term, just as Hamas intended."
+        },
+        {
+          "item": "Increased Iranian influence and aggression",
+          "quote": "any regional vacuum left by the U.S. will clearly be filled by a stronger Iran, and potentially by China and Russia"
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Risks of decreased support for Israel's security",
+          "quote": "Let us hope the U.S. does not make the same mistake of panicky hesitation in supporting Israel’s security—and that agenda begins now with neutralizing the brutal terrorist dangers of Hamas."
+        },
+        {
+          "item": "Uncontrolled escalation due to Hamas' actions",
+          "quote": "if Hamas and Iran are not sufficiently punished for this round of violence, there are likely only larger provocations ahead."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Defense assistance to Israel",
+          "quote": "The U.S. provides over $3 billion in defense assistance to Israel annually, with Israel the single largest recipient."
+        },
+        {
+          "item": "Bipartisan political support",
+          "quote": "President Biden and GOP leaders are expressing total, bipartisan support for Israel and endorsing Israel’s right to respond—what Israel calls “restoring deterrence,"
+        }
+      ]
+    }
+  },
+  {
+    "name": "President Biden",
+    "description": "The 46th and current president of the United States",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "145422",
+      "name": "Joe Biden",
+      "extract": "Joseph Robinette Biden Jr. (  BY-dən; born November 20, 1942) is an American politician who is the 46th and current president of the United States. Ideologically a moderate member of the Democratic Party, he previously served as the 47th vice president from 2009 to 2017 under President Barack Obama and represented Delaware in the United States Senate from 1973 to 2009.\nBorn in Scranton, Pennsylvania, Biden moved with his family to Delaware in 1953. He studied at the University of Delaware before earning his law degree from Syracuse University. He was elected to the New Castle County Council in 1970 and to the U.S. Senate in 1972. As a senator, Biden drafted and led the effort to pass the Violent Crime Control and Law Enforcement Act and the Violence Against Women Act. He also oversaw six U.S. Supreme Court confirmation hearings, including the contentious hearings for Robert Bork and Clarence Thomas. Biden ran unsuccessfully for the Democratic presidential nomination in 1988 and 2008. In 2008, Obama chose Biden as his running mate, and Biden was a close counselor to Obama during his two terms as vice president. In the 2020 presidential election, Biden and his running mate, Kamala Harris, defeated incumbents Donald Trump and Mike Pence. Biden is the second Catholic president in U.S. history (after John F. Kennedy), and his politics have been widely described as profoundly influenced by Catholic social teaching.\nTaking office at age 78, Biden is the oldest president in U.S. history, the first to have a female vice president, and the first from Delaware. In 2021, he signed a bipartisan infrastructure bill, as well as a $1.9 trillion economic stimulus package in response to the COVID-19 pandemic and its related recession. Biden proposed the Build Back Better Act, which failed in Congress, but aspects of which were incorporated into the Inflation Reduction Act that was signed into law in 2022. Biden also signed the bipartisan CHIPS and Science Act, which focused on manufacturing, appointed Ketanji Brown Jackson to the Supreme Court and worked with congressional Republicans to prevent a first ever national default by negotiating a deal to raise the debt ceiling. In foreign policy, Biden restored America's membership in the Paris Agreement. He oversaw the complete withdrawal of U.S. troops from Afghanistan that ended the war in Afghanistan, during which the Afghan government collapsed and the Taliban seized control. Biden has responded to the Russian invasion of Ukraine by imposing sanctions on Russia and authorizing civilian and military aid to Ukraine. During the 2023 Israel–Hamas war, Biden announced American military support for Israel, and condemned the actions of Hamas and other Palestinian militants as terrorism. In April 2023, he announced his candidacy for the Democratic Party nomination in the 2024 presidential election.",
+      "description": "Joseph Robinette Biden Jr., born in 1942, is an American politician serving as the 46th and current president of the United States, known for his moderate stance within the Democratic Party, previous service as the 47th vice president under President Barack Obama, and representing Delaware in the US Senate from 1973 to 2009."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [
+        {
+          "item": "Expressing total, bipartisan support for Israel",
+          "quote": "President Biden and GOP leaders are expressing total, bipartisan support for Israel and endorsing Israel’s right to respond—what Israel calls “restoring deterrence,"
+        },
+        {
+          "item": "Applying pressure on Iran",
+          "quote": "privately, Saudi leaders are likely celebrating the reality that Iran will face increased global rejection for funding Hamas, and that the U.S. especially, and Israel, will be even more motivated and mobilized to engage Iran as their single largest regional threat."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Successful Israel and Saudi Arabia peace deal",
+          "quote": "this time, by all accounts, Israel, Saudi Arabia, and the United States were inching closer towards a transformative three-way deal,"
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Normalization of diplomatic relations between Israel and Saudi Arabia jeopardized",
+          "quote": "Clearly that was the intent by Hamas; and indeed it now appears very unlikely there will be any near-term normalization of diplomatic relations as was expected."
+        },
+        {
+          "item": "Iran facing fewer global consequences",
+          "quote": "However, privately, Saudi leaders are likely celebrating the reality that Iran will face increased global rejection for funding Hamas,"
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Regional vacuum filled by stronger Iran, China, or Russia",
+          "quote": "The U.S. provides over $3 billion in defense assistance to Israel annually, with Israel the single largest recipient, and that number could conceivably increase—because otherwise, any regional vacuum left by the U.S. will clearly be filled by a stronger Iran, and potentially by China and Russia,"
+        }
+      ],
+      "resources": [
+        {
+          "item": "Bipartisan consensus in support of Israel",
+          "quote": "An immediate bipartisan consensus appeared, supporting Israel in whatever response it chooses, with some voices calling for the full-scale destruction of Hamas."
+        },
+        {
+          "item": "$3 billion in defense assistance to Israel annually",
+          "quote": "The U.S. provides over $3 billion in defense assistance to Israel annually, with Israel the single largest recipient,"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Benjamin Netanyahu",
+    "description": "Israeli politician; Prime minister of Israel at the time of the document",
+    "mentions": 3,
+    "wikipedia": {
+      "id": "56472",
+      "name": "Benjamin Netanyahu",
+      "extract": "Benjamin \"Bibi\" Netanyahu ( NET-ən-YAH-hoo; Hebrew: בִּנְיָמִין נְתַנְיָהוּ, romanized: Binyāmīn Nētanyāhū, pronounced [binjaˈmin netanˈjahu] ; born 21 October 1949) is an Israeli politician who has been serving as the prime minister of Israel since December 2022, having previously held the office from 1996 to 1999 and again from 2009 to 2021. He is the chairman of the Likud party. Netanyahu is the longest-tenured prime minister in the country's history, having served for a total of over 16 years. He is also the first prime minister to have been born in Israel after its Declaration of Independence.Born in Tel Aviv to secular Jewish parents, Netanyahu was raised in Jerusalem and in Philadelphia in the United States. He returned to Israel in 1967 to join the Israel Defense Forces. He became a team leader in the Sayeret Matkal special forces and took part in several missions, achieving the rank of captain before being honorably discharged. After graduating from the Massachusetts Institute of Technology, Netanyahu became an economic consultant for the Boston Consulting Group. He moved back to Israel in 1978 to found the Yonatan Netanyahu Anti-Terror Institute. From 1984 to 1988, Netanyahu was Permanent Representative of Israel to the United Nations. Netanyahu rose to prominence after being elected as the chairman of Likud in 1993, becoming Leader of the Opposition. In the 1996 election, Netanyahu beat Shimon Peres, becoming the first Israeli prime minister elected directly by popular vote, and its youngest-ever. Netanyahu and Likud were heavily defeated in the 1999 election by Ehud Barak's One Israel alliance; and Netanyahu chose to retire from politics entirely, entering the private sector. Netanyahu later returned to politics, and served as Minister of Foreign Affairs and Minister of Finance under Ariel Sharon. During the latter position, he initiated reforms of the Israeli economy that led to significant growth, before ultimately resigning over disagreements regarding the Gaza disengagement plan.\nNetanyahu returned to the leadership of Likud in December 2005 after Sharon stepped down to form a new party, Kadima. He was the Leader of the Opposition from 2006 to 2009. After the 2009 election, Netanyahu formed a coalition government with other right-wing parties and was sworn in as prime minister for a second time. He went on to lead Likud to victory in the 2013 and 2015 elections. A period of political deadlock ensued after three consecutive elections in 2019 and 2020 failed to produce a government, which was solved after a coalition rotation agreement was reached between Netanyahu and centrist Blue and White alliance's Benny Gantz. The coalition collapsed In December 2020, before the rotation could take place, and a new election was held in March 2021. In his penultimate government, Netanyahu led Israel's response to the COVID-19 pandemic and the 2021 Israel–Palestine crisis. In June 2021, after Naftali Bennett formed a government with Yair Lapid, Netanyahu was removed from the premiership, becoming opposition leader for the third time, before returning as Prime Minister again after forming a coalition with right-wing parties after the 2022 election. Netanyahu and his government coalition partners pursued wide-ranging judicial reform. The judicial reform efforts were met with polarized reaction, with opponents of the judicial reform holding mass protests across the country over the course of many months. On 7 October 2023, Israel suffered a deadly attack by Hamas, triggering the 2023 Israel–Hamas war. Due to the Israeli government's failure to anticipate this attack, Netanyahu has been criticized by opponents for presiding over Israel's biggest intelligence failure in 50 years.Netanyahu made his closeness to Donald Trump, a personal friend since the 1980s, central to his political appeal in Israel from 2016. During Trump's presidency, the United States recognized Jerusalem as the capital of Israel, recognized Israeli sovereignty over the Golan Heights, and brokered the Abraham Accords, a series of normalization agreements between Israel and various Arab states. Netanyahu has faced international criticism over his decades-long policy as prime minister of expanding Israeli settlements in the occupied West Bank, deemed illegal under international law. In 2019, Netanyahu was indicted on charges of breach of trust, bribery and fraud, following a three year investigation, due to which he relinquished all his ministry posts other than the prime minister position.",
+      "description": "Benjamin Netanyahu is an Israeli politician who has multiple times served as the prime minister of Israel and is the longest-tenured prime minister in the country's history, with a political career marked by various positions including being the Permanent Representative of Israel to the United Nations and initiating significant economic reforms."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Forging a historic peace between Israel and Saudi Arabia",
+          "quote": "Netanyahu similarly stated that he was confident of forging 'a historic peace' between his country and Saudi Arabia, with Israeli cabinet ministers already landing in Riyadh to 'nurture blossoming ties.'"
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Achievement of regional transformation through the Abraham Accords",
+          "quote": "But by sabotaging imminent peace, Hamas sadly derails the transformation of the region which had started with the Abraham Accords shepherded by Jared Kushner, which the first author helped advise and participated in."
+        },
+        {
+          "item": "Security and economic revitalization for the Palestinian people",
+          "quote": "the Palestinian people, who will lose out on the promise of economic and security revitalization that just days ago seemed so possible."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Restoring deterrence through conflict with Hamas",
+          "quote": "President Biden and GOP leaders... endorsing Israel’s right to respond—what Israel calls 'restoring deterrence,' which requires Israelis to prove they are much stronger than Hamas and any Palestinian factions."
+        },
+        {
+          "item": "Full-scale destruction of Hamas",
+          "quote": "An immediate bipartisan consensus appeared, supporting Israel in whatever response it chooses, with some voices calling for the full-scale destruction of Hamas."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Normalization of diplomatic relations with Saudi Arabia",
+          "quote": "It is possible that the prospects for diplomatic normalization in the longer term remain promising, as Iran remains the single largest common security threat in the region and Israel and Saudi are clearly stronger standing together against Iran than individually."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Jeopardization of normalization of diplomatic relations between Saudi and Israel due to Hamas invasion",
+          "quote": "Clearly that was the intent by Hamas; and indeed it now appears very unlikely there will be any near-term normalization of diplomatic relations as was expected."
+        },
+        {
+          "item": "Continuation of distraction by internal judicial changes and settler tensions",
+          "quote": "Israel was clearly dangerously distracted by internal judicial changes threatening its government’s balance of power... all this taking Israel’s attention away from the dangers posed by Hamas in Gaza."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Sabotage of the peace prospects",
+          "quote": "the trigger to the attack was likely that the prospect of a wider Mideast peace was almost at hand through an impending deal between Israel and Saudi Arabia."
+        },
+        {
+          "item": "Iranian and Hamas influence",
+          "quote": "Hamas and Iran intending to sabotage the potential normalization of relations between Israel and Saudi Arabia."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Bipartisan support from the U.S.",
+          "quote": "President Biden and GOP leaders are expressing total, bipartisan support for Israel and endorsing Israel’s right to respond."
+        },
+        {
+          "item": "Advanced arms industry and large munitions storehouses",
+          "quote": "Compared with the Yom Kippur War in 1973... Israel’s arms industry and storehouses are more advanced today and much larger."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Iran",
+    "description": "An Islamic republic in Western Asia. Known to support Hamas",
+    "mentions": 5,
+    "wikipedia": {
+      "id": "14653",
+      "name": "Iran",
+      "extract": "Iran, also known as Persia and officially the Islamic Republic of Iran (IRI), is a country in West Asia (Near Europe). It is bordered by Iraq to the west and Turkey to the northwest, Azerbaijan, Armenia, the Caspian Sea and Turkmenistan to the north, Afghanistan to the east, Pakistan to the southeast, the Gulf of Oman and the Persian Gulf to the south. It covers an area of 1.64 million square kilometers (0.63 million square miles), making it the 17th-largest country only behind Libya. With an estimated population of around 87 million as of 2023, Iran is the world's 17th-most populous country, and the second largest country in the Middle East. Its capital and largest city is Tehran with around 16 million people in its metropolitan area.\nIran is home to one of the world's oldest civilizations, beginning with the formation of the Elamite kingdoms in the fourth millennium BC. It was first unified by the Medes in the seventh century BC and reached its territorial height in the sixth century BC, when Cyrus the Great founded the Achaemenid Empire. Alexander the Great conquered the empire in the fourth century BC and it was subsequently divided into several Hellenistic states. An Iranian rebellion established the Parthian Empire in the third century BC, which was succeeded in the third century AD by the Sasanian Empire. Arab Muslims conquered the empire in the seventh century AD, leading to its Islamization; Iran thereafter became a major center of Islamic culture and learning. Over the next two centuries, a series of native Iranian Muslim dynasties emerged before the Seljuk Turks and the Mongols conquered the region. In the 16th century, the native Safavids re-established a unified Iranian state. Under the reign of Nader Shah in the 18th century, Iran presided over the most powerful military in the world, though by the 19th century, a series of conflicts with the Russian Empire led to significant territorial losses. The early 20th century saw the Persian Constitutional Revolution. Efforts to nationalize its fossil fuel supply led to an Anglo-American coup in 1953. After the Iranian Revolution, the current Islamic Republic was established in 1979 by Ruhollah Khomeini, who became the country's first supreme leader.\nThe government of Iran is an Islamic theocracy with a presidential system, though ultimate authority is vested in an autocratic \"Supreme Leader\"; the position has been held by Ali Khamenei since Ayatollah Khomeini's death in 1989. Iranian government is authoritarian, and has attracted widespread criticism for its significant constraints and violations of human rights and civil liberties. It is also a focal point for Shia Islam within the Middle East. Since the Iranian Revolution, the country is widely considered to be the most determined adversary of Israel and Saudi Arabia. Iran is also considered to be one of the biggest players within Middle Eastern affairs, with its government being involved both directly and indirectly in the majority of modern Middle Eastern conflicts. Its aggressive foreign policy in the region, marked by sponsorship of numerous Khomeinist militant groups, has been widely condemned.\nIran is a regional and middle power and occupies a strategic location in the Asian continent. It is a founding member of the United Nations, the ECO, the OIC, and the OPEC. It is expected to join BRICS on 1 January 2024. It has large reserves of fossil fuels—including the second largest natural gas supply and the third-largest proven oil reserves. The country's rich cultural legacy is reflected in part by its 26 UNESCO World Heritage Sites. Historically a multi-ethnic country, Iran remains a pluralistic society comprising numerous ethnic, linguistic, and religious groups, with the largest of these being the Persians, Azeris, Kurds, Mazanderanis, and Lurs.",
+      "description": "Iran, officially known as the Islamic Republic of Iran, is a West Asian country with Tehran as its capital, rich in history with one of the world's oldest civilizations and currently a significant player in Middle Eastern affairs, with significant fossil fuel reserves and diverse cultural heritage."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Increase global rejection for funding Hamas",
+          "quote": "However, privately, Saudi leaders are likely celebrating the reality that Iran will face increased global rejection for funding Hamas..."
+        },
+        {
+          "item": "More motivated and mobilized engagement with Iran as regional threat",
+          "quote": "...the U.S. especially, and Israel, will be even more motivated and mobilized to engage Iran as their single largest regional threat."
+        },
+        {
+          "item": "Maintain regional power through supporting extremists",
+          "quote": "Iran needed this conflict very badly... and its survival depends to a large degree on symbiotic relationships with other extremists who will do Iran’s bidding."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Maintaining Iran's voice in Islamic World",
+          "quote": "The prospect of Saudi recognition of Israeli sovereignty...would have undercut Iran’s voice in the Islamic world while uniting two of Iran’s foes."
+        },
+        {
+          "item": "Responding to domestic challenges and loss of legitimacy",
+          "quote": "Iran needed this conflict very badly, as the hardline regime has been facing its fair share of domestic challenges, especially since the killing of Mahsa Amini last year."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Increase pressure on Iran, particularly through sanctions",
+          "quote": "...Iran will likely come under increasing pressure, especially through the potential withholding of the sanctions relief that Iran so desperately needs."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Long-term prospects for diplomatic normalization due to common threats",
+          "quote": "It is possible that the prospects for diplomatic normalization in the longer term remain promising, as Iran remains the single largest common security threat in the region..."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Global rejection and increased motivation to engage Iran",
+          "quote": "However, privately, Saudi leaders are likely celebrating the reality that Iran will face increased global rejection for funding Hamas..."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Loss of legitimacy amidst domestic discontent",
+          "quote": "It has lost legitimacy in the eyes of many of its own people amidst domestic discontent, economic woes, and international isolation..."
+        },
+        {
+          "item": "Survival dependent on relationships with extremists",
+          "quote": "Its survival depends to a large degree on symbiotic relationships with other extremists who will do Iran’s bidding."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Hamas as a proxy funded by Iran",
+          "quote": "Iran has always been Hamas’ single largest sponsor, providing 70% of the financing for Hamas including upwards of $100 million in military aid every year..."
+        },
+        {
+          "item": "Iran's capacity for asymmetric warfare and training of militants",
+          "quote": "...in addition to military training and humanitarian assistance."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mohammed Bin Salman",
+    "description": "Crown Prince of Saudi Arabia as of the time of the document",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "38689358",
+      "name": "Mohammed bin Salman",
+      "extract": "Mohammed bin Salman Al Saud (Arabic: محمد بن سلمان آل سعود, romanized: Muḥammad bin Salmān ʾĀl Su‘ūd; born 31 August 1985), colloquially known by his initials MBS or MbS, is  Crown Prince and Prime Minister of Saudi Arabia. He also serves as the chairman of the Council of Economic and Development Affairs and the chairman of the Council of Political and Security Affairs. He is considered the de facto ruler of Saudi Arabia, being deemed as such even before his appointment as prime minister in 2022. He served as minister of defense from 2015 to 2022. He is the seventh son of King Salman. In 2018, he was ranked by Forbes as the eighth most powerful person in the world, with a personal wealth of at least $25 billion.Mohammed was born as the first child of Prince Salman bin Abdulaziz and his third wife, Fahda bint Falah Al Hithlain. After obtaining a law degree from King Saud University, he served as an advisor to his father. After Salman became king, he appointed Mohammed defense minister and deputy crown prince in 2015. Mohammed was promoted to crown prince in 2017 after the dismissal of Crown Prince Muhammad bin Nayef, King Salman's nephew. Salman ceded the position of prime minister to his son in 2022.\nMohammed rules an authoritarian government. There are no democratic institutions in Saudi Arabia, and repression is widespread. Islamic scholars, human rights activists, women's rights activists, journalists, former insiders, Islamists, and other political dissidents are systematically repressed through tactics including torture and jailing, and some reports have alleged that Mohammed uses a group known as the Tiger Squad to carry out extrajudicial killings. A CIA report released in 2021 implicated him of having orchestrated the assassination of Jamal Khashoggi, a Saudi Arabian Washington Post columnist and critic of Saudi government. Mohammed has denied involvement in the killing. Mohammed was the architect of Saudi Arabian-led intervention in Yemen which has exacerbated the humanitarian crisis and famine there. His government was also involved in the escalation of the Qatar diplomatic crisis, the 2017 detention of Lebanese prime minister Saad Hariri, a 2018 diplomatic spat with Canada, the arrest of Saudi princes and billionaires in 2017, the 2018–2019 Saudi crackdown on feminists, an alleged phone hack against Amazon chairman Jeff Bezos in 2019, and treason charges against his cousin and rival Muhammad bin Nayef in 2020. Saudi Arabia's relations with the Biden administration have been strained, especially after Mohammed's refusal to increase oil production in the wake of the 2022 Russian invasion of Ukraine.\nMohammed has touted reforms in an effort to improve his government's image. These include regulations restricting the powers of the religious police and improving women's rights, such as the removal of the ban on female drivers in 2018 and weakening the male-guardianship system in 2019. Other cultural developments under his reign include the first Saudi public concerts by a female singer, the first Saudi sports stadium to admit women, an increased presence of women in the workforce, and opening the country to international tourists by introducing an e-visa system, allowing foreign visas to be applied for and issued via the Internet. The Saudi Vision 2030 program aims to diversify the country's economy through investment in non-oil sectors including technology and tourism. Under Mohammed, Saudi Arabia started co-ordinating its energy policy with Russia since 2016, and also strengthened its relations with China, signing a comprehensive strategic partnership with Xi Jinping in 2022. In 2023, Saudi Arabia restored full diplomatic relations with Iran leading to a wider regional rapprochement, including negotiations for peace deal with Houthis, following talks mediated by China.\n\n",
+      "description": "Mohammed bin Salman, colloquially known as MBS, is the Crown Prince and Prime Minister of Saudi Arabia, considered the de facto ruler of the country, and known for both his authoritarian rule and significant reforms, including women's rights improvements, diversification of the economy, and international relations."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Achieving peace between Saudi Arabia and Israel",
+          "quote": "Just a week ago, Saudi Crown Prince Mohammed Bin Salman said that 'every day we get closer' to a deal, while Netanyahu similarly stated that he was confident of forging 'a historic peace' between his country and Saudi Arabia, with Israeli cabinet ministers already landing in Riyadh to 'nurture blossoming ties.'"
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Normalizing relations with Israel",
+          "quote": "This time, by all accounts, Israel, Saudi Arabia, and the United States were inching closer towards a transformative three-way deal, which would have seen Israel and Saudi formally recognize each other within a security, defense, and economic partnership with the U.S."
+        },
+        {
+          "item": "Combating a common security threat",
+          "quote": "It is possible that the prospects for diplomatic normalization in the longer term remain promising, as Iran remains the single largest common security threat in the region and Israel and Saudi are clearly stronger standing together against Iran than individually."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Celebrating increased global rejection of Iran",
+          "quote": "However, privately, Saudi leaders are likely celebrating the reality that Iran will face increased global rejection for funding Hamas, and that the U.S. especially, and Israel, will be even more motivated and mobilized to engage Iran as their single largest regional threat."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Normalized relationships with Israel and a successful peace deal",
+          "quote": "Just a week ago, Saudi Crown Prince Mohammed Bin Salman said that 'every day we get closer' to a deal, while Netanyahu similarly stated that he was confident of forging 'a historic peace' between his country and Saudi Arabia."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Delay or derailment in the peace process with Israel",
+          "quote": "Clearly that was the intent by Hamas; and indeed it now appears very unlikely there will be any near-term normalization of diplomatic relations as was expected. When there is a major Palestinian crisis, it becomes impossible for the leadership of Saudi Arabia to publicly break ranks from the Islamic and Arabic camp."
+        },
+        {
+          "item": "Being trapped by the past",
+          "quote": "During moments like this, across the entire region, voices of hardline Islamic clerics gain preeminence over more progressive voices...that 'the younger generation will not let us continue to be trapped by our past.'"
+        }
+      ],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Strong economic and private sector influence",
+          "quote": "Voices such as that of Mohamed Allabar, founder of Emmar Properties and one of the world’s largest commercial builders, who told the first author of this article, during private talks leading up to the Abraham Accords, that 'the private sector can help build momentum behind a fragile economy and instill hope in the people of the region.'"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jared Kushner",
+    "description": "Senior Advisor to the then President, Donald Trump. Helped shepherd the Abraham Accords",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "6191053",
+      "name": "Jared Kushner",
+      "extract": "Jared Corey Kushner (born January 10, 1981) is an American businessman, investor, and former government official. He is the son-in-law of former president Donald Trump through his marriage to Ivanka Trump, and served as a senior advisor to Trump from 2017 to 2021. He was also Director of the Office of American Innovation.\nFor much of his career, Kushner worked as a real-estate investor in New York City, especially through the family business Kushner Companies. He took over the company after his father Charles Kushner was convicted for 18 criminal charges, including illegal campaign contributions, tax evasion, and witness tampering in 2005, although Charles was controversially pardoned by Trump in 2020. Jared met Ivanka Trump around 2005, and the couple married in 2009. He also became involved in the newspaper industry after purchasing The New York Observer in 2006. He was registered as a Democrat and donated to Democratic politicians for much of his life, but registered as Independent in 2009 and eventually as Republican in 2018. He played a significant role in the Donald Trump 2016 presidential campaign, and was at one point seen as its de facto campaign manager. Around Trump's election, Kushner divested from his family business, but was frequently accused of conflicts of interest when he profited from policy proposals for which he personally advocated within the Trump administration.He became Senior Advisor to President Trump in 2017, and held the position until Trump left office in 2021. His appointment was followed by concerns of nepotism.  Here, he led the administration's effort to pass the First Step Act, a criminal justice reform bill signed into law in 2018. Kushner was the primary Trump administration participant for the Middle East Peace Process, authoring the Trump peace plan and facilitating the talks that led to the signing of the Abraham Accords and other normalization agreements between Israel and various Arab states in 2020. Kushner also played an influential role in the Trump administration's COVID-19 response. Despite initially advising Trump that the media was exaggerating the threat of the disease, he eventually became a leader in the federal effort to procure medical supplies and develop a vaccine. He was a leading broker in the US–Mexico–Canada agreement, for which he was awarded honors by the Mexican government.\nSince leaving the White House, Kushner founded Affinity Partners, a private equity firm investing in Israeli and American companies expanding in the Middle East, Africa, and Asia.",
+      "description": "Jared Corey Kushner is an American businessman, former government official, and son-in-law of Donald Trump, who served as a senior advisor to Trump from 2017 to 2021 and played key roles in criminal justice reform, the Middle East Peace Process, and the Trump administration's COVID-19 response."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Shepherded the Abraham Accords",
+          "quote": "But by sabotaging imminent peace, Hamas sadly derails the transformation of the region which had started with the Abraham Accords shepherded by Jared Kushner, which the first author helped advise and participated in, and the worst loser in all this is the Palestinian people, who will lose out on the promise of economic and security revitalization that just days ago seemed so possible."
+        }
+      ],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [
+        {
+          "item": "Transformation of the region with economic and security revitalization",
+          "quote": "But by sabotaging imminent peace, Hamas sadly derails the transformation of the region which had started with the Abraham Accords shepherded by Jared Kushner..."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Derailment of transformation of the region",
+          "quote": "But by sabotaging imminent peace, Hamas sadly derails the transformation of the region which had started with the Abraham Accords shepherded by Jared Kushner..."
+        }
+      ],
+      "main_fears": [],
+      "resources": []
+    }
+  },
+  {
+    "name": "Egypt",
+    "description": "A transcontinental country spanning the northeast corner of Africa and southwest corner of Asia",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "8087628",
+      "name": "Egypt",
+      "extract": "Egypt (Arabic: مصر Miṣr [mesˁr], Egyptian Arabic pronunciation: [mɑsˤr]), officially the Arab Republic of Egypt, is a transcontinental country spanning the northeast corner of Africa and the Sinai Peninsula in the southwest corner of Asia. It is bordered by the Mediterranean Sea to the north, the Gaza Strip of Palestine and Israel to the northeast, the Red Sea to the east, Sudan to the south, and Libya to the west. The Gulf of Aqaba in the northeast separates Egypt from Jordan and Saudi Arabia. Cairo is the capital and largest city of Egypt, while Alexandria, the second-largest city, is an important industrial and tourist hub at the Mediterranean coast. At approximately 100 million inhabitants, Egypt is the 14th-most populated country in the world, and the third-most populated in Africa, behind Nigeria and Ethiopia.\nEgypt has one of the longest histories of any country, tracing its heritage along the Nile Delta back to the 6th–4th millennia BCE. Considered a cradle of civilisation, Ancient Egypt saw some of the earliest developments of writing, agriculture, urbanisation, organised religion and central government. Egypt's long and rich cultural heritage is an integral part of its national identity, which reflects its unique transcontinental location being simultaneously Mediterranean, Middle Eastern and North African. Egypt was an early and important centre of Christianity, but was largely Islamised in the seventh century. Modern Egypt dates back to 1922, when it gained independence from the British Empire as a monarchy. Following the 1952 revolution, Egypt declared itself a republic, and in 1958 it merged with Syria to form the United Arab Republic, which dissolved in 1961. Throughout the second half of the 20th century, Egypt endured social and religious strife and political instability, fighting several armed conflicts with Israel in 1948, 1956, 1967 and 1973, and occupying the Gaza Strip intermittently until 1967. In 1978, Egypt signed the Camp David Accords, officially withdrawing from the Gaza Strip and recognising Israel. After the Arab Spring, which led to the 2011 Egyptian revolution and overthrow of Hosni Mubarak, the country faced a protracted period of political unrest. \nEgypt's current government, a semi-presidential republic led by Abdel Fattah el-Sisi since 2014, has been described by a number of watchdogs as authoritarian and responsible for perpetuating the country's poor human rights record. Islam is the official religion of Egypt and Arabic is its official language. The great majority of its people live near the banks of the Nile River, an area of about 40,000 square kilometres (15,000 sq mi), where the only arable land is found. The large regions of the Sahara desert, which constitute most of Egypt's territory, are sparsely inhabited. About 43% of Egypt's residents live across the country's urban areas, with most spread across the densely populated centres of greater Cairo, Alexandria and other major cities in the Nile Delta.\nEgypt is considered to be a regional power in North Africa, the Middle East and the Muslim world, and a middle power worldwide. It is a developing country having  a diversified economy, which is the third-largest in Africa, the 38th-largest economy by nominal GDP and 127th by nominal GDP per capita. Egypt is a founding member of the United Nations, the Non-Aligned Movement, the Arab League, the African Union, Organisation of Islamic Cooperation and the World Youth Forum.",
+      "description": "Egypt, officially the Arab Republic of Egypt, is a transcontinental country in the northeast of Africa and southwest of Asia, known for its rich cultural heritage from ancient civilisations, extensive history, and a populous urban landscape primarily alongside the Nile River, with Cairo as its capital."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [
+        {
+          "item": "Economic and security revitalization for the Palestinian people",
+          "quote": "the Palestinian people, who will lose out on the promise of economic and security revitalization that just days ago seemed so possible"
+        },
+        {
+          "item": "Peaceful trade and economic cooperation with Israel",
+          "quote": "These nations along with the UAE, Bahrain, and Morocco have increased peaceful trade and economic cooperation with Israel over the last few years."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Practice restraint in the face of crisis",
+          "quote": "But the leadership of these countries are practicing restraint"
+        },
+        {
+          "item": "Not supporting Hamas substantively",
+          "quote": "it appears other Arabic nations, especially Egypt and Jordan, are not rushing to support Hamas in any substantive ways, rhetorical flourishes aside"
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Increased peaceful trade and economic cooperation with Israel",
+          "quote": "These nations along with the UAE, Bahrain, and Morocco have increased peaceful trade and economic cooperation with Israel over the last few years."
+        },
+        {
+          "item": "Long term prospects for diplomatic normalization with Israel",
+          "quote": "It is possible that the prospects for diplomatic normalization in the longer term remain promising"
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Further empowerment of hardline Islamic clerics and extremists",
+          "quote": "During moments like this, across the entire region, voices of hardline Islamic clerics gain preeminence over more progressive voices"
+        },
+        {
+          "item": "Lost opportunities due to crises",
+          "quote": "But now that opportunity seems lost for the time being."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Being trapped by the past and unable to support peace",
+          "quote": "the younger generation will not let us continue to be trapped by our past"
+        },
+        {
+          "item": "Loss of peace and economic opportunity due to conflict",
+          "quote": "But now that opportunity seems lost for the time being."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Saudi leaders privately celebrating the reality that Iran will face increased global rejection",
+          "quote": "However, privately, Saudi leaders are likely celebrating the reality that Iran will face increased global rejection for funding Hamas"
+        },
+        {
+          "item": "Increased peaceful trade and economic cooperation with Israel",
+          "quote": "These nations along with the UAE, Bahrain, and Morocco have increased peaceful trade and economic cooperation with Israel over the last few years."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jordan",
+    "description": "An Arab country in Western Asia, on the East Bank of the Jordan River",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "7515964",
+      "name": "Jordan",
+      "extract": "Jordan (Arabic: الأردن, romanized: al-ʾUrdunn [al.ʔur.dunː]), officially the Hashemite Kingdom of Jordan, is a country in West Asia. It is situated at the crossroads of Asia, Africa, and Europe, within the Levant region, on the East Bank of the Jordan River. Jordan is bordered by Saudi Arabia to the south and east, Iraq to the northeast, Syria to the north, and the Palestinian West Bank and Israel to the west. The Dead Sea is located along its western border and the country has a 26 km (16 mi) coastline in its southwest on the Gulf of Aqaba's Red Sea, which separates Jordan from Egypt. Amman is Jordan's capital and largest city, as well as its economic, political, and cultural centre.Modern-day Jordan has been inhabited by humans since the Paleolithic period. Three kingdoms emerged there at the end of the Bronze Age: Ammon, Moab and Edom. In the third century BC, the Arab Nabataeans established their Kingdom with Petra as the capital. Later rulers of the Transjordan region include the Assyrian, Babylonian, Roman, Byzantine, Rashidun, Umayyad, Abbasid, and the Ottoman empires. After the Great Arab Revolt against the Ottomans in 1916 during World War I, the Greater Syria region was partitioned by Britain and France. The Emirate of Transjordan was established in 1921 by the Hashemite, then Emir, Abdullah I, and the emirate became a British protectorate. In 1946, Jordan gained independence and became officially known in Arabic as the Hashemite Kingdom of Jordan. The country captured and annexed the West Bank during the 1948 Arab–Israeli War until it was occupied by Israel in 1967. Jordan renounced its claim to the territory in 1988, became the second Arab state to sign a peace treaty with Israel in 1994, and since supports Palestinian statehood within a two-state solution.Jordan is a semi-arid country, covering an area of 89,342 km2 (34,495 sq mi), with a population of 11.5 million, making it the eleventh-most populous Arab country. The dominant majority, or around 95% of the country's population, is Sunni Muslim, with a mostly Arab Christian minority. Jordan was mostly unscathed by the violence that swept the region following the Arab Spring in 2010. From as early as 1948, Jordan has accepted refugees from multiple neighbouring countries in conflict. An estimated 2.1 million Palestinian and 1.4 million Syrian refugees are present in Jordan as of 2015, with most Palestinian refugees holding Jordanian citizenship. The kingdom is also a refuge for thousands of Christian Iraqis fleeing persecution by the Islamic State. While Jordan continues to accept refugees, the recent large influx from Syria placed substantial strain on national resources and infrastructure.The sovereign state is a constitutional monarchy, but the king holds wide executive and legislative powers. Jordan is a founding member of the Arab League and the Organisation of Islamic Co-operation. The country has a high Human Development Index, ranking 102nd, and is considered a lower middle income economy. The Jordanian economy, one of the smallest economies in the region, is attractive to foreign investors based upon a skilled workforce. The country is a major tourist destination, also attracting medical tourism due to its well developed health sector. Nonetheless, a lack of natural resources, large flow of refugees, and regional turmoil have hampered economic growth.",
+      "description": "Jordan, officially the Hashemite Kingdom of Jordan, is a West Asian country at the crossroads of Asia, Africa, and Europe, mainly inhabited by Sunni Muslims, with Amman as its capital."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [
+        {
+          "item": "Maintaining the domestic status quo",
+          "quote": "Israel’s own defense minister warned of the distraction risk of Netanyahu’s own antics, but few are likely discussing that now in Israel."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Reinforcement against Hamas",
+          "quote": "To “restore deterrence,” and to prove Israel’s overwhelming force would require a lot of destruction within the Gaza Strip, where Hamas has thoroughly embedded its operations within civilian infrastructure."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Successful transformation deal with Israel and Saudi Arabia",
+          "quote": "This time, by all accounts, Israel, Saudi Arabia, and the United States were inching closer towards a transformative three-way deal, which would have seen Israel and Saudi formally recognize each other within a security, defense, and economic partnership with the U.S."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Derailed peace processes by Hamas' attacks",
+          "quote": "Saturday’s invasion of Israel by Hamas seems to derail that in the near term, just as Hamas intended."
+        },
+        {
+          "item": "Increased pressure from Iran",
+          "quote": "Iran will likely come under increasing pressure, especially through the potential withholding of the sanctions relief that Iran so desperately needs."
+        },
+        {
+          "item": "Regional destabilization",
+          "quote": "But the bipartisan consensus appears to agree that the U.S. cannot afford to draw back its support for Israel now; if Hamas and Iran are not sufficiently punished for this round of violence, there are likely only larger provocations ahead."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Political crisis distracting from security",
+          "quote": "Israel was clearly dangerously distracted by internal judicial changes threatening its government’s balance of power..."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Advanced arms industry",
+          "quote": "Israel’s arms industry and storehouses are more advanced today and much larger."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Hezbollah",
+    "description": "A Shia Islamist political party and militant group based in Lebanon",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "13919",
+      "name": "Hezbollah",
+      "extract": "Hezbollah (, ; Arabic: حزب الله, romanized: Ḥizbu 'llāh, lit. 'Party of Allah'  or 'Party of God') is a Lebanese Shia Islamist political party and militant group, led since 1992 by its Secretary-General Hassan Nasrallah. Hezbollah's paramilitary wing is the Jihad Council, and its political wing is the Loyalty to the Resistance Bloc party in the Lebanese Parliament.\nHezbollah was established in the wake of the 1982 Lebanon War by Lebanese clerics who had studied in Najaf. It adopted the model set out by Ayatollah Khomeini after the Iranian Revolution in 1979, and the party's founders adopted \"Hezbollah\" as the name chosen by Khomeini. The organization was created with the support of 1,500 Islamic Revolutionary Guard Corps instructors, and aggregated a variety of Lebanese Shia groups into a unified organization to resist the Israeli occupation of Southern Lebanon. During the Lebanese Civil War, Hezbollah's 1985 manifesto listed its objectives as the expulsion of \"the Americans, the French and their allies definitely from Lebanon, putting an end to any colonialist entity on our land\". From 1985 to 2000, Hezbollah also participated in the 1985–2000 South Lebanon conflict against the South Lebanon Army (SLA) and Israel Defense Forces (IDF), and fought again with the IDF in the 2006 Lebanon War. During the 1990s, Hezbollah also organized volunteers to fight for the Army of the Republic of Bosnia and Herzegovina during the Bosnian War.Since 1990, Hezbollah has participated in Lebanese politics, in a process which is described as the Lebanonisation of Hezbollah, and it later participated in the government of Lebanon and joined political alliances. After the 2006–08 Lebanese protests and clashes, a national unity government was formed in 2008, with Hezbollah and its opposition allies obtaining 11 of 30 cabinet seats, enough to give them veto power. In August 2008, Lebanon's new cabinet unanimously approved a draft policy statement that recognizes Hezbollah's existence as an armed organization and guarantees its right to \"liberate or recover occupied lands\" (such as the Shebaa Farms). Hezbollah is part of Lebanon's March 8 Alliance, in opposition to the March 14 Alliance. It maintains strong support among Lebanese Shia Muslims, while Sunnis have disagreed with its agenda. Hezbollah also has support in some Christian areas of Lebanon. Since 2012, Hezbollah involvement in the Syrian civil war has seen it join the Syrian government in its fight against the Syrian opposition, which Hezbollah has described as a Zionist plot and a \"Wahhabi-Zionist conspiracy\" to destroy its alliance with Bashar al-Assad against Israel. Between 2013 and 2015, the organisation deployed its militia in both Syria and Iraq to fight or train local militias to fight against the Islamic State. In the 2018 Lebanese general election, Hezbollah held 12 seats and its alliance won the election by gaining 70 out of 128 seats in the Parliament of Lebanon.From 2006, the group's military strength grew significantly, to the extent that its paramilitary wing became more powerful than the Lebanese Army. Hezbollah has been described as a \"state within a state\", and has grown into an organization with seats in the Lebanese government, a radio and a satellite TV station, social services and large-scale military deployment of fighters beyond Lebanon's borders. The group currently receives military training, weapons, and financial support from Iran and political support from Syria, although the sectarian nature of the Syrian war has damaged the group's legitimacy. In 2021, Nasrallah said the group had 100,000 fighters. Either the entire organization or only its military wing has been designated a terrorist organization by several countries, including by the European Union and, since 2017, also by most member states of the Arab League, with two exceptions – Lebanon, where Hezbollah is one of the country's most influential political parties, and Iraq. Russia does not view Hezbollah as a \"terrorist organization\" but as a \"legitimate socio-political force\".\n\n",
+      "description": "Hezbollah is a Lebanese Shia Islamist political party and militant group, established in 1982, that has both a paramilitary wing, the Jihad Council, and a political wing represented in the Lebanese Parliament, with significant support among Lebanese Shia Muslims and some Christian areas."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [
+        {
+          "item": "Disrupting impending Middle East peace",
+          "quote": "the trigger to the attack was likely that the prospect of a wider Mideast peace was almost at hand through an impending deal between Israel and Saudi Arabia"
+        },
+        {
+          "item": "Preventing normalization between Israel and Saudi Arabia",
+          "quote": "Hamas’ sabotage parallels the disruption of the prospective Israeli-Palestinian peace plan in 2000...the devastation of the Second Intifada ruined any dreams of normalization and resulted in the deaths of thousands of civilians"
+        },
+        {
+          "item": "Signaling relevance and anger",
+          "quote": "This is a bloody, murderous way of saying, “Don’t forget us, we are Hamas. We’re still here, and we’re still angry.”"
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Launching massive, unprecedented attacks",
+          "quote": "managed to carry out an unprecedented and unprovoked attack by land, sea, and air"
+        },
+        {
+          "item": "Kidnapping/hostage-taking",
+          "quote": "Scores more were taken hostage"
+        },
+        {
+          "item": "Exploiting chaotic situations for attacks",
+          "quote": "it appears Hezbollah in Lebanon did not exploit Saturday’s chaos to launch a much-feared simultaneous attack of Israel from the north"
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Success in sabotaging peace processes",
+          "quote": "But by sabotaging imminent peace, Hamas sadly derails the transformation of the region..."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Normalization of diplomatic relations between adversaries",
+          "quote": "Clearly that was the intent by Hamas; and indeed it now appears very unlikely there will be any near-term normalization of diplomatic relations as was expected"
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "International scrutiny over actions",
+          "quote": "As Israel focuses on neutralizing Hamas’ ability to carry out terrorist attacks, there will be elevated scrutiny on Iran"
+        },
+        {
+          "item": "Increasing pressure from the international community",
+          "quote": "Iran will likely come under increasing pressure, especially through the potential withholding of the sanctions relief that Iran so desperately needs"
+        }
+      ],
+      "resources": [
+        {
+          "item": "Financial and military aid from Iran",
+          "quote": "Iran has always been Hamas’ single largest sponsor, providing 70% of the financing for Hamas including upwards of $100 million in military aid every year"
+        },
+        {
+          "item": "Military training and humanitarian assistance from Iran",
+          "quote": "in addition to military training and humanitarian assistance"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Russia",
+    "description": "A transcontinental country located in Eastern Europe and Northern Asia",
+    "mentions": 3,
+    "wikipedia": {
+      "id": "25391",
+      "name": "Russia",
+      "extract": "Russia (Russian: Россия, romanized: Rossiya, [rɐˈsʲijə]), or the Russian Federation, is a country spanning Eastern Europe and Northern Asia. It is the largest country in the world by area, extends across eleven time zones, and shares land boundaries with fourteen countries. It is the world's ninth-most populous country and Europe's most populous country. The country's capital and largest city is Moscow. Saint Petersburg is Russia's second-largest city and \"cultural capital\". Other major urban areas in the country include Novosibirsk, Yekaterinburg, Nizhny Novgorod, Chelyabinsk, Krasnoyarsk, and Kazan.\nThe East Slavs emerged as a recognised group in Europe between the 3rd and 8th centuries CE. The first East Slavic state, Kievan Rus', arose in the 9th century, and in 988, it adopted Orthodox Christianity from the Byzantine Empire. Rus' ultimately disintegrated, with the Grand Duchy of Moscow growing to become the Tsardom of Russia. By the early 18th century, Russia had vastly expanded through conquest, annexation, and the efforts of Russian explorers, developing into the Russian Empire, which remains the third-largest empire in history. However, with the Russian Revolution in 1917, Russia's monarchic rule was abolished and eventually replaced by the Russian SFSR—the world's first constitutionally socialist state. Following the Russian Civil War, the Russian SFSR established the Soviet Union with three other Soviet republics, within which it was the largest and principal constituent. At the expense of millions of lives, the Soviet Union underwent rapid industrialisation in the 1930s and later played a decisive role for the Allies in World War II by leading large-scale efforts on the Eastern Front. With the onset of the Cold War, it competed with the United States for global ideological influence. The Soviet era of the 20th century saw some of the most significant Russian technological achievements, including the first human-made satellite and the first human expedition into outer space.\nIn 1991, the Russian SFSR emerged from the dissolution of the Soviet Union as the independent Russian Federation. A new constitution was adopted, which established a federal semi-presidential system. Since the turn of the century, Russia's political system has been dominated by Vladimir Putin, under whom the country has experienced democratic backsliding and a shift towards authoritarianism. Russia has been militarily involved in a number of conflicts in neighbouring states, which have included the internationally unrecognised annexations of Crimea in 2014 from neighbouring Ukraine, followed by the further annexation of four other regions in 2022 during an ongoing invasion.\nInternationally, Russia ranks among the lowest in measurements of democracy, human rights and freedom of the press; the country also has high levels of perceived corruption. The Russian economy ranks 11th by nominal GDP, relying heavily on its abundant natural resources. Its mineral and energy sources are the world's largest, and its figures for oil production and natural gas production rank highly globally. The Russian GDP ranks 65th by per capita; Russia possesses the largest stockpile of nuclear weapons and has the third-highest military expenditure. The country is a permanent member of the United Nations Security Council; a member state of the G20, SCO, BRICS, APEC, OSCE, and WTO; and the leading member state of post-Soviet organisations such as CIS, CSTO, and EAEU/EEU. Russia is home to 30 UNESCO World Heritage Sites.\n\n",
+      "description": "Russia, the world's largest country by area that spans across Eastern Europe and Northern Asia, is known for its rich history, political dominance under Vladimir Putin, significant role in world conflicts, and vast natural resources despite challenges in democracy and human rights."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": []
+    }
+  },
+  {
+    "name": "China",
+    "description": "The most populous country in the world, located in East Asia",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "5405",
+      "name": "China",
+      "extract": "China (Chinese: 中国; pinyin: Zhōngguó), officially the People's Republic of China (PRC), is a country in East Asia. It is the world's second-most-populous country, with a population exceeding 1.4 billion. China spans the equivalent of five time zones and borders fourteen countries by land, tied with Russia as having the most of any country in the world. With an area of nearly 9.6 million square kilometers (3,700,000 sq mi), it is the world's third-largest country by total land area. The country is divided into 22 provinces, five autonomous regions, four municipalities, and two semi-autonomous special administrative regions. The national capital is Beijing, and the most populous city and largest financial center is Shanghai.\nThe region that is now China has been inhabited since the Paleolithic era. The earliest Chinese dynastic states, such as the Shang and the Zhou, emerged in the basin of the Yellow River before the late second millennium BCE. The eighth to third centuries BCE saw a breakdown in Zhou authority and significant conflict, as well as the emergence of Classical Chinese literature and philosophy. In 221 BCE, China was unified under an emperor, ushering in more than two millennia in which China was governed by one or more imperial dynasties, including the Han, Tang, Ming and Qing. Some of China's most notable achievements—such as the invention of gunpowder and paper, the establishment of the Silk Road, and the building of the Great Wall—occurred during this period. The Chinese culture—including languages, traditions, architecture, philosophy and more—has heavily influenced East Asia during this imperial period.\nIn 1912, the Chinese monarchy was overthrown and the Republic of China established. The Republic saw consistent conflict for most of the mid-20th century, including a civil war between the Kuomintang government and the Chinese Communist Party (CCP), which began in 1927, as well as the Second Sino-Japanese War that began in 1937 and continued until 1945, therefore becoming involved in World War II. The latter led to a temporary stop in the civil war and numerous Japanese atrocities such as the Nanjing Massacre, which continue to influence China–Japan relations. In 1949, the CCP established control over China as the Kuomintang fled to Taiwan. Early communist rule saw two major projects: the Great Leap Forward, which resulted in a sharp economic decline and massive famine; and the Cultural Revolution, a movement to purge all non-communist elements of Chinese society that led to mass violence and persecution. Beginning in 1978, the Chinese government began economic reforms that moved the country away from planned economics, but political reforms were cut short by the 1989 Tiananmen Square protests, which ended in a massacre. Despite the event, the economic reform continued to strengthen the nation's economy in the following decades while raising China's standard of living significantly.\nChina is a unitary one-party socialist republic led by the CCP. It is one of the five permanent members of the UN Security Council and a founding member of several multilateral and regional organizations such as the Asian Infrastructure Investment Bank, the Silk Road Fund, the New Development Bank, and the RCEP. It is also a member of the BRICS, the G20, APEC, and the East Asia Summit. China ranks poorly in measures of democracy, transparency, and human rights, including for press freedom, religious freedom, and ethnic equality. Making up around one-fifth of the world economy, China is the world's largest economy by GDP at purchasing power parity, the second-largest economy by nominal GDP, and the second-wealthiest country. The country is one of the fastest-growing major economies and is the world's largest manufacturer and exporter, as well as the second-largest importer. China is a nuclear-weapon state with the world's largest standing army by military personnel and the second-largest defense budget.",
+      "description": "China, officially known as the People's Republic of China, is the world's second-most-populous country in East Asia, having a population over 1.4 billion, and is recognized for its rich history, cultural influence in East Asia, and its rapidly-growing major economy, despite ranking poorly in matters of democracy, transparency, and human rights."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": []
+    }
+  },
+  {
+    "name": "Mahmoud Abbas",
+    "description": "Palestinian political leader, president of the State of Palestine and Palestinian National Authority",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "232595",
+      "name": "Mahmoud Abbas",
+      "extract": "Mahmoud Abbas (Arabic: مَحْمُود عَبَّاس, romanized: Maḥmūd ʿAbbās; born 15 November 1935), also known by the kunya Abu Mazen (Arabic: أَبُو مَازِن, ʾAbū Māzin), is the president of the State of Palestine and the Palestinian National Authority (PNA). He has been the chairman of the Palestine Liberation Organization (PLO) since 2004, PNA president since January 2005, and State of Palestine president since May 2005. Abbas is also a member of the Fatah party and was elected chairman in 2009.\nAbbas was elected on 9 January 2005 to serve as President of the Palestinian National Authority until 15 January 2009, but extended his term until the next election in 2010, citing the PLO constitution, and on 16 December 2009 was voted into office indefinitely by the PLO Central Council. As a result, Fatah's main rival, Hamas, initially announced that it would not recognize the extension or view Abbas as the rightful president. Nonetheless, Abbas is internationally recognized in his position(s) and Hamas and Fatah conducted numerous negotiations in the following years, leading to an agreement in April 2014 for a Unity Government (which lasted until October 2016) and to the recognition of his office by Hamas. Abbas was also chosen as the president of the State of Palestine by the PLO Central Council on 23 November 2008, a position he had held unofficially since 8 May 2005.Abbas served as the first prime minister of the Palestinian Authority from March to September 2003. Before being named Prime Minister, Abbas led the PLO Negotiations Affairs Department. He has been accused of distorting Jewish history and has been denounced as a Holocaust denier for his numerous statements throughout the years.\n\n",
+      "description": "Mahmoud Abbas, also known as Abu Mazen, is the president of the State of Palestine, the Palestinian National Authority, and the chairman of the Palestine Liberation Organization, serving in these roles since 2004; he is also a member of the Fatah party."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Welcome a Saudi peace plan",
+          "quote": "Many in the Palestinian Authority were said to welcome a Saudi peace plan as well the offer of financial assistance to improve the lives of Palestinians before Hamas sabotaged those plans Saturday."
+        },
+        {
+          "item": "Financial assistance to improve Palestinian lives",
+          "quote": "Many in the Palestinian Authority were said to welcome... the offer of financial assistance to improve the lives of Palestinians before Hamas sabotaged those plans Saturday."
+        }
+      ],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [
+        {
+          "item": "Advancement of a Saudi peace plan",
+          "quote": "Many in the Palestinian Authority were said to welcome a Saudi peace plan as well the offer of financial assistance to improve the lives of Palestinians before Hamas sabotaged those plans Saturday."
+        },
+        {
+          "item": "Normalization with Israel with economic and security benefits",
+          "quote": "Hamas sadly derails the transformation of the region which had started with the Abraham Accords...and the worst loser in all this is the Palestinian people, who will lose out on the promise of economic and security revitalization that just days ago seemed so possible."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Hamas' sabotage of peace plans",
+          "quote": "Hamas sadly derails the transformation of the region...and the worst loser in all this is the Palestinian people, who will lose out on the promise of economic and security revitalization that just days ago seemed so possible."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Losing out on economic and security revitalization opportunities",
+          "quote": "Hamas sadly derails the transformation of the region...and the worst loser in all this is the Palestinian people, who will lose out on the promise of economic and security revitalization that just days ago seemed so possible."
+        },
+        {
+          "item": "Israeli victory over Hamas affecting Palestinian standing",
+          "quote": "Hamas started this war, and now Israel has to win it... Netanyahu adding leading opposition leaders Yair Lapid and Benny Gantt to an emergency cabinet."
+        }
+      ],
+      "resources": []
+    }
+  },
+  {
+    "name": "Palestinian Authority",
+    "description": "The interim self-government body established in 1994 following the Gaza–Jericho Agreement",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "24093",
+      "name": "Palestinian National Authority",
+      "extract": "The Palestinian National Authority (PA or PNA; Arabic: السلطة الوطنية الفلسطينية as-Sulṭa al-Waṭanīya al-Filasṭīnīya), commonly known as the Palestinian Authority and officially the State of Palestine, is the Fatah-controlled government body that exercises partial civil control over West Bank areas \"A\" and \"B\" as a consequence of the 1993–1995 Oslo Accords. The Palestinian Authority controlled the Gaza Strip prior to the Palestinian elections of 2006 and the subsequent Gaza conflict between the Fatah and Hamas parties, when it lost control to Hamas; the PA continues to claim the Gaza Strip, although Hamas exercises de facto control. Since January 2013, the Palestinian Authority has used the name \"State of Palestine\" on official documents, although the United Nations continues to recognize the Palestinian Liberation Organization (PLO) as the \"representative of the Palestinian people\".The Palestinian Authority was formed in 1994, pursuant to the Gaza–Jericho Agreement between the PLO and the government of Israel, and was intended to be a five-year interim body. Further negotiations were then meant to take place between the two parties regarding its final status. According to the Oslo Accords, the Palestinian Authority was designated to have exclusive control over both security-related and civilian issues in Palestinian urban areas (referred to as \"Area A\") and only civilian control over Palestinian rural areas (\"Area B\"). The remainder of the territories, including Israeli settlements, the Jordan Valley region and bypass roads between Palestinian communities, were to remain under Israeli control (\"Area C\"). East Jerusalem was excluded from the Accords. Negotiations with several Israeli governments had resulted in the Authority gaining further control of some areas, but control was then lost in some areas when the Israel Defense Forces (IDF) retook several strategic positions during the Second (\"Al-Aqsa\") Intifada. In 2005, after the Second Intifada, Israel withdrew unilaterally from its settlements in the Gaza Strip, thereby expanding Palestinian Authority control to the entire strip while Israel continued to control the crossing points, airspace, and the waters of the Gaza Strip's coast.In the Palestinian legislative elections on 25 January 2006, Hamas emerged victorious and nominated Ismail Haniyeh as the Authority's Prime Minister. However, the national unity Palestinian government effectively collapsed, when a violent conflict between Hamas and Fatah erupted, mainly in the Gaza Strip. After the Gaza Strip was taken over by Hamas on 14 June 2007, the Authority's Chairman Mahmoud Abbas dismissed the Hamas-led unity government and appointed Salam Fayyad as Prime Minister, dismissing Haniyeh. The move wasn't recognized by Hamas, thus resulting in two separate administrations – the Fatah-led Palestinian Authority in the West Bank and a rival Hamas government in the Gaza Strip. The reconciliation process to unite the Palestinian governments achieved some progress over the years, but had failed to produce a re-unification.\nThe Palestinian Authority received financial assistance from the European Union and the United States (approximately US$1 billion combined in 2005). All direct aid was suspended on 7 April 2006, as a result of the Hamas victory in parliamentary elections. Shortly thereafter, aid payments resumed, but were channeled directly to the offices of Mahmoud Abbas in the West Bank. Since 9 January 2009, when Mahmoud Abbas' term as president was supposed to have ended and elections were to have been called, Hamas supporters and many in the Gaza Strip have withdrawn recognition for his presidency and instead consider Aziz Dweik, the speaker of the Palestinian Legislative Council, to be the acting president until new elections can be held.The State of Palestine has become recognized by 138 nations and since November 2012, the United Nations voted to recognize the State of Palestine as a non-member UN observer state. The Palestinian Authority is an authoritarian regime that has not held elections in over 15 years; it has been criticized for human rights abuses, including cracking down on journalists, human rights activists, and dissent against its rule.\n\n",
+      "description": "The Palestinian National Authority, also known as the Palestinian Authority, is the Fatah-controlled government body that exercises partial civil control over certain areas of the West Bank, and has claimed the Gaza Strip despite Hamas' de facto control."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Compromise as opposed to Hamas",
+          "quote": "Hamas is not and has never been interested in compromise, unlike their rival, the Palestinian Authority run by Mahmound Abbas which governs much of the West Bank but not in Gaza."
+        },
+        {
+          "item": "Welcome a Saudi peace plan",
+          "quote": "Many in the Palestinian Authority were said to welcome a Saudi peace plan as well the offer of financial assistance to improve the lives of Palestinians before Hamas sabotaged those plans Saturday."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Economic and security revitalization for the Palestinian people",
+          "quote": "the Palestinian people, who will lose out on the promise of economic and security revitalization that just days ago seemed so possible."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Accept financial assistance to improve the lives of Palestinians",
+          "quote": "Many in the Palestinian Authority were said to welcome a... offer of financial assistance to improve the lives of Palestinians..."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Prospects of diplomatic normalization",
+          "quote": "the prospects for diplomatic normalization in the longer term remain promising, as Iran remains the single largest common security threat in the region and Israel and Saudi are clearly stronger standing together against Iran than individually."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Sabotage of imminent peace and transformation of the region",
+          "quote": "But by sabotaging imminent peace, Hamas sadly derails the transformation of the region which had started with the Abraham Accords...and the worst loser in all this is the Palestinian people..."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Losing out on economic and security revitalization",
+          "quote": "the Palestinian people, who will lose out on the promise of economic and security revitalization that just days ago seemed so possible."
+        },
+        {
+          "item": "Being overlooked in the broader Middle East power balance shifts",
+          "quote": "This is a bloody, murderous way of saying, ‘Don’t forget us, we are Hamas. We’re still here, and we’re still angry.’"
+        }
+      ],
+      "resources": [
+        {
+          "item": "Support from regional partners interested in peace",
+          "quote": "Many in the Palestinian Authority were said to welcome...offer of financial assistance to improve the lives of Palestinians before Hamas sabotaged those plans Saturday."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Yair Lapid",
+    "description": "Israeli politician, journalist and author. Leader of the political party Yesh Atid",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "2448072",
+      "name": "Yair Lapid",
+      "extract": "Yair Lapid (Hebrew: יָאִיר לַפִּיד, IPA: [jaˈʔiʁ laˈpid]; born 5 November 1963) is an Israeli politician of the centrist Yesh Atid party, and a former journalist. He has been the Leader of the Opposition since January 2023, having previously served in that role from 2020 to 2021. He served as the 14th Prime Minister of Israel from 1 July to 29 December 2022. He previously served as the Alternate Prime Minister of Israel and Minister of Foreign Affairs from 2021 to 2022. Lapid is the chairman of Yesh Atid, and Minister of Finance from 2013 to 2014.Before entering politics in 2012, Lapid was an author, TV presenter and news anchor. The centrist Yesh Atid party, which he founded, became the second-largest party in the Knesset by winning 19 seats in its first legislative election in 2013. The greater-than-anticipated results contributed to Lapid's reputation as a leading centrist.\nFrom 2013 to 2014, following his coalition agreement with Likud, Lapid served as Minister of Finance under Prime Minister Benjamin Netanyahu. In 2013, Lapid ranked first on the list of the \"Most Influential Jews in the World\" by The Jerusalem Post. He was also recognized in 2013 as one of the leading Foreign Policy Global Thinkers, and ranked as one of Time magazine's 100 \"Most Influential People in the World\". He serves on the Knesset Foreign Affairs and Defense Committee, and the Sub-Committee on Intelligence and the Security Services.On 17 May 2020, Lapid became the Leader of the Opposition, after the thirty-fifth government of Israel was sworn in. On 5 May 2021, he began talks with other parties to try to form a coalition government. On 2 June 2021, Lapid informed Israeli President Reuven Rivlin that he had agreed to a rotation government with Naftali Bennett and was prepared to replace the incumbent prime minister, Benjamin Netanyahu. The new government was sworn in on 13 June 2021.Lapid became the Prime Minister of Israel on 1 July 2022 after Bennett stepped down as prime minister following the dissolution of the Knesset. Lapid remained prime minister until a new government was formed after the November 2022 election.",
+      "description": "Yair Lapid is an Israeli politician, former journalist, and Leader of the Opposition, who served as the 14th Prime Minister of Israel in 2022 and is the chairman of the centrist Yesh Atid party."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Win the war against Hamas",
+          "quote": "As the Israelis say, 'Hamas started this war, and now Israel has to win it,'"
+        },
+        {
+          "item": "Restore deterrence and prove Israel's overwhelming force",
+          "quote": "To 'restore deterrence,' and to prove Israel’s overwhelming force would require a lot of destruction within the Gaza Strip"
+        },
+        {
+          "item": "Neutralization of Hamas' ability to engage in terrorist attacks",
+          "quote": "Many in Israel are calling for the destruction of Hamas and the full neutralization of its ability to engage in terrorist attacks against Israel"
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Ensuring Israel's security against Hamas",
+          "quote": "Now we see Israel taken by surprise once again."
+        },
+        {
+          "item": "Achieving lasting peace with Saudi Arabia",
+          "quote": "Netanyahu similarly stated that he was confident of forging 'a historic peace' between his country and Saudi Arabia"
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Engage in a long and challenging conflict",
+          "quote": "Prime Minister Netanyahu is already declaring that Israel is prepared for a 'long and challenging' conflict."
+        },
+        {
+          "item": "Utilize Israel's advanced arms industry and large storehouses",
+          "quote": "Israel’s arms industry and storehouses are more advanced today and much larger."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Destruction of Hamas and neutralization of their terrorist capabilities",
+          "quote": "Many in Israel are calling for the destruction of Hamas and the full neutralization of its ability to engage in terrorist attacks against Israel"
+        },
+        {
+          "item": "Forging historic peace with Saudi Arabia",
+          "quote": "Netanyahu similarly stated that he was confident of forging 'a historic peace' between his country and Saudi Arabia"
+        },
+        {
+          "item": "Restoration of regional transformation started by the Abraham Accords",
+          "quote": "But by sabotaging imminent peace, Hamas sadly derails the transformation of the region which had started with the Abraham Accords"
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Failure in the normalization of diplomatic relations with Saudi",
+          "quote": "Clearly that was the intent by Hamas; and indeed it now appears very unlikely there will be any near-term normalization of diplomatic relations as was expected."
+        },
+        {
+          "item": "Rising Iranian and Hamas aggression",
+          "quote": "The U.S. cannot afford to draw back its support for Israel now; if Hamas and Iran are not sufficiently punished for this round of violence, there are likely only larger provocations ahead."
+        },
+        {
+          "item": "Distractions within Israel from Hamas threats",
+          "quote": "Israel was clearly dangerously distracted by internal judicial changes threatening its government’s balance of power, [...] taking Israel’s attention away from the dangers posed by Hamas in Gaza."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Hamas attacks leading to Israeli civilian casualties",
+          "quote": "The radical Palestinians of Hamas [...] managed to carry out an unprecedented and unprovoked attack by land, sea, and air—and the results that prompted Israel to declare all-out war included massacres of hundreds of innocent civilians of all ages in their homes, at children’s parties, and at concerts."
+        },
+        {
+          "item": "Iran gaining more influence in the region",
+          "quote": "Iran remains the single largest common security threat in the region and Israel and Saudi are clearly stronger standing together against Iran than individually."
+        },
+        {
+          "item": "Interruption of the regional economic and security revitalization",
+          "quote": "But by sabotaging imminent peace, Hamas sadly derails the transformation of the region which had started with the Abraham Accords"
+        }
+      ],
+      "resources": [
+        {
+          "item": "Advanced arms industry and large munitions storehouses",
+          "quote": "Israel’s arms industry and storehouses are more advanced today and much larger."
+        },
+        {
+          "item": "Support from the United States",
+          "quote": "The U.S. provides over $3 billion in defense assistance to Israel annually, with Israel the single largest recipient, and that number could conceivably increase—because otherwise, any regional vacuum left by the U.S. will clearly be filled by a stronger Iran"
+        },
+        {
+          "item": "Bipartisan support for Israel in the United States",
+          "quote": "President Biden and GOP leaders are expressing total, bipartisan support for Israel and endorsing Israel’s right to respond"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Benny Gantz",
+    "description": "Israeli politician and former Chief of General Staff of the Israel Defense Forces",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "5234157",
+      "name": "Benny Gantz",
+      "extract": "Benjamin Gantz (Hebrew: בִּנְיָמִין \"בֵּנִי\" גַּנְץ, romanized: Binyāmīn \"Bēnī\" Ganṣ; born 9 June 1959) is an Israeli politician and retired army general who has served as Minister without portfolio since 2023. Gantz also served as the Minister of Defense, between 2020 and 2022 and as deputy prime minister of Israel between 2021 and 2022. From 2020 to 2021, he was the alternate prime minister of Israel.\nHe served as the 20th chief of General Staff of the Israel Defense Forces (IDF) from 2011 to 2015. In December 2018, he entered politics by establishing a new political party named Israel Resilience. The party later allied itself with Telem and Yesh Atid to form Blue and White (Hebrew: Kaḥol Lavan), the colours of the Israeli national flag. Gantz's Blue and White alliance platform includes introducing prime ministerial term limits, barring indicted politicians from serving in the Knesset, amending the nation-state law to include Israeli minorities, limiting the power of the Chief Rabbinate of Israel over marriages, investing in early education, expanding health care, and re-entering negotiations with the Palestinian Authority for a peace agreement.Gantz was the 17th Speaker of the Knesset from 26 March 2020 to 17 May 2020. On 20 April 2020, Gantz agreed to join a rotation government with Prime Minister Benjamin Netanyahu. Under the terms of the agreement, Gantz was to serve as Alternate Prime Minister and Minister of Defense, before succeeding Netanyahu as Prime Minister of Israel in November 2021. However, the coalition collapsed, resulting in another election in 2021. As defense minister, Gantz was in charge of Operation Guardian of the Walls in Gaza. In June 2021, he was reappointed Defense Minister and became Deputy Prime Minister in the new Bennett-Lapid government, serving in those roles until December 2022.\nOn 12 October 2023, following the breakout of the 2023 Israel–Hamas war, the National Unity Party announced that it would form an emergency war cabinet, with Gantz appointed Minister without portfolio in the Thirty-seventh government.",
+      "description": "Benny Gantz is an Israeli politician and retired army general, who served as Minister of Defense and deputy prime minister, and now serves as Minister without portfolio since 2023, having played key roles in various Israeli government formations and military operations."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Neutralizing Hamas' ability to carry out terrorist attacks",
+          "quote": "As Israel focuses on neutralizing Hamas’ ability to carry out terrorist attacks"
+        },
+        {
+          "item": "Restore deterrence",
+          "quote": "endorsing Israel’s right to respond—what Israel calls “restoring deterrence,"
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Winning the war against Hamas",
+          "quote": "“Hamas started this war, and now Israel has to win it,”"
+        },
+        {
+          "item": "Securing and demonstrating overwhelming force",
+          "quote": "To 'restore deterrence,' and to prove Israel’s overwhelming force would require a lot of destruction within the Gaza Strip"
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Seeking increased support from U.S.",
+          "quote": "with Israel the single largest recipient, and that number could conceivably increase"
+        },
+        {
+          "item": "Destroying Hamas and preventing future attacks",
+          "quote": "Many in Israel are calling for the destruction of Hamas and the full neutralization of its ability to engage in terrorist attacks against Israel"
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Destruction of Hamas and full neutralization of its ability to conduct terrorist attacks",
+          "quote": "Many in Israel are calling for the destruction of Hamas and the full neutralization of its ability to engage in terrorist attacks against Israel"
+        },
+        {
+          "item": "United support from the U.S. and a strong Israeli response",
+          "quote": "An immediate bipartisan consensus appeared, supporting Israel in whatever response it chooses"
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Hamas derailing the peace and normalization processes in the region",
+          "quote": "But by sabotaging imminent peace, Hamas sadly derails the transformation of the region"
+        },
+        {
+          "item": "Israeli civilians at risk and hostage situations",
+          "quote": "Israel has never had to cope with this multi-level assault."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Threats from Palestinian rockets and a surprise large-scale attack",
+          "quote": "Israelis living in civilian towns nearby, such as Sderot, close to the Gaza Strip, thought that they were OK—living with the ever-present danger of Palestinian rockets and mortar-shells fired from Gaza, but they were relying on the Iron Dome missile-defense system to protect them."
+        },
+        {
+          "item": "Iran's support for Hamas and increased global rejection",
+          "quote": "However, privately, Saudi leaders are likely celebrating the reality that Iran will face increased global rejection for funding Hamas"
+        }
+      ],
+      "resources": [
+        {
+          "item": "Bipartisan support from the U.S.",
+          "quote": "President Biden and GOP leaders are expressing total, bipartisan support for Israel"
+        },
+        {
+          "item": "Advanced and large munitions supply",
+          "quote": "Israel’s arms industry and storehouses are more advanced today and much larger."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vivek Ramaswamy",
+    "description": "American entrepreneur, author, and activist",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "52286158",
+      "name": "Vivek Ramaswamy",
+      "extract": "Vivek Ganapathy Ramaswamy (; vih-VAYK rah-mə-SWAH-mee; born August 9, 1985) is an American entrepreneur and presidential candidate. He founded Roivant Sciences, a pharmaceutical company, in 2014. In February 2023, Ramaswamy declared his candidacy for the Republican Party nomination in the 2024 United States presidential election.\nRamaswamy was born in Cincinnati to Indian immigrant parents. He graduated from Harvard College with a bachelor's degree in biology and later earned a J.D. from Yale Law School. Ramaswamy worked as an investment partner at a hedge fund before founding Roivant Sciences. He also co-founded an investment firm, Strive Asset Management.Ramaswamy claims the United States is in the middle of a national identity crisis precipitated by what he calls \"new secular religions like COVID-ism, climate-ism, and gender ideology\". He is also a critic of environmental, social, and corporate governance initiatives (ESG). In August 2023, Forbes estimated Ramaswamy's net worth at more than $950 million; his wealth comes from biotech and financial businesses.",
+      "description": "Vivek Ganapathy Ramaswamy is an American entrepreneur and the founder of Roivant Sciences, a pharmaceutical company, who declared his candidacy for the Republican Party nomination in the 2024 United States presidential election. He is notable for his critique on \"new secular religions\" like COVID-ism, climate-ism, and gender ideology."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": []
+    }
+  },
+  {
+    "name": "Marjorie Taylor Greene",
+    "description": "American businesswoman, and politician, member of the US House of Representatives",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "64229388",
+      "name": "Marjorie Taylor Greene",
+      "extract": "Marjorie Taylor Greene (née Taylor; born May 27, 1974), also known by her initials MTG, is an American far-right politician, businesswoman, and conspiracy theorist who has been the U.S. representative for Georgia's 14th congressional district since 2021. A member of the Republican Party, she was elected to Congress in 2020 following the retirement of Republican incumbent Tom Graves, and reelected in 2022.Greene has promoted antisemitic, white supremacist, and far-right conspiracy theories, including the white genocide conspiracy theory, QAnon, and Pizzagate. Other extremist conspiracy theories she has promoted include government involvement in mass shootings in the United States, baseless allegations of murder against the Clinton family, and 9/11 conspiracy theories. Before running for Congress, she supported calls to execute prominent Democratic Party politicians, including Hillary Clinton and Barack Obama. As a congresswoman, she equated the Democratic Party with Nazis, and compared COVID-19 safety measures to the persecution of Jews during the Holocaust, later apologizing for this comparison. During the 2022 Russian invasion of Ukraine, Greene promoted Russian propaganda and praised Vladimir Putin. Greene identifies as a Christian nationalist.A strong supporter of former president Donald Trump, Greene aided and supported Trump's attempts to overturn the 2020 U.S. presidential election and has since supported Trump's false claims of a stolen election. She called for the results of the 2020 U.S. presidential election in Georgia to be decertified, and was part of a group of Republican legislators who unsuccessfully challenged votes for Joe Biden during the 2021 United States Electoral College vote count, even though federal agencies and courts overseeing the election found no evidence of electoral fraud. Days after Biden's inauguration, Greene filed articles of impeachment alleging abuse of power. On February 4, 2021, the U.S. House of Representatives voted to remove her from all committee roles, in response to her statements and endorsements of political violence. Eleven Republicans joined the unanimous Democrats in the vote. She was appointed to new committee roles in January 2023. In June 2023, Greene was expelled from the conservative House Freedom Caucus after insulting Congresswoman Lauren Boebert, another member of the caucus.",
+      "description": "Marjorie Taylor Greene is an American far-right politician and businesswoman who has served as the U.S. representative for Georgia's 14th congressional district since 2021, known for her promotion of conspiracy theories and controversial statements."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [
+        {
+          "item": "Support for Israel",
+          "quote": "Even isolationist Republican voices such as Vivek Ramaswamy and Marjorie Taylor Greene have come out in strong support of Israel, suggesting that at least for now the U.S. stands united behind restoring Israeli deterrence through a strong response."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Supporting Israel's military response",
+          "quote": "Even isolationist Republican voices such as Vivek Ramaswamy and Marjorie Taylor Greene have come out in strong support of Israel, suggesting that at least for now the U.S. stands united behind restoring Israeli deterrence through a strong response."
+        }
+      ],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Prominence in U.S. leadership",
+          "quote": "Even isolationist Republican voices such as Vivek Ramaswamy and Marjorie Taylor Greene have come out in strong support of Israel..."
+        }
+      ]
+    }
+  }
+]

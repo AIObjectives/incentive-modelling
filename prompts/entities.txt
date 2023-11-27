@@ -1,0 +1,18 @@
+I will give you a document discussing a specific situation and I would 
+like to extract the list of key entities involved in the situation,  
+
+We are interested in the key players, individuals, organizations 
+or institutions of interest.  
+
+Here is the document, provided between triple back ticks. 
+
+```{document}```
+
+Now return the list of entities in JSON format, as a list of objects 
+with the following fields: 
+
+{
+  "name": string, // name of the entity  
+  "description: string, // short description of the entity
+  "mentions": number // how many times they were mentioned
+}

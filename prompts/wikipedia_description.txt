@@ -1,0 +1,8 @@
+I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: {pageName}
+Long description: {pageExtract}
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 

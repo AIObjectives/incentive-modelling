@@ -1,0 +1,669 @@
+[
+  {
+    "name": "Israel",
+    "description": "Country in the Middle East",
+    "mentions": 45,
+    "wikipedia": {
+      "id": "9282173",
+      "name": "Israel",
+      "extract": "Israel (; Hebrew: יִשְׂרָאֵל Yisrāʾēl [jisʁaˈʔel]; Arabic: إِسْرَائِيل ʾIsrāʾīl), officially the State of Israel (מְדִינַת יִשְׂרָאֵל Medīnat Yisrāʾēl [mediˈnat jisʁaˈʔel]; دَوْلَة إِسْرَائِيل Dawlat Isrāʾīl), is a country in West Asia. It is bordered by Lebanon to the north, by Syria to the northeast, by Jordan to the east, by the Red Sea to the south, by Egypt to the southwest, by the Mediterranean Sea to the west, and by the Palestinian territories –  the West Bank along the east and the Gaza Strip along the southwest. Tel Aviv is the financial, economic, and technological center of the country, while its seat of government is in its proclaimed capital of Jerusalem, although Israeli sovereignty over both  West and East Jerusalem is unrecognized internationally.Israel is located in the Southern Levant, a region known historically as Canaan, the Land of Israel, Palestine and the Holy Land. In antiquity, it was home to several Israelite and Jewish kingdoms, including Israel and Judah and Hasmonean Judea. Over the ages, the region was ruled by imperial powers such as the Assyrians, Babylonians, Persians, Greeks, and Romans. During Roman rule, Jews became a minority in Palestine. The region later came under Byzantine and Arab rule. In the medieval period, it was part of the Islamic caliphates, the Crusader Kingdom of Jerusalem, and the Ottoman Empire. The late 19th century saw the rise of Zionism, a movement advocating for the establishment of a Jewish homeland, during which the Jewish people began purchasing land in Palestine. Under the British Mandate by the League of Nations after World War I, Jewish immigration to the region increased considerably, leading to tensions between Jews and the Arab majority population. The UN-approved 1947 partition plan triggered a civil war between these two peoples. The British terminated the Mandate on 14 May 1948, and Israel declared independence on the same day.\nOn 15 May 1948, the armies of five neighboring Arab states began entering the area of the former Mandatory Palestine, starting the First Arab–Israeli War. An armistice in 1949 left Israel in control of more territory than the U.N. partition plan had called for; and no new independent Arab state was created as the rest of the former Mandate territory were held by Egypt and Jordan, respectively the Gaza Strip and the West Bank. The conflict resulted in the expulsion or flight of over 700,000 Palestinian Arabs from Israeli territory to neighboring countries, leaving fewer than 150,000 within the Green Line. The number of Jews who emigrated, fled, or were expelled from the Arab world to Israel was around 260,000 during and immediately after the war, reaching approximately 650,000 over the subsequent two decades. The 1967 Six-Day War resulted in the Israeli occupation of the Palestinian territories of the West Bank and Gaza Strip, along with the Egyptian Sinai Peninsula and the Syrian Golan Heights. Israel has since effectively annexed both East Jerusalem and the Golan Heights, and has established settlements across the occupied territories, actions which were rejected as illegal under international law. Since the 1973 Yom Kippur War, Israel has signed peace treaties with Egypt, returning the Sinai Peninsula, and with Jordan, and more recently normalized relations with several Arab countries, though efforts to resolve the Israeli–Palestinian conflict have not succeeded. Israel's practices, in the longest military occupation in modern history, have drawn international condemnation for violating the human rights of the Palestinians.The country has a parliamentary system elected by means of proportional representation. The prime minister serves as head of government, and is elected by the Knesset, Israel's unicameral legislature. Israel is a developed country and an OECD member. It has the highest standards of living in the Middle East, and is one of the most advanced and technological countries, with a population of nearly 10 million people, as of 2023. It has the world's 29th-largest economy by nominal GDP and 18th by nominal GDP per capita.",
+      "description": "Israel, officially known as the State of Israel, is a country in West Asia bordered by Lebanon, Syria, Jordan, the Red Sea, Egypt, and the Mediterranean Sea, recognized for its high standards of living and its status as one of the most technologically advanced countries in the Middle East."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Eliminate Hamas from Gaza",
+          "quote": "There’s a sense that after what Hamas did on October 7th, there’s no way that Israel could really countenance keeping us in its leadership on their doorstep."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Concern for hostage safety",
+          "quote": "One reason why they might be delaying is the fact that there are more than 200 mostly Israeli hostages now in captivity in Gaza."
+        },
+        {
+          "item": "Preparation for combat",
+          "quote": "There’s talk in Israel that the Israeli army needs to gather more intelligence about exactly where different Hamas fighters and different Hamas fortifications are situated."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Ground Invasion of Gaza",
+          "quote": "So the idea that Israel would not respond to something of that magnitude and would just call off a ground invasion and let the group that perpetrated that massacre remain on its doorstep feels a little bit hard to believe."
+        },
+        {
+          "item": "Continue Airstrikes",
+          "quote": "I think the bottom line is it’s the most intense Israeli bombing campaign on Gaza, ever. The military said today that they had hit 7,000 targets in Gaza in just over 2 and 1/2 weeks."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Successful hostage rescue without invasion",
+          "quote": "While those negotiations still have a chance of liberating some of the people who’ve been captured, it is thought that Israel is holding back from a ground invasion, lest it harm the chances of winning those people’s freedom."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Israeli soldiers captured or killed during ground invasion",
+          "quote": "And those families know that their loved one might not make it back. And so the whole conversation about an invasion is tinged with a sense of necessity, but also a sense of anxiety and danger."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Escalation with Lebanon and Hezbollah",
+          "quote": "One is that if Israel invades Gaza, it is feared that that will then open up a second front with Hezbollah, the Lebanese militia that dominates Southern Lebanon, which is allied to Hamas."
+        },
+        {
+          "item": "Entering an urban warfare quagmire",
+          "quote": "Then there’s the fact that Hamas is very well dug in underneath its stronghold of Gaza City. It has hundreds of miles of tunnels that it’s burrowed away over the last decade and a half. And it’s very hard to get to them there, and it’s very easy for their fighters to pop up through openings in the ground and ambush the incoming Israeli army."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Israeli troops massed near the Gaza border",
+          "quote": "Amidst the calamity, Israel is biding its time. Troops are amassed on the border with Gaza."
+        },
+        {
+          "item": "Supportive global leaders",
+          "quote": "Israel had just experienced what its president has called the bloodiest day for Jews since the Holocaust. And it felt like there was broad global support, particularly from leaders if not citizens for Israel taking essentially defensive action against the group that had enacted all these massacres in Southern Israel, Hamas."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Gaza",
+    "description": "Region in Palestine, the main stage of the conflict",
+    "mentions": 37,
+    "wikipedia": {
+      "id": "12047",
+      "name": "Gaza Strip",
+      "extract": "The Gaza Strip (; Arabic: قِطَاعُ غَزَّةَ Qiṭāʿ Ġazzah [qɪˈtˤɑːʕ ˈɣaz.za]), or simply Gaza, is the smaller of the two Palestinian territories (the other being the West Bank). Situated on the eastern coast of the Mediterranean Sea, Gaza is bordered by Egypt on the southwest and Israel on the east and north. Central to the Israeli–Palestinian conflict, Gaza has been under Israeli military occupation since 1967, although Israel disputes this.The Palestinian territories are geographically separated by Israel and nominally under the jurisdiction of the Palestinian Authority. However, since 2007 Gaza has been governed by Hamas, a militant, Sunni Islamic organization, following its 2006 electoral victory over Fatah and a 2007 military takeover. Since then, Gaza has been under a full Israeli-led (and Egypt-supported) land, sea and air blockade. This prevents people and goods from freely entering or leaving the territory, leading to it often being called an \"open-air prison\".Although Israel unilaterally withdrew its military forces and dismantled its Israeli settlements in Gaza in 2005 (and does not consider the territory held under military occupation), the UN, International Committee of the Red Cross, and many human-rights organizations continued to consider it occupied as the Israeli military controls Gaza's borders, airspace, and sea access. Due to the blockade, Gaza suffers from shortages of water, electricity and medicines. The United Nations, as well as at least 19 human-rights organizations, have urged Israel to lift its siege on Gaza.The Gaza Strip is 41 kilometres (25 miles) long, from 6 to 12 km (3.7 to 7.5 mi) wide, and has a total area of 365 km2 (141 sq mi). With around 2 million Palestinians on approximately 365 km2 (141 sq mi) of land, Gaza has a high population density (comparable to that of Hong Kong). The majority of Palestinians in Gaza, which contains eight refugee camps, are descendants of refugees who fled or were expelled from the area that became Israel after the 1948 Arab–Israeli War. Sunni Muslims make up most of Gaza's population, with a Palestinian Christian minority. Gaza has an annual population growth rate of 1.99% (2023 est.), the 39th-highest in the world.",
+      "description": "The Gaza Strip, often referred to as simply Gaza, is a densely populated Palestinian territory located on the eastern coast of the Mediterranean Sea, bordered by Egypt and Israel, and has been governed by Hamas since 2007 amidst ongoing Israeli-Palestinian conflict."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Eliminate the threat posed by Hamas",
+          "quote": "But underneath that headline, there’s a lot of nuance. For a start, there’s a small and not particularly vocal minority that doesn’t want to invade at all. And even among the people that do want an invasion, there are a mixture of positions. There are certainly those that sound very vengeful, there are people on the far right who are calling for the expulsion of all Palestinians from Gaza. But then there’s also probably a much bigger group that just wants to get rid of Hamas..."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "State security after being attacked by Hamas",
+          "quote": "Because by comparing it to 9/11, they could convey to the world just what a big deal it was for terrorists to come and slaughter around 1,400 Israelis, many of them in their homes."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Air strikes on Gaza",
+          "quote": "I think the bottom line is it’s the most intense Israeli bombing campaign on Gaza, ever. The military said today that they had hit 7,000 targets in Gaza in just over 2 and 1/2 weeks."
+        },
+        {
+          "item": "Ground invasion",
+          "quote": "But if Israel didn’t launch a ground invasion, many Israelis would see that as a capitulation to a group that’s just killed 1,400 Israelis in a single day. That sets a bad precedent. That makes Israel seem weak and would cause them a massive loss of face. So the idea that Israel would not respond to something of that magnitude and would just call off a ground invasion and let the group that perpetrated that massacre remain on its doorstep feels a little bit hard to believe."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Successfully eliminating Hamas",
+          "quote": "But then there’s also probably a much bigger group that just wants to get rid of Hamas."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Opening a second front with Hezbollah",
+          "quote": "One is that if Israel invades Gaza, it is feared that that will then open up a second front with Hezbollah, the Lebanese militia that dominates Southern Lebanon, which is allied to Hamas. And Hamas is backed by Iran."
+        },
+        {
+          "item": "Losing international support",
+          "quote": "Because as time has gone on and the air raids have increased and the loss of life in Gaza has grown and grown and the narrative has shifted away from the villages that were raided in Southern Israel earlier this month to the crowded urban areas of Gaza where thousands of Palestinians have been killed in bomb strikes, as a result, you’re starting to see different messages come out from global leaders, one in which they talk about Israel needing to respect international law, avoiding loss of civilian life."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Possible negative outcome of national inquiry into 7th October failure",
+          "quote": "There’s bound to be a national inquiry. And that probably isn’t going to look good for the people who are in charge, and that includes Netanyahu."
+        },
+        {
+          "item": "Loss of life for both Palestinians and Israeli soldiers",
+          "quote": "It will be bloody. It will likely involve great loss of life, mostly on the Palestinian side. But also for the Israeli soldiers."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Air Force",
+          "quote": "And I think crucially, it gives the Air Force more time to try and take out Hamas fighters and tunnels from the air."
+        },
+        {
+          "item": "Army",
+          "quote": "Remember that a lot of the people that are massed on the Gazan border are reservists who’ve been called up, several hundred thousand of them."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Hamas",
+    "description": "Palestinian Sunni-Islamic fundamentalist militant organization",
+    "mentions": 20,
+    "wikipedia": {
+      "id": "13913",
+      "name": "Hamas",
+      "extract": "Hamas (UK:  hə-MASS, US:   hə-MAHSS; Arabic: حماس, romanized: Ḥamās, IPA: [ħaˈmaːs]), an acronym of its official name, the Islamic Resistance Movement (حركة المقاومة الإسلامية Ḥarakat al-Muqāwamah al-ʾIslāmiyyah), is a Sunni Islamist political and military organization   governing the Gaza Strip of the Israeli-occupied Palestinian territories. Headquartered in Gaza City, it also has a presence in the West Bank (the larger of the two Palestinian territories), in which its secular rival Fatah exercises control.\nIn 1987, after the outbreak of the First Intifada against Israel, Hamas was founded by Palestinian imam and activist Ahmed Yassin. It emerged out of his Mujama al-Islamiya, which had been established in Gaza in 1973 as an Islamic charity involved with the Egypt-based Muslim Brotherhood. Hamas became increasingly involved in the Israeli–Palestinian conflict by the late 1990s; it opposed the Israel–PLO Letters of Mutual Recognition as well as the Oslo Accords, which saw Fatah renounce \"the use of terrorism and other acts of violence\" and recognize Israel in pursuit of a two-state solution. Hamas continued to advocate Palestinian armed resistance, won the 2006 Palestinian legislative election, gaining a majority in the Palestinian Legislative Council, and took control of the Gaza Strip from Fatah following a civil war in 2007. Since then, it has run Gaza as a de facto autocratic and one-party state.While historically seeking an Islamic Palestinian state over the combined territory of Israel, the West Bank, and the Gaza Strip (rejecting the two-state solution), Hamas began negotiating with Israel and the 1967 borders in the agreements it signed with Fatah in 2005, 2006 and 2007.  In 2017, Hamas released a new charter that supported a Palestinian state within the 1967 borders without recognizing Israel. Hamas's repeated offers of a truce (for a period of 10–100 years) based on the 1967 borders are seen by many as being consistent with a two-state solution, while others state that Hamas retains the long-term objective of establishing one state in former Mandatory Palestine. Under the ideological principles of Islamism, Hamas promotes Palestinian nationalism in an Islamic context; it has pursued a policy of jihad (armed struggle) against Israel. It has a social service wing, Dawah, and a military wing, the Izz ad-Din al-Qassam Brigades. Since the mid-1990s, Hamas has gained widespread popularity within Palestinian society for its anti-Israeli stance. The group's attacks, including suicide bombings against civilian targets and indiscriminate rocket attacks, have led many countries and academics to designate Hamas a terrorist organization. A 2018 attempt to condemn Hamas for \"acts of terror\" at the United Nations failed.The Gaza Strip is currently under blockade. Israel and Hamas have fought a number of wars there, including in 2008–09, in 2012 and in 2014. In the 2023 war, Hamas launched \"Operation Al-Aqsa Flood\" and its fighters broke through the Gaza barrier, attacked Israeli military bases, massacred civilians and took civilian and soldier hostages back to Gaza. The attack has been described as the biggest military setback for Israel since the 1973 Arab–Israeli War. In response, Israel intensified the existing Gaza blockade and began a large-scale aerial bombardment campaign over the territory in preparation for a ground assault, having announced its intention to destroy Hamas. The European Parliament and the US have also called for the elimination of Hamas.",
+      "description": "Hamas is a Sunni Islamist political and military organization that governs the Gaza Strip and has presence in the West Bank of the Israeli-occupied Palestinian territories; it was founded in 1987 by Palestinian imam and activist Ahmed Yassin and has been involved in the Israeli-Palestinian conflict, advocating Palestinian armed resistance and promoting Palestinian nationalism in an Islamic context."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Hamas, through their actions, seemingly aims to resist Israeli control and advocate for Palestinian rights",
+          "quote": "If you do go in, what do you do after that? Hamas, the whole point of going in is to destroy Hamas."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Hamas is primarily motivated by the desire to resist Israeli control and assert Palestinian rights and self-determination",
+          "quote": "And they’re saying it’s all very well to get rid of Hamas, but if you don’t have a wider plan not just for who runs Gaza, but what to do about the Israeli-Palestinian conflict, how to address the long running challenges and imbalances that have created this conflict, then a certain point down the line, there’s going to be just another explosion and a repeat. And the cycle will go on and on."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Hamas may continue to resist Israeli forces, launch attacks, and leverage its network of subterranean fortifications",
+          "quote": "Then there’s the fact that Hamas is very well dug in underneath its stronghold of Gaza City. It has hundreds of miles of tunnels that it’s burrowed away over the last decade and a half. And it’s very hard to get to them there, and it’s very easy for their fighters to pop up through openings in the ground and ambush the incoming Israeli army."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "For Hamas, a good scenario might be successful resistance against Israeli forces, securing Palestinian rights, or stalling an Israeli ground invasion",
+          "quote": "So does this mean we’re going to be in this place for a while? Anticipating a ground invasion with really no end in sight of these airstrikes?"
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "A bad scenario for Hamas could be the successful execution of an Israeli ground invasion and/or the destruction of their organization",
+          "quote": "That’s the million dollar question. Because if and when Israel does retake the Gaza Strip, it’s going to have to decide whether it wants to govern the enclave as it did between 1967 and 2005, or whether it wants to relinquish control of it, at least nominally, to some other party. It cannot do that to Hamas. The whole point of going in is to destroy Hamas."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Hamas may fear an Israeli ground invasion, the destruction of their organization, and continued loss of Palestinian rights",
+          "quote": "But at the same time, other people say, well, hang on, Iraq was thousands of miles away from America. But Gaza is right on Israel’s doorstep, and it doesn’t have the luxury of not taking the threat of Hamas seriously."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Hamas's resources mainly include its fighters, network of subterranean fortifications, and support from certain allied actors",
+          "quote": "Then there’s the fact that Hamas is very well dug in underneath its stronghold of Gaza City. It has hundreds of miles of tunnels that it’s burrowed away over the last decade and a half."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Patrick Kingsley",
+    "description": "Jerusalem Bureau Chief for The New York Times",
+    "mentions": 15,
+    "wikipedia": {
+      "id": "59993169",
+      "name": "Patrick Kingsley (journalist)",
+      "extract": "Patrick Kingsley (born June 1989) is a British journalist who is the Jerusalem bureau chief of The New York Times. He previously served as a foreign correspondent for The Guardian.",
+      "description": "Patrick Kingsley is a British journalist, currently the Jerusalem bureau chief of The New York Times, previously a foreign correspondent for The Guardian."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Understanding reasons for Israel's delay in ground invasion",
+          "quote": "Today, I talk to Jerusalem Bureau Chief Patrick Kingsley about why. It’s Wednesday. October 25th."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Fulfilling his role as a journalist and providing accurate reporting",
+          "quote": "You’re reaching me on the road between Tel Aviv and Jerusalem. I’ve spent the last nine hours watching security camera footage from a kibbutz in the South called Kibbutz Be’eri, where more than 100 people were killed on October 7th during the Hamas terrorist attacks. And I’ve been trying to research exactly what happened that day to try and piece together the events of the day."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Reporting and analyzing strategies and scenarios in relation to Israel's potential invasion",
+          "quote": "Patrick Kingsley: That’s the million dollar question. Because if and when Israel does retake the Gaza Strip, it’s going to have to decide whether it wants to govern the enclave as it did between 1967 and 2005, or whether it wants to relinquish control of it, at least nominally, to some other party."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Israel finding a way to avoid a ground invasion due to risks and costs",
+          "quote": "And there’s another group of people that zoom out even further. And they’re looking beyond what happens if you root out Hamas. And they’re saying it’s all very well to get rid of Hamas, but if you don’t have a wider plan not just for who runs Gaza, but what to do about the Israeli-Palestinian conflict, how to address the long running challenges and imbalances that have created this conflict, then a certain point down the line, there’s going to be just another explosion and a repeat."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "A ground invasion leading to severe risks and humanitarian crises",
+          "quote": "It could collapse his government. That would then lead to a new election. And if the current situation remains the same, then he would struggle to win that election. And he’d be out of power. So there are some people who think that he’s in no rush to start a ground invasion. Because the sooner the invasion begins, the sooner the war ends. And the sooner the war ends, the likelier it is that there will be a threat to his political power."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Impacted Israeli-Palestinian relations and increased violence due to ground invasion",
+          "quote": "Because after the war and when assessments are made of how the war went, he won’t be alone on the stage in front of critics who will be analyzing his performance."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Access to inside information and sources, and his position in The New York Times",
+          "quote": "You’re not quite seeing Western leaders coming out strongly against an invasion in and of itself. But there seem to be more qualifiers and qualifications attached to the West’s expression of support for Israel."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sabrina Tavernise",
+    "description": "Reporter of The New York Times and the host of the podcast",
+    "mentions": 10,
+    "wikipedia": {
+      "id": "10976205",
+      "name": "Sabrina Tavernise",
+      "extract": "Sabrina Tavernise (born February 24, 1971) is an American journalist who writes for The New York Times, and is a co-host of the Times podcast The Daily. She has been a war correspondent for the Times from Iraq, Lebanon, and Russia, including recent dispatches from the Russian invasion of Ukraine.",
+      "description": "Sabrina Tavernise is an American journalist for The New York Times, co-host of the Times podcast The Daily, and a war correspondent who has reported from Iraq, Lebanon, and Russia, including the Russian invasion of Ukraine."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Understanding the reasons behind Israel's delay in ground invasion of Gaza",
+          "quote": "More than two weeks later, that invasion hasn’t happened. Today, I talk to Jerusalem Bureau Chief Patrick Kingsley about why."
+        },
+        {
+          "item": "Providing valuable and updated information through her war correspondence",
+          "quote": "I’ve spent the last nine hours watching security camera footage from a kibbutz in the South called Kibbutz Be’eri, where more than 100 people were killed on October 7th during the Hamas terrorist attacks."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Delivering unbiased reporting to help the public understand complex issues",
+          "quote": "That was something that we were hearing about really from the very first days after this horrific attack on Israel. And we keep hearing that it is about to happen and it is imminent."
+        },
+        {
+          "item": "Imparting clarity and context about geopolitical events",
+          "quote": "There’s another factor that some political analysts have been talking about, which is that the failure of October the 7th, the collapse of the Israeli military defenses in the South, ultimately, in many people’s eyes, is on him. The buck stops with the prime minister of the day."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Continuing her in-depth analysis",
+          "quote": "But in a sense, that’s Netanyahu’s trademark. He pushes off big decisions until the very last moment."
+        },
+        {
+          "item": "Interviewing key people and collecting needed information",
+          "quote": "And that rhetorical shift may accelerate and morph into something stronger. For example, an outright rejection of an Israeli invasion of Gaza."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Reaching more clarity and understanding about military situations",
+          "quote": "I think that the 9/11 comparison has been made frequently, both in Israel and outside. And to begin with, I think Israelis thought it was a useful comparison."
+        },
+        {
+          "item": "Successful mediation and resolution through her fact-based reportings",
+          "quote": "So yes, there are the hostages. Yes, there are fears over a second front opening up with Lebanon. But also there’s the big question of, what will Israel do with Gaza after it captures the territory? And it’s a difficult choice."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Not being able to clarify or confirm aspects of a complex situation",
+          "quote": "Reports of maybe women and children could be released. None of these have been confirmed."
+        },
+        {
+          "item": "Failure to predict or explain sudden events through her reporting",
+          "quote": "It’s always possible. And people are voicing that suggestion a little bit more vocally than they were a few days ago. But I think if Israel didn’t launch a ground invasion, many Israelis would see that as a capitulation to a group that’s just killed 1,400 Israelis in a single day."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Misrepresenting complex situations and military strategies",
+          "quote": "And then that probably leaves the Palestinian Authority, which is the Palestinian body that administers parts of the occupied West Bank."
+        },
+        {
+          "item": "Risk of being misunderstood in intense geopolitical situations",
+          "quote": "There’s a sense that after what Hamas did on October 7th, there’s no way that Israel could really countenance keeping us in its leadership on their doorstep."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Access to reliable sources and firsthand information",
+          "quote": "You’re reaching me on the road between Tel Aviv and Jerusalem. I’ve spent the last nine hours watching security camera footage from a kibbutz in the South."
+        },
+        {
+          "item": "Support from The New York Times, a reputable news organization",
+          "quote": "From The New York Times, I’m Sabrina Tavernise. And this is The Daily."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Benjamin Netanyahu",
+    "description": "Israeli politician serving as the Prime Minister of Israel",
+    "mentions": 7,
+    "wikipedia": {
+      "id": "56472",
+      "name": "Benjamin Netanyahu",
+      "extract": "Benjamin \"Bibi\" Netanyahu ( NET-ən-YAH-hoo; Hebrew: בִּנְיָמִין נְתַנְיָהוּ, romanized: Binyāmīn Nētanyāhū, pronounced [binjaˈmin netanˈjahu] ; born 21 October 1949) is an Israeli politician who has been serving as the prime minister of Israel since December 2022, having previously held the office from 1996 to 1999 and again from 2009 to 2021. He is the chairman of the Likud party. Netanyahu is the longest-tenured prime minister in the country's history, having served for a total of over 16 years. He is also the first prime minister to have been born in Israel after its Declaration of Independence.Born in Tel Aviv to secular Jewish parents, Netanyahu was raised in Jerusalem and in Philadelphia in the United States. He returned to Israel in 1967 to join the Israel Defense Forces. He became a team leader in the Sayeret Matkal special forces and took part in several missions, achieving the rank of captain before being honorably discharged. After graduating from the Massachusetts Institute of Technology, Netanyahu became an economic consultant for the Boston Consulting Group. He moved back to Israel in 1978 to found the Yonatan Netanyahu Anti-Terror Institute. From 1984 to 1988, Netanyahu was Permanent Representative of Israel to the United Nations. Netanyahu rose to prominence after being elected as the chairman of Likud in 1993, becoming Leader of the Opposition. In the 1996 election, Netanyahu beat Shimon Peres, becoming the first Israeli prime minister elected directly by popular vote, and its youngest-ever. Netanyahu and Likud were heavily defeated in the 1999 election by Ehud Barak's One Israel alliance; and Netanyahu chose to retire from politics entirely, entering the private sector. Netanyahu later returned to politics, and served as Minister of Foreign Affairs and Minister of Finance under Ariel Sharon. During the latter position, he initiated reforms of the Israeli economy that led to significant growth, before ultimately resigning over disagreements regarding the Gaza disengagement plan.\nNetanyahu returned to the leadership of Likud in December 2005 after Sharon stepped down to form a new party, Kadima. He was the Leader of the Opposition from 2006 to 2009. After the 2009 election, Netanyahu formed a coalition government with other right-wing parties and was sworn in as prime minister for a second time. He went on to lead Likud to victory in the 2013 and 2015 elections. A period of political deadlock ensued after three consecutive elections in 2019 and 2020 failed to produce a government, which was solved after a coalition rotation agreement was reached between Netanyahu and centrist Blue and White alliance's Benny Gantz. The coalition collapsed In December 2020, before the rotation could take place, and a new election was held in March 2021. In his penultimate government, Netanyahu led Israel's response to the COVID-19 pandemic and the 2021 Israel–Palestine crisis. In June 2021, after Naftali Bennett formed a government with Yair Lapid, Netanyahu was removed from the premiership, becoming opposition leader for the third time, before returning as Prime Minister again after forming a coalition with right-wing parties after the 2022 election. Netanyahu and his government coalition partners pursued wide-ranging judicial reform. The judicial reform efforts were met with polarized reaction, with opponents of the judicial reform holding mass protests across the country over the course of many months. On 7 October 2023, Israel suffered a deadly attack by Hamas, triggering the 2023 Israel–Hamas war. Due to the Israeli government's failure to anticipate this attack, Netanyahu has been criticized by opponents for presiding over Israel's biggest intelligence failure in 50 years.Netanyahu made his closeness to Donald Trump, a personal friend since the 1980s, central to his political appeal in Israel from 2016. During Trump's presidency, the United States recognized Jerusalem as the capital of Israel, recognized Israeli sovereignty over the Golan Heights, and brokered the Abraham Accords, a series of normalization agreements between Israel and various Arab states. Netanyahu has faced international criticism over his decades-long policy as prime minister of expanding Israeli settlements in the occupied West Bank, deemed illegal under international law. In 2019, Netanyahu was indicted on charges of breach of trust, bribery and fraud, following a three year investigation, due to which he relinquished all his ministry posts other than the prime minister position.\n\n",
+      "description": "Benjamin Netanyahu, born in 1949, is an Israeli politician and member of the Likud party who has notably served multiple terms as the prime minister of Israel, with his tenure being recognized as the longest in the country's history. Alongside his political contributions, he has also been a prominent figure in Israel's military and economic spheres."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "End to Hamas",
+          "quote": "I mean, initially, of course, he declared there would be an end to Hamas with this great urgency."
+        },
+        {
+          "item": "Remove the threat of Hamas",
+          "quote": "It has to do something. And far from being irrational and emotional to respond to what Hamas has done, it’s actually the most logical thing, to try to remove this organization that just led these bloody massacres in Southern Israel."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Avoid large loss of life",
+          "quote": "If he goes in, there could be a big loss of life or Israeli soldiers, just as there will be an even bigger loss of life for ordinary Palestinians in Gaza."
+        },
+        {
+          "item": "Political Survival",
+          "quote": "So in other words, the decision is also a political one for Netanyahu. I mean, potentially a matter of his political survival."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Delayed ground invasion",
+          "quote": "And that also seems to be the case with this planned invasion of Gaza. But in a sense, that’s Netanyahu’s trademark. He pushes off big decisions until the very last moment."
+        },
+        {
+          "item": "Forming a unity government",
+          "quote": "that’s partly why he was keen to bring in members of the opposition into his government. A couple of weeks ago, he formed a unity government, bringing in some members of the centrist opposition, including two former senior generals"
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Successful destruction of Hamas with minimum casualties",
+          "quote": "And those families know that their loved one might not make it back. And so the whole conversation about an invasion is tinged with a sense of necessity, but also a sense of anxiety and danger."
+        },
+        {
+          "item": "Maintaining political power after the war",
+          "quote": "So there are some people who think that he’s in no rush to start a ground invasion. Because the sooner the invasion begins, the sooner the war ends. And the sooner the war ends, the likelier it is that there will be a threat to his political power."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Salvaging his political career after the failure of defenses",
+          "quote": "And he is the Israeli leader who presided over that failure. And so while Israelis are relatively united at the moment because it’s a war and because they’ve just experienced this huge trauma of October 7th, after the war, it will be a completely different case."
+        },
+        {
+          "item": "Loss of civilian life and international support",
+          "quote": "But as time has gone on and the narrative has shifted away from the villages that were raided in Southern Israel earlier this month to the crowded urban areas of Gaza where thousands of Palestinians have been killed in bomb strikes... you’re starting to see different messages come out from global leaders, one in which they talk about Israel needing to respect international law, avoiding loss of civilian life."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Loss of political power",
+          "quote": "It could collapse his government. That would then lead to a new election. And if the current situation remains the same, then he would struggle to win that election. And he’d be out of power."
+        },
+        {
+          "item": "Fears over a second front opening up with Lebanon",
+          "quote": "One is that if Israel invades Gaza, it is feared that that will then open up a second front with Hezbollah, the Lebanese militia...fear that they (Iran) might get involved even more than they already have done."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Israeli Army",
+          "quote": "It also gives them more time to train...a lot of the people that are massed on the Gazan border are reservists who’ve been called up, several hundred thousand of them."
+        },
+        {
+          "item": "Air Force",
+          "quote": "And I think crucially, it gives the Air Force more time to try and take out Hamas fighters and tunnels from the air."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Palestinian Authority",
+    "description": "Interim self-government body established to govern the West Bank and Gaza Strip",
+    "mentions": 3,
+    "wikipedia": {
+      "id": "24093",
+      "name": "Palestinian National Authority",
+      "extract": "The Palestinian National Authority (PA or PNA; Arabic: السلطة الوطنية الفلسطينية as-Sulṭa al-Waṭanīya al-Filasṭīnīya), commonly known as the Palestinian Authority and officially the State of Palestine, is the Fatah-controlled government body that exercises partial civil control over West Bank areas \"A\" and \"B\" as a consequence of the 1993–1995 Oslo Accords. The Palestinian Authority controlled the Gaza Strip prior to the Palestinian elections of 2006 and the subsequent Gaza conflict between the Fatah and Hamas parties, when it lost control to Hamas; the PA continues to claim the Gaza Strip, although Hamas exercises de facto control. Since January 2013, the Palestinian Authority has used the name \"State of Palestine\" on official documents, although the United Nations continues to recognize the Palestinian Liberation Organization (PLO) as the \"representative of the Palestinian people\".The Palestinian Authority was formed in 1994, pursuant to the Gaza–Jericho Agreement between the PLO and the government of Israel, and was intended to be a five-year interim body. Further negotiations were then meant to take place between the two parties regarding its final status. According to the Oslo Accords, the Palestinian Authority was designated to have exclusive control over both security-related and civilian issues in Palestinian urban areas (referred to as \"Area A\") and only civilian control over Palestinian rural areas (\"Area B\"). The remainder of the territories, including Israeli settlements, the Jordan Valley region and bypass roads between Palestinian communities, were to remain under Israeli control (\"Area C\"). East Jerusalem was excluded from the Accords. Negotiations with several Israeli governments had resulted in the Authority gaining further control of some areas, but control was then lost in some areas when the Israel Defense Forces (IDF) retook several strategic positions during the Second (\"Al-Aqsa\") Intifada. In 2005, after the Second Intifada, Israel withdrew unilaterally from its settlements in the Gaza Strip, thereby expanding Palestinian Authority control to the entire strip while Israel continued to control the crossing points, airspace, and the waters of the Gaza Strip's coast.In the Palestinian legislative elections on 25 January 2006, Hamas emerged victorious and nominated Ismail Haniyeh as the Authority's Prime Minister. However, the national unity Palestinian government effectively collapsed, when a violent conflict between Hamas and Fatah erupted, mainly in the Gaza Strip. After the Gaza Strip was taken over by Hamas on 14 June 2007, the Authority's Chairman Mahmoud Abbas dismissed the Hamas-led unity government and appointed Salam Fayyad as Prime Minister, dismissing Haniyeh. The move wasn't recognized by Hamas, thus resulting in two separate administrations – the Fatah-led Palestinian Authority in the West Bank and a rival Hamas government in the Gaza Strip. The reconciliation process to unite the Palestinian governments achieved some progress over the years, but had failed to produce a re-unification.\nThe Palestinian Authority received financial assistance from the European Union and the United States (approximately US$1 billion combined in 2005). All direct aid was suspended on 7 April 2006, as a result of the Hamas victory in parliamentary elections. Shortly thereafter, aid payments resumed, but were channeled directly to the offices of Mahmoud Abbas in the West Bank. Since 9 January 2009, when Mahmoud Abbas' term as president was supposed to have ended and elections were to have been called, Hamas supporters and many in the Gaza Strip have withdrawn recognition for his presidency and instead consider Aziz Dweik, the speaker of the Palestinian Legislative Council, to be the acting president until new elections can be held.The State of Palestine has become recognized by 138 nations and since November 2012, the United Nations voted to recognize the State of Palestine as a non-member UN observer state. The Palestinian Authority is an authoritarian regime that has not held elections in over 15 years; it has been criticized for human rights abuses, including cracking down on journalists, human rights activists, and dissent against its rule.\n\n",
+      "description": "The Palestinian National Authority, also known as the Palestinian Authority, is the Fatah-controlled government body that exercises partial civil control over certain areas of the West Bank, and has claimed the Gaza Strip despite Hamas' de facto control."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Get rid of Hamas",
+          "quote": "There’s a sense that after what Hamas did on October 7th, there’s no way that Israel could really countenance keeping us in its leadership on their doorstep."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Protect Palestinian citizens",
+          "quote": "it’s the most logical thing, to try to remove this organization that just led these bloody massacres in Southern Israel."
+        },
+        {
+          "item": "Avoid the cycle of conflict",
+          "quote": "if you don’t have a wider plan not just for who runs Gaza, but what to do about the Israeli-Palestinian conflict, how to address the long running challenges and imbalances that have created this conflict, then a certain point down the line, there’s going to be just another explosion and a repeat. And the cycle will go on and on."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Retake the Gaza Strip and govern",
+          "quote": "If and when Israel does retake the Gaza Strip, it’s going to have to decide whether it wants to govern the enclave as it did between 1967 and 2005"
+        },
+        {
+          "item": "Relinquish control of Gaza Strip to Palestinian Authority",
+          "quote": "Whether it wants to relinquish control of it, at least nominally, to some other party. It could do that to the Palestinian Authority, which is the Palestinian body that administers parts of the occupied West Bank."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Hamas is removed from power",
+          "quote": "But then there’s also probably a much bigger group that just wants to get rid of Hamas"
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Large death toll during ground invasion",
+          "quote": "If he goes in, there could be a big loss of life or Israeli soldiers"
+        },
+        {
+          "item": "Lose legitimacy by regaining control over Gaza Strip",
+          "quote": "But if it did that, the Palestinian Authority would face a real crisis of legitimacy, because it would be perceived by many Gazans as having rode back to power on the back of an Israeli tank."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Large death toll and destruction",
+          "quote": "It will likely involve great loss of life, mostly on the Palestinian side. But also for the Israeli soldiers."
+        },
+        {
+          "item": "Loss of support due to airstrikes",
+          "quote": "So Patrick, is there a risk here with these civilian casualties mounting and this deepening humanitarian crisis in Gaza, that the longer the airstrikes continue, the more Israel risks losing support for its ground offensive?"
+        }
+      ],
+      "resources": [
+        {
+          "item": "Negotiation partners like Qatar and Egypt",
+          "quote": "And there are intense negotiations going on, not directly between Hamas and Israel, because they don’t have formal relations. But mediated by Qatar, and to some extent, Egypt."
+        },
+        {
+          "item": "Support from international community",
+          "quote": "And it felt like there was broad global support, particularly from leaders if not citizens for Israel taking essentially defensive action against the group that had enacted all these massacres in Southern Israel, Hamas."
+        }
+      ]
+    }
+  },
+  {
+    "name": "New York Times",
+    "description": "American newspaper based in New York City with worldwide influence and readership",
+    "mentions": 3,
+    "wikipedia": {
+      "id": "30680",
+      "name": "The New York Times",
+      "extract": "The New York Times (NYT) is a daily newspaper based in New York City, with a worldwide reported readership of 740,000 paying subscribers as of 2022, and 8.6 million paying digital subscribers. Founded in 1851 as the New-York Daily Times, it is published by The New York Times Company. The Times has won 132 Pulitzer Prizes, the most of any newspaper, and has long been regarded as a national \"newspaper of record\". For print, it is ranked 17th in the world by circulation and 3rd in the United States. The newspaper is headquartered at The New York Times Building near Times Square, Manhattan.\nThe New York Times Company, which is publicly traded, has been governed by the Sulzberger family since 1896, through a dual-class share structure. A. G. Sulzberger, the paper's publisher and the company's chairman, is the fifth generation of the family to head the paper.Since the mid-1970s, The New York Times has expanded its layout and organization, adding special weekly sections on various topics supplementing the regular news, editorials, sports, and features. The institution's emphasis remains on global and U.S. hard news coverage. Since 2008, the Times has been organized into the following sections: News, Editorials/Opinions-Columns/Op-Ed, New York (metropolitan), Business, Arts, Science, Styles, Home, Travel, and other features. On Sundays, the Times is supplemented by the Sunday Review (formerly the Week in Review), The New York Times Book Review, The New York Times Magazine, and T: The New York Times Style Magazine.",
+      "description": "The New York Times (NYT) is a daily newspaper based in New York City, known for winning the most Pulitzer Prizes of any newspaper, and regarded as a national \"newspaper of record\", with a worldwide readership of 740,000 pay subscribers and 8.6 million digital subscribers as of 2022."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Deliver accurate news and analysis",
+          "quote": "Patrick Kingsley: You’re reaching me on the road between Tel Aviv and Jerusalem. I’ve spent the last nine hours watching security camera footage from a kibbutz in the South called Kibbutz Be’eri, where more than 100 people were killed on October 7th during the Hamas terrorist attacks. And I’ve been trying to research exactly what happened that day to try and piece together the events of the day."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Inform the public",
+          "quote": "Sabrina Tavernise: And Patrick, what is the public sentiment here? I mean, is there a chomping at the bit to invade? How does the Israeli public see this?"
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Investigation and comprehensive reporting",
+          "quote": "Patrick Kingsley: Yes. Benjamin Netanyahu. [MUSIC PLAYING] Sabrina Tavernise: We’ll be right back."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Complete and accurate report",
+          "quote": "Patrick Kingsley: So Patrick, is there a risk here with these civilian casualties mounting and this deepening humanitarian crisis in Gaza, that the longer the airstrikes continue, the more Israel risks losing support for its ground offensive?"
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Lack of resources or access to cover the news",
+          "quote": "Patrick Kingsley: Sabrina Tavernise: So does this mean we’re going to be in this place for a while? Anticipating a ground invasion with really no end in sight of these airstrikes? Patrick Kingsley: Well, anything’s possible. But us reporting on the ground certainly aren’t standing down anytime soon ourselves."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Misinformation or inaccuracies",
+          "quote": "Patrick Kingsley: That’s the million dollar question. Because if and when Israel does retake the Gaza Strip, it’s going to have to decide whether it wants to govern the enclave as it did between 1967 and 2005, or whether it wants to relinquish control of it, at least nominally, to some other party."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Experienced reporters and analysts",
+          "quote": "Patrick Kingsley: I spent the last nine hours... And I’ve been trying to research exactly what happened that day to try and piece together the events of the day."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Qatar",
+    "description": "Country in Western Asia mediating the conflict",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "8238258",
+      "name": "Qatar",
+      "extract": "Qatar (US: ; Arabic: قطر Qaṭar [ˈqɑtˤɑr], local vernacular pronunciation: [ˈɡɪtˤɑr]), officially the State of Qatar, is a country in West Asia. It occupies the Qatar Peninsula on the northeastern coast of the Arabian Peninsula in the Middle East; it shares its sole land border with Saudi Arabia to the south, with the rest of its territory surrounded by the Persian Gulf. The Gulf of Bahrain, an inlet of the Persian Gulf, separates Qatar from nearby Bahrain. The capital is Doha, home to over 80% of the country's inhabitants, and the land area is mostly made up of flat, low-lying desert.\nQatar has been ruled as a hereditary monarchy by the House of Thani since Mohammed bin Thani signed \"an agreement, not a formal treaty\" with Britain in 1868 that recognised its separate status. Following Ottoman rule, Qatar became a British protectorate in 1916, and gained independence in 1971. The current emir is Tamim bin Hamad Al Thani, who holds nearly all executive and legislative authority under the Constitution of Qatar, as well as controlling the judiciary. He appoints the prime minister and cabinet. The partially-elected Consultative Assembly can block legislation and has a limited ability to dismiss ministers.\nIn early 2017, the total population of Qatar was 2.6 million, with 313,000 of them Qatari citizens and 2.3 million expatriates. Its official religion is Islam. In terms of income, the country has the fourth-highest GDP (PPP) per capita in the world, and the eleventh-highest GNI per capita (Atlas method). Qatar ranks 42nd in the Human Development Index, the third-highest HDI in the Arab world. It is a high-income economy, backed by the world's third-largest natural gas reserves and oil reserves. Qatar is one of the world's largest exporters of liquefied natural gas, and the world's largest emitter of carbon dioxide per capita.In the 21st century, Qatar emerged as a middle power in the Arab world through its resource-wealth, as well as its globally expanding media group, Al Jazeera Media Network, and reportedly supporting several rebel groups financially during the Arab Spring. Qatar forms part of the Gulf Cooperation Council. Qatar is a Dialogue partner of the Shanghai Cooperation Organisation. Qatar's human rights record has been regarded by academics and non-governmental organisations as being generally poor, with restrictions on civil liberties such as the freedoms of association, expression and the press, as well as its treatment of thousands of migrant workers amounting to forced labour for projects in the country.",
+      "description": "Qatar is a hereditary monarchy in West Asia, located on the Qatar Peninsula off the northeastern coast of the Arabian Peninsula, with Doha as its capital, a high-income economy driven by natural gas and oil reserves and known for its global media presence through Al Jazeera Media Network."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [
+        {
+          "item": "Mediating negotiations between Israel and Hamas",
+          "quote": "And there are intense negotiations going on, not directly between Hamas and Israel, because they don’t have formal relations. But mediated by Qatar, and to some extent, Egypt."
+        }
+      ],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": []
+    }
+  },
+  {
+    "name": "Egypt",
+    "description": "Country in the northeastern corner of Africa, also involved in mediation",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "8087628",
+      "name": "Egypt",
+      "extract": "Egypt (Arabic: مصر Miṣr [mesˁr], Egyptian Arabic pronunciation: [mɑsˤr]), officially the Arab Republic of Egypt, is a transcontinental country spanning the northeast corner of Africa and the Sinai Peninsula in the southwest corner of Asia. It is bordered by the Mediterranean Sea to the north, the Gaza Strip of Palestine and Israel to the northeast, the Red Sea to the east, Sudan to the south, and Libya to the west. The Gulf of Aqaba in the northeast separates Egypt from Jordan and Saudi Arabia. Cairo is the capital and largest city of Egypt, while Alexandria, the second-largest city, is an important industrial and tourist hub at the Mediterranean coast. At approximately 100 million inhabitants, Egypt is the 14th-most populated country in the world, and the third-most populated in Africa, behind Nigeria and Ethiopia.\nEgypt has one of the longest histories of any country, tracing its heritage along the Nile Delta back to the 6th–4th millennia BCE. Considered a cradle of civilisation, Ancient Egypt saw some of the earliest developments of writing, agriculture, urbanisation, organised religion and central government. Egypt's long and rich cultural heritage is an integral part of its national identity, which reflects its unique transcontinental location being simultaneously Mediterranean, Middle Eastern and North African. Egypt was an early and important centre of Christianity, but was largely Islamised in the seventh century. Modern Egypt dates back to 1922, when it gained independence from the British Empire as a monarchy. Following the 1952 revolution, Egypt declared itself a republic, and in 1958 it merged with Syria to form the United Arab Republic, which dissolved in 1961. Throughout the second half of the 20th century, Egypt endured social and religious strife and political instability, fighting several armed conflicts with Israel in 1948, 1956, 1967 and 1973, and occupying the Gaza Strip intermittently until 1967. In 1978, Egypt signed the Camp David Accords, officially withdrawing from the Gaza Strip and recognising Israel. After the Arab Spring, which led to the 2011 Egyptian revolution and overthrow of Hosni Mubarak, the country faced a protracted period of political unrest. \nEgypt's current government, a semi-presidential republic led by Abdel Fattah el-Sisi since 2014, has been described by a number of watchdogs as authoritarian and responsible for perpetuating the country's poor human rights record. Islam is the official religion of Egypt and Arabic is its official language. The great majority of its people live near the banks of the Nile River, an area of about 40,000 square kilometres (15,000 sq mi), where the only arable land is found. The large regions of the Sahara desert, which constitute most of Egypt's territory, are sparsely inhabited. About 43% of Egypt's residents live across the country's urban areas, with most spread across the densely populated centres of greater Cairo, Alexandria and other major cities in the Nile Delta.\nEgypt is considered to be a regional power in North Africa, the Middle East and the Muslim world, and a middle power worldwide. It is a developing country having  a diversified economy, which is the third-largest in Africa, the 38th-largest economy by nominal GDP and 127th by nominal GDP per capita. Egypt is a founding member of the United Nations, the Non-Aligned Movement, the Arab League, the African Union, Organisation of Islamic Cooperation and the World Youth Forum.",
+      "description": "Egypt, officially the Arab Republic of Egypt, is a transcontinental country in the northeast of Africa and southwest of Asia, known for its rich cultural heritage from ancient civilisations, extensive history, and a populous urban landscape primarily alongside the Nile River, with Cairo as its capital."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": []
+    }
+  },
+  {
+    "name": "Hezbollah",
+    "description": "Lebanese Shia Islamist political party and militant group",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "13919",
+      "name": "Hezbollah",
+      "extract": "Hezbollah (, ; Arabic: حزب الله, romanized: Ḥizbu 'llāh, lit. 'Party of Allah'  or 'Party of God') is a Lebanese Shia Islamist political party and militant group, led since 1992 by its Secretary-General Hassan Nasrallah. Hezbollah's paramilitary wing is the Jihad Council, and its political wing is the Loyalty to the Resistance Bloc party in the Lebanese Parliament.\nHezbollah was established in the wake of the 1982 Lebanon War by Lebanese clerics who had studied in Najaf. It adopted the model set out by Ayatollah Khomeini after the Iranian Revolution in 1979, and the party's founders adopted \"Hezbollah\" as the name chosen by Khomeini. The organization was created with the support of 1,500 Islamic Revolutionary Guard Corps instructors, and aggregated a variety of Lebanese Shia groups into a unified organization to resist the Israeli occupation of Southern Lebanon. During the Lebanese Civil War, Hezbollah's 1985 manifesto listed its objectives as the expulsion of \"the Americans, the French and their allies definitely from Lebanon, putting an end to any colonialist entity on our land\". From 1985 to 2000, Hezbollah also participated in the 1985–2000 South Lebanon conflict against the South Lebanon Army (SLA) and Israel Defense Forces (IDF), and fought again with the IDF in the 2006 Lebanon War. During the 1990s, Hezbollah also organized volunteers to fight for the Army of the Republic of Bosnia and Herzegovina during the Bosnian War.Since 1990, Hezbollah has participated in Lebanese politics, in a process which is described as the Lebanonisation of Hezbollah, and it later participated in the government of Lebanon and joined political alliances. After the 2006–08 Lebanese protests and clashes, a national unity government was formed in 2008, with Hezbollah and its opposition allies obtaining 11 of 30 cabinet seats, enough to give them veto power. In August 2008, Lebanon's new cabinet unanimously approved a draft policy statement that recognizes Hezbollah's existence as an armed organization and guarantees its right to \"liberate or recover occupied lands\" (such as the Shebaa Farms). Hezbollah is part of Lebanon's March 8 Alliance, in opposition to the March 14 Alliance. It maintains strong support among Lebanese Shia Muslims, while Sunnis have disagreed with its agenda. Hezbollah also has support in some Christian areas of Lebanon. Since 2012, Hezbollah involvement in the Syrian civil war has seen it join the Syrian government in its fight against the Syrian opposition, which Hezbollah has described as a Zionist plot and a \"Wahhabi-Zionist conspiracy\" to destroy its alliance with Bashar al-Assad against Israel. Between 2013 and 2015, the organisation deployed its militia in both Syria and Iraq to fight or train local militias to fight against the Islamic State. In the 2018 Lebanese general election, Hezbollah held 12 seats and its alliance won the election by gaining 70 out of 128 seats in the Parliament of Lebanon.From 2006, the group's military strength grew significantly, to the extent that its paramilitary wing became more powerful than the Lebanese Army. Hezbollah has been described as a \"state within a state\", and has grown into an organization with seats in the Lebanese government, a radio and a satellite TV station, social services and large-scale military deployment of fighters beyond Lebanon's borders. The group currently receives military training, weapons, and financial support from Iran and political support from Syria, although the sectarian nature of the Syrian war has damaged the group's legitimacy. In 2021, Nasrallah said the group had 100,000 fighters. Either the entire organization or only its military wing has been designated a terrorist organization by several countries, including by the European Union and, since 2017, also by most member states of the Arab League, with two exceptions – Lebanon, where Hezbollah is one of the country's most influential political parties, and Iraq. Russia does not view Hezbollah as a \"terrorist organization\" but as a \"legitimate socio-political force\".\n\n",
+      "description": "Hezbollah is a Lebanese Shia Islamist political party and militant group, established in 1982, that has both a paramilitary wing, the Jihad Council, and a political wing represented in the Lebanese Parliament, with significant support among Lebanese Shia Muslims and some Christian areas."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [
+        {
+          "item": "Open a second front with Israel",
+          "quote": "One is that if Israel invades Gaza, it is feared that that will then open up a second front with Hezbollah, the Lebanese militia that dominates Southern Lebanon, which is allied to Hamas."
+        }
+      ],
+      "good_scenarios": [],
+      "bad_scenarios": [
+        {
+          "item": "Being attacked during an Israel invasion of Gaza",
+          "quote": "Then there’s the fact that Hamas is very well dug in underneath its stronghold of Gaza City. It has hundreds of miles of tunnels that it’s burrowed away over the last decade and a half. And it’s very hard to get to them there, and it’s very easy for their fighters to pop up through openings in the ground and ambush the incoming Israeli army."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Being attacked during an Israel invasion of Gaza",
+          "quote": "Then there’s the fact that Hamas is very well dug in underneath its stronghold of Gaza City. It has hundreds of miles of tunnels that it’s burrowed away over the last decade and a half. And it’s very hard to get to them there, and it’s very easy for their fighters to pop up through openings in the ground and ambush the incoming Israeli army."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Network of subterrean fortifications in Gaza",
+          "quote": "Then there’s the fact that Hamas is very well dug in underneath its stronghold of Gaza City. It has hundreds of miles of tunnels that it’s burrowed away over the last decade and a half. And it’s very hard to get to them there, and it’s very easy for their fighters to pop up through openings in the ground and ambush the incoming Israeli army."
+        },
+        {
+          "item": "Alliance with Hamas ",
+          "quote": "One is that if Israel invades Gaza, it is feared that that will then open up a second front with Hezbollah, the Lebanese militia that dominates Southern Lebanon, which is allied to Hamas."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Iran",
+    "description": "Islamic Republic in Western Asia, backing Hamas",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "14653",
+      "name": "Iran",
+      "extract": "Iran, also known as Persia and officially the Islamic Republic of Iran (IRI), is a country in West Asia (Near Europe). It is bordered by Iraq to the west and Turkey to the northwest, Azerbaijan, Armenia, the Caspian Sea and Turkmenistan to the north, Afghanistan to the east, Pakistan to the southeast, the Gulf of Oman and the Persian Gulf to the south. It covers an area of 1.64 million square kilometers (0.63 million square miles), making it the 17th-largest country only behind Libya. With an estimated population of around 87 million as of 2023, Iran is the world's 17th-most populous country, and the second largest country in the Middle East. Its capital and largest city is Tehran with around 16 million people in its metropolitan area.\nIran is home to one of the world's oldest civilizations, beginning with the formation of the Elamite kingdoms in the fourth millennium BC. It was first unified by the Medes in the seventh century BC and reached its territorial height in the sixth century BC, when Cyrus the Great founded the Achaemenid Empire. Alexander the Great conquered the empire in the fourth century BC and it was subsequently divided into several Hellenistic states. An Iranian rebellion established the Parthian Empire in the third century BC, which was succeeded in the third century AD by the Sasanian Empire. Arab Muslims conquered the empire in the seventh century AD, leading to its Islamization; Iran thereafter became a major center of Islamic culture and learning. Over the next two centuries, a series of native Iranian Muslim dynasties emerged before the Seljuk Turks and the Mongols conquered the region. In the 16th century, the native Safavids re-established a unified Iranian state. Under the reign of Nader Shah in the 18th century, Iran presided over the most powerful military in the world, though by the 19th century, a series of conflicts with the Russian Empire led to significant territorial losses. The early 20th century saw the Persian Constitutional Revolution. Efforts to nationalize its fossil fuel supply led to an Anglo-American coup in 1953. After the Iranian Revolution, the current Islamic Republic was established in 1979 by Ruhollah Khomeini, who became the country's first supreme leader.\nThe government of Iran is an Islamic theocracy with a presidential system, though ultimate authority is vested in an autocratic \"Supreme Leader\"; the position has been held by Ali Khamenei since Ayatollah Khomeini's death in 1989. Iranian government is authoritarian, and has attracted widespread criticism for its significant constraints and violations of human rights and civil liberties. It is also a focal point for Shia Islam within the Middle East. Since the Iranian Revolution, the country is widely considered to be the most determined adversary of Israel and Saudi Arabia. Iran is also considered to be one of the biggest players within Middle Eastern affairs, with its government being involved both directly and indirectly in the majority of modern Middle Eastern conflicts. Its aggressive foreign policy in the region, marked by sponsorship of numerous Khomeinist militant groups, has been widely condemned.\nIran is a regional and middle power and occupies a strategic location in the Asian continent. It is a founding member of the United Nations, the ECO, the OIC, and the OPEC. It is expected to join BRICS on 1 January 2024. It has large reserves of fossil fuels—including the second largest natural gas supply and the third-largest proven oil reserves. The country's rich cultural legacy is reflected in part by its 26 UNESCO World Heritage Sites. Historically a multi-ethnic country, Iran remains a pluralistic society comprising numerous ethnic, linguistic, and religious groups, with the largest of these being the Persians, Azeris, Kurds, Mazanderanis, and Lurs.\n\n",
+      "description": "Iran, officially known as the Islamic Republic of Iran, is a West Asian country with a rich cultural history dating back to one of the world's oldest civilizations, and it now holds strategic significance due its large reserves of natural gas and oil, and its controversial involvement in regional and international affairs."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [
+        {
+          "item": "May influence Hamas operations in Gaza",
+          "quote": "And Hamas is backed by Iran. So there’s a fear that they might get involved even more than they already have done."
+        }
+      ],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Sponsorship of Hamas",
+          "quote": "And Hamas is backed by Iran."
+        }
+      ]
+    }
+  }
+]
