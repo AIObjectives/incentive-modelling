@@ -1,0 +1,33 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+This document does not provide specific information about Chevron Corporation's stated goals, main motivations, possible actions, considered good and bad scenarios, main fears and concerns, or resources. The document mainly discusses some global political issues and conflicts, the general idea of companies profiting from war, and politicians' potential conflicts of interest. Chevron Corporation's name, indeed, does come up once, but only in passing, and without any related specifics or details. Thus, it's not possible to provide answers to the questions based on the provided document. For valid answers to these questions, please supply a document that contains specific, detailed information about Chevron Corporation.
+
+=== RESULTS ===
+
+{
+"This document": {
+"content": "This document does not provide specific information about Chevron Corporation's stated goals, main motivations, possible actions, considered good and bad scenarios, main fears and concerns, or resources. The document mainly discusses some global political issues and conflicts, the general idea of companies profiting from war, and politicians' potential conflicts of interest. Chevron Corporation's name, indeed, does come up once, but only in passing, and without any related specifics or details. Thus, it's not possible to provide answers to the questions based on the provided document. For valid answers to these questions, please supply a document that contains specific, detailed information about Chevron Corporation.",
+
+"chevron_corporation": {
+   "mentioned": "once", 
+   "context": "in passing", 
+   "specifics": "none"},
+   
+"missing_information": 
+   ["company goals", 
+   "main motivations", 
+   "possible actions", 
+   "considered good and bad scenarios", 
+   "main fears and concerns", 
+   "resources"]
+   }
+}

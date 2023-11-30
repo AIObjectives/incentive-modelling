@@ -1,0 +1,32 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+{
+  "stated_goals": [{"item": "Not explicitly mentioned", "quote": ""}], 
+  "main_motivations": [{"item": "Ensuring regional stability", "quote": "So far, thanks in large part to President Biden’s strong deterrence, it appears other Arabic nations, especially Egypt and Jordan, are not rushing to support Hamas in any substantive ways, rhetorical flourishes aside."}], 
+  "possible_actions": [{"item": "Engaging diplomatically to ensure regional stability", "quote": "So far, thanks in large part to President Biden’s strong deterrence, it appears other Arabic nations, especially Egypt and Jordan, are not rushing to support Hamas in any substantive ways, rhetorical flourishes aside."}], 
+  "good_scenarios": [{"item": "Continued peace and collaboration in the region", "quote": "These nations along with the UAE, Bahrain, and Morocco have increased peaceful trade and economic cooperation with Israel over the last few years."}], 
+  "bad_scenarios": [{"item": "Escalation of violence and conflict", "quote": "A repeat of the Yom Kippur War scenario fifty years ago today, in which the Arab nations joined into a unified military coalition against Israel, is unlikely."}], 
+  "main_fears": [{"item": "Regional instability due to escalating violence", "quote": "So far, thanks in large part to President Biden’s strong deterrence, it appears other Arabic nations, especially Egypt and Jordan, are not rushing to support Hamas in any substantive ways, rhetorical flourishes aside."}], 
+  "resources": [{"item": "Not explicitly mentioned", "quote": ""}], 
+}
+
+=== RESULTS ===
+
+{
+  "stated_goals": [{"item": "Not explicitly mentioned", "quote": ""}], 
+  "main_motivations": [{"item": "Ensuring regional stability", "quote": "So far, thanks in large part to President Biden’s strong deterrence, it appears other Arabic nations, especially Egypt and Jordan, are not rushing to support Hamas in any substantive ways, rhetorical flourishes aside."}], 
+  "possible_actions": [{"item": "Engaging diplomatically to ensure regional stability", "quote": "So far, thanks in large part to President Biden’s strong deterrence, it appears other Arabic nations, especially Egypt and Jordan, are not rushing to support Hamas in any substantive ways, rhetorical flourishes aside."}], 
+  "good_scenarios": [{"item": "Continued peace and collaboration in the region", "quote": "These nations along with the UAE, Bahrain, and Morocco have increased peaceful trade and economic cooperation with Israel over the last few years."}], 
+  "bad_scenarios": [{"item": "Escalation of violence and conflict", "quote": "A repeat of the Yom Kippur War scenario fifty years ago today, in which the Arab nations joined into a unified military coalition against Israel, is unlikely."}], 
+  "main_fears": [{"item": "Regional instability due to escalating violence", "quote": "So far, thanks in large part to President Biden’s strong deterrence, it appears other Arabic nations, especially Egypt and Jordan, are not rushing to support Hamas in any substantive ways, rhetorical flourishes aside."}], 
+  "resources": [{"item": "Not explicitly mentioned", "quote": ""}]
+}

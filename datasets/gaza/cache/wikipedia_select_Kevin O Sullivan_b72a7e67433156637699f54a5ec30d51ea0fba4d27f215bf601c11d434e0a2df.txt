@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Kevin O Sullivan" which was described 
+as "Possible reference to a presenter on talk TV, mentioned in the transcript." and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Kevin Sullivan (wrestler)",
+    "pageid": 1691016,
+    "snippet": "<span class=\"searchmatch\">Kevin</span> Francis <span class=\"searchmatch\">Sullivan</span> (born October 26, 1949) is an American retired professional wrestler and booker, perhaps best known for his role in World Championship"
+  },
+  {
+    "title": "Kevin O'Sullivan",
+    "pageid": 28461965,
+    "snippet": "(politician) (born 1953), American politician and non-profit executive <span class=\"searchmatch\">Kevin</span> <span class=\"searchmatch\">Sullivan</span> (disambiguation) This disambiguation page lists articles about people"
+  },
+  {
+    "title": "2023 Bohemian F.C. season",
+    "pageid": 72803360,
+    "snippet": "28 April 2023 12 UCD 1-1 Bohemians Belfield 19:45 Doyle 88' Report Afolabi 53' Stadium: Belfield Bowl Attendance: 1567 Referee: <span class=\"searchmatch\">Kevin</span> <span class=\"searchmatch\">O</span>’ <span class=\"searchmatch\">Sullivan</span>"
+  },
+  {
+    "title": "American Pie (film)",
+    "pageid": 2580403,
+    "snippet": "accuses <span class=\"searchmatch\">Kevin</span> of wanting her only for sex so he has to repair their relationship before senior prom, now the target day for the four. <span class=\"searchmatch\">Kevin's</span> older brother"
+  },
+  {
+    "title": "Sullivan (surname)",
+    "pageid": 10402111,
+    "snippet": "H I J K L M N <span class=\"searchmatch\">O</span> P Q R S T U V W X Y Z Alexander Martin <span class=\"searchmatch\">Sullivan</span>, Irish politician Andi <span class=\"searchmatch\">Sullivan</span>, American soccer player Andrew <span class=\"searchmatch\">Sullivan</span>, conservative"
+  },
+  {
+    "title": "Field Medic",
+    "pageid": 55872579,
+    "snippet": "Field Medic is the stage name of American lo-fi musician <span class=\"searchmatch\">Kevin</span> Patrick <span class=\"searchmatch\">Sullivan</span>. <span class=\"searchmatch\">Sullivan</span> began releasing music with his older brother Sean in 2009, initially"
+  },
+  {
+    "title": "Peter Stebbings",
+    "pageid": 1575856,
+    "snippet": "Mysteries&quot;. <span class=\"searchmatch\">o</span>.canada.com. October 4, 2013. Retrieved September 30, 2016. Janet Thompson (September 12, 2012). &quot;TIFF rising star Charlotte <span class=\"searchmatch\">Sullivan</span> is no rookie&quot;"
+  },
+  {
+    "title": "Margin Call",
+    "pageid": 27863892,
+    "snippet": "avoided bankruptcy. <span class=\"searchmatch\">Kevin</span> Spacey as Sam Rogers Paul Bettany as Will Emerson Jeremy Irons as John Tuld Zachary Quinto as Peter <span class=\"searchmatch\">Sullivan</span> Penn Badgley as Seth"
+  },
+  {
+    "title": "Fr. O'Neill's GAA",
+    "pageid": 27889279,
+    "snippet": "Senior A Championship on 9 October 2022. Captains Rob Culliane and <span class=\"searchmatch\">Kevin</span> <span class=\"searchmatch\">O</span> <span class=\"searchmatch\">Sullivan</span> lifted the cup and Billy Dunne received the Man of the Match award"
+  },
+  {
+    "title": "Kevin Morby",
+    "pageid": 41445340,
+    "snippet": "<span class=\"searchmatch\">Kevin</span> Robert Morby is an American musician, singer, and songwriter. A former member of Woods and The Babies, Morby has released seven solo studio albums:"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+28461965

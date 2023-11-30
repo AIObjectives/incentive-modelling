@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "General Dynamics" which was described 
+as "American multinational corporation that operates in the aerospace and defense sector" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "General Dynamics",
+    "pageid": 52108,
+    "snippet": "<span class=\"searchmatch\">General</span> <span class=\"searchmatch\">Dynamics</span> Corporation (GD) is an American publicly traded aerospace and defense corporation headquartered in Reston, Virginia. As of 2020, it was"
+  },
+  {
+    "title": "General Dynamics Ajax",
+    "pageid": 43742427,
+    "snippet": "Vehicle), is a group of armoured fighting vehicles being developed by <span class=\"searchmatch\">General</span> <span class=\"searchmatch\">Dynamics</span> UK for the British Army. It has suffered serious development and production"
+  },
+  {
+    "title": "General Dynamics F-111 Aardvark",
+    "pageid": 202894,
+    "snippet": "The <span class=\"searchmatch\">General</span> <span class=\"searchmatch\">Dynamics</span> F-111 Aardvark is a retired supersonic, medium-range, multirole combat aircraft. Production models of the F-111 had roles that included"
+  },
+  {
+    "title": "General Dynamics Griffin",
+    "pageid": 63775323,
+    "snippet": "The <span class=\"searchmatch\">General</span> <span class=\"searchmatch\">Dynamics</span> Griffin is a series of armored fighting vehicles under development by <span class=\"searchmatch\">General</span> <span class=\"searchmatch\">Dynamics</span> Land Systems (GDLS) for the United States"
+  },
+  {
+    "title": "General Dynamics Electric Boat",
+    "pageid": 36976,
+    "snippet": "72.079526°W﻿ / 41.344343; -72.079526 <span class=\"searchmatch\">General</span> <span class=\"searchmatch\">Dynamics</span> Electric Boat (GDEB) is a subsidiary of <span class=\"searchmatch\">General</span> <span class=\"searchmatch\">Dynamics</span> Corporation. It has been the primary builder"
+  },
+  {
+    "title": "General Dynamics–Grumman EF-111A Raven",
+    "pageid": 3685692,
+    "snippet": "The <span class=\"searchmatch\">General</span> <span class=\"searchmatch\">Dynamics</span>–Grumman EF-111A Raven is a retired electronic-warfare aircraft designed to replace the EB-66 Destroyer in the United States Air Force"
+  },
+  {
+    "title": "General Dynamics Land Systems",
+    "pageid": 1638159,
+    "snippet": "<span class=\"searchmatch\">General</span> <span class=\"searchmatch\">Dynamics</span> Land Systems (GDLS) is a manufacturer of military vehicles such as tanks and lighter armored fighting vehicles. In February 1982 Chrysler"
+  },
+  {
+    "title": "General Dynamics–Grumman F-111B",
+    "pageid": 22217525,
+    "snippet": "The <span class=\"searchmatch\">General</span> <span class=\"searchmatch\">Dynamics</span>–Grumman F-111B is a long-range carrier-based interceptor aircraft planned as a follow-on to the F-4 Phantom II for the United States"
+  },
+  {
+    "title": "General Dynamics Flyer",
+    "pageid": 40352741,
+    "snippet": "Flyer Advanced Light Strike Vehicle platform has been developed by <span class=\"searchmatch\">General</span> <span class=\"searchmatch\">Dynamics</span> Ordnance and Tactical Systems (GD-OTS), in partnership with Flyer Defense"
+  },
+  {
+    "title": "Dynamics",
+    "pageid": 8386,
+    "snippet": "Look up <span class=\"searchmatch\">dynamics</span> or dynamic in Wiktionary, the free dictionary. <span class=\"searchmatch\">Dynamics</span> (from Greek δυναμικός dynamikos &quot;powerful&quot;, from δύναμις dynamis &quot;power&quot;) or dynamic"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+52108

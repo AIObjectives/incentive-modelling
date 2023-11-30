@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Benjamin Netanyahu" which was described 
+as "Israeli politician; Prime minister of Israel at the time of the document" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Benjamin Netanyahu",
+    "pageid": 56472,
+    "snippet": "<span class=\"searchmatch\">Benjamin</span> &quot;Bibi&quot; <span class=\"searchmatch\">Netanyahu</span> (/ˌnɛtənˈjɑːhuː/ NET-ən-YAH-hoo; Hebrew: בִּנְיָמִין נְתַנְיָהוּ, romanized: Binyāmīn <span class=\"searchmatch\">Nētanyāhū</span>, pronounced [binjaˈmin netanˈjahu]"
+  },
+  {
+    "title": "Trial of Benjamin Netanyahu",
+    "pageid": 54905312,
+    "snippet": "The trial of <span class=\"searchmatch\">Benjamin</span> <span class=\"searchmatch\">Netanyahu</span> began following investigations into allegations of bribery, fraud, and breach of trust by him and close political allies"
+  },
+  {
+    "title": "Yonatan Netanyahu",
+    "pageid": 473647,
+    "snippet": "and 2022–present). Both <span class=\"searchmatch\">Benjamin</span> and their younger brother Iddo <span class=\"searchmatch\">Netanyahu</span> have also served in Sayeret Matkal. Yonatan <span class=\"searchmatch\">Netanyahu</span> was born in New York City"
+  },
+  {
+    "title": "Sara Netanyahu",
+    "pageid": 35087469,
+    "snippet": "Sara <span class=\"searchmatch\">Netanyahu</span> (Hebrew: שרה נתניהו; née Ben-Artzi; born 5 November 1958)[citation needed] is the wife of Israeli Prime Minister <span class=\"searchmatch\">Benjamin</span> <span class=\"searchmatch\">Netanyahu</span>. By"
+  },
+  {
+    "title": "Yair Netanyahu",
+    "pageid": 56790874,
+    "snippet": "eldest son of the Israeli Prime Minister <span class=\"searchmatch\">Benjamin</span> <span class=\"searchmatch\">Netanyahu</span>. Yair <span class=\"searchmatch\">Netanyahu</span> was born in Jerusalem to <span class=\"searchmatch\">Benjamin</span> <span class=\"searchmatch\">Netanyahu</span> and his wife Sara. He has a brother"
+  },
+  {
+    "title": "Benzion Netanyahu",
+    "pageid": 21901391,
+    "snippet": "assistant to <span class=\"searchmatch\">Benjamin</span> Azkin, Ze'ev Jabotinsky's personal secretary. <span class=\"searchmatch\">Netanyahu</span> was the father of current Israeli Prime Minister <span class=\"searchmatch\">Benjamin</span> <span class=\"searchmatch\">Netanyahu</span>; Yonatan"
+  },
+  {
+    "title": "Iddo Netanyahu",
+    "pageid": 1415554,
+    "snippet": "<span class=\"searchmatch\">Netanyahu</span> (Hebrew: עדו נתניהו; born July 24, 1952) is an Israeli physician, author, and playwright. He is the younger brother of <span class=\"searchmatch\">Benjamin</span> <span class=\"searchmatch\">Netanyahu</span>,"
+  },
+  {
+    "title": "Likud",
+    "pageid": 206984,
+    "snippet": "candidate <span class=\"searchmatch\">Benjamin</span> <span class=\"searchmatch\">Netanyahu</span> won the vote for Prime Minister in 1996 and was given the task of forming a government after the 1996 elections. <span class=\"searchmatch\">Netanyahu's</span> government"
+  },
+  {
+    "title": "Elisha Netanyahu",
+    "pageid": 23745967,
+    "snippet": "Mathematics. Historian Benzion <span class=\"searchmatch\">Netanyahu</span> was his brother, while current Israeli Prime Minister <span class=\"searchmatch\">Benjamin</span> <span class=\"searchmatch\">Netanyahu</span> is his nephew. <span class=\"searchmatch\">Netanyahu</span> was born in Warsaw, Poland"
+  },
+  {
+    "title": "Netanyahu (surname)",
+    "pageid": 480907,
+    "snippet": "(yahoodhi nuhoroppaanu ) <span class=\"searchmatch\">Benjamin</span> <span class=\"searchmatch\">Netanyahu</span> (born 1949), Prime Minister of Israel 1996–1999 and 2009–2021, 2022–present Benzion <span class=\"searchmatch\">Netanyahu</span> (1910–2012), Israeli"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+56472

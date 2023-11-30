@@ -1,0 +1,17 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Nádine
+Long description: Nádine Hoffeldt (born 28 February 1982) is a South African Afrikaans pop singer and presenter, best known for the hit song "Kaapse Draai". She has also recorded a number of songs in English.
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+Nádine Hoffeldt, born 28th February 1982, is a South African Afrikaans pop singer and presenter, popularly known for her hit song "Kaapse Draai".

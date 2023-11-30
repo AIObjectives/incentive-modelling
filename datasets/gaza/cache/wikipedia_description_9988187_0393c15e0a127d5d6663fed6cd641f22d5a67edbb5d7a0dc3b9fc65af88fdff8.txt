@@ -1,0 +1,18 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Twitter
+Long description: X, formerly known as Twitter, is an online social media and social networking service operated by the American company X Corp., the successor of Twitter, Inc. On X, registered users can post text, images and videos. Users can also "like", repost, quote repost, comment on posts, direct message, video and audio call, bookmark, join lists and communities, and join public Spaces with other registered users. Registered users can also leave Community Notes to add context to posts by other registered users. Posting information to the site is often referred to as tweeting, retweeting and quote tweeting. Although the service was renamed to "X", its primary website address remains twitter.com as of November 2023, with the x.com domain name redirecting to that address.
+Twitter was created in March 2006 by Jack Dorsey, Noah Glass, Biz Stone, and Evan Williams. It was launched in July of that year. Its parent company, Twitter, Inc., was based in San Francisco, California and had more than 25 offices around the world. By 2012, more than 100 million users produced 340 million tweets a day, and the service handled an average of 1.6 billion search queries per day. In 2013, it was one of the world's ten most-visited websites. By the start of 2019, Twitter had more than 330 million monthly active users. In practice, the vast majority of tweets are produced by a minority of users. In 2020, it was estimated that approximately 48 million accounts (15% of all accounts) were not genuine people.In October 2022, billionaire Elon Musk acquired Twitter for US$44 billion, gaining control of the platform and becoming CEO. Since the acquisition, the platform has been criticized for facilitating an increase in hate speech. Linda Yaccarino succeeded Musk as CEO on June 5, 2023, with Musk remaining as Chairman and CTO. In July 2023, Musk announced that Twitter would be rebranded to X and that the bird logo would be retired. At the end of October 2023, the company estimated its own value at $19 billion (down about 5% from its $20 billion estimate in March 2023), based on the price it used for issuing restricted stock in its employee stock compensation plan.
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+Twitter, now known as X, is an online social media and networking platform where registered users can post content, interact and join communities, which was bought by Elon Musk in 2022 and subsequently rebranded in 2023.

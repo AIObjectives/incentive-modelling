@@ -1,0 +1,27 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+I'm sorry but the document you have provided does not contain specific information related to China regarding your asked questions. Therefore, it would not be possible to provide a suitable response as per the outlined format. 
+
+However, if you could provide a document that includes information in relation to the desired topics, I'd be happy to help analyze it!
+
+=== RESULTS ===
+
+The given string cannot be converted into JSON format without structured data. However, as per your requirement, I'm providing an example of this text in JSON format.
+
+```json
+{
+  "response": {
+    "text": "I'm sorry but the document you have provided does not contain specific information related to China regarding your asked questions. Therefore, it would not be possible to provide a suitable response as per the outlined format.",
+    "suggestion": "However, if you could provide a document that includes information in relation to the desired topics, I'd be happy to help analyze it!"
+  }
+}
+```

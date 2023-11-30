@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Mike" which was described 
+as "Could reference to 'Mike gra', possibly a host from an earlier segment on the same station." and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Mike",
+    "pageid": 19668596,
+    "snippet": "Look up <span class=\"searchmatch\">Mike</span> or <span class=\"searchmatch\">mike</span> in Wiktionary, the free dictionary. <span class=\"searchmatch\">Mike</span> may refer to: <span class=\"searchmatch\">Mike</span> (cat), cat and guardian of the British Museum <span class=\"searchmatch\">Mike</span> the Headless Chicken"
+  },
+  {
+    "title": "Mike (Twin Peaks)",
+    "pageid": 8459478,
+    "snippet": "Phillip Michael Gerard (aka <span class=\"searchmatch\">Mike</span>) is a character in the TV series Twin Peaks, portrayed by Al Strobel. <span class=\"searchmatch\">Mike</span> is an inhabiting spirit similar to the primary"
+  },
+  {
+    "title": "Mike & Mike",
+    "pageid": 1577041,
+    "snippet": "<span class=\"searchmatch\">Mike</span> &amp; <span class=\"searchmatch\">Mike</span> (formerly <span class=\"searchmatch\">Mike</span> &amp; <span class=\"searchmatch\">Mike</span> in the Morning) was an American sports-talk radio show that was hosted by <span class=\"searchmatch\">Mike</span> Greenberg and <span class=\"searchmatch\">Mike</span> Golic on ESPN networks"
+  },
+  {
+    "title": "Mike Johnson (politician)",
+    "pageid": 46274605,
+    "snippet": "about new House Speaker <span class=\"searchmatch\">Mike</span> Johnson&quot;. Axios. Archived from the original on October 25, 2023. Retrieved October 25, 2023. &quot;Meet <span class=\"searchmatch\">Mike</span>&quot;. Member of Congress"
+  },
+  {
+    "title": "Mike Tyson",
+    "pageid": 39027,
+    "snippet": "former professional boxer who competed from 1985 to 2005. Nicknamed &quot;Iron <span class=\"searchmatch\">Mike</span>&quot; and &quot;Kid Dynamite&quot; in his early career, and later known as &quot;the Baddest"
+  },
+  {
+    "title": "Mike Pence",
+    "pageid": 391324,
+    "snippet": "<span class=\"searchmatch\">Mike</span>). Greg and <span class=\"searchmatch\">Mike</span> are similar enough in appearance that Greg once successfully acted as a decoy to lure the press away from his brother when <span class=\"searchmatch\">Mike</span> Pence"
+  },
+  {
+    "title": "Mike Marshall",
+    "pageid": 1152465,
+    "snippet": "<span class=\"searchmatch\">Mike</span> Marshall may refer to: <span class=\"searchmatch\">Mike</span> Marshall (outfielder) (born 1960), American Major League Baseball outfielder, 1981–1991 <span class=\"searchmatch\">Mike</span> Marshall (pitcher) (1943–2021)"
+  },
+  {
+    "title": "Mike Walsh",
+    "pageid": 1975388,
+    "snippet": "<span class=\"searchmatch\">Mike</span> Walsh may refer to: <span class=\"searchmatch\">Mike</span> Walsh (TV host) (born 1938), host of the Australian television program The <span class=\"searchmatch\">Mike</span> Walsh Show <span class=\"searchmatch\">Mike</span> Walsh (UP), executive for"
+  },
+  {
+    "title": "Mike Krzyzewski",
+    "pageid": 421034,
+    "snippet": "turns <span class=\"searchmatch\">Mike</span> Krzyzewski's Cameron Indoor Stadium finale into its own celebration&quot;. CBSSports.com. Retrieved March 6, 2022. &quot;Coach K's farewell tour: <span class=\"searchmatch\">Mike</span> Krzyzewski's"
+  },
+  {
+    "title": "Open Mike with Mike Bullard",
+    "pageid": 483887,
+    "snippet": "Open-<span class=\"searchmatch\">Mike</span> with <span class=\"searchmatch\">Mike</span> Bullard was a Canadian late-night talk show which was broadcast live from 1997 to 2003 on CTV and on The Comedy Network in primetime"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+1577041

@@ -1,0 +1,24 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+I'm sorry, but the document provided doesn't contain any specific information about the city of Los Angeles relevant to the questions you've asked. 
+
+However, since Los Angeles is mentioned in the context of being the home of comedic and political figure Bassam Youssef, I can provide limited insight related to his perspective on life in Los Angeles. Unfortunately, this is likely not what you are looking for as the document does not provide any specific information about the goals, motivations, actions, scenarios, fears, or resources of Los Angeles as a city.
+
+If you have another document or more specific questions about Bassam Youssef’s point of view living in Los Angeles as stated in the document, I would be glad to help analyze that.
+
+=== RESULTS ===
+
+{
+  "message": "I'm sorry, but the document provided doesn't contain any specific information about the city of Los Angeles relevant to the questions you've asked.",
+  "context": "However, since Los Angeles is mentioned in the context of being the home of comedic and political figure Bassam Youssef, I can provide limited insight related to his perspective on life in Los Angeles. Unfortunately, this is likely not what you are looking for as the document does not provide any specific information about the goals, motivations, actions, scenarios, fears, or resources of Los Angeles as a city.",
+  "suggestion": "If you have another document or more specific questions about Bassam Youssef’s point of view living in Los Angeles as stated in the document, I would be glad to help analyze that."
+}

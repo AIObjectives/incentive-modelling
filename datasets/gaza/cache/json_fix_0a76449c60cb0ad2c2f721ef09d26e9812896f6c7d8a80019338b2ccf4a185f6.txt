@@ -1,0 +1,21 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+I'm sorry for any misunderstanding, but the document provided does not contain any information related to Google LLC. It mainly includes a transcription of a conversation that seems to discuss various geopolitical issues and conflicts, particularly related to Israel and Palestine. As such, it is not possible to give answers to the questions about Google's goals, motivations, possible actions, scenarios, main fears, and resources based on the provided document. 
+
+Could you please provide the correct document related to Google LLC for accurate analysis and answers?
+
+=== RESULTS ===
+
+{
+  "message": "I'm sorry for any misunderstanding, but the document provided does not contain any information related to Google LLC. It mainly includes a transcription of a conversation that seems to discuss various geopolitical issues and conflicts, particularly related to Israel and Palestine. As such, it is not possible to give answers to the questions about Google's goals, motivations, possible actions, scenarios, main fears, and resources based on the provided document.",
+  "request": "Could you please provide the correct document related to Google LLC for accurate analysis and answers?"
+}

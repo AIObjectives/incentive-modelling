@@ -1,0 +1,92 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+The document doesn't provide specific insights about Lockheed Martin for all the question categories you've asked, however, based on the available information, here are a few relevant excerpts. 
+
+{
+  "stated_goals": [],
+  "main_motivations": 
+  [
+    {
+      "item": "Profit from military conflicts",
+      "quote": "military experts are predicting record profits for weapons manufacturers as always happens in war and that's a brutal reality I suppose"
+    }
+  ], 
+  "possible_actions": 
+  [
+    {
+      "item": "Selling more missiles in the time of conflict",
+      "quote": "when most of us are thinking where do you find a unifying truth in this complex and horrific matter that there are people in Congress paid for by you elected to serve you that are right now going this might be a good time to invest in Lockheed Martin I think we're going to be selling a lot of missiles"
+    }
+  ], 
+  "good_scenarios": 
+  [
+    {
+      "item": "Profit from military conflicts",
+      "quote": "military experts are predicting record profits for weapons manufacturers as always happens in war and that's a brutal reality I suppose"
+    }
+  ],
+  "bad_scenarios": [],
+  "main_fears": [],
+  "resources": 
+  [
+    {
+      "item": "Technologies like next-generation drones, artificial intelligence and cybersecurity",
+      "quote": "they're also branching out to work for small and midsize companies that focus on cutting Edge technology like next Generation drones artificial intelligence and cyber security"
+    },
+    {
+      "item": "Senior military officials after their retirement",
+      "quote": "the movement of retired senior officials from the Pentagon and the military services into the arms industry is a long-standing practice that raises serious questions about the appearance and reality of conflicts of interests"
+    }
+  ]
+}
+
+=== RESULTS ===
+
+The string already seems to be in properly formatted JSON. JSON should start and end with a curly brace { } if it is an object or with square brackets [ ] if it is an array. The given string exactly does this. All the key-value pairs are correct, values are in double quotes as required and arrays and nested objects are properly formatted. There doesn't seem to be anything to fix. However, the initial paragraph preceding the JSON content needs to be removed for the JSON to be valid. So, the modified string is:
+
+{
+  "stated_goals": [],
+  "main_motivations": 
+  [
+    {
+      "item": "Profit from military conflicts",
+      "quote": "military experts are predicting record profits for weapons manufacturers as always happens in war and that's a brutal reality I suppose"
+    }
+  ], 
+  "possible_actions": 
+  [
+    {
+      "item": "Selling more missiles in the time of conflict",
+      "quote": "when most of us are thinking where do you find a unifying truth in this complex and horrific matter that there are people in Congress paid for by you elected to serve you that are right now going this might be a good time to invest in Lockheed Martin I think we're going to be selling a lot of missiles"
+    }
+  ], 
+  "good_scenarios": 
+  [
+    {
+      "item": "Profit from military conflicts",
+      "quote": "military experts are predicting record profits for weapons manufacturers as always happens in war and that's a brutal reality I suppose"
+    }
+  ],
+  "bad_scenarios": [],
+  "main_fears": [],
+  "resources": 
+  [
+    {
+      "item": "Technologies like next-generation drones, artificial intelligence and cybersecurity",
+      "quote": "they're also branching out to work for small and midsize companies that focus on cutting Edge technology like next Generation drones artificial intelligence and cyber security"
+    },
+    {
+      "item": "Senior military officials after their retirement",
+      "quote": "the movement of retired senior officials from the Pentagon and the military services into the arms industry is a long-standing practice that raises serious questions about the appearance and reality of conflicts of interests"
+    }
+  ]
+}

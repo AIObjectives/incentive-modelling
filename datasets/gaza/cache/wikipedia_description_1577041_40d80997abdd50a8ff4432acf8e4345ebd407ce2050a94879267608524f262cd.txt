@@ -1,0 +1,21 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Mike & Mike
+Long description: Mike & Mike (formerly Mike & Mike in the Morning) was an American sports-talk radio show that was hosted by Mike Greenberg and Mike Golic on ESPN networks from 2000–2017. The show aired on ESPN Radio, and was simulcast on television, first on ESPNews starting in 2004, and later moving to ESPN2 in 2006.
+The show primarily focused on the day's biggest sports topics and the humorous banter between the Mikes. It acted as the morning show for both the radio and television sides of the production. Outside of a few radio stations that are able to move or decline carriage of the show for their own local morning productions (or for daytime-only operations, may not be able to carry), Mike & Mike was effectively a compulsory element of the ESPN Radio schedule, which all affiliates of the network were required to carry.
+On May 7, 2007, the show moved from its longtime radio studio home to the television studio used for Sunday NFL Countdown and Baseball Tonight, and began broadcasting in high-definition in 2007 as well.
+A daily "best-of" show aired daily on ESPN2 and a weekly radio recap aired Saturday mornings at 6:00 a.m. to 7:00 a.m. and then moved to 5 a.m. ET before being discontinued in October 2009. The radio version of "best-of" returned in February 2010 in the 5am timeslot. In addition, there was a "best-of" podcast distributed every weekday as well. The show reaired on ESPNEWS immediately after the live simulcast.
+On March 6, 2015, the duo celebrated 15 years of doing the show together. Mike & Mike were inducted into the NAB Broadcasting Hall of Fame on April 19, 2016.On May 16, 2017, and after reports of acrimony between the hosts, it was announced that the show would be replaced by a new morning drive show hosted by Golic and Trey Wingo, with Greenberg moving to the main ESPN channel, where he hosts a morning show called Get Up!, which premiered on April 2, 2018. Greenberg's final day as co-host was November 17, 2017. On November 27, 2017, Mike & Mike's successor show, Golic and Wingo launched, with Trey Wingo becoming Golic's new co-host and Golic's son Mike Golic Jr. joining the show with his father.
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+"Mike & Mike" was an American sports-talk radio show, hosted by Mike Greenberg and Mike Golic on ESPN networks from 2000-2017, focusing on major sports topics and features humorous banter; it moved to TV in 2004 and transitioned to Golic and Trey Wingo in 2017 after departure of Greenberg.

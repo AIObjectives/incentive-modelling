@@ -1,0 +1,25 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Kevin O'Sullivan
+Long description: Kevin O'Sullivan may refer to:
+
+Kevin Jer O'Sullivan (born 1948), Irish Gaelic footballer for Adrigole, Beara and Cork
+Kevin O'Sullivan (journalist) (born c. 1960), editor of The Irish Times
+Kevin O'Sullivan (baseball) (born 1968), American college baseball coach and former player
+Kevin O'Sullivan (Gaelic footballer) (born 1984), Irish Gaelic footballer for Ilen Rovers and Cork
+Kevin O'Sullivan (skier), New Zealand Paralympian
+Kevin O'Sullivan (hurler) (born 1971), Irish hurler
+Kevin O'Sullivan (politician) (born 1953), American politician and non-profit executive
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+Kevin O'Sullivan is a name associated with several individuals including an Irish Gaelic footballer, the editor of The Irish Times, an American college baseball coach, a New Zealand Paralympian skier, an Irish hurler, and an American politician.

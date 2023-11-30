@@ -1,0 +1,37 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+{
+  "stated_goals": [],
+  "main_motivations": [],
+  "possible_actions": [],
+  "good_scenarios": [],
+  "bad_scenarios": [],
+  "main_fears": [],
+  "resources": [], 
+}
+Unfortunately, the document provided doesn't contain direct information related to the outlined questions about Iran. The main focus of the transcript is a conversation about the Israel-Palestine conflict and other topics unrelated to Iran.
+
+=== RESULTS ===
+
+There seems to be some confusion since the text is not related to the JSON structure provided. However, I can fix the provided JSON string. The only issue here is an unnecessary comma after the last element. It should look like this:
+
+```json
+{
+  "stated_goals": [],
+  "main_motivations": [],
+  "possible_actions": [],
+  "good_scenarios": [],
+  "bad_scenarios": [],
+  "main_fears": [],
+  "resources": []
+}
+```

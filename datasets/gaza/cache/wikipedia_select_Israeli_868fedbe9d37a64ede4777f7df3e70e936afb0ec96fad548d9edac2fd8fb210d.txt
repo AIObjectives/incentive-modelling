@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Israeli" which was described 
+as "A nationality being discussed through the transcript." and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Israeli",
+    "pageid": 26385186,
+    "snippet": "Look up <span class=\"searchmatch\">Israeli</span> in Wiktionary, the free dictionary. <span class=\"searchmatch\">Israeli</span> may refer to: Something of, from, or related to the State of <span class=\"searchmatch\">Israel</span> <span class=\"searchmatch\">Israelis</span>, citizens or permanent"
+  },
+  {
+    "title": "Israel Defense Forces",
+    "pageid": 39237,
+    "snippet": "military of the State of <span class=\"searchmatch\">Israel</span>. It consists of three service branches: the <span class=\"searchmatch\">Israeli</span> Ground Forces, the <span class=\"searchmatch\">Israeli</span> Air Force, and the <span class=\"searchmatch\">Israeli</span> Navy. It is the sole"
+  },
+  {
+    "title": "Israeli–Palestinian conflict",
+    "pageid": 46216,
+    "snippet": "the conflict as part of the <span class=\"searchmatch\">Israeli</span>–Palestinian peace process, alongside other efforts to resolve the broader Arab–<span class=\"searchmatch\">Israeli</span> conflict. Public declarations"
+  },
+  {
+    "title": "Israel",
+    "pageid": 9282173,
+    "snippet": "portions of <span class=\"searchmatch\">Israeli</span> civil law are applied to <span class=\"searchmatch\">Israeli</span> settlements and <span class=\"searchmatch\">Israeli</span> residents in the occupied territories. Districts of <span class=\"searchmatch\">Israel</span> Northern Haifa"
+  },
+  {
+    "title": "Arab–Israeli conflict",
+    "pageid": 7960202,
+    "snippet": "large-scale, regional Arab–<span class=\"searchmatch\">Israeli</span> conflict to a more local <span class=\"searchmatch\">Israeli</span>–Palestinian conflict, which peaked during the 1982 Lebanon War when <span class=\"searchmatch\">Israel</span> intervened in the"
+  },
+  {
+    "title": "1948 Arab–Israeli War",
+    "pageid": 36197,
+    "snippet": "The 1948 Arab–<span class=\"searchmatch\">Israeli</span> War, also known as the First Arab–<span class=\"searchmatch\">Israeli</span> War, followed the civil war in Mandatory Palestine as the second and final stage of the"
+  },
+  {
+    "title": "2023 Israel–Hamas war",
+    "pageid": 74998519,
+    "snippet": "deadly attacks against <span class=\"searchmatch\">Israel</span>. He is known for his ability to outmaneuver the <span class=\"searchmatch\">Israeli</span> military, such as by adapting to <span class=\"searchmatch\">Israeli</span> military advancements by"
+  },
+  {
+    "title": "2023 Israeli invasion of the Gaza Strip",
+    "pageid": 75047651,
+    "snippet": "of large-scale <span class=\"searchmatch\">Israeli</span> airstrikes that cut off mobile communications and internet access in Gaza. Shayetet 13, a division of the <span class=\"searchmatch\">Israeli</span> Navy, carried"
+  },
+  {
+    "title": "Israeli Jews",
+    "pageid": 13927537,
+    "snippet": "instead of Hebrew letters. <span class=\"searchmatch\">Israeli</span> Jews or Jewish <span class=\"searchmatch\">Israelis</span> (Hebrew: יהודים ישראלים, romanized: Yehudim Yisre'elim) are <span class=\"searchmatch\">Israeli</span> citizens and nationals who"
+  },
+  {
+    "title": "Israeli settlement",
+    "pageid": 15123,
+    "snippet": "<span class=\"searchmatch\">Israeli</span> settlements or colonies are civilian communities where <span class=\"searchmatch\">Israeli</span> citizens live, almost exclusively of Jewish identity or ethnicity, built on lands"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+26385186

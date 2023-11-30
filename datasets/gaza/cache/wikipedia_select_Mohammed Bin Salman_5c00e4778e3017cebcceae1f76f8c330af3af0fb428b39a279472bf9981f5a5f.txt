@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Mohammed Bin Salman" which was described 
+as "Crown Prince of Saudi Arabia as of the time of the document" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Mohammed bin Salman",
+    "pageid": 38689358,
+    "snippet": "<span class=\"searchmatch\">Mohammed</span> <span class=\"searchmatch\">bin</span> <span class=\"searchmatch\">Salman</span> Al Saud (Arabic: محمد بن سلمان آل سعود, romanized: Muḥammad <span class=\"searchmatch\">bin</span> <span class=\"searchmatch\">Salmān</span> ʾĀl Su‘ūd; born 31 August 1985), colloquially known by his initials"
+  },
+  {
+    "title": "Salman of Saudi Arabia",
+    "pageid": 2049120,
+    "snippet": "<span class=\"searchmatch\">Salman</span> <span class=\"searchmatch\">bin</span> Abdulaziz Al Saud (Arabic: سلمان بن عبد العزیز آل سعود, romanized: <span class=\"searchmatch\">Salmān</span> <span class=\"searchmatch\">bin</span> ʿAbd al-ʿAzīz Āl Su‘ūd ; born 31 December 1935) is King of Saudi"
+  },
+  {
+    "title": "Khalid bin Salman Al Saud",
+    "pageid": 55240710,
+    "snippet": "of King <span class=\"searchmatch\">Salman</span> and the younger brother of Crown Prince <span class=\"searchmatch\">Mohammed</span> <span class=\"searchmatch\">bin</span> <span class=\"searchmatch\">Salman</span>. Khalid <span class=\"searchmatch\">bin</span> <span class=\"searchmatch\">Salman</span> was born in 1988. He is the son of King <span class=\"searchmatch\">Salman</span> and his third"
+  },
+  {
+    "title": "Muhammad bin Nayef",
+    "pageid": 24147469,
+    "snippet": "21 June 2017 the king appointed his own son, <span class=\"searchmatch\">Mohammed</span> <span class=\"searchmatch\">bin</span> <span class=\"searchmatch\">Salman</span>, as crown prince and relieved Muhammad <span class=\"searchmatch\">bin</span> Nayef of all positions. He has been in detention"
+  },
+  {
+    "title": "Salman bin Abdulaziz Al Saud (born 1982)",
+    "pageid": 37116248,
+    "snippet": "January 2018 as part of Saudi Crown Prince <span class=\"searchmatch\">Mohammed</span> <span class=\"searchmatch\">bin</span> <span class=\"searchmatch\">Salman's</span> 2017–2019 Saudi Arabian purge. Prince <span class=\"searchmatch\">Salman</span> was born in Riyadh on 1 November 1982. He"
+  },
+  {
+    "title": "Turki bin Salman Al Saud",
+    "pageid": 38471279,
+    "snippet": "child of King Salman and Fahda bint Falah. He is the full brother of <span class=\"searchmatch\">Mohammed</span> <span class=\"searchmatch\">bin</span> <span class=\"searchmatch\">Salman</span>, prime, minister, defense minister and crown prince of Saudi Arabia"
+  },
+  {
+    "title": "Badr bin Abdullah Al Saud",
+    "pageid": 56124765,
+    "snippet": "Bader <span class=\"searchmatch\">bin</span> Abdullah <span class=\"searchmatch\">bin</span> <span class=\"searchmatch\">Mohammed</span> <span class=\"searchmatch\">bin</span> Farhan Al Saud (Arabic: بدر بن عبد الله بن محمد بن فرحان آل سعود Badr <span class=\"searchmatch\">bin</span> ʿAbdullāh <span class=\"searchmatch\">bin</span> <span class=\"searchmatch\">Moḥammed</span> <span class=\"searchmatch\">bin</span> Farḥān Āl Suʿūd;"
+  },
+  {
+    "title": "2017–2019 Saudi Arabian purge",
+    "pageid": 55715110,
+    "snippet": "the creation of an anti-corruption committee led by Crown Prince <span class=\"searchmatch\">Mohammed</span> <span class=\"searchmatch\">bin</span> <span class=\"searchmatch\">Salman</span>. There are three alternate hypotheses regarding the motives behind"
+  },
+  {
+    "title": "Salman bin Hamad Al Khalifa",
+    "pageid": 1623346,
+    "snippet": "<span class=\"searchmatch\">Salman</span> <span class=\"searchmatch\">bin</span> Hamad Al Khalifa (Arabic: سَلمَان بن حَمَد بن عِيْسى آل خَلِيْفَة; born 21 October 1969) is Crown Prince and Prime Minister of Bahrain. He is"
+  },
+  {
+    "title": "Mashour bin Abdulaziz Al Saud",
+    "pageid": 36189069,
+    "snippet": "Council. He is the half-brother of King <span class=\"searchmatch\">Salman</span> and the father-in-law of Saudi Arabia's Crown Prince, <span class=\"searchmatch\">Mohammed</span> <span class=\"searchmatch\">bin</span> <span class=\"searchmatch\">Salman</span>. Prince Mashour was born in 1942. His"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+38689358

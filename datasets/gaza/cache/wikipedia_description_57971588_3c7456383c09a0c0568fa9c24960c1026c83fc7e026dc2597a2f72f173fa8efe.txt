@@ -1,0 +1,17 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Jonathan Friedland
+Long description: Professor Jonathan Samuel Friedland  is a British physician and medical researcher who is Deputy Vice-Chancellor (Research and Enterprise) and Professor of Infectious Diseases at St George's, University of London.
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+Jonathan Samuel Friedland is a British medical researcher and Deputy Vice-Chancellor at St George's, University of London.

@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "US military" which was described 
+as "Armed forces of the United States of America" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "United States Armed Forces",
+    "pageid": 32212,
+    "snippet": "territorial evolution of the <span class=\"searchmatch\">U.S</span>., including the American Civil War. The National Security Act of 1947 created the modern <span class=\"searchmatch\">U.S</span>. <span class=\"searchmatch\">military</span> framework, establishing"
+  },
+  {
+    "title": "Military budget of the United States",
+    "pageid": 1629352,
+    "snippet": "and develops and buys new items. The budget funds five branches of the <span class=\"searchmatch\">US</span> <span class=\"searchmatch\">military</span>: the Army, Navy, Marine Corps, Air Force, and Space Force. As of 10 March"
+  },
+  {
+    "title": "US military watches",
+    "pageid": 39870333,
+    "snippet": "<span class=\"searchmatch\">US</span> <span class=\"searchmatch\">military</span> watches are watches that are issued to <span class=\"searchmatch\">US</span> <span class=\"searchmatch\">military</span> personnel. <span class=\"searchmatch\">Military</span> watches are believed to have received their name from a German military"
+  },
+  {
+    "title": "Awards and decorations of the United States Armed Forces",
+    "pageid": 747151,
+    "snippet": "devices, and specific badges which recognize <span class=\"searchmatch\">military</span> service and personal accomplishments of members of the <span class=\"searchmatch\">U.S</span>. Armed Forces. Such awards are a means to"
+  },
+  {
+    "title": "United States military deployments",
+    "pageid": 2455175,
+    "snippet": "Yemen. Outside of active combat, <span class=\"searchmatch\">US</span> personnel are typically deployed as part of several peacekeeping missions, <span class=\"searchmatch\">military</span> attachés, or are part of embassy"
+  },
+  {
+    "title": "List of United States military bases",
+    "pageid": 162036,
+    "snippet": "Western Australia. Other <span class=\"searchmatch\">U.S</span>. bases in Australia are present and this list does not include ADF bases with <span class=\"searchmatch\">U.S</span>. access. The <span class=\"searchmatch\">U.S</span>. <span class=\"searchmatch\">military</span> has access to all major"
+  },
+  {
+    "title": "Timeline of United States military operations",
+    "pageid": 1591430,
+    "snippet": "government <span class=\"searchmatch\">military</span> operations, based in part on reports by the Congressional Research Service, shows the years and places in which <span class=\"searchmatch\">U.S</span>. <span class=\"searchmatch\">military</span> units participated"
+  },
+  {
+    "title": "Military history of the United States",
+    "pageid": 161323,
+    "snippet": "made the <span class=\"searchmatch\">U.S</span>. president the commander-in-chief, and gave Congress the authority to declare war. Major conflicts involving the <span class=\"searchmatch\">U.S</span>. <span class=\"searchmatch\">military</span> include the"
+  },
+  {
+    "title": "Israel–United States military relations",
+    "pageid": 10919618,
+    "snippet": "ally by the <span class=\"searchmatch\">U.S</span>. government. A major purchaser and user of <span class=\"searchmatch\">U.S</span>. <span class=\"searchmatch\">military</span> equipment, Israel is also involved in the joint development of <span class=\"searchmatch\">military</span> technology"
+  },
+  {
+    "title": "U.S. military UAS groups",
+    "pageid": 12926016,
+    "snippet": "whose capabilities increase with the number. From about 2004 to 2011, <span class=\"searchmatch\">U.S</span>. <span class=\"searchmatch\">military</span> planners used various &quot;Tier Systems&quot; to designate the various individual"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+32212

@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Jordan" which was described 
+as "An Arab country in Western Asia, on the East Bank of the Jordan River" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Jordan",
+    "pageid": 7515964,
+    "snippet": "<span class=\"searchmatch\">Jordan</span> (Arabic: الأردن, romanized: al-ʾUrdunn [al.ʔur.dunː]), officially the Hashemite Kingdom of <span class=\"searchmatch\">Jordan</span>, is a country in West Asia. It is situated at"
+  },
+  {
+    "title": "Michael Jordan",
+    "pageid": 20455,
+    "snippet": "Michael Jeffrey <span class=\"searchmatch\">Jordan</span> (born February 17, 1963), also known by his initials MJ, is an American businessman and former professional basketball player. His"
+  },
+  {
+    "title": "Air Jordan",
+    "pageid": 1394509,
+    "snippet": "Air <span class=\"searchmatch\">Jordan</span> is a line of basketball shoes produced by Nike, Inc. Related apparel and accessories are marketed under <span class=\"searchmatch\">Jordan</span> Brand. The first Air <span class=\"searchmatch\">Jordan</span> shoe"
+  },
+  {
+    "title": "Black September",
+    "pageid": 1104969,
+    "snippet": "أيلول الأسود Aylūl al-ʾAswad), also known as the <span class=\"searchmatch\">Jordanian</span> Civil War, was an armed conflict between <span class=\"searchmatch\">Jordan</span>, led by King Hussein, and the Palestine Liberation"
+  },
+  {
+    "title": "Marcus Jordan",
+    "pageid": 11252389,
+    "snippet": "retired Hall of Fame basketball player Michael <span class=\"searchmatch\">Jordan</span>. <span class=\"searchmatch\">Jordan</span> was born on December 24, 1990, to Michael <span class=\"searchmatch\">Jordan</span> and Juanita Vanoy. He has an older brother"
+  },
+  {
+    "title": "Jordan Peterson",
+    "pageid": 30483032,
+    "snippet": "<span class=\"searchmatch\">Jordan</span> Bernt Peterson (born 12 June 1962) is a Canadian psychologist, author, and media commentator. Often described as conservative, he began to receive"
+  },
+  {
+    "title": "Jordan River",
+    "pageid": 47910,
+    "snippet": "The <span class=\"searchmatch\">Jordan</span> River or River <span class=\"searchmatch\">Jordan</span> (Arabic: نَهْر الْأُرْدُنّ, Nahr al-ʾUrdunn; Hebrew: נְהַר הַיַּרְדֵּן, Nəhar hayYardēn; Classical Syriac: ܢܗܪܐ ܕܝܘܪܕܢܢ"
+  },
+  {
+    "title": "List of kings of Jordan",
+    "pageid": 30876231,
+    "snippet": "Hashemite Kingdom of <span class=\"searchmatch\">Jordan</span> (Arabic: ملك المملكة الأردنية الهاشمية) is <span class=\"searchmatch\">Jordan's</span> head of state and monarch. He serves as the head of the <span class=\"searchmatch\">Jordanian</span> monarchy—the"
+  },
+  {
+    "title": "Jordan Poole",
+    "pageid": 56897859,
+    "snippet": "<span class=\"searchmatch\">Jordan</span> Anthony Poole (born June 19, 1999) is an American professional basketball player for the Washington Wizards of the National Basketball Association"
+  },
+  {
+    "title": "Transjordan",
+    "pageid": 43196271,
+    "snippet": "Transjordan may refer to: Transjordan (region), an area to the east of the <span class=\"searchmatch\">Jordan</span> River Oultrejordain, a Crusader lordship (1118–1187), also called Transjordan"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+7515964

@@ -1,0 +1,21 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Gaza Strip
+Long description: The Gaza Strip (; Arabic: قِطَاعُ غَزَّةَ Qiṭāʿ Ġazzah [qɪˈtˤɑːʕ ˈɣaz.za]), or simply Gaza, is the smaller of the two Palestinian territories (the other being the West Bank). Situated on the eastern coast of the Mediterranean Sea, Gaza is bordered by Egypt on the southwest and Israel on the east and north.
+Central to the Israeli–Palestinian conflict, Gaza has been under Israeli military control since 1967. In the mid-1990s Oslo Accords, the Palestinian Authority was established to govern both territories. However, in the 2006 Palestinian election, militant Sunni Islamic organization Hamas defeated Fatah. In a battle the next year, Hamas took over the governance of Gaza. The region has continued to be the site of violent conflict.
+Although in 2005 Israel unilaterally withdrew its military forces from Gaza and dismantled its settlements there, Gaza has continued to be subjected to an Israeli-led (and Egypt-supported) land, sea and air blockade. This prevents people and goods from freely entering or leaving the territory, leading to it often being called an "open-air prison". The United Nations, the International Committee of the Red Cross, and many human-rights organizations regard the blockade (causing shortages of water, electricity, and medicine) as constituting continued military occupation, which Israel disputes. The UN, as well as at least 19 human-rights organizations, have urged Israel to lift the blockade.The Gaza Strip is 41 kilometres (25 miles) long, from 6 to 12 km (3.7 to 7.5 mi) wide, and has a total area of 365 km2 (141 sq mi). With around 2 million Palestinians on approximately 365 km2 (141 sq mi) of land, Gaza has a high population density (comparable to that of Hong Kong). The majority of Palestinians in Gaza, which contains eight refugee camps, are descendants of refugees who fled or were expelled from the area that became Israel after the 1948 Arab–Israeli War. Sunni Muslims make up most of Gaza's population, with a Palestinian Christian minority. Gaza has an annual population growth rate of 1.99% (2023 est.), the 39th-highest in the world.
+
+
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+The Gaza Strip, or simply Gaza, is a small Palestinian territory located on the eastern coast of the Mediterranean Sea, primarily inhabited by Sunni Muslims and recognized for its high population density and central role in the Israeli-Palestinian conflict.

@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Middle East" which was described 
+as "Region centered on Western Asia, Turkey (both Asian and European), and Egypt (which is mostly in North Africa)" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Middle East",
+    "pageid": 19323,
+    "snippet": "The <span class=\"searchmatch\">Middle</span> <span class=\"searchmatch\">East</span> (term originally coined in English [see § Terminology]) is a geopolitical region encompassing the Arabian Peninsula, the Levant, Turkey"
+  },
+  {
+    "title": "History of the Middle East",
+    "pageid": 489526,
+    "snippet": "The <span class=\"searchmatch\">Middle</span> <span class=\"searchmatch\">East</span>, also known as the Near <span class=\"searchmatch\">East</span>, is home to one of the Cradles of Civilization and has seen many of the world's oldest cultures and civilizations"
+  },
+  {
+    "title": "Middle East and North Africa",
+    "pageid": 2150475,
+    "snippet": "The <span class=\"searchmatch\">Middle</span> <span class=\"searchmatch\">East</span> and North Africa is a geographic region whose countries are often referred to by the acronym MENA. It is also known as WANA, SWANA, or"
+  },
+  {
+    "title": "List of modern conflicts in the Middle East",
+    "pageid": 26755479,
+    "snippet": "modern conflicts in the <span class=\"searchmatch\">Middle</span> <span class=\"searchmatch\">East</span> ensuing in the geographic and political region known as the <span class=\"searchmatch\">Middle</span> <span class=\"searchmatch\">East</span>. The &quot;<span class=\"searchmatch\">Middle</span> <span class=\"searchmatch\">East</span>&quot; is traditionally defined"
+  },
+  {
+    "title": "Middle East Airlines",
+    "pageid": 892238,
+    "snippet": "<span class=\"searchmatch\">Middle</span> <span class=\"searchmatch\">East</span> Airlines – Air Liban S.A.L. (Arabic: طيران الشرق الأوسط ـ الخطوط الجوية اللبنانية, romanized: Ṭayyarān al-Sharq al-Awsaṭ – al-Khuṭūṭ al-jawiyyah"
+  },
+  {
+    "title": "Middle East Eye",
+    "pageid": 43780358,
+    "snippet": "<span class=\"searchmatch\">Middle</span> <span class=\"searchmatch\">East</span> Eye (MEE) is a UK-based news website covering events in the <span class=\"searchmatch\">Middle</span> <span class=\"searchmatch\">East</span> and North Africa. MEE describes itself as an &quot;independently funded"
+  },
+  {
+    "title": "Quartet on the Middle East",
+    "pageid": 2025055,
+    "snippet": "The Quartet on the <span class=\"searchmatch\">Middle</span> <span class=\"searchmatch\">East</span> or <span class=\"searchmatch\">Middle</span> <span class=\"searchmatch\">East</span> Quartet, sometimes called the Diplomatic Quartet or Madrid Quartet or simply the Quartet, is a foursome of"
+  },
+  {
+    "title": "Christianity in the Middle East",
+    "pageid": 14630942,
+    "snippet": "Christianity, which originated in the <span class=\"searchmatch\">Middle</span> <span class=\"searchmatch\">East</span> during the 1st century AD, is a significant minority religion within the region, characterized by the"
+  },
+  {
+    "title": "Ethnic groups in the Middle East",
+    "pageid": 18014058,
+    "snippet": "Ethnic groups in the <span class=\"searchmatch\">Middle</span> <span class=\"searchmatch\">East</span>, in the 'transcontinental' region which is commonly a geopolitical term designating the intercontinental region comprising"
+  },
+  {
+    "title": "Religion in the Middle East",
+    "pageid": 14626978,
+    "snippet": "originated from the <span class=\"searchmatch\">Middle</span> <span class=\"searchmatch\">East</span> and are present in the <span class=\"searchmatch\">Middle</span> <span class=\"searchmatch\">East</span>. Islam is the most prevalent religion in the contemporary <span class=\"searchmatch\">Middle</span> <span class=\"searchmatch\">East</span>. Smaller minority"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+19323

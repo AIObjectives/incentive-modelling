@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Palestinian Authority" which was described 
+as "The interim self-government body established in 1994 following the Gaza–Jericho Agreement" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Palestinian National Authority",
+    "pageid": 24093,
+    "snippet": "<span class=\"searchmatch\">Palestinian</span> National <span class=\"searchmatch\">Authority</span> (PA or PNA; Arabic: السلطة الوطنية الفلسطينية as-Sulṭa al-Waṭanīya al-Filasṭīnīya), commonly known as the <span class=\"searchmatch\">Palestinian</span> Authority"
+  },
+  {
+    "title": "Palestinian Authority passport",
+    "pageid": 23967662,
+    "snippet": "Palestinian <span class=\"searchmatch\">Authority</span> to <span class=\"searchmatch\">Palestinian</span> residents of the <span class=\"searchmatch\">Palestinian</span> territories for the purpose of international travel. The <span class=\"searchmatch\">Palestinian</span> <span class=\"searchmatch\">Authority</span> passport"
+  },
+  {
+    "title": "President of the Palestinian National Authority",
+    "pageid": 38910207,
+    "snippet": "The president of the <span class=\"searchmatch\">Palestinian</span> National <span class=\"searchmatch\">Authority</span> (Arabic: رئيس السلطة الوطنية الفلسطينية) is the highest-ranking political position (equivalent to head"
+  },
+  {
+    "title": "Flag of Palestine",
+    "pageid": 1749912,
+    "snippet": "Agreements, with the establishment of the <span class=\"searchmatch\">Palestinian</span> <span class=\"searchmatch\">Authority</span> in 1993. Today the flag is flown widely by <span class=\"searchmatch\">Palestinians</span> and their supporters. In 1967, immediately"
+  },
+  {
+    "title": "Palestinian Authority Martyrs Fund",
+    "pageid": 51164113,
+    "snippet": "The <span class=\"searchmatch\">Palestinian</span> <span class=\"searchmatch\">Authority</span> Martyrs Fund is a fund operated by the <span class=\"searchmatch\">Palestinian</span> <span class=\"searchmatch\">Authority</span> (PA) that pays monthly cash stipends to the families of Palestinians"
+  },
+  {
+    "title": "List of cities administered by the Palestinian Authority",
+    "pageid": 343384,
+    "snippet": "cities administered by the <span class=\"searchmatch\">Palestinian</span> National <span class=\"searchmatch\">Authority</span>. After the 1995 Interim Agreements, the <span class=\"searchmatch\">Palestinian</span> National <span class=\"searchmatch\">Authority</span> took control of civil affairs"
+  },
+  {
+    "title": "Palestinian territories",
+    "pageid": 96665,
+    "snippet": "1999 and December 2012 to refer to areas controlled by the <span class=\"searchmatch\">Palestinian</span> National <span class=\"searchmatch\">Authority</span>, but from 2012, when Palestine was admitted as one of its non-member"
+  },
+  {
+    "title": "Palestinian Christians",
+    "pageid": 23949,
+    "snippet": "wider definition of <span class=\"searchmatch\">Palestinian</span> Christians, including the <span class=\"searchmatch\">Palestinian</span> refugees, diaspora and people with full or partial <span class=\"searchmatch\">Palestinian</span> Christian ancestry"
+  },
+  {
+    "title": "Economy of the State of Palestine",
+    "pageid": 1112749,
+    "snippet": "the Paris Economic Protocol of April 1994 between Israel and the <span class=\"searchmatch\">Palestinian</span> <span class=\"searchmatch\">Authority</span>, deteriorated in the early 1990s. Real per capita GDP for the West"
+  },
+  {
+    "title": "Elections in Palestine",
+    "pageid": 1381784,
+    "snippet": "Elections for the <span class=\"searchmatch\">Palestinian</span> National <span class=\"searchmatch\">Authority</span> (PNA) were held in <span class=\"searchmatch\">Palestinian</span> Autonomous areas from 1994 until their transition into the State of Palestine"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+24093

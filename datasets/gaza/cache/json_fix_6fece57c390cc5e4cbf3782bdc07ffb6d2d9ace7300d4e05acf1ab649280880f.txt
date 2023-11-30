@@ -1,0 +1,16 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+It seems there's some misunderstanding. We need the buggy JSON string to be provided first in order to fix it. The given text is not a JSON string.
+
+=== RESULTS ===
+
+Apologies for the misunderstanding, but it seems there isn't an actual example of a buggy JSON string provided to fix. Would you please provide one so I could help you out?

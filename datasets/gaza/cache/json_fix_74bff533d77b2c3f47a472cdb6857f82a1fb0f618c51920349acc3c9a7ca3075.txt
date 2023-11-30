@@ -1,0 +1,42 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+Based on the document provided, the insights into Bassem Youssef can be summarized as follows: 
+
+{
+  "stated_goals": [
+      {"item": "Advocate for the freedom and rights of Palestinian people, including in Gaza", "quote": "the Palestinian people should be free...and they should have exactly the same rights to freedom and freedom of expression and a way to lead their lives and to water and to power and to Internet that Israelis have."}],
+  "main_motivations": [
+      {"item": "Highlight the plight of Palestinian people", "quote": "the Palestinian people have had to endure in Gaza for a very long time are completely unacceptable"},
+      {"item": "Expose the truth to Western audiences", "quote": "you know what I am doing now because like the first interview went well I'm doing that because I want people to see that you can really speak up and not just get canceled but get rewarded"}
+      ],
+  "possible_actions": [
+      {"item": "Keeping up his advocacy work", "quote": "let's keep talking honestly think the way through this is people keep talking."}
+      ],
+  "good_scenarios": [
+      {"item": "A situation with new leadership in both Israel and Palestine", "quote": "let's assume we get new leadership in both places, could there still be peace...I think they can't be with the current leadership structures in both countries."},
+      {"item": "Equal rights and freedoms for Palestinian people", "quote": "the Palestinian people should be free...and they should have exactly the same rights to freedom and freedom of expression."}],
+  "bad_scenarios": [
+      {"item": "Continued Israeli control over Palestinians", "quote": "Israel is a racist apartheid country that is projecting this shiny example of secularism and democracy for the people so people can accept whatever they do because they look at Palestinians as lesser people."},
+      {"item": "The absence of a two-state solution", "quote": "there is no state two state it is one state and is for the Jews."}
+      ],
+  "main_fears": [
+      {"item": "Continued Israeli control and expansion", "quote": "Israel has been telling the world all the time they need to clear the Gaza strip to move into Egypt."}
+      ],
+  "resources": [
+     {"item": "His platform and voice as a public figure", "quote": "let's keep talking honestly think the way through this is people keep talking."},
+     {"item": "The attention he draws by critically addressing these political issues", "quote": "if I was an American I'd be going all right bassim all right we'll take the criticism because you can do that in this country."}
+  ]
+}
+
+=== RESULTS ===
+
+The string is already in valid JSON format. So, no modifications are needed.

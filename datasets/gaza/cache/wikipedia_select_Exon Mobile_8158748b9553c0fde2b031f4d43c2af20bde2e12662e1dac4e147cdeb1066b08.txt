@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Exon Mobile" which was described 
+as "American multinational oil and gas corporation" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Exon shuffling",
+    "pageid": 5522755,
+    "snippet": "ectopically, or the same <span class=\"searchmatch\">exon</span> can be duplicated, to create a new <span class=\"searchmatch\">exon</span>-intron structure. There are different mechanisms through which <span class=\"searchmatch\">exon</span> shuffling occurs: transposon"
+  },
+  {
+    "title": "Transposable element",
+    "pageid": 30651,
+    "snippet": "the adjacent base pairs; this phenomenon is called <span class=\"searchmatch\">exon</span> shuffling. Shuffling two unrelated <span class=\"searchmatch\">exons</span> can create a novel gene product or, more likely, an"
+  },
+  {
+    "title": "Alan Daniels",
+    "pageid": 29499291,
+    "snippet": "other car companies. Famous for illustrations for national parks and the <span class=\"searchmatch\">exon</span> <span class=\"searchmatch\">mobile</span> graphics His heavenly hussies did for deconstructed women a great favor"
+  },
+  {
+    "title": "Mobile genetic elements",
+    "pageid": 6306236,
+    "snippet": "factors and <span class=\"searchmatch\">mobile</span> genetic elements have been proposed. ACLAME (The CLAssification of <span class=\"searchmatch\">Mobile</span> genetic Elements) database De novo gene birth <span class=\"searchmatch\">Exon</span> shuffling"
+  },
+  {
+    "title": "Intron",
+    "pageid": 15343,
+    "snippet": "become joined by this RNA processing to form the mature RNA are called <span class=\"searchmatch\">exons</span>. Introns are found in the genes of most organisms and many viruses and they"
+  },
+  {
+    "title": "Genome evolution",
+    "pageid": 30967636,
+    "snippet": "by Becker et al. De novo gene birth <span class=\"searchmatch\">Exon</span> shuffling Gene fusion Gene duplication Horizontal gene transfer <span class=\"searchmatch\">Mobile</span> genetic elements Fiers W, Contreras R"
+  },
+  {
+    "title": "Circular RNA",
+    "pageid": 40365216,
+    "snippet": "messenger RNA (mRNA) transcript, intervening introns are removed, leaving only <span class=\"searchmatch\">exons</span> in the mature mRNA, which can subsequently be translated to produce the"
+  },
+  {
+    "title": "Skytone Alpha-400",
+    "pageid": 19121968,
+    "snippet": "was made in China by Guangzhou Skytone Transmission Technologies Co and <span class=\"searchmatch\">Exon</span> International Technology Co Ltd, with the former providing the Linux software"
+  },
+  {
+    "title": "Fibroadenoma",
+    "pageid": 1668291,
+    "snippet": "membrane is intact. Up to 66% of fibroadenomas harbor mutations in the <span class=\"searchmatch\">exon</span> (<span class=\"searchmatch\">exon</span> 2) of the mediator complex subunit 12 (MED12) gene. In particular, these"
+  },
+  {
+    "title": "DNA transposon",
+    "pageid": 50044342,
+    "snippet": "them, <span class=\"searchmatch\">exon</span> shuffling may occur. <span class=\"searchmatch\">Exon</span> shuffling is the creation of novel gene products due to the new placement of two previously unrelated <span class=\"searchmatch\">exons</span> through"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+There seems to be a spelling mistake in your request. You probably meant "ExxonMobil" rather than "Exon Mobile". None of the results you listed are related to ExxonMobil, the multinational oil and gas corporation. Please try the search again with the correct spelling.

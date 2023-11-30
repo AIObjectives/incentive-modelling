@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Jared Kushner" which was described 
+as "Senior Advisor to the then President, Donald Trump. Helped shepherd the Abraham Accords" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Jared Kushner",
+    "pageid": 6191053,
+    "snippet": "<span class=\"searchmatch\">Jared</span> Corey <span class=\"searchmatch\">Kushner</span> (born January 10, 1981) is an American businessman, investor, and former government official. He is the son-in-law of former president"
+  },
+  {
+    "title": "Joshua Kushner",
+    "pageid": 29166694,
+    "snippet": "Health, and the son of real estate developer Charles <span class=\"searchmatch\">Kushner</span>. He is the brother of <span class=\"searchmatch\">Jared</span> <span class=\"searchmatch\">Kushner</span>, son-in-law and former senior advisor to former U.S."
+  },
+  {
+    "title": "Charles Kushner",
+    "pageid": 913005,
+    "snippet": "Donald Trump on December 23, 2020. <span class=\"searchmatch\">Kushner</span> has donated significant amounts to Trump's campaigns. His son <span class=\"searchmatch\">Jared</span> <span class=\"searchmatch\">Kushner</span> is the husband of Ivanka Trump and"
+  },
+  {
+    "title": "Kushner family",
+    "pageid": 69186434,
+    "snippet": "The Story of <span class=\"searchmatch\">Jared</span> <span class=\"searchmatch\">Kushner's</span> Family, and Mine&quot;. The Nation. Retrieved November 4, 2021. Rice, Andrew (January 8, 2017). &quot;<span class=\"searchmatch\">Jared</span> <span class=\"searchmatch\">Kushner's</span> Rise to Unimaginable"
+  },
+  {
+    "title": "Ivanka Trump",
+    "pageid": 1861441,
+    "snippet": "senior adviser in her father's presidential administration alongside <span class=\"searchmatch\">Jared</span> <span class=\"searchmatch\">Kushner</span>. After ethics concerns were raised about her having access to classified"
+  },
+  {
+    "title": "Avi Berkowitz",
+    "pageid": 61128711,
+    "snippet": "International Negotiations from 2019 to 2021. He was an advisor to <span class=\"searchmatch\">Jared</span> <span class=\"searchmatch\">Kushner</span> in the Trump administration, and worked on the Trump peace plan and"
+  },
+  {
+    "title": "Kushner Companies",
+    "pageid": 8628817,
+    "snippet": "result, he handed over the management of the company to his eldest son, <span class=\"searchmatch\">Jared</span>. <span class=\"searchmatch\">Kushner</span> Companies has received multiple loans from Israeli bank, Bank Hapoalim"
+  },
+  {
+    "title": "Affinity Partners",
+    "pageid": 70979020,
+    "snippet": "American investment firm, based in Miami, formed in summer 2021 by <span class=\"searchmatch\">Jared</span> <span class=\"searchmatch\">Kushner</span>, Donald Trump's son-in-law who also served as a senior advisor during"
+  },
+  {
+    "title": "Joseph Kushner",
+    "pageid": 52340863,
+    "snippet": "Esther Schulder, Murray <span class=\"searchmatch\">Kushner</span> and Charles <span class=\"searchmatch\">Kushner</span>, and the grandfather of <span class=\"searchmatch\">Jared</span> <span class=\"searchmatch\">Kushner</span>, Joshua <span class=\"searchmatch\">Kushner</span>, and Marc <span class=\"searchmatch\">Kushner</span>. <span class=\"searchmatch\">Kushner</span> family Cnaan Liphshiz"
+  },
+  {
+    "title": "Ned Price",
+    "pageid": 53296333,
+    "snippet": "continued hold of a security clearance of President Trump's son-in-law <span class=\"searchmatch\">Jared</span> <span class=\"searchmatch\">Kushner</span>. In the article, Price reviewed the extensive vetting that he had experienced"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+6191053

@@ -1,0 +1,21 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+The document does not provide any information on Abdel Fattah el-Sisi's stated goals, main motivations, possible actions he may be able to take, scenarios he would consider good or unfavorable, his main fears and concerns, or the resources he has at his disposal. It primarily focuses on an interview with Egyptian comedian and political commentator, Bassem Youssef, discussing issues related to Israel, Palestine, anti-Semitism, bigotry, and the role of media.
+
+=== RESULTS ===
+
+{
+  "document": {
+    "comments": "The document does not provide any information on Abdel Fattah el-Sisi's stated goals, main motivations, possible actions he may be able to take, scenarios he would consider good or unfavorable, his main fears and concerns, or the resources he has at his disposal.",
+    "focus": "It primarily focuses on an interview with Egyptian comedian and political commentator, Bassem Youssef, discussing issues related to Israel, Palestine, anti-Semitism, bigotry, and the role of media."
+  }
+}

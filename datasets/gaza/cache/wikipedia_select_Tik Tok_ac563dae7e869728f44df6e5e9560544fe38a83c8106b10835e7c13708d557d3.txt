@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Tik Tok" which was described 
+as "Social media platform mentioned." and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "TikTok",
+    "pageid": 56822861,
+    "snippet": "<span class=\"searchmatch\">Tik</span><span class=\"searchmatch\">Tok</span>, whose mainland Chinese counterpart is Douyin (Chinese: 抖音; pinyin: Dǒuyīn), is a short-form video hosting service owned by ByteDance. It hosts"
+  },
+  {
+    "title": "Tik Tok (song)",
+    "pageid": 24365287,
+    "snippet": "&quot;<span class=\"searchmatch\">Tik</span> <span class=\"searchmatch\">Tok</span>&quot; (stylized as &quot;<span class=\"searchmatch\">TiK</span> <span class=\"searchmatch\">ToK</span>&quot; and pronounced as &quot;tick tock&quot;) is the debut single by American singer Kesha, who co-wrote the song with its producers"
+  },
+  {
+    "title": "Censorship of TikTok",
+    "pageid": 65445492,
+    "snippet": "attempted to impose temporary or indefinite bans on the social media service <span class=\"searchmatch\">Tik</span><span class=\"searchmatch\">Tok</span> due concerns from the 2020 Nagorno-Karabakh conflict, ownership by a Chinese"
+  },
+  {
+    "title": "Libs of TikTok",
+    "pageid": 70575023,
+    "snippet": "Libs of <span class=\"searchmatch\">Tik</span><span class=\"searchmatch\">Tok</span> is a handle for various far-right and anti-LGBT social-media accounts operated by Chaya Raichik (/ˈxɑːjə ˈraɪtʃɪk/ KHAH-yə RY-chik), a former"
+  },
+  {
+    "title": "Tik-Tok (Oz)",
+    "pageid": 633457,
+    "snippet": "<span class=\"searchmatch\">Tik</span>-<span class=\"searchmatch\">Tok</span> is a fictional &quot;mechanical man&quot; from the Oz books by American author L. Frank Baum. He has been termed &quot;the prototype robot&quot;, and is widely considered"
+  },
+  {
+    "title": "Tik-Tok of Oz",
+    "pageid": 373555,
+    "snippet": "<span class=\"searchmatch\">Tik</span>-<span class=\"searchmatch\">Tok</span> of Oz is the eighth Land of Oz book written by L. Frank Baum, published on June 19, 1914. The book has little to do with <span class=\"searchmatch\">Tik</span>-<span class=\"searchmatch\">Tok</span> and is primarily"
+  },
+  {
+    "title": "Tick tock",
+    "pageid": 3522512,
+    "snippet": " or tick-tock in Wiktionary, the free dictionary. Tick tock, tic toc, <span class=\"searchmatch\">Tik</span> <span class=\"searchmatch\">Tok</span> and other variants may refer to: Tick-Tock (character), a fictional mutant"
+  },
+  {
+    "title": "Censorship by TikTok",
+    "pageid": 66690367,
+    "snippet": "There is evidence that <span class=\"searchmatch\">Tik</span><span class=\"searchmatch\">Tok</span> has down-weighted the posts of topics deemed sensitive by the Chinese government and Chinese Communist Party. Topics alleged"
+  },
+  {
+    "title": "Tik-Tok (novel)",
+    "pageid": 842878,
+    "snippet": "<span class=\"searchmatch\">Tik</span>-<span class=\"searchmatch\">Tok</span> is a 1983 science fiction novel by American writer John Sladek. It received a 1983 British Science Fiction Association Award. The title character"
+  },
+  {
+    "title": "Tik and Tok",
+    "pageid": 5019806,
+    "snippet": "<span class=\"searchmatch\">Tik</span> and <span class=\"searchmatch\">Tok</span> are the robotic mime and music duo of Tim Dry and Sean Crawford. They began performing together with Shock, a rock/mime/burlesque/music troupe"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+56822861

@@ -1,0 +1,35 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+The provided document is actually the transcript of a video interview between Piers Morgan and Bassam Youssef, an Egyptian comedian and political commentator. Specifically, the transcript doesn't provide direct insight into the official goals, motivations, actions, concerns, or resources of Egypt as a country. However, it does offer some insight into the views and experiences of one individual, Bassem Youssef.
+
+Apologies for any confusion, but in this case, the document does not allow me to provide insights specifically in relation to the questions you've asked about the state goals, fears, or resources of Egypt itself. 
+
+This interview could provide personal perspectives or anecdotal points that might be informative or useful in understanding socio-cultural and political issues, but these insights would be from Youssef's personal experiences and opinions and cannot be directly correlated to Egypt's national strategies or decisions.
+
+Please share a document directly discussing the topics of interest (e.g., official documents, state publications, or reports analyzing Egyptian policies), and I'll be happy to help extract useful insights in line with your questions.
+
+=== RESULTS ===
+
+{
+  "summary": {
+    "description": "The provided document is actually the transcript of a video interview between Piers Morgan and Bassam Youssef, an Egyptian comedian and political commentator. Specifically, the transcript doesn't provide direct insight into the official goals, motivations, actions, concerns, or resources of Egypt as a country. However, it does offer some insight into the views and experiences of one individual, Bassem Youssef."
+  },
+  "clarification": {
+    "message": "Apologies for any confusion, but in this case, the document does not allow me to provide insights specifically in relation to the questions you've asked about the state goals, fears, or resources of Egypt itself."
+  },
+  "suggestion": {
+    "detail": "This interview could provide personal perspectives or anecdotal points that might be informative or useful in understanding socio-cultural and political issues, but these insights would be from Youssef's personal experiences and opinions and cannot be directly correlated to Egypt's national strategies or decisions."
+  },
+  "recommendation": {
+    "instruction": "Please share a document directly discussing the topics of interest (e.g., official documents, state publications, or reports analyzing Egyptian policies), and I'll be happy to help extract useful insights in line with your questions."
+  }
+}

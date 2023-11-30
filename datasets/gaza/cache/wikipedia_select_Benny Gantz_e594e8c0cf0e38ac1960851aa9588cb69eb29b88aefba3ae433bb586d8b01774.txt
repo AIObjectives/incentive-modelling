@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Benny Gantz" which was described 
+as "Israeli politician and former Chief of General Staff of the Israel Defense Forces" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Benny Gantz",
+    "pageid": 5234157,
+    "snippet": "<span class=\"searchmatch\">Benny</span> <span class=\"searchmatch\">Gantz</span> at Wikimedia Commons Quotations related to <span class=\"searchmatch\">Benny</span> <span class=\"searchmatch\">Gantz</span> at Wikiquote Official website <span class=\"searchmatch\">Benny</span> <span class=\"searchmatch\">Gantz</span> on Twitter <span class=\"searchmatch\">Benny</span> <span class=\"searchmatch\">Gantz</span> on Facebook <span class=\"searchmatch\">Benny</span>"
+  },
+  {
+    "title": "Blue and White (political alliance)",
+    "pageid": 60039089,
+    "snippet": "leader <span class=\"searchmatch\">Benny</span> <span class=\"searchmatch\">Gantz</span> was tasked with forming a new government after receiving endorsements from a majority of 61 MKs. Amidst the COVID-19 pandemic, <span class=\"searchmatch\">Gantz</span> instead"
+  },
+  {
+    "title": "National Unity (Israel)",
+    "pageid": 71523138,
+    "snippet": "romanized: HaMaḥane HaMamlakhti) is an Israeli political alliance made up of <span class=\"searchmatch\">Benny</span> <span class=\"searchmatch\">Gantz's</span> Blue and White alliance and Gideon Sa'ar's New Hope party, as well as"
+  },
+  {
+    "title": "Opinion polling for the next Israeli legislative election",
+    "pageid": 71192680,
+    "snippet": "Party Benjamin Netanyahu · Prime Minister · Leader of the Likud party <span class=\"searchmatch\">Benny</span> <span class=\"searchmatch\">Gantz</span> · Leader of the National Unity alliance · Former Alternate Prime minister"
+  },
+  {
+    "title": "2020 Israeli legislative election",
+    "pageid": 60901003,
+    "snippet": "agreement, the premiership would rotate between Benjamin Netanyahu and <span class=\"searchmatch\">Benny</span> <span class=\"searchmatch\">Gantz</span>, with <span class=\"searchmatch\">Gantz</span> given the new position of Alternate Prime Minister until November"
+  },
+  {
+    "title": "Israel Resilience Party",
+    "pageid": 59508606,
+    "snippet": "Israel') is a political party in Israel founded in December 2018 by <span class=\"searchmatch\">Benny</span> <span class=\"searchmatch\">Gantz</span>, former Chief of the General Staff of the Israel Defense Forces. The"
+  },
+  {
+    "title": "Benjamin Netanyahu",
+    "pageid": 56472,
+    "snippet": "was reached between Netanyahu and centrist Blue and White alliance's <span class=\"searchmatch\">Benny</span> <span class=\"searchmatch\">Gantz</span>. The coalition collapsed In December 2020, before the rotation could"
+  },
+  {
+    "title": "Hannibal Directive",
+    "pageid": 33476285,
+    "snippet": "soldier was 'better dead than abducted'&quot;. In 2011, IDF Chief of Staff <span class=\"searchmatch\">Benny</span> <span class=\"searchmatch\">Gantz</span> stated the directive does not permit killing IDF soldiers to prevent"
+  },
+  {
+    "title": "September 2019 Israeli legislative election",
+    "pageid": 59475939,
+    "snippet": "trigger new elections, in order to prevent Blue and White party leader <span class=\"searchmatch\">Benny</span> <span class=\"searchmatch\">Gantz</span> from being appointed Prime Minister-designate. This election marked the"
+  },
+  {
+    "title": "Thirty-fifth government of Israel",
+    "pageid": 51544579,
+    "snippet": "agreement was ultimately reached on 20 April 2020, between Netanyahu and MK <span class=\"searchmatch\">Benny</span> <span class=\"searchmatch\">Gantz</span> on the formation of a national unity government. The Knesset, and with"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+5234157

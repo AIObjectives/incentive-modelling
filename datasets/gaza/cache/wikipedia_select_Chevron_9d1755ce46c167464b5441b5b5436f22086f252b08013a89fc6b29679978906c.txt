@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Chevron" which was described 
+as "American multinational energy corporation" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Chevron Corporation",
+    "pageid": 284749,
+    "snippet": "<span class=\"searchmatch\">Chevron</span> Corporation is an American multinational energy corporation predominantly specializing in oil and gas. The second-largest direct descendant of"
+  },
+  {
+    "title": "Chevron",
+    "pageid": 3406958,
+    "snippet": "Look up <span class=\"searchmatch\">chevron</span> in Wiktionary, the free dictionary. <span class=\"searchmatch\">Chevron</span> (often relating to V-shaped patterns) may refer to: <span class=\"searchmatch\">Chevron</span> (aerospace), sawtooth patterns"
+  },
+  {
+    "title": "Wound Chevron",
+    "pageid": 764188,
+    "snippet": "A Wound <span class=\"searchmatch\">Chevron</span> was a United States military insignia authorized for wear on the service uniform between 1918 and 1932. The Wound <span class=\"searchmatch\">Chevron</span> was a gold metallic-thread"
+  },
+  {
+    "title": "Chevron (insignia)",
+    "pageid": 59226,
+    "snippet": "A <span class=\"searchmatch\">chevron</span> (also spelled cheveron, especially in older documents) is a V-shaped mark or symbol, often inverted. The word is usually used in reference to"
+  },
+  {
+    "title": "Philip Chevron",
+    "pageid": 1376114,
+    "snippet": "Philip Ryan (17 June 1957 – 8 October 2013), professionally known as Philip <span class=\"searchmatch\">Chevron</span>, was an Irish singer-songwriter and guitarist and record producer. He was"
+  },
+  {
+    "title": "Chevron U.S.A., Inc. v. Natural Resources Defense Council, Inc.",
+    "pageid": 3381866,
+    "snippet": "<span class=\"searchmatch\">Chevron</span> U.S.A., Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837 (1984), was a landmark decision of the United States Supreme Court that"
+  },
+  {
+    "title": "Chevron Mountain",
+    "pageid": 52906346,
+    "snippet": "<span class=\"searchmatch\">Chevron</span> Mountain is a summit in Alberta, Canada. <span class=\"searchmatch\">Chevron</span> Mountain was named for the fact it resembles a <span class=\"searchmatch\">chevron</span>. &quot;Topographic map of <span class=\"searchmatch\">Chevron</span> Mountain&quot;"
+  },
+  {
+    "title": "Chevron Cars",
+    "pageid": 4058783,
+    "snippet": "The <span class=\"searchmatch\">Chevron</span> Cars are anthropomorphic vehicles who were part of an advertising campaign of the <span class=\"searchmatch\">Chevron</span> Corporation consisting of television spots, print"
+  },
+  {
+    "title": "Flag of Jordan",
+    "pageid": 418766,
+    "snippet": "of horizontal black, white, and green bands that are connected by a red <span class=\"searchmatch\">chevron</span>. The colours are the Pan-Arab Colors, respectively representing the Abbasid"
+  },
+  {
+    "title": "Lewis A. Kaplan",
+    "pageid": 21816904,
+    "snippet": "on behalf of Ecuadorian indigenous tribes against Texaco-<span class=\"searchmatch\">Chevron</span>. Kaplan granted <span class=\"searchmatch\">Chevron's</span> motion barring enforcement of an almost $10 billion judgement"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+284749

@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Niki Haley" which was described 
+as "American diplomat and politician who equated anti-zionism with anti-semitism on Twitter." and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Nikki Haley",
+    "pageid": 8709554,
+    "snippet": "Nimarata Nikki <span class=\"searchmatch\">Haley</span> (née Randhawa; born January 20, 1972) is an American politician and diplomat who served as the 116th governor of South Carolina from"
+  },
+  {
+    "title": "I Me",
+    "pageid": 34120310,
+    "snippet": "girl group from China whose members are Mocika (李媛希), <span class=\"searchmatch\">Niki</span> (易易紫), and Mikan (刘美含) from China; <span class=\"searchmatch\">Haley</span> (沈泫京) from South Korea; and Sara (那琳) from Thailand"
+  },
+  {
+    "title": "2015–16 ISU World Standings",
+    "pageid": 57590513,
+    "snippet": "2014/2015 season (100%) 0 0 0 182 0 2013/2014 season (70%) 0 0 0 0 0 96  NED <span class=\"searchmatch\">Niki</span> Wories 586 2015/2016 season (100%) 131 0 0 0 0 2014/2015 season (100%) 49"
+  },
+  {
+    "title": "Riley Keough",
+    "pageid": 608982,
+    "snippet": "2019). &quot;Riley Keough To Headline Amazon Series 'Daisy Jones &amp; The Six', <span class=\"searchmatch\">Niki</span> Caro To Direct&quot;. Deadline Hollywood. Archived from the original on November"
+  },
+  {
+    "title": "List of Sports Illustrated Swimsuit Issue models",
+    "pageid": 4302745,
+    "snippet": "Chanel Iman Kathy Ireland Julia Blake Kate James Maria João Olivia Jordan <span class=\"searchmatch\">Haley</span> Kalil Mia Kang Kim Kardashian Melissa Keller Vendela Kirsebom Heidi Klum"
+  },
+  {
+    "title": "Buddy Holly",
+    "pageid": 4408,
+    "snippet": "entirely rock and roll. In October that year, when Holly opened for Bill <span class=\"searchmatch\">Haley</span> &amp; His Comets, he was spotted by Nashville scout Eddie Crandall, who helped"
+  },
+  {
+    "title": "Lemon Popsicle",
+    "pageid": 4718783,
+    "snippet": "group of three teenage boys in late-1950s Tel Aviv. In 1950s Israel, Nili (<span class=\"searchmatch\">Niki</span> in the English-language release) is the new girl at school. She meets a trio"
+  },
+  {
+    "title": "Titan submersible implosion",
+    "pageid": 74077355,
+    "snippet": "from the original on 21 June 2023. Retrieved 28 June 2023. Kitsantonis, <span class=\"searchmatch\">Niki</span>; Engelbrecht, Cora (14 June 2023). &quot;At Least 79 Die as Boat Carrying Migrants"
+  },
+  {
+    "title": "Characters of the Dead or Alive series",
+    "pageid": 2792378,
+    "snippet": "allowing Zack and <span class=\"searchmatch\">Niki</span> to once again restore it into an island paradise for the ladies of Dead or Alive to come play in. After proposing to <span class=\"searchmatch\">Niki</span>, Zack appear"
+  },
+  {
+    "title": "Nikki (given name)",
+    "pageid": 12297947,
+    "snippet": "Nicki (disambiguation) Nicole (disambiguation) Nicolette (disambiguation) <span class=\"searchmatch\">Niki</span> (given name) Nikki (disambiguation) Nikky This page or section lists people"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+8709554

@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "US Congress" which was described 
+as "The bicameral legislature of the Federal government of the United States" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "United States Congress",
+    "pageid": 31756,
+    "snippet": "filled by a governor's appointment. <span class=\"searchmatch\">Congress</span> has 535 voting members: 100 senators and 435 representatives. The <span class=\"searchmatch\">U.S</span>. vice president has a vote in the Senate"
+  },
+  {
+    "title": "Library of Congress",
+    "pageid": 18944081,
+    "snippet": "Library of <span class=\"searchmatch\">Congress</span> (LOC) is a research library in Washington, D.C., that serves as the library and research service of the <span class=\"searchmatch\">U.S</span>. <span class=\"searchmatch\">Congress</span> and the de facto"
+  },
+  {
+    "title": "United States Capitol",
+    "pageid": 31979,
+    "snippet": "<span class=\"searchmatch\">U.S</span>. <span class=\"searchmatch\">Congress</span> was established upon ratification of the <span class=\"searchmatch\">U.S</span>. Constitution and formally began on March 4, 1789. New York City remained home to <span class=\"searchmatch\">Congress</span>"
+  },
+  {
+    "title": "118th United States Congress",
+    "pageid": 52025484,
+    "snippet": "The 118th United States <span class=\"searchmatch\">Congress</span> is the current meeting of the legislative branch of the United States federal government, composed of the United States"
+  },
+  {
+    "title": "105th United States Congress",
+    "pageid": 456101,
+    "snippet": "the <span class=\"searchmatch\">Congress</span>. Both chambers retained a Republican majority. President Clinton was impeached by the <span class=\"searchmatch\">US</span> House of Representatives of the 105th <span class=\"searchmatch\">Congress</span>. January"
+  },
+  {
+    "title": "103rd United States Congress",
+    "pageid": 456541,
+    "snippet": "The 103rd United States <span class=\"searchmatch\">Congress</span> was a meeting of the legislative branch of the United States federal government, composed of the United States Senate"
+  },
+  {
+    "title": "107th United States Congress",
+    "pageid": 408915,
+    "snippet": "The 107th United States <span class=\"searchmatch\">Congress</span> was a meeting of the legislative branch of the United States federal government, composed of the United States Senate"
+  },
+  {
+    "title": "101st United States Congress",
+    "pageid": 462443,
+    "snippet": "The 101st United States <span class=\"searchmatch\">Congress</span> was a meeting of the legislative branch of the United States federal government, composed of the United States Senate"
+  },
+  {
+    "title": "1st United States Congress",
+    "pageid": 224807,
+    "snippet": "The 1st United States <span class=\"searchmatch\">Congress</span>, comprising the United States Senate and the United States House of Representatives, met from March 4, 1789, to March 4"
+  },
+  {
+    "title": "List of United States Congresses",
+    "pageid": 462457,
+    "snippet": "Days in Session of the <span class=\"searchmatch\">U.S</span>. <span class=\"searchmatch\">Congress</span>&quot;. Library of <span class=\"searchmatch\">Congress</span> – via <span class=\"searchmatch\">Congress</span>.gov. &quot;<span class=\"searchmatch\">U.S</span>. Congressional Calendars&quot;. Library of <span class=\"searchmatch\">Congress</span> – via <span class=\"searchmatch\">Congress</span>.gov."
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+31756

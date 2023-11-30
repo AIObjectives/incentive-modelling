@@ -1,0 +1,19 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Benny Gantz
+Long description: Benjamin Gantz (Hebrew: בִּנְיָמִין "בֵּנִי" גַּנְץ, romanized: Binyāmīn "Bēnī" Ganṣ; born 9 June 1959) is an Israeli politician and retired army general who has served as Minister without portfolio since 2023. Gantz also served as the Minister of Defense, between 2020 and 2022 and as deputy prime minister of Israel between 2021 and 2022. From 2020 to 2021, he was the alternate prime minister of Israel.
+He served as the 20th chief of General Staff of the Israel Defense Forces (IDF) from 2011 to 2015. In December 2018, he entered politics by establishing a new political party named Israel Resilience. The party later allied itself with Telem and Yesh Atid to form Blue and White (Hebrew: Kaḥol Lavan), the colours of the Israeli national flag. Gantz's Blue and White alliance platform includes introducing prime ministerial term limits, barring indicted politicians from serving in the Knesset, amending the nation-state law to include Israeli minorities, limiting the power of the Chief Rabbinate of Israel over marriages, investing in early education, expanding health care, and re-entering negotiations with the Palestinian Authority for a peace agreement.Gantz was the 17th Speaker of the Knesset from 26 March 2020 to 17 May 2020. On 20 April 2020, Gantz agreed to join a rotation government with Prime Minister Benjamin Netanyahu. Under the terms of the agreement, Gantz was to serve as Alternate Prime Minister and Minister of Defense, before succeeding Netanyahu as Prime Minister of Israel in November 2021. However, the coalition collapsed, resulting in another election in 2021. As defense minister, Gantz was in charge of Operation Guardian of the Walls in Gaza. In June 2021, he was reappointed Defense Minister and became Deputy Prime Minister in the new Bennett-Lapid government, serving in those roles until December 2022.
+On 12 October 2023, following the breakout of the 2023 Israel–Hamas war, the National Unity Party announced that it would form an emergency war cabinet, with Gantz appointed Minister without portfolio in the Thirty-seventh government.
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+Benny Gantz (born 9 June 1959) is an Israeli politician and retired army general who served as the 20th Chief of General Staff of the Israel Defense Forces, Minister of Defense, and was the 17th Speaker of the Knesset, and is currently serving as Minister without portfolio since 2023.

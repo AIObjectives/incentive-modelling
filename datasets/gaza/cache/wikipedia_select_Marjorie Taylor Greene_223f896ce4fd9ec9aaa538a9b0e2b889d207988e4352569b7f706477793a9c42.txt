@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Marjorie Taylor Greene" which was described 
+as "American businesswoman, and politician, member of the US House of Representatives" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Marjorie Taylor Greene",
+    "pageid": 64229388,
+    "snippet": "<span class=\"searchmatch\">Marjorie</span> <span class=\"searchmatch\">Taylor</span> <span class=\"searchmatch\">Greene</span> (née <span class=\"searchmatch\">Taylor</span>; born May 27, 1974), also known by her initials MTG, is an American far-right politician, businesswoman, and conspiracy"
+  },
+  {
+    "title": "Freedom Caucus",
+    "pageid": 45239953,
+    "snippet": "Speaker election, <span class=\"searchmatch\">Marjorie</span> <span class=\"searchmatch\">Taylor</span> <span class=\"searchmatch\">Greene</span> broke with the caucus's positions and aligned herself with McCarthy. On June 21, 2023, <span class=\"searchmatch\">Greene</span> engaged in a heated"
+  },
+  {
+    "title": "Wilder Brigade Monument",
+    "pageid": 67712395,
+    "snippet": "was later repaired. In October 2022, United States Representative <span class=\"searchmatch\">Marjorie</span> <span class=\"searchmatch\">Taylor</span> <span class=\"searchmatch\">Greene</span>, whose congressional district includes the military park, visited"
+  },
+  {
+    "title": "Lauren Boebert",
+    "pageid": 64429315,
+    "snippet": "in Congress, she was one of two representatives (the other was <span class=\"searchmatch\">Marjorie</span> <span class=\"searchmatch\">Taylor</span> <span class=\"searchmatch\">Greene</span>) to vote against the TRANSPLANT Act, which reauthorized the National"
+  },
+  {
+    "title": "Rothschild & Co",
+    "pageid": 48167314,
+    "snippet": "family resolved the dispute. In January 2021, US Representative <span class=\"searchmatch\">Marjorie</span> <span class=\"searchmatch\">Taylor</span> <span class=\"searchmatch\">Greene</span> (R-GA) was reported to have made a Facebook post blaming &quot;Rothschild"
+  },
+  {
+    "title": "Malapropism",
+    "pageid": 145230,
+    "snippet": "April 2022. &quot;<span class=\"searchmatch\">Marjorie</span> <span class=\"searchmatch\">Taylor</span> <span class=\"searchmatch\">Greene</span> warns of meat grown in a 'peach tree dish'&quot;. Independent.co.uk. 30 May 2022. &quot;<span class=\"searchmatch\">Marjorie</span> <span class=\"searchmatch\">Taylor</span> <span class=\"searchmatch\">Greene</span> Addresses 'Gazpacho"
+  },
+  {
+    "title": "Adam Kinzinger",
+    "pageid": 22201400,
+    "snippet": "Republican House members voting with all voting Democrats to strip <span class=\"searchmatch\">Marjorie</span> <span class=\"searchmatch\">Taylor</span> <span class=\"searchmatch\">Greene</span> of her House Education and Labor Committee and House Budget Committee"
+  },
+  {
+    "title": "Matt Gaetz",
+    "pageid": 38902978,
+    "snippet": "representative <span class=\"searchmatch\">Marjorie</span> <span class=\"searchmatch\">Taylor</span> <span class=\"searchmatch\">Greene</span> began a nationwide &quot;America First Tour&quot; on May 7, in The Villages, Florida. During the tour, Gaetz and <span class=\"searchmatch\">Greene</span> repeated"
+  },
+  {
+    "title": "2026 United States Senate election in Georgia",
+    "pageid": 65816330,
+    "snippet": "candidates include <span class=\"searchmatch\">Marjorie</span> <span class=\"searchmatch\">Taylor</span> <span class=\"searchmatch\">Greene</span>, Brian Kemp, and Kelly Loeffler. Jon Ossoff, incumbent U.S. Senator (2021–present) <span class=\"searchmatch\">Marjorie</span> <span class=\"searchmatch\">Taylor</span> <span class=\"searchmatch\">Greene</span>, U.S. Representative"
+  },
+  {
+    "title": "Matt Cartwright",
+    "pageid": 36081906,
+    "snippet": "Cartwright cosponsored a resolution to expel Georgia Republican Rep. <span class=\"searchmatch\">Marjorie</span> <span class=\"searchmatch\">Taylor</span> <span class=\"searchmatch\">Greene</span> from Congress, suggesting that she &quot;advocated violence against our"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+64229388

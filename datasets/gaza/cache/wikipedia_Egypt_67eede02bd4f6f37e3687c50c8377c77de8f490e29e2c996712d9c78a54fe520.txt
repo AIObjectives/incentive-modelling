@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Egypt" which was described 
+as "Country in the northeastern corner of Africa, also involved in mediation" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Ancient Egypt",
+    "pageid": 874,
+    "snippet": "the country <span class=\"searchmatch\">Egypt</span>. Ancient <span class=\"searchmatch\">Egyptian</span> civilization followed prehistoric <span class=\"searchmatch\">Egypt</span> and coalesced around 3100 BC (according to conventional <span class=\"searchmatch\">Egyptian</span> chronology)"
+  },
+  {
+    "title": "Pharaoh",
+    "pageid": 23294,
+    "snippet": "Pharaoh (/ˈfɛəroʊ/, US also /ˈfeɪ.roʊ/; <span class=\"searchmatch\">Egyptian</span>: pr ꜥꜣ; Coptic: ⲡⲣ̄ⲣⲟ, romanized: Pǝrro; Biblical Hebrew: פַּרְעֹה‎ Parʿō) is the vernacular term often"
+  },
+  {
+    "title": "Egyptian hieroglyphs",
+    "pageid": 50953,
+    "snippet": "<span class=\"searchmatch\">Egyptian</span> hieroglyphs (/ˈhaɪrəˌɡlɪfs/, /ˈhaɪroʊˌɡlɪfs/) were the formal writing system used in Ancient <span class=\"searchmatch\">Egypt</span> for writing the <span class=\"searchmatch\">Egyptian</span> language. Hieroglyphs"
+  },
+  {
+    "title": "Cleopatra",
+    "pageid": 60827,
+    "snippet": "goddess&quot;; 70/69 BC – 10 August 30 BC) was Queen of the Ptolemaic Kingdom of <span class=\"searchmatch\">Egypt</span> from 51 to 30 BC, and its last active ruler. A member of the Ptolemaic dynasty"
+  },
+  {
+    "title": "Egyptian",
+    "pageid": 69808,
+    "snippet": "Look up <span class=\"searchmatch\">Egyptian</span> or <span class=\"searchmatch\">Egyptians</span> in Wiktionary, the free dictionary. <span class=\"searchmatch\">Egyptian</span> describes something of, from, or related to <span class=\"searchmatch\">Egypt</span>. <span class=\"searchmatch\">Egyptian</span> or <span class=\"searchmatch\">Egyptians</span> may refer"
+  },
+  {
+    "title": "Lists of rulers of Egypt",
+    "pageid": 309628,
+    "snippet": "Lists of rulers of <span class=\"searchmatch\">Egypt</span>: List of pharaohs (c. 3100 BC – 30 BC) List of Satraps of the 27th Dynasty (525–404 BC) List of Satraps of the 31st Dynasty (343–332"
+  },
+  {
+    "title": "Ptolemaic Kingdom",
+    "pageid": 7606081,
+    "snippet": "romanized: Ptolemaïkḕ basileía) or Ptolemaic Empire was an Ancient Greek state based in <span class=\"searchmatch\">Egypt</span> during the Hellenistic period. It was founded in 305 BC by the Macedonian"
+  },
+  {
+    "title": "Egypt",
+    "pageid": 8087628,
+    "snippet": "<span class=\"searchmatch\">Egypt</span> (Arabic: مصر Miṣr [mesˁr], <span class=\"searchmatch\">Egyptian</span> Arabic pronunciation: [mɑsˤr]), officially the Arab Republic of <span class=\"searchmatch\">Egypt</span>, is a transcontinental country spanning"
+  },
+  {
+    "title": "Mamluk Sultanate",
+    "pageid": 20738544,
+    "snippet": "romanized: Salṭanat al-Mamālīk), also known as Mamluk <span class=\"searchmatch\">Egypt</span> or the Mamluk Empire, was a state that ruled <span class=\"searchmatch\">Egypt</span>, the Levant and the Hejaz from the mid-13th to"
+  },
+  {
+    "title": "Egyptians",
+    "pageid": 31912046,
+    "snippet": "<span class=\"searchmatch\">Egyptians</span> (Arabic: مِصرِيُّون, romanized: Miṣriyyūn, IPA: [mɪsˤrɪjˈjuːn]; <span class=\"searchmatch\">Egyptian</span> Arabic: مَصرِيِّين, romanized: Maṣryyīn, IPA: [mɑsˤɾɪjˈjiːn]; Coptic:"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+8087628

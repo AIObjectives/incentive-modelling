@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Bassem Youssef" which was described 
+as "A speaker in the transcript being interviewed." and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Bassem Youssef",
+    "pageid": 33240386,
+    "snippet": "<span class=\"searchmatch\">Bassem</span> Raafat Mohamed <span class=\"searchmatch\">Youssef</span> (Arabic: باسم رأفت محمد يوسف, Egyptian Arabic: [ˈbæːsem ˈɾɑʔfɑt mæˈħæmmæd ˈjuːsef]; born 21 March 1974) is an Egyptian comedian"
+  },
+  {
+    "title": "Bassem Youssef (FBI agent)",
+    "pageid": 12533678,
+    "snippet": "<span class=\"searchmatch\">Bassem</span> <span class=\"searchmatch\">Youssef</span> (born Egypt) is a senior Egyptian-American FBI agent. He was the highest ranking American agent of Middle Eastern and North African descent"
+  },
+  {
+    "title": "Tarek El Kazzaz",
+    "pageid": 43117999,
+    "snippet": "El Kazzaz is best known for creating and producing Al-Bernameg with <span class=\"searchmatch\">Bassem</span> <span class=\"searchmatch\">Youssef</span>, the first and top political satire program in the Middle East. After"
+  },
+  {
+    "title": "Al Bernameg",
+    "pageid": 35630859,
+    "snippet": "Show&quot;) was an Egyptian news satire program. The show was hosted by <span class=\"searchmatch\">Bassem</span> <span class=\"searchmatch\">Youssef</span> on the free-to-air channel MBC MASR and reruns are aired on Deutsche"
+  },
+  {
+    "title": "Bassem",
+    "pageid": 31574084,
+    "snippet": "Palestinian activist <span class=\"searchmatch\">Bassem</span> Yakhour (born 1971), Syrian actor, writer and director <span class=\"searchmatch\">Bassem</span> <span class=\"searchmatch\">Youssef</span>, Egyptian political satirist <span class=\"searchmatch\">Bassem</span> <span class=\"searchmatch\">Youssef</span> (FBI agent), Egyptian-American"
+  },
+  {
+    "title": "Tickling Giants",
+    "pageid": 53607214,
+    "snippet": "American documentary film directed by Sara Taksler, about the story of <span class=\"searchmatch\">Bassem</span> <span class=\"searchmatch\">Youssef</span>, who, in the midst of the 2011 Egyptian revolution, left his job as"
+  },
+  {
+    "title": "Yusuf",
+    "pageid": 5508672,
+    "snippet": "bombing <span class=\"searchmatch\">Bassem</span> <span class=\"searchmatch\">Youssef</span> (born 1974), Egyptian writer and comedian Dhafer <span class=\"searchmatch\">Youssef</span> (born 1967), Tunisian singer and oud player Maimouna <span class=\"searchmatch\">Youssef</span> (stage name:"
+  },
+  {
+    "title": "Special Ops: Lioness",
+    "pageid": 72740810,
+    "snippet": "McGill as NSA Advisor Hollar Sean Avery as Delta Force operator in bar <span class=\"searchmatch\">Bassem</span> <span class=\"searchmatch\">Youssef</span> as Asmar Ali Amrohi, father of Aaliyah Amrohi and target billionaire"
+  },
+  {
+    "title": "Al Jazeera Arabic",
+    "pageid": 48370461,
+    "snippet": "June 2015. &quot;DW television to broadcast series by Egyptian satirist <span class=\"searchmatch\">Bassem</span> <span class=\"searchmatch\">Youssef</span>&quot;. Deutsche Welle. Archived from the original on 26 April 2015. Retrieved"
+  },
+  {
+    "title": "Jon Stewart: The Kennedy Center Mark Twain Prize for American Humor",
+    "pageid": 71120157,
+    "snippet": "John Oliver, Stephen Colbert, Ed Helms, Olivia Munn, Samantha Bee, <span class=\"searchmatch\">Bassem</span> <span class=\"searchmatch\">Youssef</span>, Jon Meacham, Jimmy Kimmel, Pete Davidson and Bruce Springsteen. The"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+33240386

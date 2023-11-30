@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Donald Trump" which was described 
+as "Former President of the United States." and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Donald Trump",
+    "pageid": 4848272,
+    "snippet": "<span class=\"searchmatch\">Donald</span> John <span class=\"searchmatch\">Trump</span> (born June 14, 1946) is an American politician, media personality, and businessman who served as the 45th president of the United States"
+  },
+  {
+    "title": "Donald Trump Jr.",
+    "pageid": 5679119,
+    "snippet": "the eldest child of <span class=\"searchmatch\">Donald</span> <span class=\"searchmatch\">Trump</span> and his first wife Ivana <span class=\"searchmatch\">Trump</span>. <span class=\"searchmatch\">Trump</span> serves as a trustee and executive vice president of The <span class=\"searchmatch\">Trump</span> Organization, running"
+  },
+  {
+    "title": "Family of Donald Trump",
+    "pageid": 52170275,
+    "snippet": "The family of <span class=\"searchmatch\">Donald</span> <span class=\"searchmatch\">Trump</span>, the 45th president of the United States from 2017 to 2021 and owner of The <span class=\"searchmatch\">Trump</span> Organization, is a prominent American family"
+  },
+  {
+    "title": "Presidency of Donald Trump",
+    "pageid": 52231341,
+    "snippet": "<span class=\"searchmatch\">Donald</span> <span class=\"searchmatch\">Trump's</span> tenure as the 45th president of the United States began with his inauguration on January 20, 2017, and ended on January 20, 2021. Trump"
+  },
+  {
+    "title": "Ivana Trump",
+    "pageid": 1057887,
+    "snippet": "relocating to the United States and marrying <span class=\"searchmatch\">Donald</span> <span class=\"searchmatch\">Trump</span> in 1977. She held key managerial positions in The <span class=\"searchmatch\">Trump</span> Organization, as vice president of interior"
+  },
+  {
+    "title": "Donald Trump 2024 presidential campaign",
+    "pageid": 65820839,
+    "snippet": "<span class=\"searchmatch\">Donald</span> <span class=\"searchmatch\">Trump</span>, the 45th President of the United States who served from 2017 to 2021, announced his campaign for a non-consecutive second presidential term"
+  },
+  {
+    "title": "Wealth of Donald Trump",
+    "pageid": 59429995,
+    "snippet": "The net worth of <span class=\"searchmatch\">Donald</span> <span class=\"searchmatch\">Trump</span> is not publicly known. Various news organizations have attempted to estimate his wealth. Forbes estimates it at $2.6 billion"
+  },
+  {
+    "title": "Second impeachment of Donald Trump",
+    "pageid": 66310761,
+    "snippet": "<span class=\"searchmatch\">Donald</span> <span class=\"searchmatch\">Trump</span>, the 45th president of the United States, was impeached for the second time on January 13, 2021, one week before his term expired. It was"
+  },
+  {
+    "title": "False or misleading statements by Donald Trump",
+    "pageid": 58856421,
+    "snippet": "During his term as President of the United States, <span class=\"searchmatch\">Donald</span> <span class=\"searchmatch\">Trump</span> made tens of thousands of false or misleading claims. The Washington Post's fact-checker"
+  },
+  {
+    "title": "Political positions of Donald Trump",
+    "pageid": 47290767,
+    "snippet": "positions of <span class=\"searchmatch\">Donald</span> <span class=\"searchmatch\">Trump</span> (sometimes referred to as <span class=\"searchmatch\">Trumpism</span>), the 45th president of the United States, have frequently changed. <span class=\"searchmatch\">Trump</span> is primarily a"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+4848272

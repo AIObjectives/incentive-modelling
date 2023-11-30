@@ -1,0 +1,36 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+Based on the document provided, there is no specific information relating to the stated goals, main motivations, possible actions, good scenarios, bad scenarios, main fears, or resources at Mahmoud Abbas's disposal. The provided document discussed the attack from Hamas on Israel and its consequences on the peace prospects in the Mideast region, focusing mainly on Hamas, Israel, Saudi Arabia, Iran, and the U.S., but did not provide specific insights into Mahmoud Abbas's goals, motivations, actions or other asked details.
+
+JSON structure would be as below:
+
+{
+  "stated_goals": [], 
+  "main_motivations": [],
+  "possible_actions": [],
+  "good_scenarios": [],
+  "bad_scenarios": [],
+  "main_fears": [],
+  "resources": [],
+}
+
+=== RESULTS ===
+
+{
+  "stated_goals": ["No specific information"], 
+  "main_motivations": ["No specific information"],
+  "possible_actions": ["No specific information"],
+  "good_scenarios": ["No specific information"],
+  "bad_scenarios": ["No specific information"],
+  "main_fears": ["No specific information"],
+  "resources": ["No specific information"]
+}

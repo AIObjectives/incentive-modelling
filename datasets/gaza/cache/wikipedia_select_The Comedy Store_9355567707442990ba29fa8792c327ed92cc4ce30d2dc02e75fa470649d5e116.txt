@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "The Comedy Store" which was described 
+as "Famous comedy club in Los Angeles where Bassem Youssef has performed." and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "The Comedy Store",
+    "pageid": 397603,
+    "snippet": "<span class=\"searchmatch\">The</span> <span class=\"searchmatch\">Comedy</span> <span class=\"searchmatch\">Store</span> is an American <span class=\"searchmatch\">comedy</span> club opened in April 1972. It is located in West Hollywood, California, at 8433 Sunset Boulevard on <span class=\"searchmatch\">the</span> Sunset Strip"
+  },
+  {
+    "title": "The Comedy Store Players",
+    "pageid": 469938,
+    "snippet": "<span class=\"searchmatch\">The</span> <span class=\"searchmatch\">Comedy</span> <span class=\"searchmatch\">Store</span> Players is a group of improvisational comedians who perform at <span class=\"searchmatch\">The</span> <span class=\"searchmatch\">Comedy</span> <span class=\"searchmatch\">Store</span> in London. <span class=\"searchmatch\">The</span> group first came into being in October"
+  },
+  {
+    "title": "The Comedy Store (London)",
+    "pageid": 443369,
+    "snippet": "<span class=\"searchmatch\">The</span> <span class=\"searchmatch\">Comedy</span> <span class=\"searchmatch\">Store</span> is a <span class=\"searchmatch\">comedy</span> club located in Soho, London, England, opened in 1979 by Don Ward and Peter Rosengard. Since 16 January 1925 David Tennant's"
+  },
+  {
+    "title": "Mitzi Shore",
+    "pageid": 18595984,
+    "snippet": "American <span class=\"searchmatch\">comedy</span> club owner. Her husband, Sammy Shore, co-founded <span class=\"searchmatch\">The</span> <span class=\"searchmatch\">Comedy</span> <span class=\"searchmatch\">Store</span> in 1972 and she became its owner two years later. Through <span class=\"searchmatch\">the</span> club, she"
+  },
+  {
+    "title": "Tony Hinchcliffe",
+    "pageid": 50006062,
+    "snippet": "at <span class=\"searchmatch\">The</span> <span class=\"searchmatch\">Comedy</span> <span class=\"searchmatch\">Store</span> in West Hollywood, California. He was hired to work <span class=\"searchmatch\">the</span> phones and <span class=\"searchmatch\">the</span> cover booth, eventually becoming a paid regular at <span class=\"searchmatch\">the</span> venue"
+  },
+  {
+    "title": "Alternative comedy",
+    "pageid": 363869,
+    "snippet": "&quot;Alternative Cabaret&quot; was <span class=\"searchmatch\">the</span> critical <span class=\"searchmatch\">comedy</span> hit of that year. <span class=\"searchmatch\">The</span> <span class=\"searchmatch\">Comedy</span> <span class=\"searchmatch\">Store</span> now advertised itself as &quot;<span class=\"searchmatch\">The</span> Home of Alternative <span class=\"searchmatch\">Comedy</span>&quot; in London's weekly"
+  },
+  {
+    "title": "Comedy Store Uganda",
+    "pageid": 57093035,
+    "snippet": "<span class=\"searchmatch\">Comedy</span> <span class=\"searchmatch\">Store</span> Uganda (sometimes just <span class=\"searchmatch\">Comedy</span> <span class=\"searchmatch\">Store</span> or <span class=\"searchmatch\">Comedy</span> <span class=\"searchmatch\">Store</span> Ug), is a weekly live stand-up <span class=\"searchmatch\">comedy</span> show that was created in 2016 by comedian Alex Muhangi"
+  },
+  {
+    "title": "Comedy club",
+    "pageid": 103075,
+    "snippet": "Comedy Cellar <span class=\"searchmatch\">Comedy</span> Club Russia <span class=\"searchmatch\">The</span> <span class=\"searchmatch\">Comedy</span> Clubhouse (Barcelona) <span class=\"searchmatch\">The</span> <span class=\"searchmatch\">Comedy</span> <span class=\"searchmatch\">Store</span> <span class=\"searchmatch\">The</span> <span class=\"searchmatch\">Comedy</span> <span class=\"searchmatch\">Store</span> (London) <span class=\"searchmatch\">The</span> Comic Strip Live <span class=\"searchmatch\">Comedy</span> Works in Denver"
+  },
+  {
+    "title": "Bobby Lee",
+    "pageid": 1592673,
+    "snippet": "in <span class=\"searchmatch\">comedy</span>. In 1994, <span class=\"searchmatch\">the</span> coffee shop where he was working abruptly closed. &quot;I just went next door to get a job,&quot; he said, &quot;which was <span class=\"searchmatch\">The</span> <span class=\"searchmatch\">Comedy</span> <span class=\"searchmatch\">Store</span> in"
+  },
+  {
+    "title": "Sammy Shore",
+    "pageid": 23088850,
+    "snippet": "stand-up comedian and co-founder of <span class=\"searchmatch\">The</span> <span class=\"searchmatch\">Comedy</span> <span class=\"searchmatch\">Store</span>. Shore began his career doing stand-up <span class=\"searchmatch\">comedy</span> with Shecky Greene in <span class=\"searchmatch\">the</span> Catskill Mountains. He was chosen"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+397603

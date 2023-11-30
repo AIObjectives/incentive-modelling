@@ -1,0 +1,17 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Sabrina Tavernise
+Long description: Sabrina Tavernise (born February 24, 1971) is an American journalist who writes for The New York Times, and is a co-host of the Times podcast The Daily. She has been a war correspondent for the Times from Iraq, Lebanon, and Russia, including recent dispatches from the Russian invasion of Ukraine.
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+Sabrina Tavernise is an American journalist for The New York Times who co-hosts the podcast The Daily, and reports from global conflict zones.

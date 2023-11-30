@@ -1,0 +1,52 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+According to the document, it's not possible to answer all questions as the document doesn't provide detailed information regarding Northrop Grumman Corporation, its goals, motivations, actions, scenarios, fears, and resources. However, some information can be extracted from the document about the company's financial gain due to military conflicts. 
+
+Here's the JSON object based on the above information:
+
+{
+  "stated_goals": [],
+  "main_motivations": [],
+  "possible_actions": [],
+  "good_scenarios": [{"item": "Increase in stock market value during conflicts", "quote": "Forbes noted Northrup Grumman shares also had their best day since 2020"}],
+  "bad_scenarios": [],
+  "main_fears": [],
+  "resources": []
+}
+  
+Please note that due to the document's topic focusing more on the geopolitical tension and the impact on defense related stocks rather than Northrop Grumman, it's difficult to answer all questions with direct quotes.
+
+=== RESULTS ===
+
+The JSON object is already syntactically valid. The validation of a JSON object includes making sure that:
+
+- It is enclosed within curly braces {}
+- Fields are strings enclosed in double quotes. (For example - "stated_goals")
+- The key value is separated by a colon (:)
+- String are enclosed within double quotations.
+- Array values are enclosed within square brackets []
+- Objects from an Array are separated with a comma.
+- Multiple key-value pairs are separated by a comma.
+
+According to these rules, the provided JSON object does not require any fix. As such, I am returning the same object:
+
+```json
+{
+  "stated_goals": [],
+  "main_motivations": [],
+  "possible_actions": [],
+  "good_scenarios": [{"item": "Increase in stock market value during conflicts", "quote": "Forbes noted Northrup Grumman shares also had their best day since 2020"}],
+  "bad_scenarios": [],
+  "main_fears": [],
+  "resources": []
+}
+```

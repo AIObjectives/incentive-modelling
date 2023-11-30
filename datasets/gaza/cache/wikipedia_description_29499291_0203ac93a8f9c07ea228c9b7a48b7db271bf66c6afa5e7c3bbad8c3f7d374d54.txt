@@ -1,0 +1,24 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Alan Daniels
+Long description: Alan Daniels may refer to:
+
+Alan Daniels (EastEnders), a fictional character
+Alan F. Daniels (born 1968), American real estate business executive
+Alan Daniels (basketball), in the 2010 NBA Development League draft. Born 1947. Artist 
+Illustration specifically technical. Made art for Honda Toyota and many other car companies. 
+Famous for illustrations for national parks and the exon mobile graphics 
+His heavenly hussies did for deconstructed women a great favor.
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+Alan Daniels refers to a fictional character in EastEnders, an American real estate executive born in 1968, or a technical artist born in 1947 known for his illustrations for car companies, national parks, and Exxon Mobile.

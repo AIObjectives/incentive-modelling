@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Patrick Kingsley" which was described 
+as "Jerusalem Bureau Chief for The New York Times" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Ben Kingsley",
+    "pageid": 168480,
+    "snippet": "Sir Ben <span class=\"searchmatch\">Kingsley</span> (born Krishna Pandit Bhanji; 31 December 1943) is an English actor. He has received various accolades throughout his career spanning five"
+  },
+  {
+    "title": "Email attachment",
+    "pageid": 865752,
+    "snippet": "InfoWorld Media Group, Inc. p. 41. Father of the email attachment, <span class=\"searchmatch\">Patrick</span> <span class=\"searchmatch\">Kingsley</span>, The Guardian, 26 March 2012 &quot;The MIME guys: How two Internet gurus"
+  },
+  {
+    "title": "Varsity (Cambridge)",
+    "pageid": 1170031,
+    "snippet": "prizes in session, was nominated for a further two, and former editor <span class=\"searchmatch\">Patrick</span> <span class=\"searchmatch\">Kingsley</span> was named Student Journalist of the Year. Michael Stothard won in the"
+  },
+  {
+    "title": "Hamzah bin Hussein",
+    "pageid": 1271055,
+    "snippet": "pledges allegiance to king after mediation, Reuters (5 April 2021). <span class=\"searchmatch\">Patrick</span> <span class=\"searchmatch\">Kingsley</span> &amp; Rana F. Sweis, Rift in Jordan’s Royal Leadership Is Soothed, Palace"
+  },
+  {
+    "title": "Patrick Kingsley",
+    "pageid": 35471682,
+    "snippet": "Sir <span class=\"searchmatch\">Patrick</span> Graham Toler <span class=\"searchmatch\">Kingsley</span> KCVO (12 May 1908 – 24 August 1999) served the Duchy of Cornwall for more than 40 years. <span class=\"searchmatch\">Kingsley</span> was born in Calcutta"
+  },
+  {
+    "title": "Kingsley (surname)",
+    "pageid": 39508178,
+    "snippet": "player Norman William <span class=\"searchmatch\">Kingsley</span> (1829–1913), American dentist <span class=\"searchmatch\">Patrick</span> <span class=\"searchmatch\">Kingsley</span> (1908–1999), English cricketer <span class=\"searchmatch\">Patrick</span> <span class=\"searchmatch\">Kingsley</span> (journalist) (born 1989)"
+  },
+  {
+    "title": "Mass sexual assault in Egypt",
+    "pageid": 49074435,
+    "snippet": "woman or girl into the centre of the group while attacking her.&quot;: 9  <span class=\"searchmatch\">Patrick</span> <span class=\"searchmatch\">Kingsley</span>, The Guardian, 2013: &quot;'We call it the circle of hell,' said Bahgat"
+  },
+  {
+    "title": "Fleur Hassan-Nahoum",
+    "pageid": 59599907,
+    "snippet": "terrorism&quot;. MAKO (in Hebrew). {{cite news}}: Check |url= value (help) <span class=\"searchmatch\">Patrick</span> <span class=\"searchmatch\">Kingsley</span> (7 May 2021). &quot;Evictions in Jerusalem Become Focus of Israeli-Palestinian"
+  },
+  {
+    "title": "Patrick Kingsley (journalist)",
+    "pageid": 59993169,
+    "snippet": "<span class=\"searchmatch\">Patrick</span> <span class=\"searchmatch\">Kingsley</span> (born June 1989) is a British journalist who is the Jerusalem bureau chief of The New York Times. He previously served as a foreign correspondent"
+  },
+  {
+    "title": "Amir Tibon",
+    "pageid": 75034835,
+    "snippet": "reporting in The New Republic, entitled “How Close They Came”. <span class=\"searchmatch\">Kingsley</span>, <span class=\"searchmatch\">Patrick</span> <span class=\"searchmatch\">Kingsley</span> (2023-10-08). &quot;'There were terrorists inside': An Israeli recounts"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+59993169

@@ -1,0 +1,18 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Piers Morgan
+Long description: Piers Stefan Pughe-Morgan  (; né O'Meara, born 30 March 1965) is an English broadcaster, journalist, writer, and television personality. He began his career in 1988 at the tabloid The Sun. In 1994, aged 29, he was appointed editor of the News of the World by Rupert Murdoch, which made him the youngest editor of a British national newspaper in more than half a century. From 1995, Morgan edited the Daily Mirror, but was fired in 2004. He was the editorial director of First News from 2006 to 2007. In 2014, Morgan became the first editor-at-large of the MailOnline website's US operation. 
+As a television presenter, Morgan hosted the ITV talk show Piers Morgan's Life Stories (2009–2020) and the CNN talk show Piers Morgan Live (2011–2014). He co-presented the ITV Breakfast programme Good Morning Britain with Susanna Reid (2015–2021), and has also been a judge on the talent shows America's Got Talent (2006–2011) and Britain's Got Talent (2007–2010). In 2008, Morgan won The Celebrity Apprentice US, appearing with future US president Donald Trump. Since 2022, he has been a presenter for TalkTV on the programme Piers Morgan Uncensored.Morgan was the editor of the Daily Mirror during the period in which the paper was implicated in the phone hacking scandal. In 2011, Morgan denied having ever hacked a phone and stated that he had not, "to my knowledge published any story obtained from the hacking of a phone". The following year, he was criticised in the findings of the Leveson Inquiry by chair Brian Leveson, who stated that comments made in Morgan's testimony about phone hacking were "utterly unpersuasive" and "that he was aware that it was taking place in the press as a whole and that he was sufficiently unembarrassed by what was criminal behaviour that he was prepared to joke about it".Morgan's outspoken views and controversial comments on Good Morning Britain have led Ofcom to adjudicate on multiple occasions. In March 2021, Morgan left the programme with immediate effect, following his criticism of the Oprah with Meghan and Harry interview. Ofcom received over 57,000 complaints from viewers, including a complaint from Meghan, Duchess of Sussex, herself; Morgan was subsequently cleared of wrongdoing by Ofcom.
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+Piers Stefan Pughe-Morgan is an English broadcaster, journalist, and television personality known for his work on the ITV talk show Piers Morgan's Life Stories, the CNN talk show Piers Morgan Live, and for his controversial tenure as editor of the Daily Mirror.

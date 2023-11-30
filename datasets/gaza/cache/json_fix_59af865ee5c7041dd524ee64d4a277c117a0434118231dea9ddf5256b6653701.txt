@@ -1,0 +1,32 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+{
+  "stated_goals": [{"item": "To bring light to the possibility of conflict profiteering", "quote": "(01:29) brutal reality I suppose but you certainly wouldn't expect would you members of the United States Congress to be investing in defense related stocks"}], 
+  "main_motivations": [{"item": "To expose systemic problems that contribute to political and economic gain from war", "quote": "(04:01) companies If energy crisis are beneficial to energy companies all the while punitive to Ordinary People All Around The World Isn't that an opportunity for systemic analysis Revolution reformation and change"}], 
+  "possible_actions": [{"item": "To suggest reforms and greater transparency in the relationship between politics and finances", "quote": "(08:23) about 25% in that instance it's held on since then to the majority of that move since beginning of 2022 remember these companies that see these benefits from these conflicts"}, {"item": "To keep raising awareness and encouraging critical thinking through independent media", "quote": "(09:26) problem wouldn't change because the true power and the true interests are ulterior to the level that can be organized by public opinion or democracy or discourse or debate"}], 
+  "good_scenarios": [{"item": "Greater transparency and regulation of conflicts of interest between politics and the arms industry", "quote": "(17:51) significant factor is the opportunity to exploit these situations for Weaponry profit and energy profit wouldn't it be good to at least remove that so there was one less complex component"}], 
+  "bad_scenarios": [{"item": "If conflicts of interest in political and defense sectors continue unchecked", "quote": "(19:20) shape of the Pentagon budget the time for Congress to act to reduce the influence of the revolving door is now"}], 
+  "main_fears": [{"item": "That profit-driven systems will perpetuate conflicts", "quote": "(19:26) someone as abstracted as I am that this is a situation that almost interrogating and making inquiry of is too painful for people directly involved to countenance they simply want support for their own perspective"}], 
+  "resources": [{"item": "Access to platforms for independent media and research", "quote": "(09:56) remain importantly awakened awakened to the possibility that there surely must be a better way than this"}], 
+}
+
+=== RESULTS ===
+
+{
+  "stated_goals": [{"item": "To bring light to the possibility of conflict profiteering", "quote": "(01:29) brutal reality I suppose but you certainly wouldn't expect would you members of the United States Congress to be investing in defense related stocks"}], 
+  "main_motivations": [{"item": "To expose systemic problems that contribute to political and economic gain from war", "quote": "(04:01) companies If energy crisis are beneficial to energy companies all the while punitive to Ordinary People All Around The World Isn't that an opportunity for systemic analysis Revolution reformation and change"}], 
+  "possible_actions": [{"item": "To suggest reforms and greater transparency in the relationship between politics and finances", "quote": "(08:23) about 25% in that instance it's held on since then to the majority of that move since beginning of 2022 remember these companies that see these benefits from these conflicts"}, {"item": "To keep raising awareness and encouraging critical thinking through independent media", "quote": "(09:26) problem wouldn't change because the true power and the true interests are ulterior to the level that can be organized by public opinion or democracy or discourse or debate"}], 
+  "good_scenarios": [{"item": "Greater transparency and regulation of conflicts of interest between politics and the arms industry", "quote": "(17:51) significant factor is the opportunity to exploit these situations for Weaponry profit and energy profit wouldn't it be good to at least remove that so there was one less complex component"}], 
+  "bad_scenarios": [{"item": "If conflicts of interest in political and defense sectors continue unchecked", "quote": "(19:20) shape of the Pentagon budget the time for Congress to act to reduce the influence of the revolving door is now"}], 
+  "main_fears": [{"item": "That profit-driven systems will perpetuate conflicts", "quote": "(19:26) someone as abstracted as I am that this is a situation that almost interrogating and making inquiry of is too painful for people directly involved to countenance they simply want support for their own perspective"}], 
+  "resources": [{"item": "Access to platforms for independent media and research", "quote": "(09:56) remain importantly awakened awakened to the possibility that there surely must be a better way than this"}]
+}

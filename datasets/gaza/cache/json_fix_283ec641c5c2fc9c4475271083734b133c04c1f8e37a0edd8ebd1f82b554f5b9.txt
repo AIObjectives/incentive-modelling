@@ -1,0 +1,25 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+The document provided does not contain any information about Alan Daniels. Therefore, it's not possible to answer the questions based on the provided document.
+
+=== RESULTS ===
+
+As you've provided a clear text, not an invalid JSON string, it can't be directly converted into a JSON object. A suggested JSON object representing your provided text could be:
+
+```
+{
+  "document": {
+    "content": "The document provided does not contain any information about Alan Daniels.",
+    "conclusion": "Therefore, it's not possible to answer the questions based on the provided document."
+  }
+}
+```

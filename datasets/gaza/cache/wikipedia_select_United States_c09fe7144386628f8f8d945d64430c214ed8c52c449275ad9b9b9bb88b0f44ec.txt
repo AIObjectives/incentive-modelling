@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "United States" which was described 
+as "Country where Bassem Youssef currently resides and has performed stand up comedy." and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "United States",
+    "pageid": 3434750,
+    "snippet": "The <span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span> of America (USA), commonly known as the <span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span> (U.S.) or simply America, is a country primarily located in North America and"
+  },
+  {
+    "title": "List of states and territories of the United States",
+    "pageid": 12610470,
+    "snippet": "<span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span> of America is a federal republic consisting of 50 <span class=\"searchmatch\">states</span>, a federal district (Washington, D.C., the capital city of the <span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span>)"
+  },
+  {
+    "title": "History of the United States",
+    "pageid": 63876,
+    "snippet": "The history of the lands that became the <span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span> began with the arrival of the first people in the Americas around 15,000 BC. Numerous indigenous"
+  },
+  {
+    "title": "President of the United States",
+    "pageid": 24113,
+    "snippet": "The president of the <span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span> (POTUS) is the head of state/head of government of the <span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span> of America. The president directs the executive"
+  },
+  {
+    "title": "United States Congress",
+    "pageid": 31756,
+    "snippet": "The <span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span> Congress is the legislature of the federal government of the <span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span>. It is bicameral, composed of a lower body, the House of Representatives"
+  },
+  {
+    "title": "Geography of the United States",
+    "pageid": 32019,
+    "snippet": "The term &quot;<span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span>,&quot; when used in the geographical sense, refers to the contiguous <span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span> (sometimes referred to as the Lower 48), the state"
+  },
+  {
+    "title": "Languages of the United States",
+    "pageid": 63881,
+    "snippet": "The <span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span> does not have an official language at the federal level, but the most commonly used language is English (specifically, American English)"
+  },
+  {
+    "title": "2024 United States presidential election",
+    "pageid": 59568546,
+    "snippet": "The 2024 <span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span> presidential election will be the 60th quadrennial presidential election, scheduled for Tuesday, November 5, 2024. Voters will"
+  },
+  {
+    "title": "United States House of Representatives",
+    "pageid": 19468510,
+    "snippet": "The <span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span> House of Representatives is the lower chamber of the <span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span> Congress, with the Senate being the upper chamber. Together, they"
+  },
+  {
+    "title": "List of United States cities by population",
+    "pageid": 1649321,
+    "snippet": "list of the most populous incorporated places of the <span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span>. As defined by the <span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span> Census Bureau, an incorporated place includes cities"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+3434750

@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Northrup Grumman" which was described 
+as "American multinational aerospace and defense technology company" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Northrop Grumman",
+    "pageid": 216886,
+    "snippet": "Northrop <span class=\"searchmatch\">Grumman</span> Corporation is an American multinational aerospace and defense technology company. With 95,000 employees and an annual revenue in excess"
+  },
+  {
+    "title": "Northrop Grumman B-21 Raider",
+    "pageid": 49556874,
+    "snippet": "The Northrop <span class=\"searchmatch\">Grumman</span> B-21 Raider is an American strategic bomber under development for the United States Air Force (USAF) by Northrop <span class=\"searchmatch\">Grumman</span>. As part of"
+  },
+  {
+    "title": "X47",
+    "pageid": 1104168,
+    "snippet": "may refer to: Northrop <span class=\"searchmatch\">Grumman</span> X-47A Pegasus, a Northrop <span class=\"searchmatch\">Grumman</span> unmanned aircraft Northrop <span class=\"searchmatch\">Grumman</span> X-47B, a Northrop <span class=\"searchmatch\">Grumman</span> carrier-based unmanned aircraft"
+  },
+  {
+    "title": "Northrop Grumman MQ-8 Fire Scout",
+    "pageid": 3774679,
+    "snippet": "The Northrop <span class=\"searchmatch\">Grumman</span> MQ-8 Fire Scout is an unmanned autonomous helicopter developed by Northrop <span class=\"searchmatch\">Grumman</span> for use by the United States Armed Forces. The"
+  },
+  {
+    "title": "Michele Kang",
+    "pageid": 73533782,
+    "snippet": "in the high-tech and telecommunications industries. She joined Northrop <span class=\"searchmatch\">Grumman</span> in 2000 as vice president of their e-Business unit. She later worked as"
+  },
+  {
+    "title": "OmegA",
+    "pageid": 51138225,
+    "snippet": "launch vehicle concept that spent several years in development by Northrop <span class=\"searchmatch\">Grumman</span> during 2016–2020, with that development substantially funded by the U.S"
+  },
+  {
+    "title": "Northrup",
+    "pageid": 26381881,
+    "snippet": "<span class=\"searchmatch\">Northrup</span> may refer to: <span class=\"searchmatch\">Northrup</span> R. Knox (1928–1998), banker in Buffalo, New York Christiane <span class=\"searchmatch\">Northrup</span> (born 1949), Obstetrician-gynecologist who promotes"
+  },
+  {
+    "title": "Virginia",
+    "pageid": 32432,
+    "snippet": "largest companies by revenue being Freddie Mac, General Dynamics, <span class=\"searchmatch\">Northrup</span> <span class=\"searchmatch\">Grumman</span>, and Capital One. The largest by their number of employees are Dollar"
+  },
+  {
+    "title": "Dale Gardner",
+    "pageid": 502190,
+    "snippet": "defense high technology programs. After TRW, he became the manager of <span class=\"searchmatch\">Northrup</span> <span class=\"searchmatch\">Grumman's</span> operations in Colorado Springs. Gardner became the Associate Director"
+  },
+  {
+    "title": "Northrop",
+    "pageid": 24890113,
+    "snippet": "formed in 1939 Northrop <span class=\"searchmatch\">Grumman</span>, an American aircraft manufacturer formed in 1994 as a merger of the above company with <span class=\"searchmatch\">Grumman</span> Northrop Loom, an American"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+216886

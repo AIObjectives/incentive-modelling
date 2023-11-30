@@ -1,0 +1,17 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: The Comedy Store
+Long description: The Comedy Store is an American comedy club opened in April 1972. It is located in West Hollywood, California, at 8433 Sunset Boulevard on the Sunset Strip. An associated club is located in La Jolla, San Diego, California.
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+The Comedy Store is an American comedy club, established in April 1972, with locations in West Hollywood and La Jolla, San Diego, California.

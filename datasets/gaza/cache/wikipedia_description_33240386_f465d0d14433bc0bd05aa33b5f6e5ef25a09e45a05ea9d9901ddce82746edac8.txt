@@ -1,0 +1,17 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Bassem Youssef
+Long description: Bassem Raafat Mohamed Youssef (Arabic: باسم رأفت محمد يوسف, Egyptian Arabic: [ˈbæːsem ˈɾɑʔfɑt mæˈħæmmæd ˈjuːsef]; born 21 March 1974) is an Egyptian comedian, television host, and surgeon. He is best-known in his media career for having hosted El Bernameg, a satirical comedy show focused on Egyptian politics, from 2011 to 2014. Youssef's comedic style has led to him being dubbed "Egypt's Jon Stewart" in the press after Stewart's satirical The Daily Show, which had itself inspired Youssef to pursue a career in television. In 2013, Youssef was named on Time 100. His current projects are Tickling Giants, The Democracy Handbook, and Revolution For Dummies.
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+Bassem Raafat Mohamed Youssef, born March 21, 1974, is an Egyptian comedian, television host, surgeon, and former host of the satirical comedy show El Bernameg, often referred to as "Egypt's Jon Stewart." His current projects include Tickling Giants, The Democracy Handbook, and Revolution For Dummies.

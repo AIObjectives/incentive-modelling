@@ -1,0 +1,38 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+{
+  "stated_goals": [{"item": "Not specified in the document", "quote": "N/A"}], 
+  "main_motivations": [{"item": "Profit from war conflicts", "quote": "defense company General Dynamics has witnessed a surge in purchases this isn't entirely unexpected defense stocks often become attractive during times of geopolitical tension"}], 
+  "possible_actions": [{"item": "Continue to profit from geopolitical tensions", "quote": "defense company General Dynamics has witnessed a surge in purchases this isn't entirely unexpected defense stocks often become attractive during times of geopolitical tension"}], 
+  "good_scenarios": [{"item": "Increase in conflicts and wars globally", "quote": "defense company General Dynamics has witnessed a surge in purchases this isn't entirely unexpected defense stocks often become attractive during times of geopolitical tension"}],
+  "bad_scenarios": [{"item": "Decrease in global conflicts and wars", "quote": "defense stocks often become attractive during times of geopolitical tension"}], 
+  "main_fears": [{"item": "Not specified in the document", "quote": "N/A"}], 
+  "resources": [
+    {"item": "Production capacity for combat vehicles and submarines", "quote": "Fox Business reported that shares of General Dynamics which make submarines and combat Vehicles Rose the most since March 20120"},
+    {"item": "Beneficial financial relationships with US congress members investing in defense stocks", "quote": "you have people in Congress investing in stocks and shares that they are in a position to influence the trajectory of"}],
+}
+
+
+=== RESULTS ===
+
+{
+  "stated_goals": [{"item": "Not specified in the document", "quote": "N/A"}], 
+  "main_motivations": [{"item": "Profit from war conflicts", "quote": "defense company General Dynamics has witnessed a surge in purchases this isn't entirely unexpected defense stocks often become attractive during times of geopolitical tension"}], 
+  "possible_actions": [{"item": "Continue to profit from geopolitical tensions", "quote": "defense company General Dynamics has witnessed a surge in purchases this isn't entirely unexpected defense stocks often become attractive during times of geopolitical tension"}], 
+  "good_scenarios": [{"item": "Increase in conflicts and wars globally", "quote": "defense company General Dynamics has witnessed a surge in purchases this isn't entirely unexpected defense stocks often become attractive during times of geopolitical tension"}],
+  "bad_scenarios": [{"item": "Decrease in global conflicts and wars", "quote": "defense stocks often become attractive during times of geopolitical tension"}], 
+  "main_fears": [{"item": "Not specified in the document", "quote": "N/A"}], 
+  "resources": [
+    {"item": "Production capacity for combat vehicles and submarines", "quote": "Fox Business reported that shares of General Dynamics which make submarines and combat Vehicles Rose the most since March 20120"},
+    {"item": "Beneficial financial relationships with US congress members investing in defense stocks", "quote": "you have people in Congress investing in stocks and shares that they are in a position to influence the trajectory of"}
+  ]
+}

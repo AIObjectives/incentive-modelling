@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Hamas" which was described 
+as "Palestinian Islamic organization, being referred to as a terror group in this discussion." and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Hamas",
+    "pageid": 13913,
+    "snippet": "<span class=\"searchmatch\">Hamas</span> (UK: /həˈmæs/ hə-MASS, US: /<span class=\"searchmatch\">həˈmɑːs</span>/ hə-MAHSS; Arabic: حماس, romanized: <span class=\"searchmatch\">Ḥamās</span>, IPA: [<span class=\"searchmatch\">ħaˈmaːs</span>]), an acronym of its official name, the Islamic Resistance"
+  },
+  {
+    "title": "2023 Israel–Hamas war",
+    "pageid": 74998519,
+    "snippet": "in Israel were captured or abducted by <span class=\"searchmatch\">Hamas</span> during the attack and were taken into Gaza as hostages. The <span class=\"searchmatch\">Hamas</span>-led attack began in the morning of 7 October"
+  },
+  {
+    "title": "Fatah–Hamas conflict",
+    "pageid": 8502791,
+    "snippet": "Fatah–<span class=\"searchmatch\">Hamas</span> conflict (Arabic: النزاع بين فتح وحماس an-Nizāʿ bayna Fataḥ wa-<span class=\"searchmatch\">Ḥamās</span>) is an ongoing political and strategic conflict between Fatah and <span class=\"searchmatch\">Hamas</span>, the"
+  },
+  {
+    "title": "Governance of the Gaza Strip",
+    "pageid": 38626632,
+    "snippet": "governance of the Gaza Strip since the <span class=\"searchmatch\">Hamas</span> takeover of the Gaza Strip in June 2007 has been carried out by <span class=\"searchmatch\">Hamas</span>. The <span class=\"searchmatch\">Hamas</span> government in Gaza was led by Ismail"
+  },
+  {
+    "title": "Hamas Charter",
+    "pageid": 27929585,
+    "snippet": "The <span class=\"searchmatch\">Hamas</span> Covenant or <span class=\"searchmatch\">Hamas</span> Charter, formally known in English as the Covenant of the Islamic Resistance Movement, was originally issued on 18 August"
+  },
+  {
+    "title": "2023 Hamas attack on Israel",
+    "pageid": 74998317,
+    "snippet": "attacks initiated the 2023 Israel–<span class=\"searchmatch\">Hamas</span> war, almost exactly fifty years after the Yom Kippur War began on 6 October 1973. <span class=\"searchmatch\">Hamas</span> and other Palestinian armed"
+  },
+  {
+    "title": "Battle of Gaza (2007)",
+    "pageid": 40863726,
+    "snippet": "Palestinian National Authority (PNA), and the Gaza Strip governed by <span class=\"searchmatch\">Hamas</span>. <span class=\"searchmatch\">Hamas</span> fighters took control of the Gaza Strip, while Fatah officials were either"
+  },
+  {
+    "title": "Timeline of the 2023 Israel–Hamas war",
+    "pageid": 75007046,
+    "snippet": "The 2023 Israel–<span class=\"searchmatch\">Hamas</span> war began on October 7, 2023 when <span class=\"searchmatch\">Hamas</span> launched an unprecedented multi-faceted and sustained assault on Israel from the Gaza Strip"
+  },
+  {
+    "title": "Mosab Hassan Yousef",
+    "pageid": 26323381,
+    "snippet": "the <span class=\"searchmatch\">Hamas</span> leadership. The information Yousef supplied prevented dozens of suicide attacks and assassinations of Israelis, exposed numerous <span class=\"searchmatch\">Hamas</span> cells"
+  },
+  {
+    "title": "Nukhba (Hamas)",
+    "pageid": 75044554,
+    "snippet": "military wing of <span class=\"searchmatch\">Hamas</span>. Israel claims the unit led the <span class=\"searchmatch\">Hamas</span> attack on Israel on October 7, 2023 at the beginning of the 2023 Israel–<span class=\"searchmatch\">Hamas</span> war. According"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+13913

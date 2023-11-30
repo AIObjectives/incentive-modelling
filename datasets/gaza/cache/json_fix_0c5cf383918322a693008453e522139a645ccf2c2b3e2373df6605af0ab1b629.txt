@@ -1,0 +1,42 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+{
+  "stated_goals": [],
+  "main_motivations": [],
+  "possible_actions": [
+      {
+        "item": "Mediating negotiations between Israel and Hamas",
+        "quote": "And there are intense negotiations going on, not directly between Hamas and Israel, because they don’t have formal relations. But mediated by Qatar, and to some extent, Egypt." 
+      }
+  ],
+  "good_scenarios": [],
+  "bad_scenarios": [],
+  "main_fears": [],
+  "resources": [],
+}
+
+=== RESULTS ===
+
+{
+  "stated_goals": [],
+  "main_motivations": [],
+  "possible_actions": [
+      {
+        "item": "Mediating negotiations between Israel and Hamas",
+        "quote": "And there are intense negotiations going on, not directly between Hamas and Israel, because they don’t have formal relations. But mediated by Qatar, and to some extent, Egypt." 
+      }
+  ],
+  "good_scenarios": [],
+  "bad_scenarios": [],
+  "main_fears": [],
+  "resources": []
+}

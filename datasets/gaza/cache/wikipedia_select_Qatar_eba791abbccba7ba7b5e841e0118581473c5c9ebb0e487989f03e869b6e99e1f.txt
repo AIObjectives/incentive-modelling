@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Qatar" which was described 
+as "Country in Western Asia mediating the conflict" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Qatar",
+    "pageid": 8238258,
+    "snippet": "<span class=\"searchmatch\">Qatar</span> (US: /ˈkɑːtɑːr, kəˈtɑːr/; Arabic: قطر <span class=\"searchmatch\">Qaṭar</span> [ˈqɑtˤɑr], local vernacular pronunciation: [ˈɡɪtˤɑr]), officially the State of <span class=\"searchmatch\">Qatar</span>, is a country in"
+  },
+  {
+    "title": "Qatar Airways",
+    "pageid": 449463,
+    "snippet": "<span class=\"searchmatch\">Qatar</span> Airways Company Q.C.S.C. (Arabic: القطرية, al-Qaṭariya), operating as <span class=\"searchmatch\">Qatar</span> Airways, is the flag carrier of <span class=\"searchmatch\">Qatar</span>. Headquartered in the <span class=\"searchmatch\">Qatar</span> Airways"
+  },
+  {
+    "title": "2022 FIFA World Cup",
+    "pageid": 17742072,
+    "snippet": "championship for national football teams organized by FIFA. It took place in <span class=\"searchmatch\">Qatar</span> from 20 November to 18 December 2022, after the country was awarded the"
+  },
+  {
+    "title": "Doha",
+    "pageid": 26214389,
+    "snippet": "romanized: ad-Dawḥa [adˈduħa] or ad-Dūḥa) is the capital city and main financial hub of <span class=\"searchmatch\">Qatar</span>. Located on the Persian Gulf coast in the east of the country, north of"
+  },
+  {
+    "title": "Qatar (disambiguation)",
+    "pageid": 40315608,
+    "snippet": "Look up <span class=\"searchmatch\">Qatar</span>, Qatari, State of <span class=\"searchmatch\">Qatar</span>, <span class=\"searchmatch\">qatar</span>, or قطر in Wiktionary, the free dictionary. <span class=\"searchmatch\">Qatar</span> is a country in the Middle East. <span class=\"searchmatch\">Qatar</span> may also refer to:"
+  },
+  {
+    "title": "Human rights in Qatar",
+    "pageid": 20513232,
+    "snippet": "The state of human rights in <span class=\"searchmatch\">Qatar</span> is a concern for several non-governmental organisations, such as Human Rights Watch, which reported in 2012 that hundreds"
+  },
+  {
+    "title": "Qatar diplomatic crisis",
+    "pageid": 54225447,
+    "snippet": "The <span class=\"searchmatch\">Qatar</span> diplomatic crisis was a high-profile incident involving the deterioration of ties between <span class=\"searchmatch\">Qatar</span> and the Arab League between 2017 and 2021. It"
+  },
+  {
+    "title": "Qatar Stars League",
+    "pageid": 6605183,
+    "snippet": "The <span class=\"searchmatch\">Qatar</span> Stars League (Arabic: دوري نجوم قطر; abbreviated as QSL), known as Expo Stars League for sponsorship reasons, is the top level football league"
+  },
+  {
+    "title": "Politics of Qatar",
+    "pageid": 25190,
+    "snippet": "The political system of <span class=\"searchmatch\">Qatar</span> is a semi-constitutional monarchy with the emir as head of state and chief executive, and the prime minister as the head"
+  },
+  {
+    "title": "Qatar Masters",
+    "pageid": 1603175,
+    "snippet": "The <span class=\"searchmatch\">Qatar</span> Masters is a European Tour golf tournament held at Doha Golf Club in Doha, <span class=\"searchmatch\">Qatar</span>. When founded in 1998, it was one of two European Tour events"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+8238258

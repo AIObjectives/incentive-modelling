@@ -1,0 +1,21 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: United States Congress
+Long description: The United States Congress is the legislature of the federal government of the United States. It is bicameral, composed of a lower body, the House of Representatives, and an upper body, the Senate. It meets in the U.S. Capitol in Washington, D.C. Senators and representatives are chosen through direct election, though vacancies in the Senate may be filled by a governor's appointment. Congress has 535 voting members: 100 senators and 435 representatives. The U.S. vice president has a vote in the Senate only when senators are evenly divided. The House of Representatives has six non-voting members.The sitting of a Congress is for a two-year term, at present, beginning every other January. Elections are held every even-numbered year on Election Day. The members of the House of Representatives are elected for the two-year term of a Congress. The Reapportionment Act of 1929 established that there be 435 representatives, and the Uniform Congressional Redistricting Act requires that they be elected from single-member constituencies or districts. It is also required that the congressional districts be apportioned among states by population every ten years using the U.S. census results, provided that each state has at least one congressional representative. Each senator is elected at-large in their state for a six-year term, with terms staggered, so every two years approximately one-third of the Senate is up for election. Each state, regardless of population or size, has two senators, so currently, there are 100 senators for the 50 states.
+Article One of the U.S. Constitution requires that members of Congress must be at least 25 years old (House) or at least 30 years old (Senate), have been a citizen of the U.S. for seven (House) or nine (Senate) years, and be an inhabitant of the state which they represent. Members in both chambers may stand for re-election an unlimited number of times.
+The Congress was created by the U.S. Constitution and first met in 1789, replacing the Congress of the Confederation in its legislative function. Although not legally mandated, in practice since the 19th century, Congress members are typically affiliated with one of the two major parties, the Democratic Party or the Republican Party, and only rarely with a third party or independents affiliated with no party. In the case of the latter, the lack of affiliation with a political party does not mean that such members are unable to caucus with members of the political parties. Members can also switch parties at any time, although this is quite uncommon.
+
+
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+The United States Congress is the federal government's bicameral legislature, composed of the House of Representatives and the Senate, with a total of 535 voting members, meeting in the U.S. Capitol in Washington, D.C., and mandated by the U.S. Constitution.

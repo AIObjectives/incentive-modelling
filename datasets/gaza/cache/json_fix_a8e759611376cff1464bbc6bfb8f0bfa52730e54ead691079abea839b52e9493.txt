@@ -1,0 +1,32 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+The document does not provide specific answers to the questions about YouTube as it mostly focuses on discussing the Arab-Israel conflict. It mentions YouTube in the context of where Bassem Youssef started doing small videos which became popular. The additional information discussed includes the sharing of political and ideological ideas, its role in impacting popular culture and trends, and the platform it provided for independent content creators. Given the lack of specific data related to YouTube, it would not be feasible to formulate accurate and reliable responses to the provided questions.
+
+=== RESULTS ===
+
+Your request is a bit unclear as the given string is not in a JSON format. Since you asked for a JSON, I will convert the given text into a hypothetical JSON Object:
+
+```json
+{
+  "document_information": {
+    "main_focus": "Arab-Israel conflict",
+    "mention_of_youtube": "Bassem Youssef started doing small videos",
+    "additional_information": {
+      "political_ideas": true,
+      "impact_on_culture": true,
+      "platform_for_creators": true
+    },
+    "feasibility_of_youtube_related_answers": false,
+    "reason": "Lack of specific data related to YouTube."
+  }
+}
+```

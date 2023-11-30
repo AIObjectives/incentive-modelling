@@ -1,0 +1,22 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Russia
+Long description: Russia (Russian: Россия, romanized: Rossiya, [rɐˈsʲijə]), or the Russian Federation, is a country spanning Eastern Europe and Northern Asia. It is the largest country in the world by area, extends across eleven time zones, and shares land boundaries with fourteen countries. It is the world's ninth-most populous country and Europe's most populous country. The country's capital and largest city is Moscow. Saint Petersburg is Russia's second-largest city and "cultural capital". Other major urban areas in the country include Novosibirsk, Yekaterinburg, Nizhny Novgorod, Chelyabinsk, Krasnoyarsk, and Kazan.
+The East Slavs emerged as a recognised group in Europe between the 3rd and 8th centuries CE. The first East Slavic state, Kievan Rus', arose in the 9th century, and in 988, it adopted Orthodox Christianity from the Byzantine Empire. Rus' ultimately disintegrated, with the Grand Duchy of Moscow growing to become the Tsardom of Russia. By the early 18th century, Russia had vastly expanded through conquest, annexation, and the efforts of Russian explorers, developing into the Russian Empire, which remains the third-largest empire in history. However, with the Russian Revolution in 1917, Russia's monarchic rule was abolished and eventually replaced by the Russian SFSR—the world's first constitutionally socialist state. Following the Russian Civil War, the Russian SFSR established the Soviet Union with three other Soviet republics, within which it was the largest and principal constituent. At the expense of millions of lives, the Soviet Union underwent rapid industrialisation in the 1930s and later played a decisive role for the Allies in World War II by leading large-scale efforts on the Eastern Front. With the onset of the Cold War, it competed with the United States for global ideological influence. The Soviet era of the 20th century saw some of the most significant Russian technological achievements, including the first human-made satellite and the first human expedition into outer space.
+In 1991, the Russian SFSR emerged from the dissolution of the Soviet Union as the independent Russian Federation. A new constitution was adopted, which established a federal semi-presidential system. Since the turn of the century, Russia's political system has been dominated by Vladimir Putin, under whom the country has experienced democratic backsliding and a shift towards authoritarianism. Russia has been militarily involved in a number of conflicts in neighbouring states, which have included the internationally unrecognised annexations of Crimea in 2014 from neighbouring Ukraine, followed by the further annexation of four other regions in 2022 during an ongoing invasion.
+Internationally, Russia ranks among the lowest in measurements of democracy, human rights and freedom of the press; the country also has high levels of perceived corruption. The Russian economy ranks 11th by nominal GDP, relying heavily on its abundant natural resources. Its mineral and energy sources are the world's largest, and its figures for oil production and natural gas production rank highly globally. The Russian GDP ranks 65th by per capita; Russia possesses the largest stockpile of nuclear weapons and has the third-highest military expenditure. The country is a permanent member of the United Nations Security Council; a member state of the G20, SCO, BRICS, APEC, OSCE, and WTO; and the leading member state of post-Soviet organisations such as CIS, CSTO, and EAEU/EEU. Russia is home to 30 UNESCO World Heritage Sites.
+
+
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+Russia, the world's largest country by area that spans across Eastern Europe and Northern Asia, is known for its rich history, political dominance under Vladimir Putin, significant role in world conflicts, and vast natural resources despite challenges in democracy and human rights.

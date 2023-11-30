@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "China" which was described 
+as "East Asian country with the largest population in the world" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "China",
+    "pageid": 5405,
+    "snippet": "<span class=\"searchmatch\">China</span> (<span class=\"searchmatch\">Chinese</span>: 中国; pinyin: Zhōngguó), officially the People's Republic of <span class=\"searchmatch\">China</span> (PRC), is a country in East Asia. It is the world's second-most-populous"
+  },
+  {
+    "title": "History of China",
+    "pageid": 5760,
+    "snippet": "The history of <span class=\"searchmatch\">China</span> spans several millennia across a wide geographical area. Each region now considered part of the <span class=\"searchmatch\">Chinese</span> world has experienced periods"
+  },
+  {
+    "title": "Taiwan",
+    "pageid": 25734,
+    "snippet": "officially the Republic of <span class=\"searchmatch\">China</span> (ROC), is a country in East Asia. It is located at the junction of the East and South <span class=\"searchmatch\">China</span> Seas in the northwestern Pacific"
+  },
+  {
+    "title": "Fine china",
+    "pageid": 999224,
+    "snippet": "Fine <span class=\"searchmatch\">china</span> most often refers to: Porcelain Fine <span class=\"searchmatch\">china</span> may also refer to: Fine <span class=\"searchmatch\">China</span> (band), an American indie rock band. &quot;Fine <span class=\"searchmatch\">China</span>&quot; (Chris Brown song)"
+  },
+  {
+    "title": "Chinese people",
+    "pageid": 372983,
+    "snippet": "<span class=\"searchmatch\">Chinese</span> people are known as Zhongguoren (simplified <span class=\"searchmatch\">Chinese</span>: 中国人; traditional <span class=\"searchmatch\">Chinese</span>: 中國人) or as Huaren (simplified <span class=\"searchmatch\">Chinese</span>: 华人; traditional <span class=\"searchmatch\">Chinese</span>:"
+  },
+  {
+    "title": "List of regions of China",
+    "pageid": 9471441,
+    "snippet": "1952. <span class=\"searchmatch\">China</span> portal Administrative divisions of <span class=\"searchmatch\">China</span> List of ecoregions in <span class=\"searchmatch\">China</span> Northern and southern <span class=\"searchmatch\">China</span> Physiographic macroregions of <span class=\"searchmatch\">China</span> Regional"
+  },
+  {
+    "title": "Chinese language",
+    "pageid": 5751,
+    "snippet": "<span class=\"searchmatch\">Chinese</span> (simplified <span class=\"searchmatch\">Chinese</span>: 汉语; traditional <span class=\"searchmatch\">Chinese</span>: 漢語; pinyin: Hànyǔ; lit. 'Han language' or 中文; Zhōngwén; '<span class=\"searchmatch\">Chinese</span> writing') is a group of languages"
+  },
+  {
+    "title": "Provinces of China",
+    "pageid": 254234,
+    "snippet": "(<span class=\"searchmatch\">Chinese</span>: 省; pinyin: Shěng) are the most numerous type of province-level divisions in <span class=\"searchmatch\">China</span>. There are currently 22 provinces administered by <span class=\"searchmatch\">China</span> and"
+  },
+  {
+    "title": "Chinese Taipei",
+    "pageid": 261888,
+    "snippet": "commonly known as Taiwan. Due to the One-<span class=\"searchmatch\">China</span> principle stipulated by the People's Republic of <span class=\"searchmatch\">China</span> (PRC, <span class=\"searchmatch\">China</span>), Taiwan, being a non-UN member after its"
+  },
+  {
+    "title": "Republic of China (1912–1949)",
+    "pageid": 33167689,
+    "snippet": "The Republic of <span class=\"searchmatch\">China</span> (ROC), or simply <span class=\"searchmatch\">China</span>, was a sovereign state based in Mainland <span class=\"searchmatch\">China</span> from 1912 to 1949 prior to its move to Taiwan. It was first"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+5405

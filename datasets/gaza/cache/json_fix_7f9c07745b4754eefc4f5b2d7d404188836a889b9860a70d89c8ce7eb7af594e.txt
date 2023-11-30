@@ -1,0 +1,50 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+The provided document does not discuss in detail Jared Kushner's goals, motivations, possible actions, good and bad scenarios, fears, or resources. However, there is a minor reference to Kushner in the context of the Abraham Accords. 
+
+Here is the extracted information in the requested format: 
+
+    {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": [
+          {
+            "item": "Influence in the Abraham Accords",
+            "quote": "This time, by all accounts, Israel, Saudi Arabia, and the United States were inching closer towards a transformative three-way deal [...] the transformation of the region which had started with the Abraham Accords shepherded by Jared Kushner, which the first author helped advise and participated in [...]"
+          }
+      ]
+    }
+
+=== RESULTS ===
+
+Your string is already in a valid JSON format. The only improvement that could be made is to remove the initial text preceding the JSON object since JSON cannot contain plain text. Here's the fixed string:
+
+```json
+{
+  "stated_goals": [],
+  "main_motivations": [],
+  "possible_actions": [],
+  "good_scenarios": [],
+  "bad_scenarios": [],
+  "main_fears": [],
+  "resources": [
+    {
+      "item": "Influence in the Abraham Accords",
+      "quote": "This time, by all accounts, Israel, Saudi Arabia, and the United States were inching closer towards a transformative three-way deal [...] the transformation of the region which had started with the Abraham Accords shepherded by Jared Kushner, which the first author helped advise and participated in [...]"
+    }
+  ]
+}
+```

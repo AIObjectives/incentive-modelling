@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Google" which was described 
+as "Tech giant mentioned." and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Google",
+    "pageid": 1092923,
+    "snippet": "<span class=\"searchmatch\">Google</span> LLC (/ˈɡuːɡəl/ ) is an American multinational technology company focusing on artificial intelligence, online advertising, search engine technology"
+  },
+  {
+    "title": "Google Earth",
+    "pageid": 2126501,
+    "snippet": "<span class=\"searchmatch\">Google</span> Earth is a computer program that renders a 3D representation of Earth based primarily on satellite imagery. The program maps the Earth by superimposing"
+  },
+  {
+    "title": "Google Maps",
+    "pageid": 1494648,
+    "snippet": "<span class=\"searchmatch\">Google</span> Maps is a web mapping platform and consumer application offered by <span class=\"searchmatch\">Google</span>. It offers satellite imagery, aerial photography, street maps, 360° interactive"
+  },
+  {
+    "title": "Google Scholar",
+    "pageid": 1520204,
+    "snippet": "<span class=\"searchmatch\">Google</span> Scholar is a freely accessible web search engine that indexes the full text or metadata of scholarly literature across an array of publishing formats"
+  },
+  {
+    "title": "Google Translate",
+    "pageid": 3235536,
+    "snippet": "<span class=\"searchmatch\">Google</span> Translate is a multilingual neural machine translation service developed by <span class=\"searchmatch\">Google</span> to translate text, documents and websites from one language"
+  },
+  {
+    "title": "Google+",
+    "pageid": 32242976,
+    "snippet": "<span class=\"searchmatch\">Google</span>+ (sometimes written as <span class=\"searchmatch\">Google</span> Plus; sometimes called G+) was a social network that was owned and operated by <span class=\"searchmatch\">Google</span> until it ceased operations in"
+  },
+  {
+    "title": "Google Search",
+    "pageid": 12431,
+    "snippet": "<span class=\"searchmatch\">Google</span> Search (also known simply as <span class=\"searchmatch\">Google</span> or <span class=\"searchmatch\">Google</span>.com) is a search engine provided and operated by <span class=\"searchmatch\">Google</span>. Handling more than 3.5 billion searches per"
+  },
+  {
+    "title": "Google Play",
+    "pageid": 34986915,
+    "snippet": "<span class=\"searchmatch\">Google</span> Play, also known as the <span class=\"searchmatch\">Google</span> Play Store and formerly Android Market, is a digital distribution service operated and developed by <span class=\"searchmatch\">Google</span>. It serves"
+  },
+  {
+    "title": ".google",
+    "pageid": 47799755,
+    "snippet": ".<span class=\"searchmatch\">google</span> is a brand top-level domain (TLD) used in the Domain Name System (DNS) of the Internet. Created in 2014, it is operated by Alphabet Inc., Google's"
+  },
+  {
+    "title": "Gmail",
+    "pageid": 569005,
+    "snippet": "Gmail is a free email service provided by <span class=\"searchmatch\">Google</span>. As of 2019,[update] it had 1.5 billion active users worldwide making it the largest email service in"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+1092923

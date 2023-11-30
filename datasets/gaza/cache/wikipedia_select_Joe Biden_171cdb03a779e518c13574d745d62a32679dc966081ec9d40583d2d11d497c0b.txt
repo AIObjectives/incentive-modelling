@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Joe Biden" which was described 
+as "46th and current president of the United States" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Joe Biden",
+    "pageid": 145422,
+    "snippet": "C-SPAN <span class=\"searchmatch\">Joe</span> <span class=\"searchmatch\">Biden</span> at Curlie <span class=\"searchmatch\">Joe</span> <span class=\"searchmatch\">Biden</span> at IMDb <span class=\"searchmatch\">Joe</span> <span class=\"searchmatch\">Biden</span> collected news and commentary at The New York Times <span class=\"searchmatch\">Joe</span> <span class=\"searchmatch\">Biden</span> at On the Issues <span class=\"searchmatch\">Joe</span> <span class=\"searchmatch\">Biden</span> at PolitiFact"
+  },
+  {
+    "title": "Presidency of Joe Biden",
+    "pageid": 65732174,
+    "snippet": "<span class=\"searchmatch\">Joe</span> <span class=\"searchmatch\">Biden's</span> tenure as the 46th president of the United States began with his inauguration on January 20, 2021. <span class=\"searchmatch\">Biden</span>, a Democrat from Delaware who previously"
+  },
+  {
+    "title": "Family of Joe Biden",
+    "pageid": 19105073,
+    "snippet": "<span class=\"searchmatch\">Joe</span> <span class=\"searchmatch\">Biden</span>, the 46th and current president of the United States, has family members who are prominent in law, education, activism and politics. Biden's"
+  },
+  {
+    "title": "Cabinet of Joe Biden",
+    "pageid": 64857963,
+    "snippet": "<span class=\"searchmatch\">Joe</span> <span class=\"searchmatch\">Biden</span> assumed office as President of the United States on January 20, 2021. The president has the authority to nominate members of his Cabinet to"
+  },
+  {
+    "title": "Inauguration of Joe Biden",
+    "pageid": 64651467,
+    "snippet": "<span class=\"searchmatch\">Joe</span> <span class=\"searchmatch\">Biden</span> as the 46th president of the United States took place on Wednesday, January 20, 2021, marking the start of the four-year term of <span class=\"searchmatch\">Joe</span> <span class=\"searchmatch\">Biden</span> as"
+  },
+  {
+    "title": "Sleepy Joe (Joe Biden)",
+    "pageid": 74136144,
+    "snippet": "Sleepy <span class=\"searchmatch\">Joe</span> is a nickname describing the 46th U.S. President <span class=\"searchmatch\">Joe</span> <span class=\"searchmatch\">Biden</span> coined and used by those who oppose his presidency, which has become an Internet"
+  },
+  {
+    "title": "Beau Biden",
+    "pageid": 8194931,
+    "snippet": "Wilmington, Delaware. The oldest child of current U.S. president <span class=\"searchmatch\">Joe</span> <span class=\"searchmatch\">Biden</span> and Neilia Hunter <span class=\"searchmatch\">Biden</span>, he served as the 44th attorney general of Delaware from 2007"
+  },
+  {
+    "title": "Joe Biden sexual assault allegation",
+    "pageid": 63638060,
+    "snippet": "Democratic nominee <span class=\"searchmatch\">Joe</span> <span class=\"searchmatch\">Biden</span> sexually assaulted her in 1993 in a Capitol Hill office building when she was a staff assistant in his office. <span class=\"searchmatch\">Biden</span> denied Reade's"
+  },
+  {
+    "title": "Joe Biden 2020 presidential campaign",
+    "pageid": 55026675,
+    "snippet": "president <span class=\"searchmatch\">Joe</span> <span class=\"searchmatch\">Biden</span> released a video announcing his candidacy in the 2020 Democratic Party presidential primaries. On November 3, 2020, <span class=\"searchmatch\">Biden</span> and his running"
+  },
+  {
+    "title": "List of federal judges appointed by Joe Biden",
+    "pageid": 65784971,
+    "snippet": "III and Article IV United States federal judges appointed by President <span class=\"searchmatch\">Joe</span> <span class=\"searchmatch\">Biden</span> as well as a partial list of Article I federal judicial appointments,"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+145422

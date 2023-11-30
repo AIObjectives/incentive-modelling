@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Abdel Fattah el-Sisi" which was described 
+as "Current President of Egypt who came into power via a military coup." and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Abdel Fattah el-Sisi",
+    "pageid": 36703624,
+    "snippet": "<span class=\"searchmatch\">Abdel</span> <span class=\"searchmatch\">Fattah</span> Saeed Hussein Khalil <span class=\"searchmatch\">el</span>-<span class=\"searchmatch\">Sisi</span> (born 19 November 1954) is an Egyptian politician and retired military officer who has served as the sixth and"
+  },
+  {
+    "title": "Mahmoud el-Sisi",
+    "pageid": 66277132,
+    "snippet": "the son of Egyptian President Abdel <span class=\"searchmatch\">Fattah</span> <span class=\"searchmatch\">el</span>-<span class=\"searchmatch\">Sisi</span>. Mahmoud is the oldest son of President <span class=\"searchmatch\">Abdel</span> <span class=\"searchmatch\">Fattah</span> <span class=\"searchmatch\">El</span>-<span class=\"searchmatch\">Sisi</span> and his wife Entissar Amer, who are cousins"
+  },
+  {
+    "title": "List of presidents of Egypt",
+    "pageid": 18633931,
+    "snippet": "Commander of the Egyptian Armed Forces. The current president is <span class=\"searchmatch\">Abdel</span> <span class=\"searchmatch\">Fattah</span> <span class=\"searchmatch\">el</span>-<span class=\"searchmatch\">Sisi</span>, who has effectively controlled the country since the 2013 coup d'état"
+  },
+  {
+    "title": "2018 Egyptian presidential election",
+    "pageid": 51465616,
+    "snippet": "January, incumbent President <span class=\"searchmatch\">Abdel</span> <span class=\"searchmatch\">Fattah</span> <span class=\"searchmatch\">el</span>-<span class=\"searchmatch\">Sisi</span> formally announced he would run for a second and final term. <span class=\"searchmatch\">El</span>-<span class=\"searchmatch\">Sisi</span> won the election with 97%, according"
+  },
+  {
+    "title": "Entissar Amer",
+    "pageid": 43003628,
+    "snippet": "since her husband <span class=\"searchmatch\">Abdel</span> <span class=\"searchmatch\">Fattah</span> <span class=\"searchmatch\">el</span>-<span class=\"searchmatch\">Sisi</span> became the Sixth President of Egypt on 8 June 2014. Amer received her high school diploma from <span class=\"searchmatch\">El</span> Abbassia High School"
+  },
+  {
+    "title": "Egypt",
+    "pageid": 8087628,
+    "snippet": "Egypt's current government, a semi-presidential republic led by <span class=\"searchmatch\">Abdel</span> <span class=\"searchmatch\">Fattah</span> <span class=\"searchmatch\">el</span>-<span class=\"searchmatch\">Sisi</span> since 2014, has been described by a number of watchdogs as authoritarian"
+  },
+  {
+    "title": "President of Egypt",
+    "pageid": 335341,
+    "snippet": "Marshal <span class=\"searchmatch\">Abdel</span> <span class=\"searchmatch\">Fattah</span> <span class=\"searchmatch\">el</span>-<span class=\"searchmatch\">Sisi</span>, who has been in office since 8 June 2014. The first president of Egypt was Mohamed Naguib, who along with Gamal <span class=\"searchmatch\">Abdel</span> Nasser"
+  },
+  {
+    "title": "2023 Egyptian presidential election",
+    "pageid": 73175784,
+    "snippet": "December; expatriates will vote from 1–3 December. Incumbent President <span class=\"searchmatch\">Abdel</span> <span class=\"searchmatch\">Fattah</span> <span class=\"searchmatch\">el</span>-<span class=\"searchmatch\">Sisi</span>, who initially came to power in the aftermath of the 2013 Egyptian"
+  },
+  {
+    "title": "2014 Egyptian presidential election",
+    "pageid": 39863433,
+    "snippet": "former Egyptian defence minister <span class=\"searchmatch\">Abdel</span> <span class=\"searchmatch\">Fattah</span> <span class=\"searchmatch\">el</span>-<span class=\"searchmatch\">Sisi</span> and Egyptian Popular Current candidate Hamdeen Sabahi. <span class=\"searchmatch\">El</span>-<span class=\"searchmatch\">Sisi</span> won the election in a landslide victory"
+  },
+  {
+    "title": "Mostafa Madbouly",
+    "pageid": 57638462,
+    "snippet": "appointed by President <span class=\"searchmatch\">Abdel</span> <span class=\"searchmatch\">Fattah</span> <span class=\"searchmatch\">el</span>-<span class=\"searchmatch\">Sisi</span> to succeed Sherif Ismail following his government's resignation in the wake of <span class=\"searchmatch\">Sisi's</span> re-election. Madbouly"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+36703624

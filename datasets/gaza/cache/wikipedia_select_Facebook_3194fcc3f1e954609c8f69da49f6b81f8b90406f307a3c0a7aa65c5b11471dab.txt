@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Facebook" which was described 
+as "Social media platform mentioned." and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Facebook",
+    "pageid": 7529378,
+    "snippet": "<span class=\"searchmatch\">Facebook</span> is an online social media and social networking service owned by American technology giant Meta Platforms. Created in 2004 by Mark Zuckerberg"
+  },
+  {
+    "title": "Meta Platforms",
+    "pageid": 62420226,
+    "snippet": "Platforms, Inc., doing business as Meta, and formerly named <span class=\"searchmatch\">Facebook</span>, Inc., and The<span class=\"searchmatch\">Facebook</span>, Inc., is an American multinational technology conglomerate"
+  },
+  {
+    "title": "List of Facebook features",
+    "pageid": 16115172,
+    "snippet": "<span class=\"searchmatch\">Facebook</span> is a social-network service website launched on February 4, 2004, by Mark Zuckerberg. The following is a list of software and technology features"
+  },
+  {
+    "title": "History of Facebook",
+    "pageid": 27951979,
+    "snippet": "<span class=\"searchmatch\">Facebook</span> is a social networking service originally launched as The<span class=\"searchmatch\">Facebook</span> on February 4, 2004, before changing its name to simply <span class=\"searchmatch\">Facebook</span> in August"
+  },
+  {
+    "title": "Messenger (software)",
+    "pageid": 36250682,
+    "snippet": "app and platform developed by Meta Platforms. Originally developed as <span class=\"searchmatch\">Facebook</span> Chat in 2008, the company revamped its messaging service in 2010, released"
+  },
+  {
+    "title": "Instagram",
+    "pageid": 31591547,
+    "snippet": "and <span class=\"searchmatch\">Facebook</span> officially closed with a purchase price of $300 million in cash and 23 million shares of stock. The deal closed just before <span class=\"searchmatch\">Facebook's</span> scheduled"
+  },
+  {
+    "title": "Criticism of Facebook",
+    "pageid": 12878216,
+    "snippet": "<span class=\"searchmatch\">Facebook</span> (and parent company Meta Platforms) has been the subject of criticism and legal action. Criticisms include the outsize influence <span class=\"searchmatch\">Facebook</span> has"
+  },
+  {
+    "title": "Facebook Watch",
+    "pageid": 55864774,
+    "snippet": "<span class=\"searchmatch\">Facebook</span> Watch (currently rebranding to <span class=\"searchmatch\">Facebook</span> Video) is a video on demand service operated by American company Meta Platforms (previously named Facebook"
+  },
+  {
+    "title": "Facebook Platform",
+    "pageid": 15185373,
+    "snippet": "The <span class=\"searchmatch\">Facebook</span> Platform is the set of services, tools, and products provided by the social networking service <span class=\"searchmatch\">Facebook</span> for third-party developers to create"
+  },
+  {
+    "title": "Feed (Facebook)",
+    "pageid": 54113587,
+    "snippet": "<span class=\"searchmatch\">Facebook's</span> Feed, formerly known as the News Feed, is a web feed feature for the social network. The feed is the primary system through which users are"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+7529378

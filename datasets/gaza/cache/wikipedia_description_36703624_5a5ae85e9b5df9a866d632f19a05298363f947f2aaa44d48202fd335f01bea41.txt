@@ -1,0 +1,19 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Abdel Fattah el-Sisi
+Long description: Abdel Fattah Saeed Hussein Khalil el-Sisi (born 19 November 1954) is an Egyptian politician and retired military officer who has served as the sixth and current president of Egypt since 2014. Before retiring as a general in the Egyptian military in 2014, Sisi served as Egypt's deputy prime minister from 2013 to 2014, as its minister of defense from 2012 to 2013, and as its director of military intelligence from 2010 to 2012. He was promoted to the rank of Field Marshal in January 2014.
+Sisi was born in Cairo in 1954. As a young man, he joined the Egyptian Army and held a post in Saudi Arabia before enrolling in the Egyptian Army's Command and Staff College. Sisi received additional training at the Joint Services Command and Staff College in the United Kingdom in 1992, and at the United States Army War College in Carlisle, Pennsylvania, in 2006. Before becoming director of military intelligence in 2010, he served as a mechanized infantry commander. He never saw active combat throughout his military service.After the Egyptian revolution of 2011 and election of Mohamed Morsi to the Egyptian presidency, Sisi was appointed Minister of Defense by Morsi on 12 August 2012, replacing the Hosni Mubarak-era Hussein Tantawi. As the minister of defense, and ultimately commander in chief of the Egyptian Armed Forces, Sisi was involved in the military coup that removed then-president Morsi from office on 3 July 2013, in response to the June 2013 Egyptian protests. Morsi was replaced by an interim president, Adly Mansour, who appointed a new cabinet. Demonstrations, sit-ins, and violent clashes between supporters of Morsi and security forces followed, culminating in the Rabaa massacre which killed at least several hundreds of civilians.
+On 26 March 2014, in response to calls from supporters to run for the presidency, Field Marshal el-Sisi retired from his military career and announced that he would run as a candidate in the 2014 presidential election. The election, held between 26 and 28 May, featured one opponent, Hamdeen Sabahi, saw 47% participation by eligible voters, and resulted in Sisi winning in a landslide victory with 97% of the vote. Sisi was sworn into office as President of Egypt on 8 June 2014.Sisi rules an authoritarian regime in Egypt, and some elements of his rule have been described as even more strict than that of prior authoritarian leader Mubarak. In the 2018 presidential election, Sisi faced only nominal opposition (a pro-government supporter, Moussa Mostafa Moussa) after the military arrest of Sami Anan, threats made to Ahmed Shafik with old corruption charges and an alleged sex tape, and the withdrawal of Khaled Ali and Mohamed Anwar El-Sadat due to the overwhelming obstacles presented, and violations committed, by the elections committee.
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+Abdel Fattah Saeed Hussein Khalil el-Sisi is a retired military officer and current president of Egypt since 2014, known for his authoritarian regime, previously having served in multiple key government roles and participated in the military coup that deposed President Mohamed Morsi.

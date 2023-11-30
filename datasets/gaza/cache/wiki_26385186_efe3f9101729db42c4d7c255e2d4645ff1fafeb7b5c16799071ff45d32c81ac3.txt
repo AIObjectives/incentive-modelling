@@ -1,0 +1,25 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Israeli
+Long description: Israeli may refer to:
+
+Something of, from, or related to the State of Israel
+Israelis, citizens or permanent residents of the State of Israel
+Modern Hebrew, a language
+Israeli (newspaper), published from 2006 to 2008
+Guni Israeli (born 1984), Israeli basketball player
+
+
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+"Israeli" refers to something or someone from the State of Israel, can denote the Modern Hebrew language, or may reference a newspaper published from 2006 to 2008, or the Israeli basketball player, Guni Israeli.

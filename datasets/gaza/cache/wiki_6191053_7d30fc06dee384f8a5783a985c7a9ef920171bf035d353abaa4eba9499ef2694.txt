@@ -1,0 +1,19 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Jared Kushner
+Long description: Jared Corey Kushner (born January 10, 1981) is an American businessman, investor, and former government official. He is the son-in-law of former president Donald Trump through his marriage to Ivanka Trump, and served as a senior advisor to Trump from 2017 to 2021. He was also Director of the Office of American Innovation.
+For much of his career, Kushner worked as a real-estate investor in New York City, especially through the family business Kushner Companies. He took over the company after his father Charles Kushner was convicted for 18 criminal charges, including illegal campaign contributions, tax evasion, and witness tampering in 2005, although Charles was controversially pardoned by Trump in 2020. Jared met Ivanka Trump around 2005, and the couple married in 2009. He also became involved in the newspaper industry after purchasing The New York Observer in 2006. He was registered as a Democrat and donated to Democratic politicians for much of his life, but registered as Independent in 2009 and eventually as Republican in 2018. He played a significant role in the Donald Trump 2016 presidential campaign, and was at one point seen as its de facto campaign manager. Around Trump's election, Kushner divested from his family business, but was frequently accused of conflicts of interest when he profited from policy proposals for which he personally advocated within the Trump administration.He became Senior Advisor to President Trump in 2017, and held the position until Trump left office in 2021. His appointment was followed by concerns of nepotism.  Here, he led the administration's effort to pass the First Step Act, a criminal justice reform bill signed into law in 2018. Kushner was the primary Trump administration participant for the Middle East Peace Process, authoring the Trump peace plan and facilitating the talks that led to the signing of the Abraham Accords and other normalization agreements between Israel and various Arab states in 2020. Kushner also played an influential role in the Trump administration's COVID-19 response. Despite initially advising Trump that the media was exaggerating the threat of the disease, he eventually became a leader in the federal effort to procure medical supplies and develop a vaccine. He was a leading broker in the US–Mexico–Canada agreement, for which he was awarded honors by the Mexican government.
+Since leaving the White House, Kushner founded Affinity Partners, a private equity firm investing in Israeli and American companies expanding in the Middle East, Africa, and Asia.
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+Jared Corey Kushner is an American businessman and investor who served as a senior advisor to his father-in-law, former president Donald Trump, from 2017 to 2021, played a key role in the Trump administration's Middle East peace process and response to COVID-19, and has since founded a private equity firm called Affinity Partners.

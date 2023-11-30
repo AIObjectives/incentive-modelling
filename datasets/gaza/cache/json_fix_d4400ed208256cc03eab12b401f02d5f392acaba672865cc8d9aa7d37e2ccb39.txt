@@ -1,0 +1,42 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+{
+  "stated_goals": [], 
+  "main_motivations": [],
+  "possible_actions": [],
+  "good_scenarios": [],
+  "bad_scenarios": [],
+  "main_fears": [],
+  "resources": []
+} 
+
+Note: The document you provided does not provide sufficient information regarding Egypt specifically. It mostly revolves around Israel and Gaza, with minor references to Egypt relating to hostages negotiation and mediation. Therefore, it is not possible to provide direct answers to your specific questions based on this document. You may need to provide a different document for this task.
+
+=== RESULTS ===
+
+The JSON string provided is already syntactically valid. There's no need for any modifications. 
+
+Here's that JSON again for your reference:
+
+```json
+{
+  "stated_goals": [], 
+  "main_motivations": [],
+  "possible_actions": [],
+  "good_scenarios": [],
+  "bad_scenarios": [],
+  "main_fears": [],
+  "resources": []
+} 
+```
+
+Note: Any additional information or context not represented in this JSON format needs to be provided separately, as it cannot be included in the JSON data itself.

@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "YouTube" which was described 
+as "Online platform where Bassem Youssef's interview is posted." and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "YouTube",
+    "pageid": 3524766,
+    "snippet": "posts – Computer – <span class=\"searchmatch\">YouTube</span> Help&quot;. Google Inc. &quot;Hidden features of Facebook, WhatsApp, <span class=\"searchmatch\">Youtube</span> and more&quot;. Gadgets Now. &quot;<span class=\"searchmatch\">You</span><span class=\"searchmatch\">Tube's</span> Test <span class=\"searchmatch\">Tube</span>: What Is It?&quot;."
+  },
+  {
+    "title": "History of YouTube",
+    "pageid": 14181749,
+    "snippet": "<span class=\"searchmatch\">you</span>: Better commenting coming to <span class=\"searchmatch\">YouTube</span>&quot;. blog.<span class=\"searchmatch\">youtube</span>. <span class=\"searchmatch\">YouTube</span> company blog. Retrieved September 20, 2021. &quot;Understand your channel URLs - <span class=\"searchmatch\">YouTube</span> Help&quot;"
+  },
+  {
+    "title": "List of most-subscribed YouTube channels",
+    "pageid": 40199886,
+    "snippet": "which are included. Although now called simply &quot;<span class=\"searchmatch\">YouTube</span>&quot;, <span class=\"searchmatch\">You</span><span class=\"searchmatch\">Tube's</span> official channel was named &quot;<span class=\"searchmatch\">YouTube</span> Spotlight&quot; in 2013. T-Series surpassed PewDiePie"
+  },
+  {
+    "title": "List of most-viewed YouTube videos",
+    "pageid": 37743450,
+    "snippet": "Explanation of How <span class=\"searchmatch\">YouTube</span> Counts Views&quot;. April 4, 2022. &quot;Most Viewed Videos of All Time • (Over 700M views) - <span class=\"searchmatch\">YouTube</span>&quot;. www.<span class=\"searchmatch\">youtube</span>.com. &quot;Baby Shark Dance"
+  },
+  {
+    "title": "YouTube Creator Awards",
+    "pageid": 43963435,
+    "snippet": "<span class=\"searchmatch\">YouTube</span> Creator Awards, commonly known as <span class=\"searchmatch\">YouTube</span> Play Buttons or <span class=\"searchmatch\">YouTube</span> Plaques, are a series of awards from the American video platform <span class=\"searchmatch\">YouTube</span>, that"
+  },
+  {
+    "title": "YouTube Premium",
+    "pageid": 44382466,
+    "snippet": "<span class=\"searchmatch\">YouTube</span> Premium (formerly Music Key and <span class=\"searchmatch\">YouTube</span> Red) is a subscription service offered by the American video platform <span class=\"searchmatch\">YouTube</span>. The service provides ad-free"
+  },
+  {
+    "title": "YouTube Music",
+    "pageid": 52135003,
+    "snippet": "<span class=\"searchmatch\">YouTube</span> Music is a music streaming service developed by the American video platform <span class=\"searchmatch\">YouTube</span>, a subsidiary of Google. It provides a tailored interface"
+  },
+  {
+    "title": "List of YouTubers",
+    "pageid": 12237784,
+    "snippet": "LLEGO AL MILLÓN EN <span class=\"searchmatch\">YOUTUBE</span>&quot;. celebridadplus.com.ve. Archived from the original on 16 January 2017. Wang, Amy X. (22 October 2018). &quot;<span class=\"searchmatch\">YouTube</span> Comes Out Strong"
+  },
+  {
+    "title": "YouTube Shorts",
+    "pageid": 69762677,
+    "snippet": "<span class=\"searchmatch\">YouTube</span> Shorts is the short-form section of the American video-sharing website <span class=\"searchmatch\">YouTube</span>, hosting content much like <span class=\"searchmatch\">You</span><span class=\"searchmatch\">Tube's</span> primary service but with a"
+  },
+  {
+    "title": "YouTube Kids",
+    "pageid": 53918675,
+    "snippet": "<span class=\"searchmatch\">YouTube</span> Kids is an American video app and website for children developed by <span class=\"searchmatch\">YouTube</span>, a subsidiary of Google. The app provides a version of the service"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+3524766

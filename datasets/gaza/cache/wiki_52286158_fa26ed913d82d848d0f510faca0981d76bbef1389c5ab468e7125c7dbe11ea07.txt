@@ -1,0 +1,18 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Vivek Ramaswamy
+Long description: Vivek Ganapathy Ramaswamy (; vih-VAYK rah-mə-SWAH-mee; born August 9, 1985) is an American entrepreneur and presidential candidate. He founded Roivant Sciences, a pharmaceutical company, in 2014. In February 2023, Ramaswamy declared his candidacy for the Republican Party nomination in the 2024 United States presidential election.
+Ramaswamy was born in Cincinnati to Indian immigrant parents. He graduated from Harvard College with a bachelor's degree in biology and later earned a J.D. from Yale Law School. Ramaswamy worked as an investment partner at a hedge fund before founding Roivant Sciences. He also co-founded an investment firm, Strive Asset Management.Ramaswamy claims the United States is in the middle of a national identity crisis precipitated by what he calls "new secular religions like COVID-ism, climate-ism, and gender ideology". He is also a critic of environmental, social, and corporate governance initiatives (ESG). In August 2023, Forbes estimated Ramaswamy's net worth at more than $950 million; his wealth comes from biotech and financial businesses.
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+Vivek Ganapathy Ramaswamy is an American entrepreneur, founder of pharmaceutical company Roivant Sciences, and a Republican presidential candidate for the 2024 election, known for his critiques of "new secular religions" and ESG initiatives.

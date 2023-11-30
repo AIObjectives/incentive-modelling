@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Twitter" which was described 
+as "Social media platform mentioned." and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Twitter",
+    "pageid": 9988187,
+    "snippet": "known as <span class=\"searchmatch\">Twitter</span>, is an online social media and social networking service operated by the American company X Corp., the successor of <span class=\"searchmatch\">Twitter</span>, Inc. On"
+  },
+  {
+    "title": "Twitter, Inc.",
+    "pageid": 41289288,
+    "snippet": "<span class=\"searchmatch\">Twitter</span>, Inc. was an American social media company based in San Francisco, California. The company operated the social networking service <span class=\"searchmatch\">Twitter</span> and"
+  },
+  {
+    "title": "Twitter Files",
+    "pageid": 72416457,
+    "snippet": "The <span class=\"searchmatch\">Twitter</span> Files are a series of releases of select internal <span class=\"searchmatch\">Twitter</span>, Inc. documents published from December 2022 through March 2023 on <span class=\"searchmatch\">Twitter</span>. CEO Elon"
+  },
+  {
+    "title": "Black Twitter",
+    "pageid": 40034372,
+    "snippet": "Black <span class=\"searchmatch\">Twitter</span> is an internet community largely consisting of the Black diaspora of users on the social network <span class=\"searchmatch\">Twitter</span>, focused on issues of interest to"
+  },
+  {
+    "title": "List of most-followed Twitter accounts",
+    "pageid": 52247588,
+    "snippet": "followers. Barbadian singer Rihanna (@rihanna) is the most-followed woman on <span class=\"searchmatch\">Twitter</span>, with over 108 million followers. List of most-retweeted tweets List of"
+  },
+  {
+    "title": "Stan Twitter",
+    "pageid": 59494969,
+    "snippet": "Stan <span class=\"searchmatch\">Twitter</span> is a community of <span class=\"searchmatch\">Twitter</span> users that post opinions related to celebrities, music, TV shows, movies, and social media. The community has been"
+  },
+  {
+    "title": "Twitter under Elon Musk",
+    "pageid": 72537946,
+    "snippet": "Elon Musk completed his acquisition of <span class=\"searchmatch\">Twitter</span> in October 2022; Musk acted as CEO of X until he stepped down in June 2023 and was replaced by Linda Yaccarino"
+  },
+  {
+    "title": "Acquisition of Twitter by Elon Musk",
+    "pageid": 70614210,
+    "snippet": "magnate Elon Musk initiated an acquisition of American social media company <span class=\"searchmatch\">Twitter</span>, Inc. on April 14, 2022, and concluded it on October 27, 2022. Musk had"
+  },
+  {
+    "title": "Censorship of Twitter",
+    "pageid": 30642008,
+    "snippet": "Censorship of <span class=\"searchmatch\">Twitter</span> refers to Internet censorship by governments that block access to <span class=\"searchmatch\">Twitter</span>. <span class=\"searchmatch\">Twitter</span> censorship also includes governmental notice and"
+  },
+  {
+    "title": "Twitter verification",
+    "pageid": 66598890,
+    "snippet": "X verification, formerly known as <span class=\"searchmatch\">Twitter</span> verification, is a system intended to communicate the authenticity of a X account. Since November 2022, X users"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+9988187

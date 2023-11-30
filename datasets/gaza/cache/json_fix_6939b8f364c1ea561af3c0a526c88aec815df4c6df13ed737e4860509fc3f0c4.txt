@@ -1,0 +1,28 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+I apologize for the misunderstanding, but the document you provided does not contain specific information related to Mike & Mike. To provide insights concerning Mike & Mike, you will need to provide a document that includes data specifically about this sports radio show. 
+
+The document you provided is a transcript of a lengthy conversation between an unnamed individual and Bassem Youssef, primarily encompassing Middle Eastern politics, the Israeli-Palestinian conflict, and freedom of speech. It does not feature direct information about the hosts Mike Greenberg and Mike Golic, the sports radio show Mike & Mike, or ESPN. Therefore, I am unable to answer your queries based on this document. 
+
+Could you please provide a document that contains information specifically about Mike & Mike, so I can assist you accordingly?
+
+=== RESULTS ===
+
+The text you provided is not in JSON format, and it's more like a plain conversation text rather than structured data. However, I could assume that this could be the value of a `message` key in a JSON object, although it wouldn't provide much of a practical usage in real life situations. Here's how it could look:
+
+```json
+{
+  "message": "I apologize for the misunderstanding, but the document you provided does not contain specific information related to Mike & Mike. To provide insights concerning Mike & Mike, you will need to provide a document that includes data specifically about this sports radio show. The document you provided is a transcript of a lengthy conversation between an unnamed individual and Bassem Youssef, primarily encompassing Middle Eastern politics, the Israeli-Palestinian conflict, and freedom of speech. It does not feature direct information about the hosts Mike Greenberg and Mike Golic, the sports radio show Mike & Mike, or ESPN. Therefore, I am unable to answer your queries based on this document. Could you please provide a document that contains information specifically about Mike & Mike, so I can assist you accordingly?"
+}
+```
+
+Please provide more information if this was not the JSON format you were looking for.

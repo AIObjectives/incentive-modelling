@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Hezbollah" which was described 
+as "Lebanese Shia Islamist political party and militant group" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Hezbollah",
+    "pageid": 13919,
+    "snippet": "<span class=\"searchmatch\">Hezbollah</span> (/ˌhɛzbəˈlɑː/, /ˌxɛz-/; Arabic: حزب الله, romanized: Ḥizbu 'llāh, lit. 'Party of Allah' or 'Party of God') is a Lebanese Shia Islamist political"
+  },
+  {
+    "title": "Hassan Nasrallah",
+    "pageid": 313436,
+    "snippet": "which greatly increased <span class=\"searchmatch\">Hezbollah's</span> popularity in the region, and bolstered <span class=\"searchmatch\">Hezbollah's</span> position within Lebanon. However, <span class=\"searchmatch\">Hezbollah's</span> role in ambushing an"
+  },
+  {
+    "title": "History of Hezbollah",
+    "pageid": 6185421,
+    "snippet": "<span class=\"searchmatch\">Hezbollah</span> originated within the Shiite block of Lebanese society. According to the CIA World Factbook estimate in 2022, Shiites comprise 31.2 percent"
+  },
+  {
+    "title": "Hezbollah armed strength",
+    "pageid": 6222202,
+    "snippet": "<span class=\"searchmatch\">Hezbollah</span>, the Lebanese Shia Islamist political party and resistance group, has an exceptionally strong military wing, stronger than the Lebanese Army"
+  },
+  {
+    "title": "2006 Lebanon War",
+    "pageid": 6299613,
+    "snippet": "The 2006 Lebanon War, also called the 2006 Israel–<span class=\"searchmatch\">Hezbollah</span> War and known in Lebanon as the July War (Arabic: حرب تموز, Ḥarb Tammūz) and in Israel as"
+  },
+  {
+    "title": "Flag of Hezbollah",
+    "pageid": 7023747,
+    "snippet": "The flag of <span class=\"searchmatch\">Hezbollah</span> is the flag of the Shi'a political and military organization <span class=\"searchmatch\">Hezbollah</span>. The flag depicts a stylized representation of the Arabic"
+  },
+  {
+    "title": "Ideology of Hezbollah",
+    "pageid": 7634972,
+    "snippet": "The ideology of <span class=\"searchmatch\">Hezbollah</span> has been summarized as Shiite radicalism. <span class=\"searchmatch\">Hezbollah</span> was largely formed with the aid of the Ayatollah Ruhollah Khomeini's followers"
+  },
+  {
+    "title": "Hezbollah foreign relations",
+    "pageid": 7635163,
+    "snippet": "<span class=\"searchmatch\">Hezbollah</span> has a Foreign Relations Unit (Arabic: وحدة العلاقات الخارجية, romanized: Wahdat al-‘Ilāqāt al-khārijiyya) and maintains relations with a number"
+  },
+  {
+    "title": "Iran–Israel proxy conflict",
+    "pageid": 39317288,
+    "snippet": "provided funding, weapons, and training to groups including Lebanese <span class=\"searchmatch\">Hezbollah</span>, Hamas, and Palestinian Islamic Jihad (PIJ), which have vowed and carried"
+  },
+  {
+    "title": "2023 Israel–Lebanon border clashes",
+    "pageid": 75005425,
+    "snippet": "On 8 October 2023, Lebanese militant group <span class=\"searchmatch\">Hezbollah</span> launched guided rockets and artillery shells at Israeli-occupied positions in Shebaa Farms during"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+13919

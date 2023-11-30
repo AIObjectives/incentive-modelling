@@ -1,0 +1,20 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Egypt
+Long description: Egypt (Arabic: مصر Miṣr [mesˁr], Egyptian Arabic pronunciation: [mɑsˤr]), officially the Arab Republic of Egypt, is a transcontinental country spanning the northeast corner of Africa and the Sinai Peninsula in the southwest corner of Asia. It is bordered by the Mediterranean Sea to the north, the Gaza Strip of Palestine and Israel to the northeast, the Red Sea to the east, Sudan to the south, and Libya to the west. The Gulf of Aqaba in the northeast separates Egypt from Jordan and Saudi Arabia. Cairo is the capital and largest city of Egypt, while Alexandria, the second-largest city, is an important industrial and tourist hub at the Mediterranean coast. At approximately 100 million inhabitants, Egypt is the 14th-most populated country in the world, and the third-most populated in Africa, behind Nigeria and Ethiopia.
+Egypt has one of the longest histories of any country, tracing its heritage along the Nile Delta back to the 6th–4th millennia BCE. Considered a cradle of civilisation, Ancient Egypt saw some of the earliest developments of writing, agriculture, urbanisation, organised religion and central government. Egypt's long and rich cultural heritage is an integral part of its national identity, which reflects its unique transcontinental location being simultaneously Mediterranean, Middle Eastern and North African. Egypt was an early and important centre of Christianity, but was largely Islamised in the seventh century. Modern Egypt dates back to 1922, when it gained independence from the British Empire as a monarchy. Following the 1952 revolution, Egypt declared itself a republic, and in 1958 it merged with Syria to form the United Arab Republic, which dissolved in 1961. Throughout the second half of the 20th century, Egypt endured social and religious strife and political instability, fighting several armed conflicts with Israel in 1948, 1956, 1967 and 1973, and occupying the Gaza Strip intermittently until 1967. In 1978, Egypt signed the Camp David Accords, officially withdrawing from the Gaza Strip and recognising Israel. After the Arab Spring, which led to the 2011 Egyptian revolution and overthrow of Hosni Mubarak, the country faced a protracted period of political unrest. 
+Egypt's current government, a semi-presidential republic led by Abdel Fattah el-Sisi since 2014, has been described by a number of watchdogs as authoritarian and responsible for perpetuating the country's poor human rights record. Islam is the official religion of Egypt and Arabic is its official language. The great majority of its people live near the banks of the Nile River, an area of about 40,000 square kilometres (15,000 sq mi), where the only arable land is found. The large regions of the Sahara desert, which constitute most of Egypt's territory, are sparsely inhabited. About 43% of Egypt's residents live across the country's urban areas, with most spread across the densely populated centres of greater Cairo, Alexandria and other major cities in the Nile Delta.
+Egypt is considered to be a regional power in North Africa, the Middle East and the Muslim world, and a middle power worldwide. It is a developing country having  a diversified economy, which is the third-largest in Africa, the 38th-largest economy by nominal GDP and 127th by nominal GDP per capita. Egypt is a founding member of the United Nations, the Non-Aligned Movement, the Arab League, the African Union, Organisation of Islamic Cooperation and the World Youth Forum.
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+Egypt, officially the Arab Republic of Egypt, is a transcontinental country in the northeast of Africa and southwest of Asia, known for its rich cultural heritage from ancient civilisations, extensive history, and a populous urban landscape primarily alongside the Nile River, with Cairo as its capital.

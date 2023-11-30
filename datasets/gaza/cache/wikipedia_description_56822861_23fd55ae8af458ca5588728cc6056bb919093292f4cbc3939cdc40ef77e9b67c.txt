@@ -1,0 +1,19 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: TikTok
+Long description: TikTok, whose mainland Chinese counterpart is Douyin (Chinese: 抖音; pinyin: Dǒuyīn), is a short-form video hosting service owned by ByteDance. It hosts user-submitted videos, which can range in duration from 3 seconds to 10 minutes.Since their launches, TikTok and Douyin have gained global popularity. In October 2020, TikTok surpassed 2 billion mobile downloads worldwide. Morning Consult named TikTok the third-fastest growing infotech brand of 2020, after Zoom and Peacock. Cloudflare ranked TikTok the most popular website of 2021, surpassing Google. TikTok's popularity has resulted in the platform having an increasing cultural impact world wide.
+
+
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+TikTok, also known as Douyin in China, is a popular short-form video hosting service owned by ByteDance, allowing users to submit videos ranging from 3 seconds to 10 minutes, and is globally recognized, even surpassing Google as the most popular website in 2021.

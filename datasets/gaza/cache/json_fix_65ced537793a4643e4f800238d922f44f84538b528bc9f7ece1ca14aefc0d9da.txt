@@ -1,0 +1,22 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+Apologies for any confusion, but the document provided does not contain specific information about the state of Arizona. It's a transcript of a YouTube video featuring an interview with Bassem Youssef, where he discusses various political issues, his career, and the Israeli-Palestinian conflict. Therefore, I can't provide insights to your questions regarding Arizona based on this document. If there's another document about Arizona, I'd be happy to assist with that material.
+
+=== RESULTS ===
+
+This string does not seem like it's intended to be a JSON object. However, if we want to convert this into a valid JSON formatted data, it might look like this:
+
+```
+{
+    "message": "Apologies for any confusion, but the document provided does not contain specific information about the state of Arizona. It's a transcript of a YouTube video featuring an interview with Bassem Youssef, where he discusses various political issues, his career, and the Israeli-Palestinian conflict. Therefore, I can't provide insights to your questions regarding Arizona based on this document. If there's another document about Arizona, I'd be happy to assist with that material."
+}
+```

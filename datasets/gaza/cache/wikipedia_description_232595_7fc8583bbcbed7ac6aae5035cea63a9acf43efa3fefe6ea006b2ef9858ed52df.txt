@@ -1,0 +1,20 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Mahmoud Abbas
+Long description: Mahmoud Abbas (Arabic: مَحْمُود عَبَّاس, romanized: Maḥmūd ʿAbbās; born 15 November 1935), also known by the kunya Abu Mazen (Arabic: أَبُو مَازِن, ʾAbū Māzin), is the president of the State of Palestine and the Palestinian National Authority (PNA). He has been the chairman of the Palestine Liberation Organization (PLO) since 2004, PNA president since January 2005, and State of Palestine president since May 2005. Abbas is also a member of the Fatah party and was elected chairman in 2009.
+Abbas was elected on 9 January 2005 to serve as President of the Palestinian National Authority until 15 January 2009, but extended his term until the next election in 2010, citing the PLO constitution, and on 16 December 2009 was voted into office indefinitely by the PLO Central Council. As a result, Fatah's main rival, Hamas, initially announced that it would not recognize the extension or view Abbas as the rightful president. Nonetheless, Abbas is internationally recognized in his position(s) and Hamas and Fatah conducted numerous negotiations in the following years, leading to an agreement in April 2014 for a Unity Government (which lasted until October 2016) and to the recognition of his office by Hamas. Abbas was also chosen as the president of the State of Palestine by the PLO Central Council on 23 November 2008, a position he had held unofficially since 8 May 2005.Abbas served as the first prime minister of the Palestinian Authority from March to September 2003. Before being named Prime Minister, Abbas led the PLO Negotiations Affairs Department. He has been accused of distorting Jewish history and has been denounced as a Holocaust denier for his numerous statements throughout the years.
+
+
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+Mahmoud Abbas, also known as Abu Mazen, is the president of the State of Palestine, the Palestinian National Authority, and the chairman of the Palestine Liberation Organization, serving in these roles since 2004; he is also a member of the Fatah party.

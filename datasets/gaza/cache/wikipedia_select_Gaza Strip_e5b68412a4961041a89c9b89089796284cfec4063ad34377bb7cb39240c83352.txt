@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Gaza Strip" which was described 
+as "Small self-governing Palestinian territory on the eastern coast of the Mediterranean Sea" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Gaza Strip",
+    "pageid": 12047,
+    "snippet": "The <span class=\"searchmatch\">Gaza</span> <span class=\"searchmatch\">Strip</span> (/<span class=\"searchmatch\">ˈɡɑːzə</span>/; Arabic: قِطَاعُ غَزَّةَ Qiṭāʿ Ġazzah [qɪˈtˤɑːʕ ˈɣaz.za]), or simply <span class=\"searchmatch\">Gaza</span>, is the smaller of the two Palestinian territories (the"
+  },
+  {
+    "title": "Blockade of the Gaza Strip",
+    "pageid": 19224310,
+    "snippet": "of the <span class=\"searchmatch\">Gaza</span> <span class=\"searchmatch\">Strip</span> since 2005. After Hamas' takeover in 2007, the blockade aimed to isolate Hamas and prevent the smuggling of weapons into <span class=\"searchmatch\">Gaza</span>. It has"
+  },
+  {
+    "title": "2023 Israeli invasion of the Gaza Strip",
+    "pageid": 75047651,
+    "snippet": "Israel Defense Forces (IDF) launched a large-scale invasion inside the <span class=\"searchmatch\">Gaza</span> <span class=\"searchmatch\">Strip</span>, as part of the 2023 Israel–Hamas war, with the stated intent to &quot;destroy&quot;"
+  },
+  {
+    "title": "Governance of the Gaza Strip",
+    "pageid": 38626632,
+    "snippet": "governance of the <span class=\"searchmatch\">Gaza</span> <span class=\"searchmatch\">Strip</span> since the Hamas takeover of the <span class=\"searchmatch\">Gaza</span> <span class=\"searchmatch\">Strip</span> in June 2007 has been carried out by Hamas. The Hamas government in <span class=\"searchmatch\">Gaza</span> was led by Ismail"
+  },
+  {
+    "title": "Gaza–Israel barrier",
+    "pageid": 478337,
+    "snippet": "Crossing, in the north of the <span class=\"searchmatch\">Gaza</span> <span class=\"searchmatch\">Strip</span>, is the only crossing point for people and goods coming from Israel into the <span class=\"searchmatch\">Gaza</span> <span class=\"searchmatch\">Strip</span>; there exists a second crossing"
+  },
+  {
+    "title": "Gaza Strip smuggling tunnels",
+    "pageid": 665630,
+    "snippet": "The <span class=\"searchmatch\">Gaza</span> <span class=\"searchmatch\">Strip</span> smuggling tunnels are smuggling tunnels that had been dug under the Philadelphi Route along the Egypt–<span class=\"searchmatch\">Gaza</span> border. They were dug to subvert"
+  },
+  {
+    "title": "Occupation of the Gaza Strip by the United Arab Republic",
+    "pageid": 1013754,
+    "snippet": "Between 1949 and 1967, the present-day Palestinian territory known as the <span class=\"searchmatch\">Gaza</span> <span class=\"searchmatch\">Strip</span> was occupied by Egyptian forces from, firstly, the Kingdom of Egypt and"
+  },
+  {
+    "title": "Battle of Gaza (2007)",
+    "pageid": 40863726,
+    "snippet": "Battle of <span class=\"searchmatch\">Gaza</span>, also referred to as Hamas's takeover of <span class=\"searchmatch\">Gaza</span>, was a military conflict between Fatah and Hamas that took place in the <span class=\"searchmatch\">Gaza</span> <span class=\"searchmatch\">Strip</span> from 10"
+  },
+  {
+    "title": "Israeli disengagement from Gaza",
+    "pageid": 597862,
+    "snippet": "Israeli settlements in the <span class=\"searchmatch\">Gaza</span> <span class=\"searchmatch\">Strip</span> were unilaterally dismantled and Israeli settlers and army evacuated from inside the <span class=\"searchmatch\">Gaza</span> <span class=\"searchmatch\">Strip</span>. The disengagement was"
+  },
+  {
+    "title": "Gaza War (2008–2009)",
+    "pageid": 20855562,
+    "snippet": "al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between <span class=\"searchmatch\">Gaza</span> <span class=\"searchmatch\">Strip</span> Palestinian paramilitary groups and the Israel Defense Forces (IDF) that"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+12047

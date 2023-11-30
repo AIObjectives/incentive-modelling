@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Saudi Arabia" which was described 
+as "Country mentioned in discussion." and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Saudi Arabia",
+    "pageid": 349303,
+    "snippet": "<span class=\"searchmatch\">Saudi</span> <span class=\"searchmatch\">Arabia</span>, officially the Kingdom of <span class=\"searchmatch\">Saudi</span> <span class=\"searchmatch\">Arabia</span> (KSA), is a country in West Asia. It covers the bulk of the <span class=\"searchmatch\">Arabian</span> Peninsula and has a land area"
+  },
+  {
+    "title": "Salman of Saudi Arabia",
+    "pageid": 2049120,
+    "snippet": "31 December 1935) is King of <span class=\"searchmatch\">Saudi</span> <span class=\"searchmatch\">Arabia</span>, reigning since 2015 and had previously served as Prime Minister of <span class=\"searchmatch\">Saudi</span> <span class=\"searchmatch\">Arabia</span> from 2015 to 2022. The 25th"
+  },
+  {
+    "title": "Economy of Saudi Arabia",
+    "pageid": 27273,
+    "snippet": "of <span class=\"searchmatch\">Saudi</span> <span class=\"searchmatch\">Arabia</span> is the largest in the Middle East and the eighteenth largest in the world. A permanent and founding member of OPEC, <span class=\"searchmatch\">Saudi</span> <span class=\"searchmatch\">Arabia</span> is also"
+  },
+  {
+    "title": "King of Saudi Arabia",
+    "pageid": 38208168,
+    "snippet": "The king of <span class=\"searchmatch\">Saudi</span> <span class=\"searchmatch\">Arabia</span>, officially the king of the Kingdom of <span class=\"searchmatch\">Saudi</span> <span class=\"searchmatch\">Arabia</span> (Arabic: ملك المملكة العربية السعودية), is the monarch and head of state/head"
+  },
+  {
+    "title": "The Line, Saudi Arabia",
+    "pageid": 66363156,
+    "snippet": "Arabic: الخط AL KHATT) is a linear smart city under construction in <span class=\"searchmatch\">Saudi</span> <span class=\"searchmatch\">Arabia</span> in Neom, Tabuk Province, which is designed to have no cars, streets or"
+  },
+  {
+    "title": "Faisal of Saudi Arabia",
+    "pageid": 207314,
+    "snippet": "sæˈʕuːd]; 14 April 1906 – 25 March 1975) was a <span class=\"searchmatch\">Saudi</span> <span class=\"searchmatch\">Arabian</span> statesman and diplomat who was King of <span class=\"searchmatch\">Saudi</span> <span class=\"searchmatch\">Arabia</span> from 2 November 1964 until his assassination"
+  },
+  {
+    "title": "Israel–Saudi Arabia relations",
+    "pageid": 35053587,
+    "snippet": "State of Israel and the Kingdom of <span class=\"searchmatch\">Saudi</span> <span class=\"searchmatch\">Arabia</span> have never had formal diplomatic relations. In 1947, <span class=\"searchmatch\">Saudi</span> <span class=\"searchmatch\">Arabia</span> voted against the United Nations Partition"
+  },
+  {
+    "title": "Fahd of Saudi Arabia",
+    "pageid": 301839,
+    "snippet": "Prime Minister of <span class=\"searchmatch\">Saudi</span> <span class=\"searchmatch\">Arabia</span> from 13 June 1982 until his death in 2005. Prior to his ascension, he was Crown Prince of <span class=\"searchmatch\">Saudi</span> <span class=\"searchmatch\">Arabia</span> from 1975 to 1982"
+  },
+  {
+    "title": "Flag of Saudi Arabia",
+    "pageid": 350909,
+    "snippet": "The flag of <span class=\"searchmatch\">Saudi</span> <span class=\"searchmatch\">Arabia</span> (Arabic: علم المملكة العربية السعودية) is entirely green except for the central portion which bears an Arabic inscription and"
+  },
+  {
+    "title": "Saudi Pro League",
+    "pageid": 4525043,
+    "snippet": "These teams would play at a semi-final stage to crown the champions of <span class=\"searchmatch\">Saudi</span> <span class=\"searchmatch\">Arabia</span>. The league reverted to a round-robin system in the 2007–08 season. The"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+349303

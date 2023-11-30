@@ -2,10 +2,9 @@ const fs = require("fs");
 const OpenAI = require("openai");
 const CryptoJS = require("crypto-js");
 
-const main = async () => {
+const main = async (dataset) => {
   const { default: ora } = await import("ora");
   const { default: chalk } = await import("chalk");
-  console.log(chalk.red("Hello world!"));
 
   const hash = (obj) =>
     CryptoJS.SHA256(JSON.stringify(obj)).toString(CryptoJS.enc.Hex);
@@ -15,7 +14,7 @@ const main = async () => {
     const params = { messages, model };
     if (json_format) params.response_format = { type: "json_object" };
     const h = hash(params);
-    const file = `./cache/${key}_${h}.txt`;
+    const file = `./datasets/${dataset}/cache/${key}_${h}.txt`;
     const separator = "\n\n=== RESULTS ===\n\n";
     if (fs.existsSync(file)) {
       return fs.readFileSync(file, "utf8").split(separator)[1];
@@ -74,7 +73,7 @@ const main = async () => {
   async function searchWikipedia({ name, description }) {
     try {
       const h = hash({ name, description });
-      const file = `./cache/wikipedia_search_${h}.json`;
+      const file = `./datasets/${dataset}/cache/wikipedia_search_${h}.json`;
       if (fs.existsSync(file)) {
         return JSON.parse(fs.readFileSync(file, "utf8"));
       }
@@ -131,7 +130,10 @@ const main = async () => {
   const processFile = async (file) => {
     console.log("Processing file", file);
     const filename = file.split(".")[0];
-    const document = await fs.readFileSync(`./inputs/${file}`, "utf8");
+    const document = await fs.readFileSync(
+      `./datasets/${dataset}/inputs/${file}`,
+      "utf8"
+    );
     const summary = await gpt(
       `${file}_summary`,
       prompts.summary,
@@ -152,23 +154,27 @@ const main = async () => {
             entity: entity.wikipedia.name,
             description: entity.wikipedia.description,
           },
-          "gpt-4-1106-preview",
-          true
+          "gpt-4-32k",
+          false
+          // "gpt-4-1106-preview", true
         )
       );
     }
     fs.writeFileSync(
-      `./outputs/${filename}_entities.json`,
+      `./datasets/${dataset}/outputs/${filename}_entities.json`,
       JSON.stringify(entities, null, 2)
     );
   };
 
-  processFile("Times.txt");
-  // processFile("Times.txt");
-  // const files = fs.readdirSync("./inputs");
-  // for (const file of files) {
-  //   await processFile(file);
-  // }
+  const files = fs.readdirSync(`./datasets/${dataset}/inputs`);
+  for (const file of files) {
+    await processFile(file);
+  }
 };
 
-main();
+const dataset = process.argv.slice(2)[0];
+if (!dataset && dataset.length) {
+  console.error("Please specify a dataset!");
+  process.exit(1);
+}
+main(dataset);

@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Vivek Ramaswamy" which was described 
+as "American entrepreneur, author, and activist" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Vivek Ramaswamy",
+    "pageid": 52286158,
+    "snippet": "<span class=\"searchmatch\">Vivek</span> Ganapathy <span class=\"searchmatch\">Ramaswamy</span> (/vɪˈveɪk rɑːməˈswɑːmiː/; vih-VAYK rah-mə-SWAH-mee; born August 9, 1985) is an American entrepreneur and presidential candidate"
+  },
+  {
+    "title": "Vivek Ramaswamy 2024 presidential campaign",
+    "pageid": 73102735,
+    "snippet": "<span class=\"searchmatch\">Vivek</span> <span class=\"searchmatch\">Ramaswamy</span> began his 2024 presidential campaign on February 21, 2023, as a candidate in the 2024 Republican primary. He formally launched his candidacy"
+  },
+  {
+    "title": "Roivant Sciences",
+    "pageid": 51897188,
+    "snippet": "healthcare technology companies, founded by <span class=\"searchmatch\">Vivek</span> <span class=\"searchmatch\">Ramaswamy</span>. <span class=\"searchmatch\">Vivek</span> <span class=\"searchmatch\">Ramaswamy</span> founded Roivant in 2015. <span class=\"searchmatch\">Ramaswamy's</span> initial strategy was to in-license drug"
+  },
+  {
+    "title": "2024 Republican Party presidential primaries",
+    "pageid": 64057459,
+    "snippet": "their entrance on February 14, followed by wealth management executive <span class=\"searchmatch\">Vivek</span> <span class=\"searchmatch\">Ramaswamy</span> one week later, businessman Perry Johnson on March 2, former Arkansas"
+  },
+  {
+    "title": "Endorsements in the 2024 Republican Party presidential primaries",
+    "pageid": 72738612,
+    "snippet": "2023). &quot;Iowa Treasurer Endorses <span class=\"searchmatch\">Ramaswamy</span> in GOP Primary&quot;. The Hill. Folks, Will (April 29, 2023). &quot;<span class=\"searchmatch\">Vivek</span> <span class=\"searchmatch\">Ramaswamy</span> Picks Up Support In South Carolina&quot;"
+  },
+  {
+    "title": "Kara Swisher",
+    "pageid": 2464767,
+    "snippet": "Kara Swisher urged her Twitter audience to come up with nicknames for <span class=\"searchmatch\">Vivek</span> <span class=\"searchmatch\">Ramaswamy</span> and proposed her own, &quot;RamaSMARMY&quot;. Several Indian-American commentators"
+  },
+  {
+    "title": "2024 Republican Party presidential debates and forums",
+    "pageid": 73959746,
+    "snippet": "attend the debate, regardless of Trump's participation. Nikki Haley and <span class=\"searchmatch\">Vivek</span> <span class=\"searchmatch\">Ramaswamy</span> have claimed more than 60,000 donations each. Trump, DeSantis and Tim"
+  },
+  {
+    "title": "Sio Gene Therapies",
+    "pageid": 46964560,
+    "snippet": "fund analyst and 2024 Republican Party presidential primary candidate <span class=\"searchmatch\">Vivek</span> <span class=\"searchmatch\">Ramaswamy</span> in October 2014 as a wholly owned subsidiary of Roivant Sciences, which"
+  },
+  {
+    "title": "2024 United States presidential election",
+    "pageid": 59568546,
+    "snippet": "interest to the United States, and that the plan should be more limited. <span class=\"searchmatch\">Vivek</span> <span class=\"searchmatch\">Ramaswamy</span> favors ending U.S. military aid to Ukraine and would recognize Russian"
+  },
+  {
+    "title": "Opinion polling for the 2024 Republican Party presidential primaries",
+    "pageid": 65874930,
+    "snippet": "likely voters V – unclear &quot;Someone else&quot; with 4%; Doug Burgum with 3%; <span class=\"searchmatch\">Vivek</span> <span class=\"searchmatch\">Ramaswamy</span> with 2%; Chris Christie with 1% Liz Cheney with 3%; &quot;Someone else&quot;"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+52286158

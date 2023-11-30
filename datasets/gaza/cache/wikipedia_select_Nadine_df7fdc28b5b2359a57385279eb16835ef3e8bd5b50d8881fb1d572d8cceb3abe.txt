@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Nadine" which was described 
+as "Could reference to 'Nadine', host of a show on the same station." and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Nadine",
+    "pageid": 1830883,
+    "snippet": "Look up <span class=\"searchmatch\">Nadine</span> in Wiktionary, the free dictionary. <span class=\"searchmatch\">Nadine</span> may refer to: <span class=\"searchmatch\">Nadine</span> (given name) <span class=\"searchmatch\">Nadine</span>, Countess of Shrewsbury (1913–2003), English opera soprano"
+  },
+  {
+    "title": "Nadine Dorries",
+    "pageid": 1872870,
+    "snippet": "<span class=\"searchmatch\">Nadine</span> Vanessa Dorries (née Bargery; born 21 May 1957) is a British author and former politician who served as Secretary of State for Digital, Culture"
+  },
+  {
+    "title": "Nádine",
+    "pageid": 9933170,
+    "snippet": "<span class=\"searchmatch\">Nádine</span> Hoffeldt (born 28 February 1982) is a South African Afrikaans pop singer and presenter, best known for the hit song &quot;Kaapse Draai&quot;. She has also"
+  },
+  {
+    "title": "Nadine Macaluso",
+    "pageid": 74630216,
+    "snippet": "<span class=\"searchmatch\">Nadine</span> Macaluso (née Caridi; born December 24, 1967), formerly Belfort, is a British-born American psychologist, author, internet personality, and former"
+  },
+  {
+    "title": "Nadine Lustre",
+    "pageid": 36983807,
+    "snippet": "<span class=\"searchmatch\">Nadine</span> Alexis Paguia Lustre (Tagalog: [naˈdin ˈlustrɛ], English: /luːstrə/ LOOS-trə; born October 31, 1993) is a Filipino actress, singer, model, television"
+  },
+  {
+    "title": "Nadine Coyle",
+    "pageid": 845746,
+    "snippet": "<span class=\"searchmatch\">Nadine</span> Elizabeth Louise Coyle (born 15 June 1985) is an Irish singer, songwriter, actress and model. In 2002, Coyle was selected as a member of the girl"
+  },
+  {
+    "title": "The Edge of Seventeen",
+    "pageid": 48966119,
+    "snippet": "attack when <span class=\"searchmatch\">Nadine</span> was thirteen, leaving her best friend Krista the only person keeping her buoyed. Darian throws a pool party where <span class=\"searchmatch\">Nadine</span> and Krista"
+  },
+  {
+    "title": "Nadine Nicole",
+    "pageid": 17035353,
+    "snippet": "<span class=\"searchmatch\">Nadine</span> Nicole Heimann (born September 15, 1983), known professionally as <span class=\"searchmatch\">Nadine</span> Nicole, is an American actress. Nicole was born in Rochester, Michigan"
+  },
+  {
+    "title": "Nadine Velazquez",
+    "pageid": 3632205,
+    "snippet": "<span class=\"searchmatch\">Nadine</span> E. Velázquez (born November 20, 1978) is an American actress and model known for her roles as Catalina Aruca on My Name Is Earl and Sofia Ruxin"
+  },
+  {
+    "title": "Nadine Shah",
+    "pageid": 40343947,
+    "snippet": "<span class=\"searchmatch\">Nadine</span> Petra Katarina Shah (born 16 January 1986) is a British singer and songwriter. Shah was born in Whitburn, South Tyneside, to an English mother from"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+9933170

@@ -1,0 +1,21 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+The document you provided doesn't specifically mention Russia or give any specific insights about Russia. It mainly focuses on the conflict between Israel and Palestine, the arms industry, and the actions of members of the US Congress who invest in military related stocks. 
+
+Hence, I am unable to provide insights specific to Russia based on this document. I recommend providing another document that specifically explores Russia's goals, motivations, possible actions, scenarios, fears, and resources.
+
+=== RESULTS ===
+
+{
+  "message": "The document you provided doesn't specifically mention Russia or give any specific insights about Russia. It mainly focuses on the conflict between Israel and Palestine, the arms industry, and the actions of members of the US Congress who invest in military related stocks.",
+  "response": "Hence, I am unable to provide insights specific to Russia based on this document. I recommend providing another document that specifically explores Russia's goals, motivations, possible actions, scenarios, fears, and resources."
+}

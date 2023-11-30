@@ -1,0 +1,20 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+The document does not seem to provide any direct information about the United States in terms of goals, motivations, actions, scenarios, fears, or resources. The discussion is centered around the host and his interviewee, touching on topics like the Middle East, political stances, anti-Semitism, and personal experiences. But it does not directly relate to the United States in a way that would allow for insightful answers to your questions.
+
+=== RESULTS ===
+
+To convert the text into a JSON object, a name should be assigned to the text and enclosed in curly braces. Based on the content you provided, I named it as "description". The whole JSON object looks like this:
+
+{
+  "description": "The document does not seem to provide any direct information about the United States in terms of goals, motivations, actions, scenarios, fears, or resources. The discussion is centered around the host and his interviewee, touching on topics like the Middle East, political stances, anti-Semitism, and personal experiences. But it does not directly relate to the United States in a way that would allow for insightful answers to your questions."
+}

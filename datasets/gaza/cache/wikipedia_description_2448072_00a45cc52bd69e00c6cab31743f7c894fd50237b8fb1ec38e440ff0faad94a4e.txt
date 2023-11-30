@@ -1,0 +1,18 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Yair Lapid
+Long description: Yair Lapid (Hebrew: יָאִיר לַפִּיד, IPA: [jaˈʔiʁ laˈpid]; born 5 November 1963) is an Israeli politician of the centrist Yesh Atid party, and a former journalist. He has been the Leader of the Opposition since January 2023, having previously served in that role from 2020 to 2021. He served as the 14th Prime Minister of Israel from 1 July to 29 December 2022. He previously served as the Alternate Prime Minister of Israel and Minister of Foreign Affairs from 2021 to 2022. Lapid is the chairman of Yesh Atid, and Minister of Finance from 2013 to 2014.Before entering politics in 2012, Lapid was an author, TV presenter and news anchor. The centrist Yesh Atid party, which he founded, became the second-largest party in the Knesset by winning 19 seats in its first legislative election in 2013. The greater-than-anticipated results contributed to Lapid's reputation as a leading centrist.
+From 2013 to 2014, following his coalition agreement with Likud, Lapid served as Minister of Finance under Prime Minister Benjamin Netanyahu. In 2013, Lapid ranked first on the list of the "Most Influential Jews in the World" by The Jerusalem Post. He was also recognized in 2013 as one of the leading Foreign Policy Global Thinkers, and ranked as one of Time magazine's 100 "Most Influential People in the World". He serves on the Knesset Foreign Affairs and Defense Committee, and the Sub-Committee on Intelligence and the Security Services.On 17 May 2020, Lapid became the Leader of the Opposition, after the thirty-fifth government of Israel was sworn in. On 5 May 2021, he began talks with other parties to try to form a coalition government. On 2 June 2021, Lapid informed Israeli President Reuven Rivlin that he had agreed to a rotation government with Naftali Bennett and was prepared to replace the incumbent prime minister, Benjamin Netanyahu. The new government was sworn in on 13 June 2021.Lapid became the Prime Minister of Israel on 1 July 2022 after Bennett stepped down as prime minister following the dissolution of the Knesset. Lapid remained prime minister until a new government was formed after the November 2022 election.
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+Yair Lapid is an Israeli politician, former journalist, and Leader of the Opposition, who served as the 14th Prime Minister of Israel in 2022 and is the chairman of the centrist Yesh Atid party.

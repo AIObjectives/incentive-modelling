@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "New York Times" which was described 
+as "American newspaper based in New York City with worldwide influence and readership" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "The New York Times",
+    "pageid": 30680,
+    "snippet": "The <span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> <span class=\"searchmatch\">Times</span> (NYT) is a daily newspaper based in <span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> City, with a worldwide reported readership of 740,000 paying subscribers as of 2022, and"
+  },
+  {
+    "title": "The New York Times Company",
+    "pageid": 30830,
+    "snippet": "The <span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> <span class=\"searchmatch\">Times</span> Company is an American mass-media company that publishes The <span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> <span class=\"searchmatch\">Times</span>, its associated publications, and other media properties"
+  },
+  {
+    "title": "Times Square",
+    "pageid": 31389,
+    "snippet": "<span class=\"searchmatch\">Times</span> Square is a major commercial intersection, tourist destination, entertainment hub, and neighborhood in Midtown Manhattan, <span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> City, United States"
+  },
+  {
+    "title": "The New York Times Best Seller list",
+    "pageid": 81240,
+    "snippet": "<span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> <span class=\"searchmatch\">Times</span> Best Seller list is widely considered the preeminent list of best-selling books in the United States. Since October 12, 1931, The <span class=\"searchmatch\">New</span> York"
+  },
+  {
+    "title": "New York Times Co. v. United States",
+    "pageid": 212629,
+    "snippet": "<span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> <span class=\"searchmatch\">Times</span> Co. v. United States, 403 U.S. 713 (1971), was a landmark decision of the Supreme Court of the United States on the First Amendment right"
+  },
+  {
+    "title": "New York Times Co. v. Sullivan",
+    "pageid": 387412,
+    "snippet": "<span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> <span class=\"searchmatch\">Times</span> Co. v. Sullivan, 376 U.S. 254 (1964), was a landmark U.S. Supreme Court decision ruling that the First Amendment to the U.S. Constitution's"
+  },
+  {
+    "title": "New York City",
+    "pageid": 645042,
+    "snippet": "<span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span>, often called <span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> City or simply NYC, is the most populous city in the United States. With a population of 8,804,190 distributed over 300"
+  },
+  {
+    "title": "The New York Times Magazine",
+    "pageid": 1965416,
+    "snippet": "The <span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> <span class=\"searchmatch\">Times</span> Magazine is an American Sunday magazine included with the Sunday edition of The <span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> <span class=\"searchmatch\">Times</span>. It features articles longer than those"
+  },
+  {
+    "title": "The New York Times crossword puzzle",
+    "pageid": 7051369,
+    "snippet": "The <span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> <span class=\"searchmatch\">Times</span> crossword puzzle is a daily American-style crossword puzzle published in The <span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> <span class=\"searchmatch\">Times</span>, online on the newspaper's website, syndicated"
+  },
+  {
+    "title": "The New York Times Book Review",
+    "pageid": 8498535,
+    "snippet": "The <span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> <span class=\"searchmatch\">Times</span> Book Review (NYTBR) is a weekly paper-magazine supplement to the Sunday edition of The <span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> <span class=\"searchmatch\">Times</span> in which current non-fiction and"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+30680
