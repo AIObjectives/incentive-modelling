@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Bill Clinton" which was described 
+as "Former President of the United States, mentioned as having tried to broker peace in the area." and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Bill Clinton",
+    "pageid": 3356,
+    "snippet": "<span class=\"searchmatch\">Clinton</span> family <span class=\"searchmatch\">Clinton</span> School of Public Service Efforts to impeach <span class=\"searchmatch\">Bill</span> <span class=\"searchmatch\">Clinton</span> Electoral history of <span class=\"searchmatch\">Bill</span> <span class=\"searchmatch\">Clinton</span> Gun control policy of the <span class=\"searchmatch\">Clinton</span> Administration"
+  },
+  {
+    "title": "Presidency of Bill Clinton",
+    "pageid": 361745,
+    "snippet": "<span class=\"searchmatch\">Bill</span> <span class=\"searchmatch\">Clinton's</span> tenure as the 42nd president of the United States began with his first inauguration on January 20, 1993, and ended on January 20, 2001."
+  },
+  {
+    "title": "Impeachment of Bill Clinton",
+    "pageid": 1296149,
+    "snippet": "<span class=\"searchmatch\">Bill</span> <span class=\"searchmatch\">Clinton</span>, the 42nd president of the United States, was impeached by the United States House of Representatives of the 105th United States Congress"
+  },
+  {
+    "title": "Hillary Clinton",
+    "pageid": 5043192,
+    "snippet": "counsel, she moved to Arkansas and, in 1975, married <span class=\"searchmatch\">Bill</span> <span class=\"searchmatch\">Clinton</span>, whom she had met at Yale. In 1977, <span class=\"searchmatch\">Clinton</span> co-founded Arkansas Advocates for Children and"
+  },
+  {
+    "title": "Bill Clinton sexual assault and misconduct allegations",
+    "pageid": 32876193,
+    "snippet": "<span class=\"searchmatch\">Bill</span> <span class=\"searchmatch\">Clinton</span>, the 42nd president of the United States (1993–2001), has been publicly accused of sexual assault and/or sexual misconduct by several women:"
+  },
+  {
+    "title": "Clinton family",
+    "pageid": 46970192,
+    "snippet": "The <span class=\"searchmatch\">Clinton</span> family is an American political family from New York who originate from Arkansas, who are related to <span class=\"searchmatch\">Bill</span> <span class=\"searchmatch\">Clinton</span>, the 42nd president of the"
+  },
+  {
+    "title": "Clinton Presidential Center",
+    "pageid": 1180426,
+    "snippet": "The William J. <span class=\"searchmatch\">Clinton</span> Presidential Library and Museum is the presidential library of <span class=\"searchmatch\">Bill</span> <span class=\"searchmatch\">Clinton</span>, who served as the 42nd president of the United States"
+  },
+  {
+    "title": "Clinton Foundation",
+    "pageid": 6115598,
+    "snippet": "The <span class=\"searchmatch\">Clinton</span> Foundation (founded in 2001 as the William J. <span class=\"searchmatch\">Clinton</span> Presidential Foundation, and renamed in 2013 as the <span class=\"searchmatch\">Bill</span>, Hillary &amp; Chelsea <span class=\"searchmatch\">Clinton</span> Foundation)"
+  },
+  {
+    "title": "Roger Clinton Sr.",
+    "pageid": 12386083,
+    "snippet": "Roger <span class=\"searchmatch\">Clinton</span> Sr. (July 23, 1908 – November 8, 1967) was an American car salesman. He was the first stepfather of former U.S. president <span class=\"searchmatch\">Bill</span> <span class=\"searchmatch\">Clinton</span>, having"
+  },
+  {
+    "title": "Roger Clinton Jr.",
+    "pageid": 993005,
+    "snippet": "President <span class=\"searchmatch\">Bill</span> <span class=\"searchmatch\">Clinton</span>. Roger Cassidy <span class=\"searchmatch\">Clinton</span> is the only child of car salesman Roger <span class=\"searchmatch\">Clinton</span> Sr. and nurse Virginia Dell Cassidy. As a child, <span class=\"searchmatch\">Bill</span> <span class=\"searchmatch\">Clinton</span> (then"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+361745

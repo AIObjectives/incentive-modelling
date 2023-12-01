@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Jerusalem" which was described 
+as "A city in the Middle East, located on a plateau in the Judaean Mountains between the Mediterranean and the Dead Sea" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Jerusalem",
+    "pageid": 16043,
+    "snippet": "<span class=\"searchmatch\">Jerusalem</span> (/dʒəˈruːsələm/; Hebrew: יְרוּשָׁלַיִם Yerushaláyim, Hebrew pronunciation: [jeʁuʃaˈlajim]; Arabic: القُدس, al-Quds, Arabic pronunciation: [al"
+  },
+  {
+    "title": "East Jerusalem",
+    "pageid": 343508,
+    "snippet": "East <span class=\"searchmatch\">Jerusalem</span> (Arabic: القدس الشرقية, al-Quds ash-Sharqiya; Hebrew: מִזְרַח יְרוּשָׁלַיִם, Mizraḥ Yerushalayim) is the sector of <span class=\"searchmatch\">Jerusalem</span> that was held"
+  },
+  {
+    "title": "Jerusalem artichoke",
+    "pageid": 462562,
+    "snippet": "The <span class=\"searchmatch\">Jerusalem</span> artichoke (Helianthus tuberosus), also called sunroot, sunchoke, wild sunflower, topinambur, or earth apple, is a species of sunflower native"
+  },
+  {
+    "title": "Status of Jerusalem",
+    "pageid": 4024423,
+    "snippet": "The dispute between Israelis and Palestinians, who both claim <span class=\"searchmatch\">Jerusalem</span> as their capital city, has been described as &quot;one of the most intractable issues"
+  },
+  {
+    "title": "Jerusalem cricket",
+    "pageid": 21481882,
+    "snippet": "<span class=\"searchmatch\">Jerusalem</span> crickets (or potato bugs) are a group of large, flightless insects in the genera Ammopelmatus and Stenopelmatus, together comprising the tribe"
+  },
+  {
+    "title": "Temple in Jerusalem",
+    "pageid": 30526,
+    "snippet": "The Temple in <span class=\"searchmatch\">Jerusalem</span>, or alternatively the Holy Temple (Hebrew: בֵּית־הַמִּקְדָּשׁ‎, Modern: Bēt haMīqdaš, Tiberian: Bēṯ hamMīqdāš; Arabic: بيت المقدس"
+  },
+  {
+    "title": "Jerusalem cross",
+    "pageid": 1638146,
+    "snippet": "The <span class=\"searchmatch\">Jerusalem</span> cross (also known as &quot;five-fold Cross&quot;, or &quot;cross-and-crosslets&quot;) is a heraldic cross and Christian cross variant consisting of a large"
+  },
+  {
+    "title": "History of Jerusalem",
+    "pageid": 360506,
+    "snippet": "During its long history, <span class=\"searchmatch\">Jerusalem</span> has been attacked 52 times, captured and recaptured 44 times, besieged 23 times, and destroyed twice. The oldest part"
+  },
+  {
+    "title": "King of Jerusalem",
+    "pageid": 1127640,
+    "snippet": "The king or queen of <span class=\"searchmatch\">Jerusalem</span> was the supreme ruler of the Kingdom of <span class=\"searchmatch\">Jerusalem</span>, a Crusader state founded in <span class=\"searchmatch\">Jerusalem</span> by the Latin Catholic leaders of"
+  },
+  {
+    "title": "Jerusalem (Jerusalem album)",
+    "pageid": 9681586,
+    "snippet": "<span class=\"searchmatch\">Jerusalem</span> is the first album by Swedish hard rock band <span class=\"searchmatch\">Jerusalem</span>. The Swedish version was released in 1978 on Prim Records. The English version (renamed"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+16043

@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Iran" which was described 
+as "Islamic republic on the Persian Gulf with historical sites dating to the Persian Empire" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Iran",
+    "pageid": 14653,
+    "snippet": "Persian text in this article correctly. <span class=\"searchmatch\">Iran</span>, also known as Persia and officially the Islamic Republic of <span class=\"searchmatch\">Iran</span> (IRI), is a country in West Asia. It is"
+  },
+  {
+    "title": "Iranians",
+    "pageid": 225111,
+    "snippet": "Look up <span class=\"searchmatch\">Iranians</span> or <span class=\"searchmatch\">iranians</span> in Wiktionary, the free dictionary. <span class=\"searchmatch\">Iranians</span> or <span class=\"searchmatch\">Iranian</span> people may refer to: <span class=\"searchmatch\">Iranian</span> peoples, Indo-European ethno-linguistic"
+  },
+  {
+    "title": "Iran–Iraq War",
+    "pageid": 14889,
+    "snippet": "The <span class=\"searchmatch\">Iran</span>–Iraq War was an armed conflict between <span class=\"searchmatch\">Iran</span> and Iraq that lasted from September 1980 to August 1988. It began with the Iraqi invasion of <span class=\"searchmatch\">Iran</span> and"
+  },
+  {
+    "title": "Iranian Revolution",
+    "pageid": 347268,
+    "snippet": "The <span class=\"searchmatch\">Iranian</span> Revolution (Persian: انقلاب ایران, Enqelâb-e <span class=\"searchmatch\">Irân</span> [ʔeɴɢeˌlɒːbe ʔiːɾɒːn]), or the Islamic Revolution (انقلاب اسلامی, Enqelâb-e Eslâmī), was"
+  },
+  {
+    "title": "Provinces of Iran",
+    "pageid": 448160,
+    "snippet": "<span class=\"searchmatch\">Iran</span> is subdivided into thirty-one provinces (Persian: استان ostân), each governed from a local centre, usually the largest local city, which is called"
+  },
+  {
+    "title": "Safavid Iran",
+    "pageid": 38455500,
+    "snippet": "Safavid <span class=\"searchmatch\">Iran</span> or Safavid Persia (/ˈsæfəvɪd, ˈsɑː-/), also referred to as the Safavid Empire, was one of the largest and long-standing <span class=\"searchmatch\">Iranian</span> empires after"
+  },
+  {
+    "title": "Iran–Contra affair",
+    "pageid": 14787,
+    "snippet": "The <span class=\"searchmatch\">Iran</span>–Contra affair (Persian: ماجرای ایران-کنترا; Spanish: Caso <span class=\"searchmatch\">Irán</span>-Contra), often referred to as the <span class=\"searchmatch\">Iran</span>–Contra scandal, was a political scandal"
+  },
+  {
+    "title": "Iranian",
+    "pageid": 483656,
+    "snippet": "from <span class=\"searchmatch\">Iranian</span>, used for the people of <span class=\"searchmatch\">Iran</span> <span class=\"searchmatch\">Iranian</span> languages, a branch of the Indo-<span class=\"searchmatch\">Iranian</span> languages Something of, from, or related to <span class=\"searchmatch\">Iran</span> <span class=\"searchmatch\">Iranians</span>, a nation"
+  },
+  {
+    "title": "Iranian peoples",
+    "pageid": 19180442,
+    "snippet": "The <span class=\"searchmatch\">Iranian</span> peoples or Iranic peoples are a diverse grouping of peoples who are identified by their usage of the <span class=\"searchmatch\">Iranian</span> languages (branch of the Indo-European"
+  },
+  {
+    "title": "Tehran",
+    "pageid": 57654,
+    "snippet": "of <span class=\"searchmatch\">Iran</span> by Agha Mohammad Khan of the Qajar dynasty in 1786, because of its proximity to <span class=\"searchmatch\">Iran's</span> territories in the Caucasus, then separated from <span class=\"searchmatch\">Iran</span> in"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+14653

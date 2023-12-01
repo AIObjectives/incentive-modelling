@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "George Bush" which was described 
+as "Former American President mentioned in passing during the discussion." and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "George W. Bush",
+    "pageid": 3414021,
+    "snippet": "<span class=\"searchmatch\">George</span> Walker <span class=\"searchmatch\">Bush</span> (born July 6, 1946) is an American politician who served as the 43rd president of the United States from 2001 to 2009. A member of the"
+  },
+  {
+    "title": "George H. W. Bush",
+    "pageid": 11955,
+    "snippet": "<span class=\"searchmatch\">George</span> Herbert Walker <span class=\"searchmatch\">Bush</span> (June 12, 1924 – November 30, 2018) was an American politician, diplomat, and businessman who served as the 41st president of"
+  },
+  {
+    "title": "George Bush",
+    "pageid": 19597073,
+    "snippet": "<span class=\"searchmatch\">George</span> <span class=\"searchmatch\">Bush</span> most commonly refers to: <span class=\"searchmatch\">George</span> H. W. <span class=\"searchmatch\">Bush</span> (1924–2018), 41st president of the United States and father of the 43rd president <span class=\"searchmatch\">George</span> W. Bush"
+  },
+  {
+    "title": "George P. Bush",
+    "pageid": 948381,
+    "snippet": "<span class=\"searchmatch\">George</span> Prescott <span class=\"searchmatch\">Bush</span> (born April 24, 1976) is an American politician and attorney who served as the commissioner of the Texas General Land Office from"
+  },
+  {
+    "title": "USS George H.W. Bush",
+    "pageid": 156573,
+    "snippet": "USS <span class=\"searchmatch\">George</span> H.W. <span class=\"searchmatch\">Bush</span> (CVN-77) is the tenth and final Nimitz-class supercarrier of the United States Navy. She is named for the 41st President of the United"
+  },
+  {
+    "title": "George Bush Intercontinental Airport",
+    "pageid": 149577,
+    "snippet": "<span class=\"searchmatch\">George</span> <span class=\"searchmatch\">Bush</span> Intercontinental Airport (IATA: IAH, ICAO: KIAH, FAA LID: IAH) is an international airport in Houston, Texas, United States, serving the Greater"
+  },
+  {
+    "title": "Death and state funeral of George H. W. Bush",
+    "pageid": 59212963,
+    "snippet": " 2018, <span class=\"searchmatch\">George</span> H. W. <span class=\"searchmatch\">Bush</span>, the 41st president of the United States, died from vascular Parkinson's disease at his home in Houston, Texas. <span class=\"searchmatch\">Bush</span> was the"
+  },
+  {
+    "title": "Bush family",
+    "pageid": 360448,
+    "snippet": "(Prescott <span class=\"searchmatch\">Bush</span>); governor (Jeb <span class=\"searchmatch\">Bush</span> and <span class=\"searchmatch\">George</span> W. <span class=\"searchmatch\">Bush</span>); and president (<span class=\"searchmatch\">George</span> H. W. <span class=\"searchmatch\">Bush</span>, who had previously served as vice president, and <span class=\"searchmatch\">George</span> W. <span class=\"searchmatch\">Bush</span>). Other"
+  },
+  {
+    "title": "George H.W. Bush Presidential Library and Museum",
+    "pageid": 706778,
+    "snippet": "The <span class=\"searchmatch\">George</span> H.W. <span class=\"searchmatch\">Bush</span> Presidential Library and Museum is the presidential library and burial site of <span class=\"searchmatch\">George</span> H. W. <span class=\"searchmatch\">Bush</span>, the 41st president of the United"
+  },
+  {
+    "title": "Presidency of George W. Bush",
+    "pageid": 183895,
+    "snippet": "<span class=\"searchmatch\">George</span> W. <span class=\"searchmatch\">Bush's</span> tenure as the 43rd president of the United States began with his first inauguration on January 20, 2001, and ended on January 20, 2009"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+19597073

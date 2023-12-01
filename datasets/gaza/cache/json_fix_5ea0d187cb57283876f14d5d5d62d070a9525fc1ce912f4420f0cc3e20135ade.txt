@@ -1,0 +1,22 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+I regret to inform you that the document provided does not contain any specific information about Rumbo (Texas newspapers). The transcript appears to be from an interview about the Israeli-Palestinian conflict. Therefore, I can't provide answers to your questions regarding Rumbo's goals, motivations, possible actions, good and bad scenarios, main fears, and resources. Should you have any other document related to Rumbo that you could provide, I would be more than happy to assist you with that.
+
+=== RESULTS ===
+
+Here's a syntactically-valid JSON representation of the string:
+
+```
+{
+  "message": "I regret to inform you that the document provided does not contain any specific information about Rumbo (Texas newspapers). The transcript appears to be from an interview about the Israeli-Palestinian conflict. Therefore, I can't provide answers to your questions regarding Rumbo's goals, motivations, possible actions, good and bad scenarios, main fears, and resources. Should you have any other document related to Rumbo that you could provide, I would be more than happy to assist you with that."
+}
+```

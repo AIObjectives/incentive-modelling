@@ -1,0 +1,17 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Patrick Kingsley (journalist)
+Long description: Patrick Kingsley (born June 1989) is a British journalist who is the Jerusalem bureau chief of The New York Times. He previously served as a foreign correspondent for The Guardian.
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+Patrick Kingsley is a British journalist, known as the Jerusalem bureau chief for The New York Times, previously a foreign correspondent for The Guardian.

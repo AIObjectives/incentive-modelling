@@ -1,0 +1,20 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: General Dynamics
+Long description: General Dynamics Corporation (GD) is an American publicly traded aerospace and defense corporation headquartered in Reston, Virginia. As of 2020, it was the fifth-largest defense contractor in the world by arms sales, and fifth largest in the United States by total sales. The company is a Fortune 100 company, and was ranked No. 94 in 2022.Formed in 1954 with the merger of submarine manufacturer Electric Boat and aircraft manufacturer Canadair, the corporation today consists of ten subsidiary companies with operations in 45 countries. The company's products include Gulfstream business jets, Virginia- and Columbia-class nuclear-powered submarines, Arleigh Burke-class guided-missile destroyers, M1 Abrams tanks and Stryker armored fighting vehicles.
+In 2022, General Dynamics had worldwide sales of $39.4 billion and a workforce of approximately 106,500 full-time employees. The current chairman and chief executive officer (CEO) is Phebe Novakovic.
+
+
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+General Dynamics Corporation is an American aerospace and defense corporation, known as the fifth-largest defense contractor in the world, specializing in products like business jets, nuclear-powered submarines, and armored fighting vehicles.

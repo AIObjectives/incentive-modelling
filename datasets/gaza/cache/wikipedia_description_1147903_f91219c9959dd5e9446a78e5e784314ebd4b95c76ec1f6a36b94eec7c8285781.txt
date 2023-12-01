@@ -1,0 +1,19 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Ben Shapiro
+Long description: Benjamin Aaron Shapiro (born January 15, 1984) is an American lawyer, columnist, author, and conservative political commentator. Shapiro writes columns for Creators Syndicate, Newsweek, and Ami Magazine, and serves as editor emeritus for The Daily Wire, which he co-founded in 2015. Shapiro is the host of The Ben Shapiro Show, a daily political podcast and live radio show. He was editor-at-large of Breitbart News from 2012 until his resignation in 2016. Shapiro has authored sixteen books.
+
+
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+Ben Shapiro is an American lawyer, author, conservative political commentator, and the host of The Ben Shapiro Show, known for his association with The Daily Wire and Breitbart News.

@@ -1,0 +1,18 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+The document does not provide any direct information relevant to your query about YouTube. This written transcript seems to be about a geopolitical issue and conflicts rather than YouTube's goals, motivations, actions, scenarios, fears, or resources. A different document may be needed to derive insights related to YouTube.
+
+=== RESULTS ===
+
+{
+"The document": "does not provide any direct information relevant to your query about YouTube. This written transcript seems to be about a geopolitical issue and conflicts rather than YouTube's goals, motivations, actions, scenarios, fears, or resources. A different document may be needed to derive insights related to YouTube."
+}

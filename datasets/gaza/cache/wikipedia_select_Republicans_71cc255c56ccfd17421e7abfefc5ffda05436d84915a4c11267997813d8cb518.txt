@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Republicans" which was described 
+as "Members of the Republican Party, one of the two major political parties in the United States" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Republican",
+    "pageid": 37341,
+    "snippet": "The <span class=\"searchmatch\">Republicans</span> (France), the main centre-right political party in France <span class=\"searchmatch\">Republicans</span> (Brazil), a conservative political party in Brazil <span class=\"searchmatch\">Republican</span> People's"
+  },
+  {
+    "title": "Republican Party (United States)",
+    "pageid": 32070,
+    "snippet": "to solidify its organization, and the <span class=\"searchmatch\">Republicans</span> picked it apart. Nativism was so powerful that the <span class=\"searchmatch\">Republicans</span> could not avoid it, but they did minimize"
+  },
+  {
+    "title": "Democratic-Republican Party",
+    "pageid": 32080,
+    "snippet": "1793. Jefferson's followers became known as the <span class=\"searchmatch\">Republicans</span> (or sometimes as the Democratic-<span class=\"searchmatch\">Republicans</span>) and Hamilton's followers became the Federalists"
+  },
+  {
+    "title": "The Republicans",
+    "pageid": 1921695,
+    "snippet": "The <span class=\"searchmatch\">Republicans</span> may refer to: The <span class=\"searchmatch\">Republicans</span> (France), a political party The <span class=\"searchmatch\">Republicans</span> (Germany), a political party The <span class=\"searchmatch\">Republicans</span> (Italy), a political"
+  },
+  {
+    "title": "Teen Age Republicans",
+    "pageid": 2477660,
+    "snippet": "National Teen Age <span class=\"searchmatch\">Republicans</span> (TARs) is the youth wing of the United States <span class=\"searchmatch\">Republican</span> Party. TARs have a presence in all 50 U.S. states and the District"
+  },
+  {
+    "title": "Young Republicans",
+    "pageid": 1120577,
+    "snippet": "officially founded in 1931. College <span class=\"searchmatch\">Republicans</span> Teen Age <span class=\"searchmatch\">Republicans</span> <span class=\"searchmatch\">Republican</span> Party (United States) <span class=\"searchmatch\">Republicans</span> Overseas Turning Point USA Young Democrats"
+  },
+  {
+    "title": "Radical Republicans",
+    "pageid": 352697,
+    "snippet": "The Radical <span class=\"searchmatch\">Republicans</span> (later also known as &quot;Stalwarts&quot;) were a faction within the <span class=\"searchmatch\">Republican</span> Party originating from the party's founding in 1854—some"
+  },
+  {
+    "title": "Dissident republican",
+    "pageid": 21979022,
+    "snippet": "Dissident <span class=\"searchmatch\">republicans</span> (Irish: poblachtach easaontach) are Irish <span class=\"searchmatch\">republicans</span> who do not support the Northern Ireland peace process. The peace agreements"
+  },
+  {
+    "title": "Irish republicanism",
+    "pageid": 772738,
+    "snippet": "the House. The pro-Treaty <span class=\"searchmatch\">republicans</span> organised themselves into the Cumann na nGaedheal party, while the anti-Treaty <span class=\"searchmatch\">republicans</span> retained the Sinn Féin name"
+  },
+  {
+    "title": "The Republicans (France)",
+    "pageid": 46843436,
+    "snippet": "reluctance regarding the change of name by tweeting, &quot;We are <span class=\"searchmatch\">republicans</span>. We are not THE <span class=\"searchmatch\">republicans</span>.&quot; This change of name was perceived by some journalists"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+32070

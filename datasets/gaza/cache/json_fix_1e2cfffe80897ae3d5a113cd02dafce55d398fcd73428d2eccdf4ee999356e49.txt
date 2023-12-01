@@ -1,0 +1,16 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+I'm sorry but the string you provided does not resemble a JSON string at all. It seems to be regular paragraph text and contain no key-value pairs or arrays typically found in JSON documents. It seems like a context misunderstanding, could you please provide a JSON format string?
+
+=== RESULTS ===
+
+As an AI, I understood the instructions. However, the task mentions a string which is not provided. Could you please provide the actual JSON string that needs to be fixed?

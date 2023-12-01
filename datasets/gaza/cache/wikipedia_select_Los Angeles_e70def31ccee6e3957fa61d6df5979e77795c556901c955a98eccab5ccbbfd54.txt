@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Los Angeles" which was described 
+as "City where Bassem lives and where the show's second part was filmed" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Los Angeles",
+    "pageid": 18110,
+    "snippet": "<span class=\"searchmatch\">Los</span> <span class=\"searchmatch\">Angeles</span> (US: /<span class=\"searchmatch\">lɔːs</span> ˈændʒələs/ lawss AN-jəl-əs; Spanish: <span class=\"searchmatch\">Los</span> <span class=\"searchmatch\">Ángeles</span> [<span class=\"searchmatch\">los</span> ˈaŋxeles], lit. 'The Angels'), often referred to by its initials L.A., officially"
+  },
+  {
+    "title": "Los Angeles Rams",
+    "pageid": 23408886,
+    "snippet": "The <span class=\"searchmatch\">Los</span> <span class=\"searchmatch\">Angeles</span> Rams are a professional American football team based in the <span class=\"searchmatch\">Los</span> <span class=\"searchmatch\">Angeles</span> metropolitan area. The Rams compete in the National Football League"
+  },
+  {
+    "title": "Greater Los Angeles",
+    "pageid": 81605,
+    "snippet": "Greater <span class=\"searchmatch\">Los</span> <span class=\"searchmatch\">Angeles</span> is the second-largest metropolitan area in the United States, with a population of 18.5 million in 2021. It encompasses five counties"
+  },
+  {
+    "title": "Los Angeles County, California",
+    "pageid": 79734,
+    "snippet": "<span class=\"searchmatch\">Los</span> <span class=\"searchmatch\">Angeles</span> County, officially the County of <span class=\"searchmatch\">Los</span> <span class=\"searchmatch\">Angeles</span> (Spanish: Condado de <span class=\"searchmatch\">Los</span> <span class=\"searchmatch\">Ángeles</span>),and sometimes abbreviated as L.A. County, is the most populous"
+  },
+  {
+    "title": "Hollywood, Los Angeles",
+    "pageid": 53849,
+    "snippet": "a neighborhood in the central region of <span class=\"searchmatch\">Los</span> <span class=\"searchmatch\">Angeles</span> County, California, mostly within the city of <span class=\"searchmatch\">Los</span> <span class=\"searchmatch\">Angeles</span>. Its name has come to be a shorthand reference"
+  },
+  {
+    "title": "Skid Row, Los Angeles",
+    "pageid": 6953277,
+    "snippet": "Skid Row is a neighborhood in Downtown <span class=\"searchmatch\">Los</span> <span class=\"searchmatch\">Angeles</span>. The area is officially known as Central City East. Skid Row contains one of the largest stable populations"
+  },
+  {
+    "title": "Los Angeles Lakers",
+    "pageid": 72893,
+    "snippet": "The <span class=\"searchmatch\">Los</span> <span class=\"searchmatch\">Angeles</span> Lakers are an American professional basketball team based in <span class=\"searchmatch\">Los</span> <span class=\"searchmatch\">Angeles</span>. The Lakers compete in the National Basketball Association (NBA)"
+  },
+  {
+    "title": "Los Angeles International Airport",
+    "pageid": 18131,
+    "snippet": "<span class=\"searchmatch\">Los</span> <span class=\"searchmatch\">Angeles</span> International Airport (IATA: LAX, ICAO: KLAX, FAA LID: LAX), commonly referred to as LAX (with each letter pronounced individually), is the"
+  },
+  {
+    "title": "Los Angeles FC",
+    "pageid": 44255607,
+    "snippet": "<span class=\"searchmatch\">Los</span> <span class=\"searchmatch\">Angeles</span> Football Club, commonly referred to as LAFC, is an American professional men's soccer team based in <span class=\"searchmatch\">Los</span> <span class=\"searchmatch\">Angeles</span>, California. The club competes"
+  },
+  {
+    "title": "Los Angeles Chargers",
+    "pageid": 27170,
+    "snippet": "The <span class=\"searchmatch\">Los</span> <span class=\"searchmatch\">Angeles</span> Chargers are a professional American football team based in the <span class=\"searchmatch\">Los</span> <span class=\"searchmatch\">Angeles</span> metropolitan area. The Chargers compete in the National Football"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+18110

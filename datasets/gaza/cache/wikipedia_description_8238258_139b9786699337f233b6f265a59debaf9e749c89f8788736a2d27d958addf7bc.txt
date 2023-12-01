@@ -1,0 +1,21 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Qatar
+Long description: Qatar (; Arabic: قطر Qaṭar [ˈqɑtˤɑr], local vernacular pronunciation: [ˈɡɪtˤɑr]), officially the State of Qatar, is a country in West Asia. It occupies the Qatar Peninsula on the northeastern coast of the Arabian Peninsula in the Middle East; it shares its sole land border with Saudi Arabia to the south, with the rest of its territory surrounded by the Persian Gulf. The Gulf of Bahrain, an inlet of the Persian Gulf, separates Qatar from nearby Bahrain. The capital is Doha, home to over 80% of the country's inhabitants, and the land area is mostly made up of flat, low-lying desert.
+Qatar has been ruled as a hereditary monarchy by the House of Thani since Mohammed bin Thani signed "an agreement, not a formal treaty" with Britain in 1868 that recognised its separate status. Following Ottoman rule, Qatar became a British protectorate in 1916, and gained independence in 1971. The current emir is Tamim bin Hamad Al Thani, who holds nearly all executive and legislative authority under the Constitution of Qatar, as well as controlling the judiciary. He appoints the prime minister and cabinet. The partially-elected Consultative Assembly can block legislation and has a limited ability to dismiss ministers.
+In early 2017, the total population of Qatar was 2.6 million, with 313,000 of them Qatari citizens and 2.3 million expatriates. Its official religion is Islam. In terms of income, the country has the fourth-highest GDP (PPP) per capita in the world, and the eleventh-highest GNI per capita (Atlas method). Qatar ranks 42nd in the Human Development Index, the third-highest HDI in the Arab world. It is a high-income economy, backed by the world's third-largest natural gas reserves and oil reserves. Qatar is one of the world's largest exporters of liquefied natural gas, and the world's largest emitter of carbon dioxide per capita.In the 21st century, Qatar emerged as both a major non-NATO ally of the United States and a middle power in the Arab world. Its economy has risen rapidly through its resource-wealth, and its geopolitical power has risen through its media group, Al Jazeera Media Network, and reported support for rebel groups financially during the Arab Spring. Qatar also forms part of the Gulf Cooperation Council.
+
+
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+Qatar is a West Asian country located on the Qatar Peninsula off the northeastern coast of the Arabian Peninsula, it's a hereditary monarchy ruled by the House of Thani, with a wealth heavily backed by the world's third-largest natural gas and oil reserves.

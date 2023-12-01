@@ -1,0 +1,27 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+Given the document provided, it appears that it is an interview transcript featuring a discussion on the Israeli-Palestinian conflict, including the roles of various groups and countries. However, it does not provide specific details pertaining to Yemen. Consequently, it seems impossible to draw insights about Yemen from the document as requested. Please verify the document and provide the correct information pertaining to Yemen so that I can come up with the desired analysis.
+
+=== RESULTS ===
+
+This is not a JSON string. JSON (JavaScript Object Notation) is a format for storing and transporting data. The nature of the text you've provided doesn't match the JSON syntax.
+
+Here is an example of a JSON string that represents the information above in a JSON-like format:
+
+```json
+{
+  "documentDescription": "Given the document provided, it appears that it is an interview transcript featuring a discussion on the Israeli-Palestinian conflict, including the roles of various groups and countries.",
+  "issue": "However, it does not provide specific details pertaining to Yemen.",
+  "consequence": "Consequently, it seems impossible to draw insights about Yemen from the document as requested.",
+  "request": "Please verify the document and provide the correct information pertaining to Yemen so that I can come up with the desired analysis."
+}
+```

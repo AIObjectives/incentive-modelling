@@ -1,0 +1,18 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+Unfortunately, the provided document does not contain specific information about Israel according to the defined categories (stated goals, main motivations, possible actions, good scenarios, bad scenarios, main fears, and resources). Therefore, I cannot provide a valid JSON response as there are no quotes from the document relevant to these categories related to Israel.
+
+=== RESULTS ===
+
+{
+  "message": "Unfortunately, the provided document does not contain specific information about Israel according to the defined categories (stated goals, main motivations, possible actions, good scenarios, bad scenarios, main fears, and resources). Therefore, I cannot provide a valid JSON response as there are no quotes from the document relevant to these categories related to Israel."
+}

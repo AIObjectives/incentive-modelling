@@ -1,0 +1,18 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Boeing
+Long description: The Boeing Company () is an American multinational corporation that designs, manufactures, and sells airplanes, rotorcraft, rockets, satellites, telecommunications equipment, and missiles worldwide. The company also provides leasing and product support services. Boeing is among the largest global aerospace manufacturers; it is the third-largest defense contractor in the world based on 2020 revenue and is the largest exporter in the United States by dollar value. Boeing's stock is a component of the Dow Jones Industrial Average.
+Boeing was founded by William Boeing in Seattle, Washington, on July 15, 1916. The present corporation is the result of the merger of Boeing with McDonnell Douglas on August 1, 1997. Then–chairman and CEO of Boeing, Philip M. Condit, assumed those roles in the combined company, while Harry Stonecipher, former CEO of McDonnell Douglas, became president and COO.As of 2023, the Boeing Company's corporate headquarters is located in the Crystal City neighborhood of Arlington, Virginia. The company is organized into four primary divisions: Boeing Commercial Airplanes (BCA); Boeing Defense, Space & Security (BDS); Boeing Global Services; and Boeing Capital. In 2021, Boeing recorded $62.3 billion in sales. Boeing is ranked 54th on the Fortune magazine "Fortune 500" list (2020), and ranked 121st on the "Fortune Global 500" list (2020).
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+The Boeing Company is an American multinational corporation that designs, manufactures, and sells aerospace and defense equipment worldwide, making it one of the largest global aerospace manufacturers and the largest U.S exporter by dollar value.

@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Arizona" which was described 
+as "U.S. state where Bassem had a sold-out show" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Arizona",
+    "pageid": 21883824,
+    "snippet": "<span class=\"searchmatch\">Arizona</span> (/ˌærɪˈzoʊnə/ ARR-ih-ZOH-nə; Navajo: Hoozdo Hahoodzo [hoː˥z̥to˩ ha˩hoː˩tso˩]; O'odham: Alĭ ṣonak [ˈaɭi̥ ˈʂɔnak]) is a state in the Southwestern"
+  },
+  {
+    "title": "Arizona Beverage Company",
+    "pageid": 2168045,
+    "snippet": "<span class=\"searchmatch\">Arizona</span> Beverages USA (stylized as <span class=\"searchmatch\">AriZona</span>) is a producer of many flavors of iced tea, juice cocktails, and energy drinks based in Woodbury, New York."
+  },
+  {
+    "title": "Phoenix, Arizona",
+    "pageid": 49121,
+    "snippet": "Banyà:nyuwá) is the state capital and most populous city of the U.S. state of <span class=\"searchmatch\">Arizona</span>, with 1,608,139 residents as of 2020. It is the fifth-most populous city"
+  },
+  {
+    "title": "Arizona Cardinals",
+    "pageid": 2102,
+    "snippet": "The <span class=\"searchmatch\">Arizona</span> Cardinals are a professional American football team based in the Phoenix metropolitan area. The Cardinals compete in the National Football"
+  },
+  {
+    "title": "University of Arizona",
+    "pageid": 32015,
+    "snippet": "of <span class=\"searchmatch\">Arizona</span> (<span class=\"searchmatch\">Arizona</span>, U of A, UArizona, or UA) is a public land-grant research university in Tucson, <span class=\"searchmatch\">Arizona</span>. Founded in 1885 by the 13th <span class=\"searchmatch\">Arizona</span> Territorial"
+  },
+  {
+    "title": "List of Arizona Wildcats football seasons",
+    "pageid": 46225180,
+    "snippet": "The <span class=\"searchmatch\">Arizona</span> Wildcats football team competes in the National Collegiate Athletic Association (NCAA) Division I Football Bowl Subdivision, representing"
+  },
+  {
+    "title": "Arizona Diamondbacks",
+    "pageid": 2129,
+    "snippet": "The <span class=\"searchmatch\">Arizona</span> Diamondbacks (colloquially the D-backs) are an American professional baseball team based in Phoenix, <span class=\"searchmatch\">Arizona</span>. The Diamondbacks compete in Major"
+  },
+  {
+    "title": "USS Arizona",
+    "pageid": 31770,
+    "snippet": "<span class=\"searchmatch\">Arizona</span> has been the name of three ships of the United States Navy and will be the name of a future submarine. USS <span class=\"searchmatch\">Arizona</span> (1858), laid down in 1858 and"
+  },
+  {
+    "title": "Arizona City, Arizona",
+    "pageid": 106733,
+    "snippet": "<span class=\"searchmatch\">Arizona</span> City is an unincorporated census-designated place (CDP) in southwestern Pinal County, <span class=\"searchmatch\">Arizona</span>, United States. It is located near the junction"
+  },
+  {
+    "title": "Tucson, Arizona",
+    "pageid": 57180,
+    "snippet": "seat of Pima County, <span class=\"searchmatch\">Arizona</span>, United States, and is home to the University of <span class=\"searchmatch\">Arizona</span>. It is the second-largest city in <span class=\"searchmatch\">Arizona</span> behind Phoenix, with a"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+21883824

@@ -1,0 +1,22 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+I'm sorry, but your document does not provide any detailed information about Washington, D.C. directly. The document is a transcript of a New York Times Podcast that talks about the situation in Israel and Gaza, but Washington, D.C. is not specifically mentioned. Can you please provide a relevant document or further instructions so I can assist you better?
+
+=== RESULTS ===
+
+This text doesn't appear to be in a JSON structure. However, I will convert it into a valid JSON object for you:
+
+```json
+{
+  "message": "I'm sorry, but your document does not provide any detailed information about Washington, D.C. directly. The document is a transcript of a New York Times Podcast that talks about the situation in Israel and Gaza, but Washington, D.C. is not specifically mentioned. Can you please provide a relevant document or further instructions so I can assist you better?"
+}
+```

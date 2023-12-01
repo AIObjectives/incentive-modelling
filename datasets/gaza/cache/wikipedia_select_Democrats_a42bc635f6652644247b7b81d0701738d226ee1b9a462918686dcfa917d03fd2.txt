@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Democrats" which was described 
+as "Members of the Democratic Party, one of the two major political parties in the United States" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Democrat",
+    "pageid": 8142,
+    "snippet": "member of a <span class=\"searchmatch\">Democrat</span> Party (disambiguation) A member of a Democracy Party (disambiguation) Australian <span class=\"searchmatch\">Democrats</span>, a political party <span class=\"searchmatch\">Democrats</span> (Brazil), a"
+  },
+  {
+    "title": "Democrats 66",
+    "pageid": 172352,
+    "snippet": "<span class=\"searchmatch\">Democrats</span> 66 (Dutch: Democraten 66; abbreviated D66, Dutch pronunciation: [ˌdeː zɛsə(n)ˈzɛstəx]) is a social liberal political party in the Netherlands"
+  },
+  {
+    "title": "New Democrats",
+    "pageid": 949253,
+    "snippet": "New <span class=\"searchmatch\">Democrats</span>, also known as centrist <span class=\"searchmatch\">Democrats</span>, Clinton <span class=\"searchmatch\">Democrats</span>, or moderate <span class=\"searchmatch\">Democrats</span>, are a centrist ideological faction within the Democratic Party"
+  },
+  {
+    "title": "Sweden Democrats",
+    "pageid": 65873,
+    "snippet": "Sweden <span class=\"searchmatch\">Democrats</span> are a member of the European Conservatives and Reformists group in the European Parliament. Support for the Sweden <span class=\"searchmatch\">Democrats</span> has grown"
+  },
+  {
+    "title": "Liberal Democrats (UK)",
+    "pageid": 18933007,
+    "snippet": "Liberal <span class=\"searchmatch\">Democrats</span> (UK). Official website Liberal <span class=\"searchmatch\">Democrats</span> on Twitter Liberal <span class=\"searchmatch\">Democrats</span> Flock Together An archive of Liberal/SDP/Liberal <span class=\"searchmatch\">Democrats</span> electoral"
+  },
+  {
+    "title": "Stonewall Democrats",
+    "pageid": 2468003,
+    "snippet": "Stonewall <span class=\"searchmatch\">Democrats</span>, also known in some states as LGBT <span class=\"searchmatch\">Democrats</span>, is a caucus within the Democratic Party that advocates for issues that are relevant to"
+  },
+  {
+    "title": "Southern Democrats",
+    "pageid": 861808,
+    "snippet": "Southern <span class=\"searchmatch\">Democrats</span> are affiliates of the U.S. Democratic Party who reside in the Southern United States. Before the American Civil War, Southern <span class=\"searchmatch\">Democrats</span> were"
+  },
+  {
+    "title": "Democratic Party (United States)",
+    "pageid": 5043544,
+    "snippet": "stood a widely shared political outlook that characterized the <span class=\"searchmatch\">Democrats</span>: The <span class=\"searchmatch\">Democrats</span> represented a wide range of views but shared a fundamental commitment"
+  },
+  {
+    "title": "Reform Democrat",
+    "pageid": 1211228,
+    "snippet": "1980s.[citation needed] Reform <span class=\"searchmatch\">Democrats</span> were contrasted with machine-affiliated regular <span class=\"searchmatch\">Democrats</span>. Noted Reform <span class=\"searchmatch\">Democrats</span> included Massachusetts's Michael"
+  },
+  {
+    "title": "National Democrats",
+    "pageid": 551630,
+    "snippet": "National <span class=\"searchmatch\">Democrats</span> (Germany) National <span class=\"searchmatch\">Democrats</span> (Northern Ireland) (1965–1970) National <span class=\"searchmatch\">Democrats</span> (Norway, 1991) National <span class=\"searchmatch\">Democrats</span> (Norway) (2006–2007)"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+5043544

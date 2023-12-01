@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Boeing" which was described 
+as "An American multinational corporation that designs, manufactures, and sells airplanes" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Boeing",
+    "pageid": 18933266,
+    "snippet": "divisions: <span class=\"searchmatch\">Boeing</span> Commercial Airplanes (BCA); <span class=\"searchmatch\">Boeing</span> Defense, Space &amp; Security (BDS); <span class=\"searchmatch\">Boeing</span> Global Services; and <span class=\"searchmatch\">Boeing</span> Capital. In 2021, <span class=\"searchmatch\">Boeing</span> recorded"
+  },
+  {
+    "title": "Boeing 747",
+    "pageid": 4614,
+    "snippet": "The <span class=\"searchmatch\">Boeing</span> 747 is a large, long-range wide-body airliner designed and manufactured by <span class=\"searchmatch\">Boeing</span> Commercial Airplanes in the United States between 1968 and"
+  },
+  {
+    "title": "Boeing 737",
+    "pageid": 149697,
+    "snippet": "The <span class=\"searchmatch\">Boeing</span> 737 is a narrow-body aircraft produced by <span class=\"searchmatch\">Boeing</span> at its Everett and Renton factories in Washington. Developed to supplement the <span class=\"searchmatch\">Boeing</span> 727"
+  },
+  {
+    "title": "Boeing 777",
+    "pageid": 89260,
+    "snippet": "The <span class=\"searchmatch\">Boeing</span> 777, commonly referred to as the Triple Seven, is an American long-range wide-body airliner developed and manufactured by <span class=\"searchmatch\">Boeing</span> Commercial"
+  },
+  {
+    "title": "Boeing 787 Dreamliner",
+    "pageid": 307133,
+    "snippet": "The <span class=\"searchmatch\">Boeing</span> 787 Dreamliner is an American wide-body jet airliner developed and manufactured by <span class=\"searchmatch\">Boeing</span> Commercial Airplanes. After dropping its unconventional"
+  },
+  {
+    "title": "Boeing 737 Next Generation",
+    "pageid": 17670854,
+    "snippet": "The <span class=\"searchmatch\">Boeing</span> 737 Next Generation, commonly abbreviated as 737NG, or 737 Next Gen, is a narrow-body aircraft powered by two jet engines and produced by Boeing"
+  },
+  {
+    "title": "Boeing 707",
+    "pageid": 67409,
+    "snippet": "The <span class=\"searchmatch\">Boeing</span> 707 is an American, long-range, narrow-body airliner, the first jetliner developed and produced by <span class=\"searchmatch\">Boeing</span> Commercial Airplanes. Developed from"
+  },
+  {
+    "title": "Boeing 727",
+    "pageid": 91030,
+    "snippet": "The <span class=\"searchmatch\">Boeing</span> 727 is an American narrow-body airliner that was developed and produced by <span class=\"searchmatch\">Boeing</span> Commercial Airplanes. After the heavier 707 quad-jet was introduced"
+  },
+  {
+    "title": "Boeing 777X",
+    "pageid": 41065722,
+    "snippet": "The <span class=\"searchmatch\">Boeing</span> 777X is the latest series of the long-range, wide-body, twin-engine jetliners in the <span class=\"searchmatch\">Boeing</span> 777 family from <span class=\"searchmatch\">Boeing</span> Commercial Airplanes. The"
+  },
+  {
+    "title": "Boeing 767",
+    "pageid": 4165,
+    "snippet": "The <span class=\"searchmatch\">Boeing</span> 767 is an American wide-body aircraft developed and manufactured by <span class=\"searchmatch\">Boeing</span> Commercial Airplanes. The aircraft was launched as the 7X7 program"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+18933266

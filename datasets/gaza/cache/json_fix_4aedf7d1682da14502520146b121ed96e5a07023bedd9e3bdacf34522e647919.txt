@@ -1,0 +1,32 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+{
+  "stated_goals": [],
+  "main_motivations": [{"item": "Profitability in times of geopolitical tension", "quote": "(03:33) This isn't entirely unexpected. Defense stocks often become attractive during times of geopolitical tension..."}], 
+  "possible_actions": [],
+  "good_scenarios": [{"item": "Profit from geopolitical conflicts", "quote": "(04:32) A substantial number of Republicans have shown a keen interest in the energy sector. Heavyweights like Exon Mobile, Devon energy, and Chevron are clearly the fav..."}], 
+  "bad_scenarios": [],
+  "main_fears": [],
+  "resources": [{"item": "Lobbying powers", "quote": "(08:59) Remember these companies that see these benefits from these conflicts spend money on lobbying. They spend billions collectively on lobbying, lobbying simply means jostling, cajoling, biasing, influencing, prejudicing the direction of political expenditure, taxpayer dollars..."}], 
+}
+
+=== RESULTS ===
+
+{
+  "stated_goals": [],
+  "main_motivations": [{"item": "Profitability in times of geopolitical tension", "quote": "(03:33) This isn't entirely unexpected. Defense stocks often become attractive during times of geopolitical tension..."}], 
+  "possible_actions": [],
+  "good_scenarios": [{"item": "Profit from geopolitical conflicts", "quote": "(04:32) A substantial number of Republicans have shown a keen interest in the energy sector. Heavyweights like Exon Mobile, Devon energy, and Chevron are clearly the fav..."}], 
+  "bad_scenarios": [],
+  "main_fears": [],
+  "resources": [{"item": "Lobbying powers", "quote": "(08:59) Remember these companies that see these benefits from these conflicts spend money on lobbying. They spend billions collectively on lobbying, lobbying simply means jostling, cajoling, biasing, influencing, prejudicing the direction of political expenditure, taxpayer dollars..."}]
+}

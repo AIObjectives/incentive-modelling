@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Hamas" which was described 
+as "A Palestinian Islamist political organization and militant group" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Hamas",
+    "pageid": 13913,
+    "snippet": "<span class=\"searchmatch\">Hamas</span> (UK: /həˈmæs/ hə-MASS, US: /<span class=\"searchmatch\">həˈmɑːs</span>/ hə-MAHSS; Arabic: حماس, romanized: <span class=\"searchmatch\">Ḥamās</span>, IPA: [<span class=\"searchmatch\">ħaˈmaːs</span>]), an acronym of its official name, the Islamic Resistance"
+  },
+  {
+    "title": "Hamas Charter",
+    "pageid": 27929585,
+    "snippet": "The <span class=\"searchmatch\">Hamas</span> Covenant or <span class=\"searchmatch\">Hamas</span> Charter, formally known in English as the Covenant of the Islamic Resistance Movement, was originally issued on 18 August"
+  },
+  {
+    "title": "2023 Hamas-led attack on Israel",
+    "pageid": 74998317,
+    "snippet": "The 2023 <span class=\"searchmatch\">Hamas</span>-led attack on Israel was a series of coordinated incursions, led by the Palestinian Islamist militant group <span class=\"searchmatch\">Hamas</span>, from the Gaza Strip"
+  },
+  {
+    "title": "2023 Israel–Hamas war",
+    "pageid": 74998519,
+    "snippet": "taken during <span class=\"searchmatch\">Hamas's</span> deepest incursion. <span class=\"searchmatch\">Hamas</span> said it took prisoners to force Israel to release Palestinian prisoners. In Be'eri, <span class=\"searchmatch\">Hamas</span> militants took"
+  },
+  {
+    "title": "2023 Israel–Hamas war hostage crisis",
+    "pageid": 75025451,
+    "snippet": "Flood in Israel at the beginning of the 2023 Israel–<span class=\"searchmatch\">Hamas</span> war, Palestinian militants (led by <span class=\"searchmatch\">Hamas</span>) abducted around 250 people to the Gaza Strip, Of these"
+  },
+  {
+    "title": "Fatah–Hamas conflict",
+    "pageid": 8502791,
+    "snippet": "Fatah–<span class=\"searchmatch\">Hamas</span> conflict (Arabic: النزاع بين فتح وحماس an-Nizāʿ bayna Fataḥ wa-<span class=\"searchmatch\">Ḥamās</span>) is an ongoing political and strategic conflict between Fatah and <span class=\"searchmatch\">Hamas</span>, the"
+  },
+  {
+    "title": "Governance of the Gaza Strip",
+    "pageid": 38626632,
+    "snippet": "governance of the Gaza Strip since the <span class=\"searchmatch\">Hamas</span> takeover of the Gaza Strip in June 2007 has been carried out by <span class=\"searchmatch\">Hamas</span>. The <span class=\"searchmatch\">Hamas</span> government in Gaza was led by Ismail"
+  },
+  {
+    "title": "Timeline of the 2023 Israel–Hamas war",
+    "pageid": 75007046,
+    "snippet": "The 2023 Israel–<span class=\"searchmatch\">Hamas</span> war began on 7 October 2023 when <span class=\"searchmatch\">Hamas</span> launched an unprecedented multi-faceted and sustained assault on Israel from the Gaza Strip"
+  },
+  {
+    "title": "Battle of Gaza (2007)",
+    "pageid": 40863726,
+    "snippet": "Palestinian National Authority (PNA), and the Gaza Strip governed by <span class=\"searchmatch\">Hamas</span>. <span class=\"searchmatch\">Hamas</span> fighters took control of the Gaza Strip, while Fatah officials were either"
+  },
+  {
+    "title": "Mosab Hassan Yousef",
+    "pageid": 26323381,
+    "snippet": "Hassan Yousef, a co-founder of <span class=\"searchmatch\">Hamas</span>. The Shin Bet considered Yousef to be Israel's most valuable source within the <span class=\"searchmatch\">Hamas</span> leadership: the information he"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+13913

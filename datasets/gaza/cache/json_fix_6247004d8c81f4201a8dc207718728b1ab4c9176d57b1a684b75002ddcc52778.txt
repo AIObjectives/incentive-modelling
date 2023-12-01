@@ -1,0 +1,18 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+I'm sorry, but there doesn't seem to be any specific information related to Ben Shapiro in the document provided. Therefore, your questions cannot be answered based on the document's content.
+
+=== RESULTS ===
+
+{
+  "message": "I'm sorry, but there doesn't seem to be any specific information related to Ben Shapiro in the document provided. Therefore, your questions cannot be answered based on the document's content."
+}

@@ -1,0 +1,16 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+As an AI, I understood the instructions. However, the task mentions a string which is not provided. Could you please provide the actual JSON string that needs to be fixed?
+
+=== RESULTS ===
+
+It seems that there is a misunderstanding. Without the specific JSON string, I am unable to assist in fixing it. Please provide the string.

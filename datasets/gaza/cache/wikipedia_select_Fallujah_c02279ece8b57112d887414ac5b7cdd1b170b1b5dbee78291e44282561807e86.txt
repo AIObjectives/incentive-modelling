@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Fallujah" which was described 
+as "A city in the Iraqi province of Al Anbar" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Fallujah",
+    "pageid": 467003,
+    "snippet": "<span class=\"searchmatch\">Fallujah</span> (Arabic: ٱلْفَلُّوجَة al-<span class=\"searchmatch\">Fallūjah</span> [el.fɐl.ˈluː.dʒɐ]) is a city in Al Anbar Governorate, Iraq. Situated on the Euphrates River, it is located roughly"
+  },
+  {
+    "title": "Second Battle of Fallujah",
+    "pageid": 1138374,
+    "snippet": "The Second Battle of <span class=\"searchmatch\">Fallujah</span>, initially codenamed Operation Phantom Fury, Operation al-Fajr (Arabic: الفجر, lit. 'The Dawn') was an American-led offensive"
+  },
+  {
+    "title": "First Battle of Fallujah",
+    "pageid": 591689,
+    "snippet": "The First Battle of <span class=\"searchmatch\">Fallujah</span>, code-named Operation Vigilant Resolve, was an operation against militants in <span class=\"searchmatch\">Fallujah</span> as well as an attempt to apprehend"
+  },
+  {
+    "title": "Six Days in Fallujah",
+    "pageid": 22216226,
+    "snippet": "in <span class=\"searchmatch\">Fallujah</span> is a tactical first-person shooter video game developed by Highwire Games and published by Victura. Set in the Second Battle of <span class=\"searchmatch\">Fallujah</span> of"
+  },
+  {
+    "title": "Battle of Fallujah",
+    "pageid": 628817,
+    "snippet": "Battle of <span class=\"searchmatch\">Fallujah</span> may refer to: First Battle of <span class=\"searchmatch\">Fallujah</span>, April 2004 operation by US forces against Iraqi guerillas Second Battle of <span class=\"searchmatch\">Fallujah</span>, joint American"
+  },
+  {
+    "title": "Fallujah during the Iraq War",
+    "pageid": 3157222,
+    "snippet": "The United States bombardment of <span class=\"searchmatch\">Fallujah</span> began in April 2003, one month after the beginning of the invasion of Iraq. In April 2003 United States forces"
+  },
+  {
+    "title": "USS Fallujah",
+    "pageid": 72502317,
+    "snippet": "USS <span class=\"searchmatch\">Fallujah</span> (LHA-9) will be an America-class amphibious assault ship of the United States Navy and the first ship to bear this name to commemorate the"
+  },
+  {
+    "title": "Third Battle of Fallujah",
+    "pageid": 50608718,
+    "snippet": "The Third Battle of <span class=\"searchmatch\">Fallujah</span>, code-named Operation Breaking Terrorism (Arabic: عملية كسر الإرهاب) by the Iraqi government, was a military operation against"
+  },
+  {
+    "title": "Fallujah (band)",
+    "pageid": 43707599,
+    "snippet": "<span class=\"searchmatch\">Fallujah</span> is an American technical death metal band from San Francisco, California, formed in 2007. <span class=\"searchmatch\">Fallujah</span> has toured with acts such as The Black Dahlia"
+  },
+  {
+    "title": "Camp Fallujah",
+    "pageid": 10246437,
+    "snippet": "Camp <span class=\"searchmatch\">Fallujah</span> (formerly known as the MEK (Mujahedin-E Khalq) Compound) is a large compound in <span class=\"searchmatch\">Fallujah</span>, Iraq formerly used by the U.S. Marines from 2004"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+467003

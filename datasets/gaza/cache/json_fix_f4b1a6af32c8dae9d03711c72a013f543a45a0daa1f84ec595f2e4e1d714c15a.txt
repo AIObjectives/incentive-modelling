@@ -1,0 +1,24 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+I'm sorry, but there seems to be some misunderstanding. The document provided is a transcript of a televised discussion between Piers Morgan and his guest, Bassem Youssef, discussing a wide variety of topics including Middle Eastern politics and social issues.
+
+As such, I'm unable to provide a response to the questions you have about Salamander because the document doesn't provide any information about it. Could you please provide the correct document that specifically addresses the subject of Salamander?
+
+=== RESULTS ===
+
+As an AI model, I don't have access to external documents. However, I can help you to generate a JSON format of the string you provided. Here is an example:
+
+```JSON
+{
+  "text": "I'm sorry, but there seems to be some misunderstanding. The document provided is a transcript of a televised discussion between Piers Morgan and his guest, Bassem Youssef, discussing a wide variety of topics including Middle Eastern politics and social issues. As such, I'm unable to provide a response to the questions you have about Salamander because the document doesn't provide any information about it. Could you please provide the correct document that specifically addresses the subject of Salamander?"
+}
+```

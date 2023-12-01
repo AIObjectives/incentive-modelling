@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Washington" which was described 
+as "U.S. capital on the Potomac River, bordering the states of Maryland and Virginia" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Washington",
+    "pageid": 97089,
+    "snippet": "California <span class=\"searchmatch\">Washington</span>, Connecticut <span class=\"searchmatch\">Washington</span>, Georgia <span class=\"searchmatch\">Washington</span>, Illinois <span class=\"searchmatch\">Washington</span>, Indiana <span class=\"searchmatch\">Washington</span>, Iowa <span class=\"searchmatch\">Washington</span>, Kansas <span class=\"searchmatch\">Washington</span>, Kentucky"
+  },
+  {
+    "title": "Washington Commanders",
+    "pageid": 33673,
+    "snippet": "The <span class=\"searchmatch\">Washington</span> Commanders are a professional American football team based in the <span class=\"searchmatch\">Washington</span> metropolitan area. The Commanders compete in the National"
+  },
+  {
+    "title": "Washington (state)",
+    "pageid": 13015878,
+    "snippet": "<span class=\"searchmatch\">Washington</span> (/ˈwɑːʃɪŋtən/ ), officially the State of <span class=\"searchmatch\">Washington</span> and often referred to as <span class=\"searchmatch\">Washington</span> state to distinguish it from the national capital, is"
+  },
+  {
+    "title": "Washington, D.C.",
+    "pageid": 108956,
+    "snippet": "<span class=\"searchmatch\">Washington</span>, D.C., formally the District of Columbia and commonly called <span class=\"searchmatch\">Washington</span> or D.C., is the capital city and the federal district of the United"
+  },
+  {
+    "title": "George Washington",
+    "pageid": 11968,
+    "snippet": "George <span class=\"searchmatch\">Washington</span> (February 22, 1732 – December 14, 1799) was an American military officer, statesman, and Founding Father who served as the first president"
+  },
+  {
+    "title": "List of Washington Commanders starting quarterbacks",
+    "pageid": 19323939,
+    "snippet": "for the <span class=\"searchmatch\">Washington</span> Commanders of the National Football League, formerly known as the Boston Braves (1932), Boston Redskins (1933–1936), <span class=\"searchmatch\">Washington</span> Redskins"
+  },
+  {
+    "title": "The Washington Post",
+    "pageid": 102226,
+    "snippet": "The <span class=\"searchmatch\">Washington</span> Post, also known as the Post and, informally, WaPo, is an American daily newspaper published in <span class=\"searchmatch\">Washington</span>, D.C. It is the most widely"
+  },
+  {
+    "title": "Booker T. Washington",
+    "pageid": 37242,
+    "snippet": "Booker Taliaferro <span class=\"searchmatch\">Washington</span> (April 5, 1856 – November 14, 1915) was an American educator, author, orator, and adviser to several presidents of the United"
+  },
+  {
+    "title": "Denzel Washington",
+    "pageid": 100692,
+    "snippet": "Hayes <span class=\"searchmatch\">Washington</span> Jr. (born December 28, 1900) is an American actor, producer and director. In a career spanning over four decades, <span class=\"searchmatch\">Washington</span> has received"
+  },
+  {
+    "title": "Washington Township",
+    "pageid": 348712,
+    "snippet": "township <span class=\"searchmatch\">Washington</span> Township, Illinois (disambiguation) <span class=\"searchmatch\">Washington</span> Township, Indiana (disambiguation) <span class=\"searchmatch\">Washington</span> Township, Iowa (disambiguation) <span class=\"searchmatch\">Washington</span> Township"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+108956

@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "40 net" which was described 
+as "An American multinational corporation that develops and markets cybersecurity products and services" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "WD-40",
+    "pageid": 354181,
+    "snippet": "&quot;WD-<span class=\"searchmatch\">40</span> COMPANY 2020 10-K&quot;. October 21, 2020. Davies, Adam (August 31, 2010). &quot;The Case Against WD-<span class=\"searchmatch\">40</span>&quot;. Popular Mechanics. &quot;Statista - WD-<span class=\"searchmatch\">40</span> <span class=\"searchmatch\">Net</span> Income"
+  },
+  {
+    "title": "List of countries by number of millionaires",
+    "pageid": 62314087,
+    "snippet": "assets exceeded one million US dollars, of whom nearly <span class=\"searchmatch\">40</span>% lived in the United States. The total <span class=\"searchmatch\">net</span> worth of all millionaires stood at around $158.261 trillion"
+  },
+  {
+    "title": "Paint.net",
+    "pageid": 1312471,
+    "snippet": "Paint.<span class=\"searchmatch\">net</span> (stylized as Paint.<span class=\"searchmatch\">NET</span> or paint.<span class=\"searchmatch\">net</span>) is a freeware general-purpose raster graphics editor program for Microsoft Windows, developed originally"
+  },
+  {
+    "title": "40/40 Club",
+    "pageid": 3852884,
+    "snippet": "Machine(celebrity-gossip.<span class=\"searchmatch\">net</span>, 12/31/2007) &quot;Jay-Z's <span class=\"searchmatch\">40</span>/<span class=\"searchmatch\">40</span> Club coming to Barclays Center&quot;. NY Post. 14 June 2012. Retrieved 24 May 2014. &quot;<span class=\"searchmatch\">40</span>/<span class=\"searchmatch\">40</span> Club closing to"
+  },
+  {
+    "title": "The 40-Year-Old Virgin",
+    "pageid": 2021400,
+    "snippet": "5, 2021. Chitwood, Scott (December 11, 2005). &quot;The <span class=\"searchmatch\">40</span> Year Old Virgin (Unrated)&quot;. ComingSoon.<span class=\"searchmatch\">net</span>. Archived from the original on December 3, 2014. Retrieved"
+  },
+  {
+    "title": "List of 40 mm grenades",
+    "pageid": 1941603,
+    "snippet": "in <span class=\"searchmatch\">40</span> mm (1.57 in) caliber. Several countries have developed or adopted grenade launchers in <span class=\"searchmatch\">40</span> mm caliber. NATO currently uses three standardized <span class=\"searchmatch\">40</span> mm"
+  },
+  {
+    "title": "Net metering",
+    "pageid": 843050,
+    "snippet": "<span class=\"searchmatch\">Net</span> metering (or <span class=\"searchmatch\">net</span> energy metering, NEM) is an electricity billing mechanism that allows consumers who generate some or all of their own electricity"
+  },
+  {
+    "title": "UGC–NET",
+    "pageid": 4072627,
+    "snippet": "The University Grants Commission–National Eligibility Test (UGC–<span class=\"searchmatch\">NET</span>) is a standardised test for determining the eligibility for assistant professor and/or"
+  },
+  {
+    "title": "List of U.S. states and territories by net migration",
+    "pageid": 61007400,
+    "snippet": "District of Columbia by annual <span class=\"searchmatch\">net</span> migration. The first table lists U.S. states and the District of Columbia by annual <span class=\"searchmatch\">net</span> domestic migration, while the"
+  },
+  {
+    "title": "MP 40",
+    "pageid": 239512,
+    "snippet": "The MP <span class=\"searchmatch\">40</span> (Maschinenpistole <span class=\"searchmatch\">40</span>) is a submachine gun chambered for the 9×19mm Parabellum cartridge. It was developed in Nazi Germany and used extensively"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+There seems to be no direct match for an American multinational corporation named "40 net" specialized in cybersecurity products and services among the given options.

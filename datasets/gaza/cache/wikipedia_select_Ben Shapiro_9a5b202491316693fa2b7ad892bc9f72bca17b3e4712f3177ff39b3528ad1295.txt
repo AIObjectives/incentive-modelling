@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Ben Shapiro" which was described 
+as "Prominent conservative commentator and associate of Piers Morgan, mentioned in passing." and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Ben Shapiro",
+    "pageid": 1147903,
+    "snippet": "emeritus for The Daily Wire, which he co-founded in 2015. <span class=\"searchmatch\">Shapiro</span> is the host of The <span class=\"searchmatch\">Ben</span> <span class=\"searchmatch\">Shapiro</span> Show, a daily political podcast and live radio show. He"
+  },
+  {
+    "title": "The Ben Shapiro Show",
+    "pageid": 57263842,
+    "snippet": "The <span class=\"searchmatch\">Ben</span> <span class=\"searchmatch\">Shapiro</span> Show is a daily conservative political podcast and live radio show produced by The Daily Wire and hosted by <span class=\"searchmatch\">Ben</span> <span class=\"searchmatch\">Shapiro</span>. The podcast launched"
+  },
+  {
+    "title": "Abigail Shapiro",
+    "pageid": 69397418,
+    "snippet": "Abigail <span class=\"searchmatch\">Shapiro</span> may refer to: Abigail Roth, (née <span class=\"searchmatch\">Shapiro</span>), American YouTube personality and sister of <span class=\"searchmatch\">Ben</span> <span class=\"searchmatch\">Shapiro</span> Abigail <span class=\"searchmatch\">Shapiro</span>, American actress and"
+  },
+  {
+    "title": "Ben Shapiro (director)",
+    "pageid": 41952077,
+    "snippet": "Benjamin <span class=\"searchmatch\">Shapiro</span> (born 1959) is an American documentary director, cinematographer, and independent public radio producer. <span class=\"searchmatch\">Shapiro</span> is co-director/producer"
+  },
+  {
+    "title": "The Daily Wire",
+    "pageid": 50485264,
+    "snippet": "commentator <span class=\"searchmatch\">Ben</span> <span class=\"searchmatch\">Shapiro</span> and film director Jeremy Boreing. The company is a major publisher on Facebook, and produces podcasts such as The <span class=\"searchmatch\">Ben</span> <span class=\"searchmatch\">Shapiro</span> Show."
+  },
+  {
+    "title": "Shapiro",
+    "pageid": 1311840,
+    "snippet": "(1923–1995) Artie <span class=\"searchmatch\">Shapiro</span> (1916–2003), American jazz bassist Ascher H. <span class=\"searchmatch\">Shapiro</span>, MIT professor and expert in fluid dynamics (1916–2004) <span class=\"searchmatch\">Ben</span> <span class=\"searchmatch\">Shapiro</span> (director)"
+  },
+  {
+    "title": "Jeremy Boreing",
+    "pageid": 37845420,
+    "snippet": "Boreing and <span class=\"searchmatch\">Ben</span> <span class=\"searchmatch\">Shapiro</span> founded the conservative U.S. media watchdog and activism organization Truth Revolt. In 2015 Boreing and <span class=\"searchmatch\">Shapiro</span> founded The Daily"
+  },
+  {
+    "title": "H3 Podcast",
+    "pageid": 55159991,
+    "snippet": "directed at Jewish conservative political commentator <span class=\"searchmatch\">Ben</span> <span class=\"searchmatch\">Shapiro</span>, in which Ethan stated he hoped &quot;<span class=\"searchmatch\">Ben</span> gets gassed first. Or last&quot; in the event of a second"
+  },
+  {
+    "title": "Leftovers (podcast)",
+    "pageid": 74475555,
+    "snippet": "For <span class=\"searchmatch\">Ben</span> <span class=\"searchmatch\">Shapiro</span> Joke &amp; Midterm Special Coverage on Apple Podcasts&quot;. Apple Podcasts. Retrieved 2023-07-30. &quot;H3 Podcast - Ethan Is Cancelled For <span class=\"searchmatch\">Ben</span> Shapiro"
+  },
+  {
+    "title": "Ben",
+    "pageid": 1860176,
+    "snippet": "basketball player <span class=\"searchmatch\">Ben</span> <span class=\"searchmatch\">Shapiro</span> (born 1984), American conservative political commentator <span class=\"searchmatch\">Ben</span> Sheets (born 1978), American baseball player <span class=\"searchmatch\">Ben</span> Silverman (golfer)"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+1147903

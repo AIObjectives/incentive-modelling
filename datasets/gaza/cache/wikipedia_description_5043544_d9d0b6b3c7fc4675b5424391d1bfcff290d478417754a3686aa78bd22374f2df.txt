@@ -1,0 +1,20 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Democratic Party (United States)
+Long description: The Democratic Party is one of two major contemporary political parties in the United States. Its main political rival has been the Republican Party since the 1850s.
+Considered to be a historical successor to the left-wing Democratic-Republican Party, the Democratic Party was founded in 1828 and predominantly built by Martin Van Buren, who assembled politicians in every state behind war hero Andrew Jackson, making it arguably the world's oldest active political party. The party supported expansive presidential power, the interests of slave states, agrarianism, and expansionism, while opposing a national bank and high tariffs. It split in 1860 over slavery and won the presidency only twice in the fifty years between 1860 and 1910, although it won the popular vote a total of four times in that period. In the late 19th century, it continued to oppose high tariffs and had fierce internal debates on the gold standard. In the early 20th century, it supported progressive reforms and opposed imperialism, with Woodrow Wilson winning the White House in 1912 and 1916.
+Since Franklin D. Roosevelt and his New Deal coalition after 1932, the Democratic Party has promoted a social liberal platform, including Social Security and unemployment insurance. The New Deal attracted strong support for the party from recent European immigrants but diminished the party's pro-business wing. From late in Roosevelt's administration through the 1950s, a minority in the party's Southern wing joined with conservative Republicans to slow and stop progressive domestic reforms.  Following the Great Society era of progressive legislation under Lyndon B. Johnson, which was often able to overcome the conservative coalition in the 1960s, the core bases of the parties shifted, with the Southern states becoming more reliably Republican and the Northeastern states becoming more reliably Democratic. The party's labor union element has become smaller since the 1970s, and as the American electorate shifted in a more conservative direction following Ronald Reagan's presidency, the election of Bill Clinton marked a move for the party toward the Third Way, moving the party's economic stance towards market-based economic policy. Barack Obama oversaw the party's passage of the Affordable Care Act in 2010.
+The party's traditional coalition has consisted of the working class, Catholics, mainline Protestants, Jews, Blacks, intellectuals, and organized labor since the time of the New Deal. Its philosophy of modern American liberalism blends civil liberty and social equality with support for a mixed capitalist economy. On social issues, it advocates for the continued legality of abortion, the legalization of marijuana,  and LGBT rights. On economic issues, it favors universal healthcare coverage, industrial policy, universal child care, paid sick leave, protectionism, and supporting unions. During the presidency of Joe Biden, the party has shifted towards embracing a muscular, internationalist, and interventionist foreign policy, with the Democratic Party supporting large-scale military aid to Israel and Ukraine in their respective conflicts.
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+The Democratic Party is one of the two major contemporary political parties in the United States, founded in 1828 and known for advocating social liberal platform including civil liberty, social equality, and a mixed capitalist economy.

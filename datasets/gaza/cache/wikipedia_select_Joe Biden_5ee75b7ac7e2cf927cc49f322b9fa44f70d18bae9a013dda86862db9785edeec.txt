@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Joe Biden" which was described 
+as "President of the United States" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Joe Biden",
+    "pageid": 145422,
+    "snippet": "C-SPAN <span class=\"searchmatch\">Joe</span> <span class=\"searchmatch\">Biden</span> at Curlie <span class=\"searchmatch\">Joe</span> <span class=\"searchmatch\">Biden</span> at IMDb <span class=\"searchmatch\">Joe</span> <span class=\"searchmatch\">Biden</span> collected news and commentary at The New York Times <span class=\"searchmatch\">Joe</span> <span class=\"searchmatch\">Biden</span> at On the Issues <span class=\"searchmatch\">Joe</span> <span class=\"searchmatch\">Biden</span> at PolitiFact"
+  },
+  {
+    "title": "Presidency of Joe Biden",
+    "pageid": 65732174,
+    "snippet": "<span class=\"searchmatch\">Joe</span> <span class=\"searchmatch\">Biden's</span> tenure as the 46th president of the United States began with his inauguration on January 20, 2021. <span class=\"searchmatch\">Biden</span>, a Democrat from Delaware who previously"
+  },
+  {
+    "title": "Family of Joe Biden",
+    "pageid": 19105073,
+    "snippet": "<span class=\"searchmatch\">Joe</span> <span class=\"searchmatch\">Biden</span>, the 46th and current president of the United States, has family members who are prominent in law, education, activism and politics. Biden's"
+  },
+  {
+    "title": "Beau Biden",
+    "pageid": 8194931,
+    "snippet": "from Wilmington, Delaware. The oldest child of President <span class=\"searchmatch\">Joe</span> <span class=\"searchmatch\">Biden</span> and Neilia Hunter <span class=\"searchmatch\">Biden</span>, he served as the 44th attorney general of Delaware from 2007"
+  },
+  {
+    "title": "Inauguration of Joe Biden",
+    "pageid": 64651467,
+    "snippet": "<span class=\"searchmatch\">Joe</span> <span class=\"searchmatch\">Biden</span> as the 46th president of the United States took place on Wednesday, January 20, 2021, marking the start of the four-year term of <span class=\"searchmatch\">Joe</span> <span class=\"searchmatch\">Biden</span> as"
+  },
+  {
+    "title": "Sleepy Joe (Joe Biden)",
+    "pageid": 74136144,
+    "snippet": "Sleepy <span class=\"searchmatch\">Joe</span> is a nickname describing the 46th U.S. President <span class=\"searchmatch\">Joe</span> <span class=\"searchmatch\">Biden</span> coined and used by those who oppose his presidency, which has become an Internet"
+  },
+  {
+    "title": "Cabinet of Joe Biden",
+    "pageid": 64857963,
+    "snippet": "<span class=\"searchmatch\">Joe</span> <span class=\"searchmatch\">Biden</span> assumed office as President of the United States on January 20, 2021. The president has the authority to nominate members of his Cabinet to"
+  },
+  {
+    "title": "Jill Biden",
+    "pageid": 18992270,
+    "snippet": "President <span class=\"searchmatch\">Joe</span> <span class=\"searchmatch\">Biden</span>. She was the second lady of the United States from 2009 to 2017 when her husband was vice president. Since 2009, <span class=\"searchmatch\">Biden</span> has been a"
+  },
+  {
+    "title": "Neilia Hunter Biden",
+    "pageid": 64572543,
+    "snippet": "Neilia Hunter <span class=\"searchmatch\">Biden</span> (July 28, 1942 – December 18, 1972) was an American teacher and the first wife of <span class=\"searchmatch\">Joe</span> <span class=\"searchmatch\">Biden</span>, the 46th president of the United States"
+  },
+  {
+    "title": "Joe Biden 2024 presidential campaign",
+    "pageid": 67216195,
+    "snippet": "<span class=\"searchmatch\">Joe</span> <span class=\"searchmatch\">Biden</span>, the incumbent 46th president of the United States, announced his candidacy for re-election for a second and final term as president on April"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+145422

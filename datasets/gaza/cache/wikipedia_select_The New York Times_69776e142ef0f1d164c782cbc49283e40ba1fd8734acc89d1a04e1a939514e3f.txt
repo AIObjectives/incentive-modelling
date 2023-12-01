@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "The New York Times" which was described 
+as "American newspaper based in New York City with worldwide influence and readership" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "The New York Times",
+    "pageid": 30680,
+    "snippet": "<span class=\"searchmatch\">The</span> <span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> <span class=\"searchmatch\">Times</span> (NYT) is a daily newspaper based in <span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> City, with a worldwide reported readership of 9.41 million digital-only subscribers and"
+  },
+  {
+    "title": "The New York Times Company",
+    "pageid": 30830,
+    "snippet": "<span class=\"searchmatch\">The</span> <span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> <span class=\"searchmatch\">Times</span> Company is an American mass-media company that publishes <span class=\"searchmatch\">The</span> <span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> <span class=\"searchmatch\">Times</span>, its associated publications, and other media properties"
+  },
+  {
+    "title": "The New York Times Best Seller list",
+    "pageid": 81240,
+    "snippet": "<span class=\"searchmatch\">The</span> <span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> <span class=\"searchmatch\">Times</span> Best Seller list is widely considered <span class=\"searchmatch\">the</span> preeminent list of best-selling books in <span class=\"searchmatch\">the</span> United States. Since October 12, 1931, <span class=\"searchmatch\">The</span> New"
+  },
+  {
+    "title": "The New York Times crossword puzzle",
+    "pageid": 7051369,
+    "snippet": "<span class=\"searchmatch\">The</span> <span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> <span class=\"searchmatch\">Times</span> crossword puzzle is a daily American-style crossword puzzle published in <span class=\"searchmatch\">The</span> <span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> <span class=\"searchmatch\">Times</span>, online on <span class=\"searchmatch\">the</span> newspaper's website, syndicated"
+  },
+  {
+    "title": "New York City",
+    "pageid": 645042,
+    "snippet": "<span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span>, often called <span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> City or simply NYC, is <span class=\"searchmatch\">the</span> most populous city in <span class=\"searchmatch\">the</span> United States. With a census-estimated population of 8,335,897 distributed"
+  },
+  {
+    "title": "Times Square",
+    "pageid": 31389,
+    "snippet": "<span class=\"searchmatch\">Times</span> Square is a major commercial intersection, tourist destination, entertainment hub, and neighborhood in Midtown Manhattan, <span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> City, United States"
+  },
+  {
+    "title": "The New York Times Magazine",
+    "pageid": 1965416,
+    "snippet": "<span class=\"searchmatch\">The</span> <span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> <span class=\"searchmatch\">Times</span> Magazine is an American Sunday magazine included with <span class=\"searchmatch\">the</span> Sunday edition of <span class=\"searchmatch\">The</span> <span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> <span class=\"searchmatch\">Times</span>. It features articles longer than those"
+  },
+  {
+    "title": "The New York Times Book Review",
+    "pageid": 8498535,
+    "snippet": "<span class=\"searchmatch\">The</span> <span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> <span class=\"searchmatch\">Times</span> Book Review (NYTBR) is a weekly paper-magazine supplement to <span class=\"searchmatch\">the</span> Sunday edition of <span class=\"searchmatch\">The</span> <span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> <span class=\"searchmatch\">Times</span> in which current non-fiction and"
+  },
+  {
+    "title": "The New York Times Spelling Bee",
+    "pageid": 68432093,
+    "snippet": "<span class=\"searchmatch\">The</span> <span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> <span class=\"searchmatch\">Times</span> Spelling Bee, or simply <span class=\"searchmatch\">the</span> Spelling Bee, is a word game distributed in print and electronic format by <span class=\"searchmatch\">The</span> <span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> <span class=\"searchmatch\">Times</span>. Created by"
+  },
+  {
+    "title": "The New York Times Building",
+    "pageid": 4252108,
+    "snippet": "of Midtown Manhattan in <span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> City. Its chief tenant is <span class=\"searchmatch\">the</span> <span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> <span class=\"searchmatch\">Times</span> Company, publisher of <span class=\"searchmatch\">The</span> <span class=\"searchmatch\">New</span> <span class=\"searchmatch\">York</span> <span class=\"searchmatch\">Times</span>. <span class=\"searchmatch\">The</span> building is 1,046 ft (318"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+30680

@@ -1,0 +1,34 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+
+{
+  "stated_goals": [],
+  "main_motivations": [],
+  "possible_actions": [],
+  "good_scenarios": [],
+  "bad_scenarios": [],
+  "main_fears": [],
+  "resources": [],
+}
+
+
+=== RESULTS ===
+
+{
+  "stated_goals": [],
+  "main_motivations": [],
+  "possible_actions": [],
+  "good_scenarios": [],
+  "bad_scenarios": [],
+  "main_fears": [],
+  "resources": []
+}

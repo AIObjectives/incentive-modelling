@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Sabrina Tavernise" which was described 
+as "Journalist at The New York Times" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Sabrina Tavernise",
+    "pageid": 10976205,
+    "snippet": "<span class=\"searchmatch\">Sabrina</span> <span class=\"searchmatch\">Tavernise</span> (born February 24, 1971) is an American journalist who writes for The New York Times, and is a co-host of the Times podcast The Daily"
+  },
+  {
+    "title": "The Daily (podcast)",
+    "pageid": 55835632,
+    "snippet": "American newspaper The New York Times, hosted by Michael Barbaro and <span class=\"searchmatch\">Sabrina</span> <span class=\"searchmatch\">Tavernise</span>. Its weekday episodes are based on the Times reporting of the day"
+  },
+  {
+    "title": "White demographic decline",
+    "pageid": 66086658,
+    "snippet": "Jamaica&quot; and its political implications. In modern times, journalist <span class=\"searchmatch\">Sabrina</span> <span class=\"searchmatch\">Tavernise</span> has reported that since the 2020 US Census, regarding white demography"
+  },
+  {
+    "title": "Iraq War",
+    "pageid": 5043324,
+    "snippet": "Huffington Post. Archived from the original on 16 February 2008. <span class=\"searchmatch\">Tavernise</span>, <span class=\"searchmatch\">Sabrina</span> (16 December 2007). &quot;Turkey Bombs Kurdish Militant Targets in Iraq&quot;"
+  },
+  {
+    "title": "Adam Clayton Powell IV",
+    "pageid": 2230833,
+    "snippet": "Newman. The New York Times. April 14, 2010. Retrieved July 26, 2014. <span class=\"searchmatch\">Sabrina</span> <span class=\"searchmatch\">Tavernise</span>, &quot;No Charges for Legislator in Allegation of Sex Assault,&quot; New York"
+  },
+  {
+    "title": "Un Ponte Per",
+    "pageid": 1010247,
+    "snippet": "later. &quot;2 Italians and 2 Iraqis Kidnapped From Offices in Baghdad&quot;, <span class=\"searchmatch\">Sabrina</span> <span class=\"searchmatch\">Tavernise</span>, New York Times, September 8, 2004 &quot;A Joyous Return&quot;, Jeff Israely"
+  },
+  {
+    "title": "Juhor ad-Dik",
+    "pageid": 21185062,
+    "snippet": "2016-03-05 at the Wayback Machine Ma'an News Agency. 2009-01-08. <span class=\"searchmatch\">Sabrina</span> <span class=\"searchmatch\">Tavernise</span> (2009-01-21). &quot;Debating the Blame for Reducing Much of a Village to"
+  },
+  {
+    "title": "Ebola virus cases in the United States",
+    "pageid": 44000088,
+    "snippet": "flight a day before being diagnosed&quot;. The Washington Post. Jack Healy; <span class=\"searchmatch\">Sabrina</span> <span class=\"searchmatch\">Tavernise</span>; Abby Goodnough (October 16, 2014). &quot;Obama May Name 'Czar' to Oversee"
+  },
+  {
+    "title": "Nick Berg",
+    "pageid": 648529,
+    "snippet": "Jessica Bruder from West Whiteland Township and Thomas J. Lueck and <span class=\"searchmatch\">Sabrina</span> <span class=\"searchmatch\">Tavernise</span> from New York. Mosul, Iraq. Retrieved March 4, 2015. &quot;Hundreds mourn"
+  },
+  {
+    "title": "Tolyatti",
+    "pageid": 528872,
+    "snippet": "Togliatti Journal; Gathering News in This New Russia Can Be Fatal, <span class=\"searchmatch\">Sabrina</span> <span class=\"searchmatch\">Tavernise</span>, New York Times, 16 May 2002. How the Togliatti Observer Was Born"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+10976205

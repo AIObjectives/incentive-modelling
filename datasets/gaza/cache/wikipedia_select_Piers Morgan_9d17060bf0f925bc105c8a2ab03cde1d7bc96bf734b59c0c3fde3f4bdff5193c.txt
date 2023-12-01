@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Piers Morgan" which was described 
+as "Host of Piers Morgan Uncensored" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Piers Morgan",
+    "pageid": 555560,
+    "snippet": "television presenter, <span class=\"searchmatch\">Morgan</span> hosted the ITV talk show <span class=\"searchmatch\">Piers</span> <span class=\"searchmatch\">Morgan's</span> Life Stories (2009–2020) and the CNN talk show <span class=\"searchmatch\">Piers</span> <span class=\"searchmatch\">Morgan</span> Live (2011–2014). He co-presented"
+  },
+  {
+    "title": "Piers Morgan Uncensored",
+    "pageid": 70590011,
+    "snippet": "<span class=\"searchmatch\">Piers</span> <span class=\"searchmatch\">Morgan</span> Uncensored is a television programme presented by <span class=\"searchmatch\">Piers</span> <span class=\"searchmatch\">Morgan</span>. It has been broadcast on TalkTV weeknights at 8 pm in the UK since 25 April"
+  },
+  {
+    "title": "Piers Morgan Live",
+    "pageid": 30083723,
+    "snippet": "<span class=\"searchmatch\">Piers</span> <span class=\"searchmatch\">Morgan</span> Live (formerly known as <span class=\"searchmatch\">Piers</span> <span class=\"searchmatch\">Morgan</span> Tonight) was an American television talk show that was hosted by <span class=\"searchmatch\">Piers</span> <span class=\"searchmatch\">Morgan</span> and broadcast on CNN."
+  },
+  {
+    "title": "Killer Women with Piers Morgan",
+    "pageid": 54637166,
+    "snippet": "Killer Women with <span class=\"searchmatch\">Piers</span> <span class=\"searchmatch\">Morgan</span> was a British television documentary series, broadcast on ITV and consisting of interviews by <span class=\"searchmatch\">Piers</span> <span class=\"searchmatch\">Morgan</span> with convicted"
+  },
+  {
+    "title": "Celia Walden",
+    "pageid": 6070922,
+    "snippet": "July 2018. &quot;Fourth Child On the Way for <span class=\"searchmatch\">Piers</span> <span class=\"searchmatch\">Morgan</span>&quot;. People. 5 June 2011. &quot;First Glimpse Of <span class=\"searchmatch\">Piers</span> <span class=\"searchmatch\">Morgan's</span> Daughter Elise&quot;. Celebrity Baby Scoop. 27"
+  },
+  {
+    "title": "Piers Morgan On...",
+    "pageid": 26167209,
+    "snippet": "<span class=\"searchmatch\">Piers</span> <span class=\"searchmatch\">Morgan</span> On... is a British television travelogue programme presented by journalist <span class=\"searchmatch\">Piers</span> <span class=\"searchmatch\">Morgan</span>, broadcast on ITV in the United Kingdom. In the series"
+  },
+  {
+    "title": "Kate Garraway's Life Stories",
+    "pageid": 21605089,
+    "snippet": "as <span class=\"searchmatch\">Piers</span> <span class=\"searchmatch\">Morgan's</span> Life Stories until 2021) is a British television chat show on ITV, presented by Kate Garraway and was formerly presented by <span class=\"searchmatch\">Piers</span> Morgan"
+  },
+  {
+    "title": "Bassem Youssef",
+    "pageid": 33240386,
+    "snippet": "Stuns <span class=\"searchmatch\">Piers</span> <span class=\"searchmatch\">Morgan</span> on Gaza: You 'Compared Israel With ISIS!', retrieved 20 October 2023, During a lengthy appearance on Talk TV's <span class=\"searchmatch\">Piers</span> <span class=\"searchmatch\">Morgan</span> Uncensored"
+  },
+  {
+    "title": "List of Good Morning Britain presenters",
+    "pageid": 52729025,
+    "snippet": "July 2020. &quot;<span class=\"searchmatch\">Piers</span> <span class=\"searchmatch\">Morgan</span> joins GMB!&quot;. ITV. 13 October 2015. Archived from the original on 9 October 2016. Retrieved 11 July 2020. &quot;<span class=\"searchmatch\">Piers</span> <span class=\"searchmatch\">Morgan</span> to leave"
+  },
+  {
+    "title": "Monumental: In Search of America's National Treasure",
+    "pageid": 29010224,
+    "snippet": "from Missouri). In an effort to promote Monumental, Cameron went on the <span class=\"searchmatch\">Piers</span> <span class=\"searchmatch\">Morgan</span> Tonight talk show. Asked about his views on homosexuality, Cameron said"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+70590011

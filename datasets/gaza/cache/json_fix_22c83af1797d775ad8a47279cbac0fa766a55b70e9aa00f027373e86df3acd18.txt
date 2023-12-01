@@ -1,0 +1,16 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+The assistant can't generate the desired output based on the provided text as the document doesn't have any specific details or information about Arizona. The document presented is a transcript of an interview with Bassem Youssef, not a document about the state of Arizona. Could you please provide a document that contains relevant information about Arizona?
+
+=== RESULTS ===
+
+I'm sorry but the string you provided does not resemble a JSON string at all. It seems to be regular paragraph text and contain no key-value pairs or arrays typically found in JSON documents. It seems like a context misunderstanding, could you please provide a JSON format string?

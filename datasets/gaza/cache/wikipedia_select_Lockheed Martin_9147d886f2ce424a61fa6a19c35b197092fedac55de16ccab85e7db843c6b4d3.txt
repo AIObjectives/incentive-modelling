@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Lockheed Martin" which was described 
+as "An American aerospace, defense, arms manufacturers" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Lockheed Martin",
+    "pageid": 66527,
+    "snippet": "The <span class=\"searchmatch\">Lockheed</span> <span class=\"searchmatch\">Martin</span> Corporation is an American aerospace, arms, defense, information security, and technology corporation with worldwide interests. It"
+  },
+  {
+    "title": "Lockheed Martin C-130J Super Hercules",
+    "pageid": 16172717,
+    "snippet": "The <span class=\"searchmatch\">Lockheed</span> <span class=\"searchmatch\">Martin</span> C-130J Super Hercules is a four-engine turboprop military transport aircraft. The C-130J is a comprehensive update of the <span class=\"searchmatch\">Lockheed</span> C-130"
+  },
+  {
+    "title": "Lockheed Martin SR-72",
+    "pageid": 40950096,
+    "snippet": "The <span class=\"searchmatch\">Lockheed</span> <span class=\"searchmatch\">Martin</span> SR-72, colloquially referred to as &quot;Son of Blackbird&quot;, is an American hypersonic UAV concept intended for intelligence, surveillance"
+  },
+  {
+    "title": "Lockheed Martin Aeronautics",
+    "pageid": 1393237,
+    "snippet": "guaranteed export orders. <span class=\"searchmatch\">Lockheed</span> also supports its F-22 air dominance fighter in USAF service. <span class=\"searchmatch\">Lockheed</span> <span class=\"searchmatch\">Martin</span> A-4AR Fightinghawk <span class=\"searchmatch\">Lockheed</span> C-130 Hercules : First"
+  },
+  {
+    "title": "Lockheed Martin F-22 Raptor",
+    "pageid": 66299,
+    "snippet": "The <span class=\"searchmatch\">Lockheed</span> <span class=\"searchmatch\">Martin</span>/Boeing F-22 Raptor is an American single-seat, twin-engine, supersonic all-weather stealth fighter aircraft developed for the United"
+  },
+  {
+    "title": "Lockheed Martin X-35",
+    "pageid": 561535,
+    "snippet": "The <span class=\"searchmatch\">Lockheed</span> <span class=\"searchmatch\">Martin</span> X-35 is a concept demonstrator aircraft (CDA) developed by <span class=\"searchmatch\">Lockheed</span> <span class=\"searchmatch\">Martin</span> for the Joint Strike Fighter program. The X-35 was declared"
+  },
+  {
+    "title": "Lockheed Martin FB-22",
+    "pageid": 866934,
+    "snippet": "portal 2037 bomber controversy Related development <span class=\"searchmatch\">Lockheed</span> YF-22 <span class=\"searchmatch\">Lockheed</span> <span class=\"searchmatch\">Martin</span> F-22 Raptor <span class=\"searchmatch\">Lockheed</span> <span class=\"searchmatch\">Martin</span> X-44 MANTA Aircraft of comparable role, configuration"
+  },
+  {
+    "title": "Lockheed Martin Polecat",
+    "pageid": 6028690,
+    "snippet": "The <span class=\"searchmatch\">Lockheed</span> <span class=\"searchmatch\">Martin</span> Polecat (company designation P-175) was an unmanned aerial vehicle by <span class=\"searchmatch\">Lockheed</span> <span class=\"searchmatch\">Martin</span>. It was developed by the company's Advanced"
+  },
+  {
+    "title": "Skunk Works",
+    "pageid": 55249,
+    "snippet": "Works is an official pseudonym for <span class=\"searchmatch\">Lockheed</span> <span class=\"searchmatch\">Martin's</span> Advanced Development Programs (ADP), formerly called <span class=\"searchmatch\">Lockheed</span> Advanced Development Projects. It is"
+  },
+  {
+    "title": "Lockheed Corporation",
+    "pageid": 50042,
+    "snippet": "The <span class=\"searchmatch\">Lockheed</span> Corporation was an American aerospace manufacturer. <span class=\"searchmatch\">Lockheed</span> was founded in 1926 and merged in 1995 with <span class=\"searchmatch\">Martin</span> Marietta to form <span class=\"searchmatch\">Lockheed</span> Martin"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+66527

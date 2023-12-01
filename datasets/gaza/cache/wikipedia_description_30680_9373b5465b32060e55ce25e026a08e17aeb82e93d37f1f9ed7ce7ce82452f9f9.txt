@@ -1,0 +1,18 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: The New York Times
+Long description: The New York Times (NYT) is a daily newspaper based in New York City, with a worldwide reported readership of 9.41 million digital-only subscribers and 670,000 print subscribers as of 2023.The newspaper was founded in 1851 as the New-York Daily Times. It is published by The New York Times Company and has won 132 Pulitzer Prizes, the most of any newspaper, and has long been regarded as a national newspaper of record. For print, it is ranked 17th in the world by circulation and 3rd in the United States. The newspaper is headquartered at The New York Times Building near Times Square, Manhattan.
+The New York Times Company, which is publicly traded, has been governed by the Sulzberger family since 1896, through a dual-class share structure. A. G. Sulzberger, the paper's publisher and the company's chairman, is the fifth generation of the family to head the paper.Since the mid-1970s, The New York Times has expanded its layout and organization, adding special weekly sections on various topics supplementing the regular news, editorials, sports, and features. The institution's emphasis remains on global and U.S. hard news coverage. Since 2008, the Times has been organized into the following sections: News, Editorials/Opinions-Columns/Op-Ed, New York (metropolitan), Business, Arts, Science, Styles, Home, Travel, and other features. On Sundays, the Times is supplemented by the Sunday Review (formerly the Week in Review), The New York Times Book Review, The New York Times Magazine, and T: The New York Times Style Magazine.
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+The New York Times (NYT) is a New York City-based daily newspaper, renowned for having won the most Pulitzer Prizes, and noted for its worldwide digital and print readership, run by The New York Times Company under the Sulzberger family governance since 1896.

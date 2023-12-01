@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Mohamed Morsi" which was described 
+as "Former President of Egypt" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Mohamed Morsi",
+    "pageid": 32253721,
+    "snippet": "<span class=\"searchmatch\">Mohamed</span> <span class=\"searchmatch\">Mohamed</span> <span class=\"searchmatch\">Morsi</span> Eissa al-Ayyat (/<span class=\"searchmatch\">ˈmɔːrsi</span>/; Arabic: محمد محمد مرسي عيسى العياط IPA: [mæˈħæmmæd <span class=\"searchmatch\">ˈmoɾsi</span> ˈʕiːsæ (ʔe)l.ʕɑjˈjɑːtˤ]; 8 August 1951 – 17"
+  },
+  {
+    "title": "June 2013 Egyptian protests",
+    "pageid": 39859815,
+    "snippet": "occurred in Egypt on 30 June 2013, marking the one-year anniversary of <span class=\"searchmatch\">Mohamed</span> <span class=\"searchmatch\">Morsi's</span> inauguration as president. The events ended with the 2013 Egyptian"
+  },
+  {
+    "title": "Abdullah Morsi",
+    "pageid": 65479849,
+    "snippet": "<span class=\"searchmatch\">Mohamed</span> <span class=\"searchmatch\">Mohamed</span> <span class=\"searchmatch\">Morsi</span> Eissa al-Ayyat (Arabic: عبد الله محمد محمد مرسي عيسى العياط; 3 September 1994 – 4 September 2019) was the son of <span class=\"searchmatch\">Mohamed</span> <span class=\"searchmatch\">Morsi</span>,"
+  },
+  {
+    "title": "2012–2013 Egyptian protests",
+    "pageid": 37842204,
+    "snippet": "was attended by <span class=\"searchmatch\">Morsi</span> and leading Islamist figures. During the conference, Sheikh <span class=\"searchmatch\">Mohamed</span> Hassan and al-Gama'a al-Islamiyya's <span class=\"searchmatch\">Mohamed</span> Abdel-Maqsoud used"
+  },
+  {
+    "title": "2013 Egyptian coup d'état",
+    "pageid": 39822702,
+    "snippet": "a coalition to remove the democratically elected President of Egypt <span class=\"searchmatch\">Mohamed</span> <span class=\"searchmatch\">Morsi</span> from power and suspended the Egyptian constitution of 2012. The move"
+  },
+  {
+    "title": "Muslim Brotherhood",
+    "pageid": 20742,
+    "snippet": "elections, including the 2012 presidential election when its candidate <span class=\"searchmatch\">Mohamed</span> <span class=\"searchmatch\">Morsi</span> became Egypt's first president to gain power through an election. A"
+  },
+  {
+    "title": "Muhammad Tantawi",
+    "pageid": 2393978,
+    "snippet": "President Hosni Mubarak on 11 February 2011 until the inauguration of <span class=\"searchmatch\">Mohamed</span> <span class=\"searchmatch\">Morsi</span> as president of Egypt on 30 June 2012. Tantawi served in the government"
+  },
+  {
+    "title": "Bassem Youssef",
+    "pageid": 33240386,
+    "snippet": "tremendous success through its criticism of former Egyptian President <span class=\"searchmatch\">Mohamed</span> <span class=\"searchmatch\">Morsi</span>, representing the Muslim Brotherhood. On the season's premiere, Youssef"
+  },
+  {
+    "title": "2012 Egyptian presidential election",
+    "pageid": 24999148,
+    "snippet": "Muslim Brotherhood declared early 18 June 2012, that its candidate, <span class=\"searchmatch\">Mohamed</span> <span class=\"searchmatch\">Morsi</span>, won Egypt's presidential election, which would be the first victory"
+  },
+  {
+    "title": "Mohammed Badie",
+    "pageid": 27147419,
+    "snippet": "force.&quot; In July 2013, Badie condemned the removal of Egyptian president <span class=\"searchmatch\">Mohamed</span> <span class=\"searchmatch\">Morsi</span> by the Egyptian military stating &quot;I swear by God that what Gen. Abdel-Fattah"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+32253721

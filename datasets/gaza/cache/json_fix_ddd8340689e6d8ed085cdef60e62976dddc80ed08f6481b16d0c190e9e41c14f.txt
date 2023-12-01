@@ -1,0 +1,29 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+JSON
+{
+  "text": "I'm sorry, but there seems to be some misunderstanding. The document provided is a transcript of a televised discussion between Piers Morgan and his guest, Bassem Youssef, discussing a wide variety of topics including Middle Eastern politics and social issues. As such, I'm unable to provide a response to the questions you have about Salamander because the document doesn't provide any information about it. Could you please provide the correct document that specifically addresses the subject of Salamander?"
+}
+
+
+=== RESULTS ===
+
+The given string seems to be a valid JSON already. However, special characters (like single quote in "I'm") can sometimes cause problems. In JSON, we're allowed to use double quotes, but it's safer to escape special characters just to make sure.
+
+Here's the modified JSON:
+
+```
+{
+  "text": "I'm sorry, but there seems to be some misunderstanding. The document provided is a transcript of a televised discussion between Piers Morgan and his guest, Bassem Youssef, discussing a wide variety of topics including Middle Eastern politics and social issues. As such, I'm unable to provide a response to the questions you have about Salamander because the document doesn't provide any information about it. Could you please provide the correct document that specifically addresses the subject of Salamander?"
+}
+```
+Since the JSON seems to be perfectly valid even with special characters present, no changes were made.

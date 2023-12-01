@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Yemen" which was described 
+as "Country mentioned in the context of immigrants moving to Israel." and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Yemen",
+    "pageid": 350939,
+    "snippet": "<span class=\"searchmatch\">Yemen</span> (/ˈjɛmən/ ; Arabic: ٱلْيَمَنْ, romanized: al-Yaman), officially the Republic of <span class=\"searchmatch\">Yemen</span>, is a country in West Asia. It is located in the southern"
+  },
+  {
+    "title": "Saudi intervention in the Yemeni civil war",
+    "pageid": 46230181,
+    "snippet": "West Asia and North Africa, launched an intervention in <span class=\"searchmatch\">Yemen</span> following a request from <span class=\"searchmatch\">Yemeni</span> president Abdrabbuh Mansur Hadi for military support after"
+  },
+  {
+    "title": "Republic of Yemen Armed Forces",
+    "pageid": 34252,
+    "snippet": "the Republic of <span class=\"searchmatch\">Yemen</span>. They include the <span class=\"searchmatch\">Yemeni</span> Army (including the Republican Guard), <span class=\"searchmatch\">Yemeni</span> Navy (including the Marines) and the <span class=\"searchmatch\">Yemeni</span> Air Force (including"
+  },
+  {
+    "title": "Yemeni civil war (2014–present)",
+    "pageid": 46215853,
+    "snippet": "The <span class=\"searchmatch\">Yemeni</span> civil war (Arabic: الحرب الأهلية اليمنية, romanized: al-ḥarb al-ʾahlīyah al-yamanīyah) is an ongoing multilateral civil war that began in late"
+  },
+  {
+    "title": "South Yemen",
+    "pageid": 718749,
+    "snippet": "South <span class=\"searchmatch\">Yemen</span>, formally the People's Democratic Republic of <span class=\"searchmatch\">Yemen</span>, was a state that existed from 1967 to 1990 as the only communist state in the Middle"
+  },
+  {
+    "title": "Yemenis",
+    "pageid": 19835361,
+    "snippet": "<span class=\"searchmatch\">Yemenis</span> or Yemenites (Arabic: يمنيون) are the nationals of <span class=\"searchmatch\">Yemen</span>. There is a system of social stratification in <span class=\"searchmatch\">Yemen</span> that was officially abolished at"
+  },
+  {
+    "title": "Flag of Yemen",
+    "pageid": 351550,
+    "snippet": "State flag of <span class=\"searchmatch\">Yemen</span> (Arabic: علم اليمن, romanized: Alam al-Yaman) was adopted on May 22, 1990, the day that North <span class=\"searchmatch\">Yemen</span> and South <span class=\"searchmatch\">Yemen</span> were unified."
+  },
+  {
+    "title": "Yemen national football team",
+    "pageid": 1291184,
+    "snippet": "The <span class=\"searchmatch\">Yemen</span> national football team (Arabic: منتخب الْيَمَن الْوَطَنِيُّ لِكُرَّةُ الْقَدَم) represents <span class=\"searchmatch\">Yemen</span> in international football. The national team"
+  },
+  {
+    "title": "Yemen Arab Republic",
+    "pageid": 718747,
+    "snippet": "The <span class=\"searchmatch\">Yemen</span> Arab Republic (YAR; Arabic: الجمهورية العربية اليمنية al-Jumhūrīyah al-‘Arabīyah al-Yamanīyah), commonly known as North <span class=\"searchmatch\">Yemen</span> or <span class=\"searchmatch\">Yemen</span> (Sanaʽa)"
+  },
+  {
+    "title": "Mutawakkilite Kingdom of Yemen",
+    "pageid": 2457603,
+    "snippet": "Kingdom of <span class=\"searchmatch\">Yemen</span> (Arabic: المملكة المتوكلية اليمنية al-Mamlakah al-Mutawakkilīyah al-Yamanīyah), also known as the Kingdom of <span class=\"searchmatch\">Yemen</span> or simply as <span class=\"searchmatch\">Yemen</span>, or,"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+350939

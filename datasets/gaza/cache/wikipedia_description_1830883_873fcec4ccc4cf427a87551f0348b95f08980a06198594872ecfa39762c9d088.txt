@@ -1,0 +1,17 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Nadine
+Long description: Nadine may refer to:
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+"Nadine" refers to a specific Wikipedia page name, with varying potential meanings.

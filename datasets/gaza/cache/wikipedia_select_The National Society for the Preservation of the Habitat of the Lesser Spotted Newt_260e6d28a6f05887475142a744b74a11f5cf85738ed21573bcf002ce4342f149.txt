@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "The National Society for the Preservation of the Habitat of the Lesser Spotted Newt" which was described 
+as "Organization or interest group jokingly referred to during the discussion." and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Salamander",
+    "pageid": 29657,
+    "snippet": "Members <span class=\"searchmatch\">of</span> <span class=\"searchmatch\">the</span> family Salamandridae are mostly known as <span class=\"searchmatch\">newts</span> and lack <span class=\"searchmatch\">the</span> costal grooves along <span class=\"searchmatch\">the</span> sides <span class=\"searchmatch\">of</span> their bodies typical <span class=\"searchmatch\">of</span> other groups. <span class=\"searchmatch\">The</span> skin"
+  },
+  {
+    "title": "Wildlife of Israel",
+    "pageid": 10936076,
+    "snippet": "to splitting of <span class=\"searchmatch\">habitats</span> and <span class=\"searchmatch\">the</span> species' loyalty to their spawning spots. <span class=\"searchmatch\">The</span> spadefoot is a protected species by law. <span class=\"searchmatch\">The</span> banded <span class=\"searchmatch\">newt</span> (Triturus vittatus"
+  },
+  {
+    "title": "San Diego Zoo",
+    "pageid": 317392,
+    "snippet": "people. <span class=\"searchmatch\">The</span> San Diego Zoo was a pioneer in <span class=\"searchmatch\">the</span> concept <span class=\"searchmatch\">of</span> open-air, cageless exhibits that recreate natural animal <span class=\"searchmatch\">habitats</span>. <span class=\"searchmatch\">For</span> decades, <span class=\"searchmatch\">the</span> zoo housed"
+  },
+  {
+    "title": "List of Asian animals extinct in the Holocene",
+    "pageid": 4347225,
+    "snippet": " A. (1991) <span class=\"searchmatch\">The</span> Ecology and Conservation <span class=\"searchmatch\">of</span> <span class=\"searchmatch\">the</span> Slender-Billed Curlew (Numenius tenuirostris). International Council <span class=\"searchmatch\">for</span> Bird <span class=\"searchmatch\">Preservation</span>. Hume, J.P."
+  },
+  {
+    "title": "Bronx Zoo",
+    "pageid": 92359,
+    "snippet": "recreates various <span class=\"searchmatch\">habitats</span> found on <span class=\"searchmatch\">the</span> island <span class=\"searchmatch\">of</span> Madagascar and contains a variety <span class=\"searchmatch\">of</span> wildlife from <span class=\"searchmatch\">the</span> island, including lemurs, <span class=\"searchmatch\">lesser</span> hedgehog tenrecs"
+  },
+  {
+    "title": "Piney Woods",
+    "pageid": 776697,
+    "snippet": "(Ambystoma texanum), <span class=\"searchmatch\">spotted</span> dusky salamander (Desmognathus conanti), western dwarf salamander (Eurycea paludicola), and <span class=\"searchmatch\">the</span> eastern <span class=\"searchmatch\">newt</span> (Notophthalmus viridescens)"
+  },
+  {
+    "title": "Zasavica (bog)",
+    "pageid": 10515461,
+    "snippet": "as <span class=\"searchmatch\">the</span> endangered species by <span class=\"searchmatch\">the</span> Bern Convention. Two endemic Balkan species live in Zasavica: Danube crested <span class=\"searchmatch\">newt</span> and eastern sub-species <span class=\"searchmatch\">of</span> <span class=\"searchmatch\">the</span> sand"
+  },
+  {
+    "title": "Texas Blackland Prairies",
+    "pageid": 2221747,
+    "snippet": "(Notophthalmus viridescens), and western <span class=\"searchmatch\">lesser</span> siren (Siren intermedia). Fish: Among <span class=\"searchmatch\">the</span> many fish <span class=\"searchmatch\">of</span> <span class=\"searchmatch\">the</span> region are <span class=\"searchmatch\">spotted</span> bass (Micropterus punctulatus), white"
+  },
+  {
+    "title": "List of nature reserves in the London Borough of Barnet",
+    "pageid": 28607312,
+    "snippet": "&quot;provide <span class=\"searchmatch\">the</span> strongest protection <span class=\"searchmatch\">for</span> <span class=\"searchmatch\">the</span> <span class=\"searchmatch\">preservation</span> <span class=\"searchmatch\">of</span> Barnet's green and natural open spaces&quot;. As well as 2,466 hectares (6,090 acres) <span class=\"searchmatch\">of</span> Green Belt"
+  },
+  {
+    "title": "Wildlife Trust for Bedfordshire, Cambridgeshire and Northamptonshire",
+    "pageid": 2168892,
+    "snippet": "considered &quot;worthy <span class=\"searchmatch\">of</span> <span class=\"searchmatch\">preservation</span>&quot;. <span class=\"searchmatch\">The</span> <span class=\"searchmatch\">society</span> worked to secure statutory protection, and this began with <span class=\"searchmatch\">the</span> <span class=\"searchmatch\">National</span> Parks and Access to <span class=\"searchmatch\">the</span> Countryside"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+29657

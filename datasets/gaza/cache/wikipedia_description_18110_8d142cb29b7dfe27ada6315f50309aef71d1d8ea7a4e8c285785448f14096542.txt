@@ -1,0 +1,21 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Los Angeles
+Long description: Los Angeles (US:   lawss AN-jəl-əs; Spanish: Los Ángeles [los ˈaŋxeles], lit. 'The Angels'), often referred to by its initials L.A., officially the City of Los Angeles, is the most populous city in the U.S. state of California. With roughly 3.9 million residents within the city limits as of 2020, Los Angeles is the second-most populous city in the United States, behind only New York City; it is the commercial, financial and cultural center of the Southern California region. Los Angeles has a Mediterranean climate, an ethnically and culturally diverse population, in addition to a sprawling metropolitan area.
+The majority of the city proper lies in a basin in Southern California adjacent to the Pacific Ocean in the west and extending partly through the Santa Monica Mountains and north into the San Fernando Valley, with the city bordering the San Gabriel Valley to its east. It covers about 469 square miles (1,210 km2), and is the county seat of Los Angeles County, which is the most populous county in the United States with an estimated 9.86 million residents as of 2022. It is the third-most visited city in the U.S. with over 4.6 million visitors as of 2019.The area that became Los Angeles was originally inhabited by the indigenous Tongva people and later claimed by Juan Rodríguez Cabrillo for Spain in 1542. The city was founded on September 4, 1781, under Spanish governor Felipe de Neve, on the village of Yaanga. It became a part of Mexico in 1821 following the Mexican War of Independence. In 1848, at the end of the Mexican–American War, Los Angeles and the rest of California were purchased as part of the Treaty of Guadalupe Hidalgo and became part of the United States. Los Angeles was incorporated as a municipality on April 4, 1850, five months before California achieved statehood. The discovery of oil in the 1890s brought rapid growth to the city. The city was further expanded with the completion of the Los Angeles Aqueduct in 1913, which delivers water from Eastern California.
+Los Angeles has a diverse economy with a broad range of industries, best known as the home of the Hollywood film industry, the world's largest by revenue; the city was an important site in the history of film. It also has one of the busiest container ports in the Americas. In 2018, the Los Angeles metropolitan area had a gross metropolitan product of over $1.0 trillion, making it the city with the third-largest GDP in the world. Los Angeles hosted the Summer Olympics in 1932 and 1984, and will also host in 2028. More recently, statewide droughts in California have strained both the city's and Los Angeles County's water security.
+
+
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+Los Angeles, often referred to as L.A., is the most populous city in California and the second-most populous in the United States, known for its Mediterranean climate, diverse population, and status as the cultural, commercial, and financial center of Southern California.

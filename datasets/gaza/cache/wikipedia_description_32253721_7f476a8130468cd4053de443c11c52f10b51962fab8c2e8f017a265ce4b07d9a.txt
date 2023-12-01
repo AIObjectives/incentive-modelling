@@ -1,0 +1,20 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Mohamed Morsi
+Long description: Mohamed Mohamed Morsi Eissa al-Ayyat (; Arabic: محمد محمد مرسي عيسى العياط IPA: [mæˈħæmmæd ˈmoɾsi ˈʕiːsæ (ʔe)l.ʕɑjˈjɑːtˤ]; 8 August 1951 – 17 June 2019) was an Egyptian politician, engineer, and professor who served as the fifth president of Egypt, from 2012 to 2013, when General Abdel Fattah el-Sisi removed him from office in a coup d'état after protests in June. An Islamist affiliated with the Muslim Brotherhood organization, Morsi led the Freedom and Justice Party from 2011 to 2012.
+Morsi was born in El Adwah, Sharqia Governorate, before studying metallurgical engineering at Cairo University and then materials science at the University of Southern California. He became an associate professor at California State University, Northridge, from 1982 to 1985 before returning to Egypt to teach at Zagazig University. Associating with the Muslim Brotherhood, which was then barred from office under President Hosni Mubarak, Morsi stood as an independent candidate for the 2000 parliamentary election. Following the Egyptian Revolution of 2011, which resulted in Mubarak's resignation, Morsi came to the forefront as head of the Freedom and Justice Party. It became the largest party in the 2011–12 parliamentary election and Morsi was elected president in the 2012 presidential election.
+In November 2012, Morsi issued a provisional constitutional declaration that granted him unrestricted authority and the authority to legislate without the need for judicial oversight or review. This was a move to stop the Mubarak-era judges from getting rid of the Second Constituent Assembly. The new constitution that was then hastily finalized by the Islamist-dominated constitutional assembly, presented to the president, and scheduled for a referendum before the Supreme Constitutional Court could rule on the constitutionality of the assembly, was described by independent press agencies not aligned with the regime as an "Islamist coup". These issues, along with complaints of prosecutions of journalists and attacks on nonviolent demonstrators, led to the 2012 protests. As part of a compromise, Morsi rescinded the decrees. A new constitution was approved by approximately two-thirds of voters in the referendum, although turnout was less than a third of the electorate.
+In June 2013, protests calling for Morsi's resignation erupted. The military, backed by the political opposition and leading religious figures, stepped in and deposed Morsi in a coup. It suspended the constitution and appointed Adly Mansour as interim president. Pro-Morsi demonstrations were crushed, resulting in over 800 deaths. Egyptian prosecutors then charged Morsi with various crimes and sought the death penalty, a move denounced by Amnesty International as "a charade based on null and void procedures". His death sentence was overturned in November 2016 and a retrial ordered. Morsi died during trial on 17 June 2019 amid claims that he was being denied appropriate medical care while in custody.
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+Mohamed Morsi (1951-2019) was an Egyptian politician and engineer who served as the fifth president of Egypt from 2012 to 2013, before being removed from power during a military coup coordinated by General Abdel Fattah el-Sisi. He was an influential member of the Muslim Brotherhood and led the Freedom and Justice Party from 2011 to 2012.

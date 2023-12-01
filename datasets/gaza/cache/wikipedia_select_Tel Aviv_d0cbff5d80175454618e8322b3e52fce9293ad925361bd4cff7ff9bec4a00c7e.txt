@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Tel Aviv" which was described 
+as "The economic and technological center of Israel" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Tel Aviv",
+    "pageid": 31453,
+    "snippet": "<span class=\"searchmatch\">Tel</span> <span class=\"searchmatch\">Aviv</span>-Yafo (Hebrew: תֵּל־אָבִיב-יָפוֹ, romanized: <span class=\"searchmatch\">Tēl</span>-<span class=\"searchmatch\">ʾĀvīv</span>-Yāfō, IPA: [<span class=\"searchmatch\">tel</span> <span class=\"searchmatch\">aˈviv</span> jaˈfo]; Arabic: تَلّ أَبِيب – يَافَا, romanized: Tall ʾAbīb-Yāfā)"
+  },
+  {
+    "title": "Maccabi Tel Aviv F.C.",
+    "pageid": 861284,
+    "snippet": "<span class=\"searchmatch\">Tel</span> <span class=\"searchmatch\">Aviv</span> Football Club (Hebrew: מועדון כדורגל מכבי תל אביב; Moadon Kaduregel Maccabi <span class=\"searchmatch\">Tel</span> <span class=\"searchmatch\">Aviv</span>) is an Israeli professional football club from <span class=\"searchmatch\">Tel</span> <span class=\"searchmatch\">Aviv</span>"
+  },
+  {
+    "title": "Tel Aviv District",
+    "pageid": 844311,
+    "snippet": "The <span class=\"searchmatch\">Tel</span> <span class=\"searchmatch\">Aviv</span> District (Hebrew: מָחוֹז תֵּל אָבִיב; Arabic: منطقة تل أبيب) is the geographically smallest yet also the most densely populated of the six"
+  },
+  {
+    "title": "Tel Aviv University",
+    "pageid": 161402,
+    "snippet": "<span class=\"searchmatch\">Tel</span> <span class=\"searchmatch\">Aviv</span> University (TAU; Hebrew: אוּנִיבֶרְסִיטַת תֵּל אָבִיב, Universitat <span class=\"searchmatch\">Tel</span> <span class=\"searchmatch\">Aviv</span>, Arabic: جامعة تل أبيب, Jami’at <span class=\"searchmatch\">Tel</span> Abib) is a public research university"
+  },
+  {
+    "title": "Maccabi Tel Aviv B.C.",
+    "pageid": 630196,
+    "snippet": "Maccabi <span class=\"searchmatch\">Tel</span> <span class=\"searchmatch\">Aviv</span> Basketball Club (Hebrew: מועדון כדורסל מכבי תל אביב), known for sponsorship reasons as Maccabi Playtika <span class=\"searchmatch\">Tel</span> <span class=\"searchmatch\">Aviv</span> (מכבי פלייטיקה תל אביב‎)"
+  },
+  {
+    "title": "Hapoel Tel Aviv F.C.",
+    "pageid": 2301245,
+    "snippet": "Hapoel <span class=\"searchmatch\">Tel</span> <span class=\"searchmatch\">Aviv</span> Football Club (Hebrew: מועדון כדורגל הפועל תל אביב, Moadon Kaduregel Hapoel <span class=\"searchmatch\">Tel</span> <span class=\"searchmatch\">Aviv</span>) is an Israeli football club based in <span class=\"searchmatch\">Tel</span> <span class=\"searchmatch\">Aviv</span> that"
+  },
+  {
+    "title": "Ben Gurion Airport",
+    "pageid": 113149,
+    "snippet": "the northwest of Jerusalem and 20 kilometres (12 mi) to the southeast of <span class=\"searchmatch\">Tel</span> <span class=\"searchmatch\">Aviv</span>. Until 1973, it was known as Lod Airport, whereafter it was renamed in"
+  },
+  {
+    "title": "Hapoel Tel Aviv B.C.",
+    "pageid": 2936614,
+    "snippet": "Hapoel <span class=\"searchmatch\">Tel</span> <span class=\"searchmatch\">Aviv</span> Basketball Club (Hebrew: מועדון כדורסל הפועל תל אביב) is an Israeli professional basketball club, based in <span class=\"searchmatch\">Tel</span> <span class=\"searchmatch\">Aviv</span>, Israel. Historically"
+  },
+  {
+    "title": "Tel Aviv Pride",
+    "pageid": 35854041,
+    "snippet": "<span class=\"searchmatch\">Tel</span> <span class=\"searchmatch\">Aviv</span> Pride (Hebrew: מצעד הגאווה בתל אביב, Arabic: فخر تل أبيب) is a week-long series of events in <span class=\"searchmatch\">Tel</span> <span class=\"searchmatch\">Aviv</span> which takes place on the second week of"
+  },
+  {
+    "title": "Maccabi Tel Aviv",
+    "pageid": 630203,
+    "snippet": "merging. See templates for discussion to help reach a consensus. › Maccabi <span class=\"searchmatch\">Tel</span> <span class=\"searchmatch\">Aviv</span> (Hebrew: מכבי תל אביב) is one of the largest sports clubs in Israel, and"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+31453

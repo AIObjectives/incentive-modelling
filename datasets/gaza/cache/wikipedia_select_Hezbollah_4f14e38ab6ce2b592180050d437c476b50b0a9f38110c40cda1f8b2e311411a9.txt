@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Hezbollah" which was described 
+as "Shia Islamist political party and militant group based in Lebanon" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Hezbollah",
+    "pageid": 13919,
+    "snippet": "<span class=\"searchmatch\">Hezbollah</span> (/ˌhɛzbəˈlɑː/, /ˌxɛz-/; Arabic: حزب الله, romanized: Ḥizbu 'llāh, lit. 'Party of Allah' or 'Party of God') is a Lebanese Shia Islamist political"
+  },
+  {
+    "title": "2006 Lebanon War",
+    "pageid": 6299613,
+    "snippet": "The 2006 Lebanon War, also called the 2006 Israel–<span class=\"searchmatch\">Hezbollah</span> War and known in Lebanon as the July War (Arabic: حرب تموز, Ḥarb Tammūz) and in Israel as"
+  },
+  {
+    "title": "2023 Israel–Lebanon border clashes",
+    "pageid": 75005425,
+    "snippet": "On 8 October 2023, the Lebanese militant group <span class=\"searchmatch\">Hezbollah</span> fired guided rockets and artillery shells at Israeli positions in the disputed Shebaa Farms one"
+  },
+  {
+    "title": "Hezbollah armed strength",
+    "pageid": 6222202,
+    "snippet": "<span class=\"searchmatch\">Hezbollah</span>, the Lebanese Shia Islamist political party and militant group, has an exceptionally strong military wing, thought to be stronger than the Lebanese"
+  },
+  {
+    "title": "Kata'ib Hezbollah",
+    "pageid": 23626646,
+    "snippet": "Kata'ib <span class=\"searchmatch\">Hezbollah</span> (Arabic: كتائب حزب الله, lit. 'Battalions of the Party of God')—or the <span class=\"searchmatch\">Hezbollah</span> Brigades—is a radical Iraqi Shiite paramilitary group"
+  },
+  {
+    "title": "History of Hezbollah",
+    "pageid": 6185421,
+    "snippet": "<span class=\"searchmatch\">Hezbollah</span> originated within the Shiite block of Lebanese society. According to the CIA World Factbook estimate in 2022, Shiites comprise 31.2 percent"
+  },
+  {
+    "title": "Iran–Israel proxy conflict",
+    "pageid": 39317288,
+    "snippet": "provided funding, weapons, and training to groups including Lebanese <span class=\"searchmatch\">Hezbollah</span>, Hamas, and Palestinian Islamic Jihad (PIJ), which have vowed and carried"
+  },
+  {
+    "title": "Kurdish Hezbollah",
+    "pageid": 2919437,
+    "snippet": "Kurdish <span class=\"searchmatch\">Hezbollah</span> (Kurdish: حیزبوڵڵای کورد, romanized: Hizbullahî Kurdî, Turkish: Kürt Hizbullahı) known in Turkey as Hizbullah, and known among Kurds"
+  },
+  {
+    "title": "Hezbollah Afghanistan",
+    "pageid": 70809135,
+    "snippet": "<span class=\"searchmatch\">Hezbollah</span> Afghanistan is a Shia Islamist political party in Afghanistan. It was originally founded in 1980 as a rebel group and part of the Tehran Eight"
+  },
+  {
+    "title": "Hezbollah (disambiguation)",
+    "pageid": 845959,
+    "snippet": "Look up <span class=\"searchmatch\">Hezbollah</span> in Wiktionary, the free dictionary. <span class=\"searchmatch\">Hezbollah</span> is a Shi'a Islamist political party and militia in Lebanon. <span class=\"searchmatch\">Hezbollah</span> may also refer to:"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+13919

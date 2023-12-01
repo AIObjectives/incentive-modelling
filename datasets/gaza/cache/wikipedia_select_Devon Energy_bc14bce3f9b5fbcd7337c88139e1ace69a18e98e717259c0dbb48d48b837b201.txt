@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Devon Energy" which was described 
+as "An American independent natural gas, natural gas liquids, and petroleum exploration company" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Devon Energy",
+    "pageid": 2653732,
+    "snippet": "<span class=\"searchmatch\">Devon</span> <span class=\"searchmatch\">Energy</span> Corporation is an <span class=\"searchmatch\">energy</span> company engaged in hydrocarbon exploration in the United States. It is organized in Delaware and its corporate operative"
+  },
+  {
+    "title": "Devon Energy Center",
+    "pageid": 18989004,
+    "snippet": "The <span class=\"searchmatch\">Devon</span> <span class=\"searchmatch\">Energy</span> Center (also known as the <span class=\"searchmatch\">Devon</span> Tower) is a 50-story corporate skyscraper in downtown Oklahoma City, Oklahoma. It is the tallest building"
+  },
+  {
+    "title": "WPX Energy",
+    "pageid": 46390509,
+    "snippet": "and headquartered in Tulsa, Oklahoma. In 2021, the company merged with <span class=\"searchmatch\">Devon</span> <span class=\"searchmatch\">Energy</span>. All of the company's assets were in either the Williston Basin (42%"
+  },
+  {
+    "title": "Devon Energy Tower (Houston)",
+    "pageid": 16837091,
+    "snippet": "year Exxon had office space there. <span class=\"searchmatch\">Devon</span> <span class=\"searchmatch\">Energy</span> had its Houston office in Two Allen Center. In October 2012 <span class=\"searchmatch\">Devon</span> <span class=\"searchmatch\">Energy</span> announced that it was closing its"
+  },
+  {
+    "title": "Successors of Standard Oil",
+    "pageid": 71877337,
+    "snippet": "Questions&quot;. The New York Times. Retrieved March 3, 2013. &quot;<span class=\"searchmatch\">Devon</span> <span class=\"searchmatch\">Energy</span> Acquires Pennz<span class=\"searchmatch\">Energy</span> | Mergr M&amp;A Deal Summary&quot;. mergr.com. Retrieved 2022-09-30"
+  },
+  {
+    "title": "Devon (disambiguation)",
+    "pageid": 1105300,
+    "snippet": "geologic period <span class=\"searchmatch\">Devon</span> (sausage) de Havilland <span class=\"searchmatch\">Devon</span>, aircraft <span class=\"searchmatch\">Devon</span> <span class=\"searchmatch\">Energy</span>, an <span class=\"searchmatch\">energy</span> company <span class=\"searchmatch\">Devon</span> Tower, corporate HQ Earl of <span class=\"searchmatch\">Devon</span>, a title Devan (disambiguation)"
+  },
+  {
+    "title": "Oklahoma City",
+    "pageid": 57848,
+    "snippet": "city is headquarters to two Fortune 500 companies: Chesapeake <span class=\"searchmatch\">Energy</span> and <span class=\"searchmatch\">Devon</span> <span class=\"searchmatch\">Energy</span>, as well as being home to Love's Travel Stops &amp; Country Stores"
+  },
+  {
+    "title": "Santa Fe Snyder",
+    "pageid": 15542326,
+    "snippet": "Santa Fe <span class=\"searchmatch\">Energy</span> Resources and Fort Worth-based Snyder Oil Corporation. Santa Fe Snyder merged with <span class=\"searchmatch\">Devon</span> <span class=\"searchmatch\">Energy</span> in August 2000. <span class=\"searchmatch\">Devon</span> <span class=\"searchmatch\">Energy</span> Corp., Oklahoma"
+  },
+  {
+    "title": "GeoSouthern Energy",
+    "pageid": 47620193,
+    "snippet": "the company sold 82,000 acres in the Eagle Ford shale area of Texas to <span class=\"searchmatch\">Devon</span> <span class=\"searchmatch\">Energy</span> for $6 billion in cash. The assets were owned in a joint venture with"
+  },
+  {
+    "title": "List of tallest buildings in Oklahoma City",
+    "pageid": 22008777,
+    "snippet": "2009. &quot;<span class=\"searchmatch\">Devon</span> plans state's tallest building for downtown OKC&quot;. Tulsa World. Associated Press. August 20, 2008. Retrieved June 18, 2009. &quot;<span class=\"searchmatch\">Devon</span> <span class=\"searchmatch\">Energy</span> Corporation"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+2653732

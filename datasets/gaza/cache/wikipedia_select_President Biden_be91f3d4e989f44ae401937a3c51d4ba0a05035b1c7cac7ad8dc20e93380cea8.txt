@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "President Biden" which was described 
+as "The current President of the United States who has voiced support for Israel" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Joe Biden",
+    "pageid": 145422,
+    "snippet": "Joseph Robinette <span class=\"searchmatch\">Biden</span> Jr. (/ˈbaɪdən/ BY-dən; born November 20, 1942) is an American politician who is the 46th and current <span class=\"searchmatch\">president</span> of the United States"
+  },
+  {
+    "title": "Presidency of Joe Biden",
+    "pageid": 65732174,
+    "snippet": "Joe <span class=\"searchmatch\">Biden's</span> tenure as the 46th <span class=\"searchmatch\">president</span> of the United States began with his inauguration on January 20, 2021. <span class=\"searchmatch\">Biden</span>, a Democrat from Delaware who previously"
+  },
+  {
+    "title": "Family of Joe Biden",
+    "pageid": 19105073,
+    "snippet": "Joe <span class=\"searchmatch\">Biden</span>, the 46th and current <span class=\"searchmatch\">president</span> of the United States, has family members who are prominent in law, education, activism and politics. <span class=\"searchmatch\">Biden's</span> immediate"
+  },
+  {
+    "title": "Jill Biden",
+    "pageid": 18992270,
+    "snippet": "Jacobs <span class=\"searchmatch\">Biden</span> (née Jacobs; born June 3, 1951) is an American educator who has been the first lady of the United States since 2021 as the wife of <span class=\"searchmatch\">President</span> Joe"
+  },
+  {
+    "title": "Beau Biden",
+    "pageid": 8194931,
+    "snippet": "Corps from Wilmington, Delaware. The oldest child of <span class=\"searchmatch\">President</span> Joe <span class=\"searchmatch\">Biden</span> and Neilia Hunter <span class=\"searchmatch\">Biden</span>, he served as the 44th attorney general of Delaware from"
+  },
+  {
+    "title": "Cabinet of Joe Biden",
+    "pageid": 64857963,
+    "snippet": "Joe <span class=\"searchmatch\">Biden</span> assumed office as <span class=\"searchmatch\">President</span> of the United States on January 20, 2021. The <span class=\"searchmatch\">president</span> has the authority to nominate members of his Cabinet to"
+  },
+  {
+    "title": "Naomi Biden",
+    "pageid": 65559193,
+    "snippet": "of Hunter Biden and Kathleen Buhle, and a granddaughter of U.S. <span class=\"searchmatch\">President</span> Joe <span class=\"searchmatch\">Biden</span>. She grew up in Washington, D.C., and attended the University of"
+  },
+  {
+    "title": "President Biden Expressway",
+    "pageid": 5351995,
+    "snippet": "The <span class=\"searchmatch\">President</span> Joseph R. <span class=\"searchmatch\">Biden</span>, Jr. Expressway, commonly referred to as the <span class=\"searchmatch\">President</span> <span class=\"searchmatch\">Biden</span> Expressway, and formerly known as the Central Scranton Expressway"
+  },
+  {
+    "title": "List of presidential trips made by Joe Biden (2023)",
+    "pageid": 72503790,
+    "snippet": "list of presidential trips made by Joe <span class=\"searchmatch\">Biden</span> during 2023, the third year of his presidency as the 46th <span class=\"searchmatch\">president</span> of the United States. This list excludes"
+  },
+  {
+    "title": "List of presidents of the United States by age",
+    "pageid": 11262088,
+    "snippet": "at age 43. The oldest person elected <span class=\"searchmatch\">president</span> was Joe <span class=\"searchmatch\">Biden</span>, the nation's current <span class=\"searchmatch\">president</span>, at age 77. <span class=\"searchmatch\">Biden</span> celebrated a birthday between Election"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+145422

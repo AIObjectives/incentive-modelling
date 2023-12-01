@@ -1,0 +1,17 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Lockheed Martin
+Long description: The Lockheed Martin Corporation is an American aerospace, arms, defense, information security, and technology corporation with worldwide interests. It was formed by the merger of Lockheed Corporation with Martin Marietta in March 1995. It is headquartered in North Bethesda, Maryland, in the Washington, D.C. area. As of January 2022, Lockheed Martin employs approximately 115,000 employees worldwide, including about 60,000 engineers and scientists.Lockheed Martin is one of the largest companies in the aerospace, military support, security, and technologies industry. It is the world's largest defense contractor by revenue for fiscal year 2014. In 2013, 78% of Lockheed Martin's revenues came from military sales; it topped the list of US federal government contractors and received nearly 10% of the funds paid out by the Pentagon. In 2009, US government contracts accounted for $38.4 billion (85%), foreign government contracts for $5.8 billion (13%), and commercial and other contracts for $900 million (2%).Half of the corporation's annual sales are to the U.S. Department of Defense. Lockheed Martin is also a contractor for the U.S. Department of Energy and the National Aeronautics and Space Administration (NASA).Lockheed Martin operates in four business segments: Aeronautics, Missiles and Fire Control (MFC), Rotary and Mission Systems (RMS), and Space. The company has received the Collier Trophy six times, including in 2001 for being part of developing the X-35/F-35B LiftFan Propulsion System and most recently in 2018 for the Automatic Ground Collision Avoidance System (Auto-GCAS). Lockheed Martin is currently developing the F-35 Lightning II and leads the international supply chain, leads the team for the development and implementation of technology solutions for the new USAF Space Fence (AFSSS replacement), and is the primary contractor for the development of the Orion command module. The company also invests in healthcare systems, renewable energy systems, intelligent energy distribution, and compact nuclear fusion.
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+Lockheed Martin Corporation is an American company specializing in aerospace, arms, defense, information security, and technology with global interests, known for being a significant contractor for the U.S. Department of Defense and NASA, and a leading developer in the aerospace and military industry.

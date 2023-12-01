@@ -1,0 +1,17 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Be'eri
+Long description: Be'eri (Hebrew: בְּאֵרִי) is a kibbutz in southern Israel. Located in the north-western Negev desert near the eastern border with the Gaza Strip, it falls under the jurisdiction of Eshkol Regional Council. In 2021 it had a population of 1,047.During a massacre in Be'eri during the 2023 Hamas attack on Israel, 100 people were killed.
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+Be'eri is a kibbutz in southern Israel with a population of 1,047 in 2021, known for a massacre during the 2023 Hamas attack where 100 people were killed.

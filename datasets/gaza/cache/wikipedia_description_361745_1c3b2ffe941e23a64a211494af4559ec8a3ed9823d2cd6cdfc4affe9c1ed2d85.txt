@@ -1,0 +1,20 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Presidency of Bill Clinton
+Long description: Bill Clinton's tenure as the 42nd president of the United States began with his first inauguration on January 20, 1993, and ended on January 20, 2001. Clinton, a Democrat from Arkansas, took office following an election victory over Republican incumbent president George H. W. Bush and independent businessman Ross Perot in 1992. Four years later, in 1996, he defeated Perot again (then as the nominee of the Reform Party) and Republican nominee Bob Dole, to win re-election; Clinton was succeeded by Republican George W. Bush, who won the 2000 presidential election.
+The nation experienced an extended period of economic prosperity during the Clinton presidency.  While the economy remained strong, his presidency oscillated dramatically from high to low and back again, which historian Gil Troy characterized in six Acts. Act I in early 1993 was "Bush League" with amateurish distractions. By mid-1993 Clinton had recovered to Act II, passing a balanced budget and the NAFTA trade deal. Act III, 1994, saw the Republicans mobilizing under Newt Gingrich, defeating his healthcare reforms, and taking control of the House of Representatives for the first time in forty years. 1995 to 1997 saw the comeback in Act IV, with a triumphant reelection landslide. However, Act V, the Lewinsky scandal and impeachment made 1998 a lost year. Clinton concluded happily with Act VI by deregulating the banking system in 1999.Months into his first term, he signed the Omnibus Budget Reconciliation Act of 1993, which raised taxes and set the stage for future budget surpluses. He signed the bipartisan Violent Crime Control and Law Enforcement Act and won ratification of the North American Free Trade Agreement, despite opposition from trade unions and environmentalists. Clinton's most ambitious legislative initiative, a plan to provide universal health care, faltered—it never had majority support in Congress. In the 1994 elections, the Republican Revolution swept the country. Clinton vetoed many of the Republican policies such as abortion restrictions. He assembled a bipartisan coalition to pass welfare reform and expand health insurance for children.
+In foreign policy, Clinton launched a major bombing campaign in the Balkans, which led to the creation of a United Nations protectorate in Kosovo. He played a major role of the expansion of NATO into former Eastern Bloc countries but remained on good terms with Russian President Boris Yeltsin. During his second term, Clinton presided over the deregulation of the financial and telecommunications industry. Clinton's second term saw the first federal budget surpluses since the 1960s, but was partially overshadowed by his impeachment in 1998. His impeachment arose after he denied having an affair with a White House intern, Monica Lewinsky under oath and telling Lewinsky to do the same. Though the House of Representatives voted to impeach Clinton, he was acquitted of all charges by the Senate. He appointed Ruth Bader Ginsburg and Stephen Breyer to the U.S. Supreme Court.
+Clinton left office with high approval ratings, though his preferred successor, Vice President Al Gore, was narrowly defeated in the Electoral College by George W. Bush in the 2000 presidential election. Historians and political scientists have tended to rank Clinton as an above-average president.
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+The Presidency of Bill Clinton, from 1993 to 2001, marked a period of extended economic prosperity for the United States; he signed critical acts such as the Violent Crime Control and Law Enforcement Act and the Omnibus Budget Reconciliation Act, but faced impeachment in his second term due to a perjury scandal involving Monica Lewinsky.

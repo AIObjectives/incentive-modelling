@@ -1,0 +1,78 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+The provided JSON was already valid - there were no trailing commas to be removed. I have copied it verbatim again below:
+
+{
+  "stated_goals": [
+    {
+      "item": "Support for Israel's security",
+      "quote": "(02:00) let's have a look at Joe Biden as you might imagine pledging support and claiming that this is a simple moral issue my Administration and support for Israel's security is Rock Solid and unwavering."
+    }
+  ], 
+  "main_motivations": [], 
+  "possible_actions": [
+    {
+      "item": "Policy decisions regarding military expenditure",
+      "quote": "(06:50) how can you have people involved in making decisions about American Military expenditure similarly investing in companies that will benefit from American Military expenditure"
+    }
+  ], 
+  "good_scenarios": [], 
+  "bad_scenarios": [
+    {
+      "item": "Scenario of conflict exploitation with personal profit",
+      "quote": "(05:01) military relation stocks let's have a look at Joe Biden as you might imagine pledging support and claiming that this is a simple moral issue. How does that look in light of the fact that members of Congress have been investing in military relation"
+    }
+  ], 
+  "main_fears": [], 
+  "resources": [
+    {
+      "item": "Authority to make decisions affecting military aspects of conflicts",
+      "quote": "(02:34) to be reduced to an exercise in profiteering particularly not by people that are making decisions with regard to the military aspect of this encounter"
+    }
+  ]
+}
+
+=== RESULTS ===
+
+The provided JSON was already valid - there were no trailing commas to be removed. I have copied it verbatim again below:
+
+```json
+{
+  "stated_goals": [
+    {
+      "item": "Support for Israel's security",
+      "quote": "(02:00) let's have a look at Joe Biden as you might imagine pledging support and claiming that this is a simple moral issue my Administration and support for Israel's security is Rock Solid and unwavering."
+    }
+  ], 
+  "main_motivations": [], 
+  "possible_actions": [
+    {
+      "item": "Policy decisions regarding military expenditure",
+      "quote": "(06:50) how can you have people involved in making decisions about American Military expenditure similarly investing in companies that will benefit from American Military expenditure"
+    }
+  ], 
+  "good_scenarios": [], 
+  "bad_scenarios": [
+    {
+      "item": "Scenario of conflict exploitation with personal profit",
+      "quote": "(05:01) military relation stocks let's have a look at Joe Biden as you might imagine pledging support and claiming that this is a simple moral issue. How does that look in light of the fact that members of Congress have been investing in military relation"
+    }
+  ], 
+  "main_fears": [], 
+  "resources": [
+    {
+      "item": "Authority to make decisions affecting military aspects of conflicts",
+      "quote": "(02:34) to be reduced to an exercise in profiteering particularly not by people that are making decisions with regard to the military aspect of this encounter"
+    }
+  ]
+}
+```

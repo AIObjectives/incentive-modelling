@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Mosul" which was described 
+as "A major city in northern Iraq" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Mosul",
+    "pageid": 200475,
+    "snippet": "<span class=\"searchmatch\">Mosul</span> (/ˈmoʊsəl, moʊˈsuːl/ MOH-səl, moh-SOOL; Arabic: الموصل, romanized: al-Mawṣil, pronounced [alˈmawsˤil] , locally [ɪlˈmoːsˤɪl]; Kurdish: مووسڵ, romanized: Mûsil;"
+  },
+  {
+    "title": "Battle of Mosul (2016–2017)",
+    "pageid": 52019122,
+    "snippet": "The Battle of <span class=\"searchmatch\">Mosul</span> (Arabic: معركة الموصل, Ma'rakat al-Mawṣil; Kurdish: شەڕی مووسڵ, Şerrê Mûsilê) was a major military campaign launched by the Iraqi"
+  },
+  {
+    "title": "Mosul (disambiguation)",
+    "pageid": 23656623,
+    "snippet": "Look up <span class=\"searchmatch\">Mosul</span> in Wiktionary, the free dictionary. <span class=\"searchmatch\">Mosul</span> is a city in northern Iraq. <span class=\"searchmatch\">Mosul</span> may also refer to: <span class=\"searchmatch\">Mosul</span> Governorate, a governorate <span class=\"searchmatch\">Mosul</span> Province"
+  },
+  {
+    "title": "Mosul (2019 action film)",
+    "pageid": 66008299,
+    "snippet": "<span class=\"searchmatch\">Mosul</span> is a 2019 Arabic-language American war action film written and directed by Matthew Michael Carnahan. The film is based on the 2016 Battle of Mosul"
+  },
+  {
+    "title": "Nineveh",
+    "pageid": 21699,
+    "snippet": "ancient Assyrian city of Upper Mesopotamia, located in the modern-day city of <span class=\"searchmatch\">Mosul</span> in northern Iraq. It is located on the eastern bank of the Tigris River"
+  },
+  {
+    "title": "Battle of Mosul",
+    "pageid": 5352994,
+    "snippet": "Battle of <span class=\"searchmatch\">Mosul</span> may refer to: Battle of <span class=\"searchmatch\">Mosul</span> (1107), a battle in which Kilij Arslan I of the Rum Seljuks conquered <span class=\"searchmatch\">Mosul</span> Siege of <span class=\"searchmatch\">Mosul</span> (1743), an offensive"
+  },
+  {
+    "title": "Archeparchy of Mosul",
+    "pageid": 12488969,
+    "snippet": "Archeparchy of <span class=\"searchmatch\">Mosul</span> may refer to: Archeparchy of <span class=\"searchmatch\">Mosul</span> (Church of the East), a historical archeparchy (archdiocese) of the Church of the East, in <span class=\"searchmatch\">Mosul</span> (Iraq)"
+  },
+  {
+    "title": "Fall of Mosul",
+    "pageid": 44816101,
+    "snippet": "fall of <span class=\"searchmatch\">Mosul</span> occurred between 4 and 10 June 2014, when Islamic State (IS) insurgents, initially led by Abu Abdulrahman al-Bilawi, captured <span class=\"searchmatch\">Mosul</span> from the"
+  },
+  {
+    "title": "Mosul vilayet",
+    "pageid": 3752690,
+    "snippet": "The <span class=\"searchmatch\">Mosul</span> Vilayet (Arabic: ولاية الموصل; Ottoman Turkish: ولايت موصل, romanized: Vilâyet-i Musul) was a first-level administrative division (vilayet)"
+  },
+  {
+    "title": "Mosul question",
+    "pageid": 37979332,
+    "snippet": "The <span class=\"searchmatch\">Mosul</span> question was a territorial dispute in the early 20th century between Turkey and the United Kingdom (later Iraq) over the possession of the former"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+200475

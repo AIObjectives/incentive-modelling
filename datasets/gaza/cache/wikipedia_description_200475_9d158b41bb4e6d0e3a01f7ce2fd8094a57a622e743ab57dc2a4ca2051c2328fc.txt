@@ -1,0 +1,23 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Mosul
+Long description: Mosul ( MOH-səl, moh-SOOL; Arabic: الموصل, romanized: al-Mawṣil, pronounced [alˈmawsˤil] , locally [ɪlˈmoːsˤɪl]; Kurdish: مووسڵ, romanized: Mûsil; Turkish: Musul; Syriac: ܡܘܨܠ, romanized: Māwṣil) is a major city in northern Iraq, serving as the capital of Nineveh Governorate. The city is considered the second-largest city in Iraq in terms of population and area after the capital Baghdad, with a population of over 3.7 million. Mosul is approximately 400 km (250 mi) north of Baghdad on the Tigris river. The Mosul metropolitan area has grown from the old city on the western side to encompass substantial areas on both the "Left Bank" (east side) and the "Right Bank" (west side), as locals call the two riverbanks. Mosul encloses the ruins of the ancient Assyrian city of Nineveh – once the largest city in the world – on its east side.
+Mosul and its surroundings have an ethnically and religiously diverse population; a large majority of its population are Arabs, with Assyrians, Turkmens, Kurds and other minorities comprising the rest of the city's population. Sunni Islam is the largest religion, but there are a significant number of Christians, as well as adherents of other sects of Islam and other minority religions.
+Mosul is considered among the larger and more historically and culturally significant cities of the Arab world. Due to Mosul's strategic location, it has traditionally served as a hub of international commerce and travel. The North Mesopotamian dialect of Arabic, commonly known as Moslawi, is named after Mosul and is widely spoken in the region.
+Historically, essential products of the area include Mosul marble and oil. Mosul is home to the University of Mosul and its renowned Medical College, one of the Middle East's largest educational and research centers.
+Together with the nearby Nineveh Plains, Mosul is one of the historical centers of the Assyrian people.
+
+
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+Mosul is a major city in northern Iraq, known as the capital of Nineveh Governorate, and is notable for its diverse population, strategic location as a hub of international commerce, and historical significance in the Arab world.

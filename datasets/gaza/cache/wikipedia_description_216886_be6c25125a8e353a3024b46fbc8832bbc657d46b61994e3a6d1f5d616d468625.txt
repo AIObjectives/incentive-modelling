@@ -1,0 +1,19 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Northrop Grumman
+Long description: Northrop Grumman Corporation is an American multinational aerospace and defense technology company. With 95,000 employees and an annual revenue in excess of $30 billion, it is one of the world's largest weapons manufacturers and military technology providers. The firm ranks No. 101 on the 2022 Fortune 500 list of America's largest corporations.Northrop Grumman and its industry partners have won the Collier Trophy nine times, most recently for work on the James Webb Space Telescope.Northrop Grumman leads the development of the B-21 Raider, a long-range, stealth strategic bomber that can drop conventional and nuclear weapons; it will replace Northrop's own B-2 Spirit, the world's only known stealth bomber. Among its other projects are development and production of the James Webb Space Telescope, an orbiting observatory launched in 2021, and production of the solid rocket boosters for NASA's Space Launch System program. It was the sole bidder on the Air Force's Ground Based Strategic Deterrent program, which aims to develop and build a new intercontinental ballistic missile.
+
+
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+Northrop Grumman Corporation is an American multinational aerospace and defense technology company, recognized as one of the world's largest weapons manufacturers and military technology providers, with significant contributions to projects like the James Webb Space Telescope and the development of stealth bombers.

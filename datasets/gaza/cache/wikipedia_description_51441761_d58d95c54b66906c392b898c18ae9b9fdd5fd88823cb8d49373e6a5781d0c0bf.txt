@@ -1,0 +1,19 @@
+model: gpt-4
+
+//user:
+
+ I have used the Wikipedia API to extract some description for a page but the description is a bit long: 
+
+``` 
+Page name: Rumbo (Texas newspapers)
+Long description: Rumbo (meaning "heading to" as in "heading to the United States") is a chain of Spanish-language newspapers headquartered in Texas, with editions in San Antonio, Houston, and the Rio Grande Valley. It was originally headquartered in San Antonio but later moved its offices to Houston. It was initially a daily publication, but the frequency later changed to weekly. By 2014 it was no longer in print and became online-only.
+
+
+```
+
+Return a more concise description. Aim for a single sentence, roughly 2 or 3 lines. 
+
+
+=== RESULTS ===
+
+"Rumbo is a Texas-based chain of Spanish-language newspapers, originally a daily publication that became online-only in 2014, with editions in San Antonio, Houston, and the Rio Grande Valley."

@@ -1,0 +1,50 @@
+model: gpt-4
+
+//user:
+
+ 
+You are a JSON fixer. I will give you a string below which was produced 
+by a buggy program and I want you to make small modifications to 
+fix this string and make sure to return some syntactically-valid JSON. 
+
+Here's the string:
+
+
+{
+  "stated_goals": [], 
+  "main_motivations": [], 
+  "possible_actions": [], 
+  "good_scenarios": [
+    {
+        "item": "stock surge during times of geopolitical tension",
+        "quote": "For starters defense company General Dynamics has witnessed a surge in purchases this isn't entirely unexpected defense stocks often become attractive during times of geopolitical tension"
+    }
+  ], 
+  "bad_scenarios": [], 
+  "main_fears": [], 
+  "resources": [], 
+}
+
+
+=== RESULTS ===
+
+The error with your JSON string is the trailing comma in the last item of the JSON object. JSON does not allow trailing commas. 
+
+Here's the fixed version:
+
+```
+{
+  "stated_goals": [], 
+  "main_motivations": [], 
+  "possible_actions": [], 
+  "good_scenarios": [
+    {
+        "item": "stock surge during times of geopolitical tension",
+        "quote": "For starters defense company General Dynamics has witnessed a surge in purchases this isn't entirely unexpected defense stocks often become attractive during times of geopolitical tension"
+    }
+  ], 
+  "bad_scenarios": [], 
+  "main_fears": [], 
+  "resources": [] 
+}
+```

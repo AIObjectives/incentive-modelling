@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Kibbutz Be’eri" which was described 
+as "A kibbutz in southern Israel" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Be'eri",
+    "pageid": 17747548,
+    "snippet": "in the vicinity of <span class=\"searchmatch\">Kibbutz</span> <span class=\"searchmatch\">Be'eri</span>. Relations between <span class=\"searchmatch\">Be'eri</span> residents and Gazans were reportedly good. Bret Stephens writes: <span class=\"searchmatch\">Be’eri</span> was well known for"
+  },
+  {
+    "title": "Be'eri massacre",
+    "pageid": 75016656,
+    "snippet": "on Israel, around 70 Hamas militants carried out a massacre at <span class=\"searchmatch\">Be'eri</span>, an Israeli <span class=\"searchmatch\">kibbutz</span> near the Gaza Strip. At least 130 people were killed in the attack"
+  },
+  {
+    "title": "Kibbutz volunteer",
+    "pageid": 8795763,
+    "snippet": "volunteering at <span class=\"searchmatch\">Kibbutz</span> <span class=\"searchmatch\">Be'eri</span> at the age of 18 in 1974. Sandra Bernhard, American comedian, actress, author and singer, volunteered for a year at <span class=\"searchmatch\">Kibbutz</span> Kfar Menachem"
+  },
+  {
+    "title": "Be'eri print",
+    "pageid": 75174507,
+    "snippet": "partial operation on October 15. <span class=\"searchmatch\">Be’eri</span>, Israel, Jewish Virtual Library &quot;Herzog re-opens factory in devastated <span class=\"searchmatch\">Kibbutz</span> <span class=\"searchmatch\">Be'eri</span>&quot;. Jewish Chronicle. 15 October"
+  },
+  {
+    "title": "Be'eri Forest",
+    "pageid": 70782074,
+    "snippet": "Eshkol Regional Council area. It was planted by the pioneers of the <span class=\"searchmatch\">kibbutz</span> <span class=\"searchmatch\">Be'eri</span>. The forest has a diverse array of tree types, encompassing conifers"
+  },
+  {
+    "title": "Vivian Silver",
+    "pageid": 75004795,
+    "snippet": "Israel Fund, and on the Steering Committee of Shatil. She moved to <span class=\"searchmatch\">Be'eri</span>, a <span class=\"searchmatch\">kibbutz</span> near the Gaza border, in 1990, along with her husband and two sons"
+  },
+  {
+    "title": "Shaldag Unit",
+    "pageid": 14598647,
+    "snippet": "the 2023 Israel war. During the <span class=\"searchmatch\">Be'eri</span> massacre twelve Shaldag airmen were airlifted by helicopter into <span class=\"searchmatch\">Kibbutz</span> <span class=\"searchmatch\">Be'eri</span>. The Israeli military was not able"
+  },
+  {
+    "title": "Attacks on health facilities during the 2023 Israel–Hamas war",
+    "pageid": 75314000,
+    "snippet": "personnel. During <span class=\"searchmatch\">Be'eri</span> massacre on October 7, the local dental clinic became the site of a standoff between attacking militants and the <span class=\"searchmatch\">kibbutz's</span> security teams"
+  },
+  {
+    "title": "List of terrorist incidents in 2023",
+    "pageid": 72680639,
+    "snippet": "2023. Hutchinson, Bill (13 October 2023). &quot;Israel's 'Ground Zero:' The <span class=\"searchmatch\">Be'eri</span> <span class=\"searchmatch\">Kibbutz</span> was among the bloodiest scenes of the Hamas attack&quot;. ABC News. Retrieved"
+  },
+  {
+    "title": "Be'eri Badlands",
+    "pageid": 70781769,
+    "snippet": "Reserve)) is located in the Western Negev area, northwest of <span class=\"searchmatch\">kibbutz</span> <span class=\"searchmatch\">Be'eri</span> within the <span class=\"searchmatch\">Be'eri</span> Forest. The badlands area lies in the upper basin of the Sahaf"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+17747548

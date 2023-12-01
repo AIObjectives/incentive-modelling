@@ -1,0 +1,66 @@
+model: gpt-4
+
+//user:
+
+ I'm looking for the best wikipedia page for "Northrop Grumman" which was described 
+as "An American multinational aerospace and defense technology company" and the wikipedia search API gave me the following options: 
+
+[
+  {
+    "title": "Northrop Grumman",
+    "pageid": 216886,
+    "snippet": "<span class=\"searchmatch\">Northrop</span> <span class=\"searchmatch\">Grumman</span> Corporation is an American multinational aerospace and defense technology company. With 95,000 employees and an annual revenue in excess"
+  },
+  {
+    "title": "Northrop Grumman B-21 Raider",
+    "pageid": 49556874,
+    "snippet": "The <span class=\"searchmatch\">Northrop</span> <span class=\"searchmatch\">Grumman</span> B-21 Raider is an American strategic bomber under development for the United States Air Force (USAF) by <span class=\"searchmatch\">Northrop</span> <span class=\"searchmatch\">Grumman</span>. As part"
+  },
+  {
+    "title": "Northrop Grumman RQ-4 Global Hawk",
+    "pageid": 37375,
+    "snippet": "The <span class=\"searchmatch\">Northrop</span> <span class=\"searchmatch\">Grumman</span> RQ-4 Global Hawk is a high-altitude, remotely-piloted surveillance aircraft introduced in 2001. It was initially designed by Ryan"
+  },
+  {
+    "title": "Northrop Grumman X-47B",
+    "pageid": 4908033,
+    "snippet": "The <span class=\"searchmatch\">Northrop</span> <span class=\"searchmatch\">Grumman</span> X-47B is a demonstration unmanned combat aerial vehicle (UCAV) designed for aircraft carrier-based operations. Developed by the American"
+  },
+  {
+    "title": "Northrop Grumman B-2 Spirit",
+    "pageid": 4396,
+    "snippet": "The <span class=\"searchmatch\">Northrop</span> <span class=\"searchmatch\">Grumman</span> B-2 Spirit, also known as the Stealth Bomber, is an American heavy strategic bomber, featuring low-observable stealth technology designed"
+  },
+  {
+    "title": "Northrop Grumman RQ-180",
+    "pageid": 41289029,
+    "snippet": "The <span class=\"searchmatch\">Northrop</span> <span class=\"searchmatch\">Grumman</span> RQ-180 is an American stealth unmanned aerial vehicle (UAV) surveillance aircraft intended for contested airspace. As of 2019[update]"
+  },
+  {
+    "title": "Northrop Grumman Pegasus",
+    "pageid": 740095,
+    "snippet": "by Orbital Sciences Corporation (OSC) and now built and launched by <span class=\"searchmatch\">Northrop</span> <span class=\"searchmatch\">Grumman</span>. Pegasus is the world's first privately developed orbital launch vehicle"
+  },
+  {
+    "title": "Northrop Grumman E-2 Hawkeye",
+    "pageid": 56075,
+    "snippet": "The <span class=\"searchmatch\">Northrop</span> <span class=\"searchmatch\">Grumman</span> E-2 Hawkeye is an American all-weather, carrier-capable tactical airborne early warning (AEW) aircraft. This twin-turboprop aircraft"
+  },
+  {
+    "title": "Northrop Grumman Bat",
+    "pageid": 10105296,
+    "snippet": "The <span class=\"searchmatch\">Northrop</span> <span class=\"searchmatch\">Grumman</span> Bat is a medium-altitude unmanned air vehicle originally developed for use by the United States Armed Forces. Designed primarily as"
+  },
+  {
+    "title": "Northrop Grumman MQ-4C Triton",
+    "pageid": 894952,
+    "snippet": "The <span class=\"searchmatch\">Northrop</span> <span class=\"searchmatch\">Grumman</span> MQ-4C Triton is an American high-altitude long endurance unmanned aerial vehicle (UAV) developed for and flown by the United States"
+  }
+]
+
+What is the pageid of the answer looking like the best match? 
+Please only return the pageid, formatted as a simple number without quotes or anything.
+
+=== RESULTS ===
+
+216886
