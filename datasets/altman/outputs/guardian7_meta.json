@@ -1,0 +1,36 @@
+{
+  "title": "Sam Altman to return as CEO of OpenAI",
+  "source": "Guardian",
+  "date": "Wed 22 Nov 2023 07.07 GMT",
+  "authors": [
+    "Dan Milmo"
+  ],
+  "link": "https://www.theguardian.com/technology/2023/nov/22/sam-altman-openai-ceo-return-board-chatgpt",
+  "relevance_score": 0.9,
+  "relevance_explanation": "The document is highly relevant as it discusses the comprehensive sequence of events surrounding Sam Altman's termination and reappointment as CEO of OpenAI, which are directly linked to the core research goals of understanding the driving factors and power dynamics behind the decision.",
+  "summary": "Sam Altman is reappointed as CEO of OpenAI following internal company turmoil and pressure by staff and OpenAI's biggest investor, Microsoft. A new board is announced, and the reinstatement is partly due to nearly all OpenAI employees threatening to resign. Microsoft supported the move, emphasizing its desire for stable governance and pledging to continue partnership. OpenAI will conduct an investigation into the sacking.",
+  "events": [
+    "Sam Altman is fired by OpenAI's board",
+    "The 750-strong OpenAI workforce threatens to resign if Altman is not returned to CEO",
+    "New board is chaired by Bret Taylor with members like Larry Summers and Adam D'Angelo",
+    "Microsoft hires Altman and Greg Brockman, exerting influence over OpenAI",
+    "An independent investigation into Altman's sacking is announced"
+  ],
+  "entities": [
+    "Sam Altman",
+    "OpenAI",
+    "Bret Taylor",
+    "Larry Summers",
+    "Adam D’Angelo",
+    "Microsoft",
+    "Greg Brockman",
+    "Satya Nadella",
+    "Mira Murati",
+    "Emmett Shear",
+    "Ilya Sutskever",
+    "Tasha McCauley",
+    "Helen Toner",
+    "Anna Makanju"
+  ],
+  "document_type": "newspaper article"
+}

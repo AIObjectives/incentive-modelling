@@ -1,0 +1,77 @@
+Title: Sam Altman: Ousted OpenAI boss to return days after being sacked
+Date: 22 November 2023
+Source: BBC 
+Authors: Thomas Mackintosh & Chris Vallance
+Link: https://www.bbc.co.uk/news/business-67494165
+
+=== 
+
+OpenAI co-founder Sam Altman will return as boss just days after he was fired by the board, the firm has said.
+
+The agreement "in principle" involves new board members being appointed, the tech company added.
+
+Mr Altman's sacking on Friday astonished industry watchers and led to staff threatening mass resignations unless he was reinstated.
+
+"I am looking forward to returning to OpenAI," Mr Altman said in a post on X, formerly Twitter.
+
+He added: "I love OpenAI, and everything I've done over the past few days has been in service of keeping this team and its mission together.
+
+Last week, the board decided to remove Mr Altman, which led to co-founder Greg Brockman's resignation, sending the star artificial intelligence (AI) company into chaos.
+
+The decision was made by the three non-employee board members, Adam D'Angelo, Tasha McCauley and Helen Toner, and a third co-founder and the firm's chief scientist Ilya Sutskever.
+
+But on Monday Mr Sutskever apologised on X, and signed the staff letter calling on the board to reverse course.
+
+Microsoft, which uses OpenAI technology in many of its products - and is its biggest investor - then offered Mr Altman a job leading "a new advanced AI research team" at the tech giant.
+
+Then on Wednesday, OpenAI said it had agreed Mr Altman's return to the tech company in principle, and that it would partly reconstitute the board of directors that had dismissed him.
+
+Former Salesforce co-CEO Bret Taylor and former US treasury secretary Larry Summers will join current director Adam D'Angelo, OpenAI said.
+
+In a post on X, Mr Brockman also said he would be returning to the firm.
+
+Emmett Shear, who had been appointed OpenAI's interim chief executive, said he was "deeply pleased" by Mr Altman's return after about "72 very intense hours of work".
+
+Microsoft boss Satya Nadella said the firm was "encouraged by the changes to the OpenAI board".
+
+"We believe this is a first essential step on a path to more stable, well-informed, and effective governance."
+
+Many staff, posting online, have been enthusiastic about the development: "We're back - and we'll be better than ever", wrote employee Cory Decareaux on Linkedin.
+
+"This has been the craziest past few days - crazier than I ever could've imagined. This is an example of what a united company culture looks like."
+
+Others, though, suggest the episode has been damaging to OpenAI which - by creating the chatbot ChatGPT - became arguably the most important AI firm in the world.
+
+"OpenAI can't be the same company it was up until Friday night. That has implications not only for potential investors but also for recruitment", Nick Patience of S&P Global Market Intelligence told the BBC.
+
+Many businesses and projects now rely on OpenAI's technology.
+
+One project, Be My Eyes, worked with the firm to develop an AI-powered assistant for blind and partially-sighted people.
+
+Its chief executive Michael Buckley wrote on LinkedIn that he had been "bombarded by sales calls from rival [AI] companies seeking some opportunistic business wins" but he said they would be sticking with OpenAI because,"they prioritized accessibility" even though it was "close to meaningless for them from a revenue perspective".
+
+Unanswered questions
+The battle at the top of OpenAI began when the then board announced it was firing Mr Altman, saying it had "lost confidence" in his leadership.
+
+It accused him of not being "consistently candid in his communications" - and, even after the many twists and turns since Friday, it remains unclear what they felt he was not being candid about.
+
+Whatever the explanation, it was clear that OpenAI staff were deeply unhappy - more-than-700 of them signed an open letter threatening to leave unless the board resigned.
+
+The letter stated that Microsoft had assured them that there were jobs for all OpenAI staff if they wanted to join the company, with Microsoft later confirming it would match their existing pay.
+
+That threat now appears to have been seen off by Mr Altman's dramatic return.
+
+But the upheaval of the past few days has raised questions about how a group of just four people could make decisions that have rocked a multi-billion dollar technology business.
+
+In part this is because of OpenAI's unusual structure and purpose.
+
+It began life in 2015 as a non-profit - many charities have that status - with the mission to create "safe artificial general intelligence that benefits all of humanity". Its objectives did not include looking after the interests of shareholders or maximising revenue.
+
+In 2019 it added a for-profit subsidiary but its purpose remained unchanged and the not-for-profit's board remained in charge.
+
+It's not clear whether tensions over the future direction of OpenAI contributed to this crisis or what commitments - if any - Mr Altman made to secure his return.
+
+But many observers have called for greater clarity, with Tesla boss Elon Musk among those who have urged the board members to "say something".
+
+But that has yet to happen. Reacting on X to the news of the reinstatement and new board, Ms Toner said no more than "and now, we all get some sleep".
+

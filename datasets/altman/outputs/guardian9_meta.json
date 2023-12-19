@@ -1,0 +1,33 @@
+{
+  "title": "OpenAI ‘was working on advanced model so powerful it alarmed staff’",
+  "source": "Guardian",
+  "date": "Thu 23 Nov 2023",
+  "authors": [
+    "Dan Milmo"
+  ],
+  "link": "https://www.theguardian.com/business/2023/nov/23/openai-was-working-on-advanced-model-so-powerful-it-alarmed-staff",
+  "relevance_score": 0.9,
+  "relevance_explanation": "This document is highly relevant as it covers the events surrounding Sam Altman's sacking and the subsequent actions by OpenAI's staff and board. It gives insight into the reasons that may have led to the board's decision and describes the power dynamics within the company.",
+  "summary": "OpenAI developed a powerful AI model, Q*, triggering safety concerns among its staff, which led to a warning to the board and may have influenced the firing and reinstating of CEO Sam Altman. OpenAI's board dynamics, including the influence of Microsoft as its largest investor, and staff actions are detailed, with additional context on the risks of AGI and the company's mission.",
+  "events": [
+    "Development of a novel and powerful AI model called Q* by OpenAI",
+    "Safety concerns raised by OpenAI staff regarding Q*",
+    "Staff writing to the board expressing safety concerns",
+    "The sacking of CEO Sam Altman",
+    "The reinstatement of Sam Altman after staff threatened to resign",
+    "Appointment of new board chair Bret Taylor"
+  ],
+  "entities": [
+    "OpenAI",
+    "Sam Altman",
+    "Q* (AI model)",
+    "Microsoft",
+    "Andrew Rogoyski",
+    "Institute for People-Centred AI at the University of Surrey",
+    "Asia-Pacific Economic Cooperation (Apec) summit",
+    "Bret Taylor",
+    "Salesforce",
+    "Emmett Shear"
+  ],
+  "document_type": "newspaper article"
+}

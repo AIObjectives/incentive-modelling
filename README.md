@@ -1,17 +1,34 @@
-Opnboarding
+# Incentives Modelling Prototype
 
-1. See project plan here (read about OAA)
-   https://docs.google.com/document/d/19E3qMEOZ7PAraJA6ezyBCN0W0NOOh-gphpwcQ01uVi4/edit#heading=h.cp1k54wpy0cq
+## Add new datasets under `/datasets`
 
-2. Review code, and consider changing the following:
+See `./datasets/altman` folder for an example.
 
-- folder structure for different domains
-- visualising all sources for one domain in one place
-- better UI with fixed column header, ways too see multiple sources and quotes
-- iterate on prompts, using gpt-4-turbo (no more need for fixed_json)
-- add more data...
+Add an `./input` folder with text files to be processed, possibly with some metadata in the header.
+Describe some high-level goals in `./goals.txt`.
+Create an empty `./cache` folder and `./outputs` folder.
 
-3. first MVP to include in grant proposal...
+## Run the main scripts
 
-- one domain, example of outputs (our table)
-- custom GPTs fed with raw data and instruction...
+Install a modern version of node and then run the following, substituting `altman` with the name of your dataset folder.
+
+```
+export OPENAI_API_KEY=...
+node main_step1_matrix.js altman
+node main_step2_tables.js altman
+```
+
+The first script will produce a bunch of files in `./outputs` including a `data.json` files with contains
+all the data used by the client to display the large matrix view.
+
+The second script will produce files in `./outputs/` of the form `table_....json`. These contains the data
+used by the front-end to display the individual tables with clusters of incentives.
+
+## Development
+
+To run the front-end locally:
+
+```
+cd client
+npm run dev
+```

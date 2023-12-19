@@ -1,0 +1,21 @@
+Source: Reuters
+Title: OpenAI's $86 billion share sale in jeopardy after Altman firing, The Information reports
+Date: November 18, 20237:36 PM GMTUpdated 17 days ago
+Link: https://www.reuters.com/technology/openais-86-bln-share-sale-jeopardy-following-altman-firing-information-2023-11-18/
+
+=== 
+
+Nov 18 (Reuters) - A planned sale of OpenAI employee shares that would value the startup at about $86 billion on paper hangs in the balance after the sudden firing of CEO Sam Altman and a slew of top executive departures, the Information reported on Saturday.
+
+The tender offer, which Thrive Capital is leading, has not yet closed but has been in its final stages and was expected to be completed as soon as next month, the report added, citing a person familiar with the matter.
+
+OpenAI and Thrive Capital did not immediately respond to Reuters' requests for comment.
+
+The news comes after the board of the company behind ChatGPT fired Altman on Friday.
+
+Greg Brockman, OpenAI president and co-founder, who stepped down from the board as chairman as part of the management shuffle, quit the company.
+
+The departures blindsided many employees who discovered the abrupt management change from an internal message and the company's public facing blog.
+
+Backed by billions of dollars from Microsoft (MSFT.O), which does not have a board seat in the non-profit governing the startup, OpenAI kicked off the generative AI craze last November by releasing ChatGPT.
+

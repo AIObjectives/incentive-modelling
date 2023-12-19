@@ -1,0 +1,308 @@
+[
+  {
+    "name": "OpenAI",
+    "description": "An AI startup company",
+    "mentions": 6,
+    "wikipedia": {
+      "id": "48795986",
+      "name": "OpenAI",
+      "extract": "OpenAI is an American artificial intelligence (AI) research organization consisting of the non-profit OpenAI, Inc. registered in Delaware and its for-profit subsidiary OpenAI Global, LLC. OpenAI researches artificial intelligence with the declared intention of developing \"safe and beneficial\" artificial general intelligence, which it defines as \"highly autonomous systems that outperform humans at most economically valuable work\". OpenAI has also developed several large language models, such as ChatGPT and GPT-4, as well as advanced image generation models like DALL-E 3, and in the past published open-source models.The organization was founded in December 2015 by Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston, John Schulman, Pamela Vagata, and Wojciech Zaremba, with Sam Altman and Elon Musk serving as the initial board members. Microsoft provided OpenAI Global LLC with a $1 billion investment in 2019 and a $10 billion investment in 2023, with a significant portion of the investment in the form of compute resources on Microsoft's Azure cloud service.On November 17, 2023, the board removed Altman as CEO, while Brockman was removed as chairman and then resigned as president. Four days later, both returned after negotiations with the board, and most of the board members resigned. The new initial board included former Salesforce co-CEO Bret Taylor as chairman. OpenAI also announced that Microsoft would have a non-voting board seat at OpenAI.",
+      "description": "OpenAI is an American AI research organization, focusing on developing \"safe and beneficial\" artificial general intelligence and producing large language and image generation models, funded by significant investments by Microsoft."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Not applicable",
+          "quote": "Not applicable"
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Not applicable",
+          "quote": "Not applicable"
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Share Sale",
+          "quote": "A planned sale of OpenAI employee shares that would value the startup at about $86 billion on paper hangs in the balance after the sudden firing of CEO Sam Altman and a slew of top executive departures"
+        },
+        {
+          "item": "Leadership shuffle",
+          "quote": "Greg Brockman, OpenAI president and co-founder, who stepped down from the board as chairman as part of the management shuffle, quit the company."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Successfully completing share sale",
+          "quote": "The tender offer, which Thrive Capital is leading, has not yet closed but has been in its final stages and was expected to be completed as soon as next month"
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Disrupting Share Sale",
+          "quote": "A planned sale of OpenAI employee shares that would value the startup at about $86 billion on paper hangs in the balance after the sudden firing of CEO Sam Altman and a slew of top executive departures"
+        },
+        {
+          "item": "Leadership changes",
+          "quote": "Greg Brockman, OpenAI president and co-founder, who stepped down from the board as chairman as part of the management shuffle, quit the company."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Not applicable",
+          "quote": "Not applicable"
+        }
+      ],
+      "resources": [
+        {
+          "item": "Financial backing from Microsoft",
+          "quote": "Backed by billions of dollars from Microsoft (MSFT.O), which does not have a board seat in the non-profit governing the startup, OpenAI kicked off the generative AI craze last November by releasing ChatGPT."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sam Altman",
+    "description": "Former CEO of OpenAI",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "22476815",
+      "name": "Sam Altman",
+      "extract": "Samuel Harris Altman (; AWLT-mən; born April 22, 1985) is an American entrepreneur and investor, who has been the CEO of OpenAI since 2019 (he was briefly fired and reinstated in November 2023). Prior to OpenAI, Altman was president of Y Combinator from 2014 to 2019.\n\n",
+      "description": "Samuel Harris Altman, born April 22, 1985, is an American entrepreneur and investor, currently serving as the CEO of OpenAI, and was previously the president of Y Combinator from 2014 to 2019."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [],
+      "bad_scenarios": [
+        {
+          "item": "Unexpected removal as CEO",
+          "quote": "A planned sale of OpenAI employee shares that would value the startup at about $86 billion on paper hangs in the balance after the sudden firing of CEO Sam Altman"
+        }
+      ],
+      "main_fears": [],
+      "resources": []
+    }
+  },
+  {
+    "name": "Thrive Capital",
+    "description": "A private equity or venture capital firm leading the tender offer for OpenAI share sale",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "72557062",
+      "name": "Thrive Capital",
+      "extract": "Thrive Capital is an American venture capital firm based in New York City. It focuses on software and internet investments. The firm was founded by Joshua Kushner who is also co-founder of Oscar Health and minority owner of the Memphis Grizzlies.",
+      "description": "Thrive Capital is a New York-based American venture capital firm, founded by Joshua Kushner, specializing in software and internet investments."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [
+        {
+          "item": "Leading the planned sale of OpenAI employee shares",
+          "quote": "The tender offer, which Thrive Capital is leading, has not yet closed but has been in its final stages and was expected to be completed as soon as next month"
+        }
+      ],
+      "good_scenarios": [],
+      "bad_scenarios": [
+        {
+          "item": "The planned sale of OpenAI employee shares could fail due to the sudden firing of CEO Sam Altman and subsequent top executive departures at OpenAI",
+          "quote": "A planned sale of OpenAI employee shares that would value the startup at about $86 billion on paper hangs in the balance after the sudden firing of CEO Sam Altman and a slew of top executive departures"
+        }
+      ],
+      "main_fears": [],
+      "resources": []
+    }
+  },
+  {
+    "name": "Reuters",
+    "description": "An international news organization",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "18998750",
+      "name": "Reuters",
+      "extract": "Reuters ( , ROY-terz) is a news agency owned by Thomson Reuters Corporation. It employs around 2,500 journalists and 600 photojournalists in about 200 locations worldwide. Reuters is one of the largest news agencies in the world.The agency was established in London in 1851 by the German-born Paul Reuter. It was acquired by the Thomson Corporation of Canada in 2008 and now makes up the news media division of Thomson Reuters.\n\n",
+      "description": "Reuters is a global news agency, owned by the Thomson Reuters Corporation, that was established in London in 1851 and employs around 2,500 journalists worldwide."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [
+        {
+          "item": "Reporting on events and news",
+          "quote": "Nov 18 (Reuters) - A planned sale of OpenAI employee shares that would value the startup at about $86 billion on paper hangs in the balance after the sudden firing of CEO Sam Altman and a slew of top executive departures, the Information reported on Saturday."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Gather and publish information",
+          "quote": "OpenAI and Thrive Capital did not immediately respond to Reuters' requests for comment."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Getting direct comments from sources",
+          "quote": "OpenAI and Thrive Capital did not immediately respond to Reuters' requests for comment."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Not getting responses from sources",
+          "quote": "OpenAI and Thrive Capital did not immediately respond to Reuters' requests for comment."
+        }
+      ],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Information gathering and reporting capabilities",
+          "quote": "Nov 18 (Reuters) - A planned sale of OpenAI employee shares that would value the startup at about $86 billion on paper hangs in the balance after the sudden firing of CEO Sam Altman and a slew of top executive departures, the Information reported on Saturday."
+        }
+      ]
+    }
+  },
+  {
+    "name": "The Information",
+    "description": "Presumably a news or media outlet reporting on the issue",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "18985062",
+      "name": "Information",
+      "extract": "Information is an abstract concept that refers to that which has the power to inform.  At the most fundamental level, information pertains to the interpretation (perhaps formally) of that which may be sensed, or their abstractions.  Any natural process that is not completely random and any observable pattern in any medium can be said to convey some amount of information.  Whereas digital signals and other data use discrete signs to convey information, other phenomena and artifacts such as analogue signals, poems, pictures, music or other sounds, and currents convey information in a more continuous form.  Information is not knowledge itself, but the meaning that may be derived from a representation through interpretation.The concept of information is relevant or connected to various concepts, including constraint, communication, control, data, form, education, knowledge, meaning, understanding, mental stimuli, pattern, perception, proposition, representation, and entropy.\nInformation is often processed iteratively: Data available at one step are processed into information to be interpreted and processed at the next step.  For example, in written text each symbol or letter conveys information relevant to the word it is part of, each word conveys information relevant to the phrase it is part of, each phrase conveys information relevant to the sentence it is part of, and so on until at the final step information is interpreted and becomes knowledge in a given domain.  In a digital signal, bits may be interpreted into the symbols, letters, numbers, or structures that convey the information available at the next level up.  The key characteristic of information is that it is subject to interpretation and processing.\nThe derivation of information from a signal or message may be thought of as the resolution of ambiguity or uncertainty that arises during the interpretation of patterns within the signal or message.Information may be structured as data. Redundant data can be compressed up to an optimal size, which is the theoretical limit of compression.\nThe information available through a collection of data may be derived by analysis.  For example, a restaurant collects data from every customer order.  That information may be analyzed to produce knowledge that is put to use when the business subsequently wants to identify the most popular or least popular dish.Information can be transmitted in time, via data storage, and space, via communication and telecommunication. Information is expressed either as the content of a message or through direct or indirect observation. That which is perceived can be construed as a message in its own right, and in that sense, all information is always conveyed as the content of a message.\nInformation can be encoded into various forms for transmission and interpretation (for example, information may be encoded into a sequence of signs, or transmitted via a signal). It can also be encrypted for safe storage and communication.\nThe uncertainty of an event is measured by its probability of occurrence. Uncertainty is inversely proportional to the probability of occurrence. Information theory takes advantage of this by concluding that more uncertain events require more information to resolve their uncertainty. The bit is a typical unit of information. It is 'that which reduces uncertainty by half'. Other units such as the nat may be used. For example, the information encoded in one \"fair\" coin flip is log2(2/1) = 1 bit, and in two fair coin flips is log2(4/1) = 2 bits. A 2011 Science article estimates that 97% of technologically stored information was already in digital bits in 2007 and that the year 2002 was the beginning of the digital age for information storage (with digital storage capacity bypassing analogue for the first time).",
+      "description": "Information is an abstract concept that involves the interpretation of observable patterns or sensed data in various forms, like digital or analogue signals, and is often iteratively processed, enabling the derivation of knowledge and resolution of ambiguity."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [
+        {
+          "item": "OpenAI might respond to Reuters' requests for comment",
+          "quote": "OpenAI and Thrive Capital did not immediately respond to Reuters' requests for comment."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Successful completion of the tender offer",
+          "quote": "The tender offer, which Thrive Capital is leading, has not yet closed but has been in its final stages and was expected to be completed as soon as next month, the report added, citing a person familiar with the matter."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Share sale hangs in jeopardy",
+          "quote": "Nov 18 (Reuters) - A planned sale of OpenAI employee shares that would value the startup at about $86 billion on paper hangs in the balance after the sudden firing of CEO Sam Altman and a slew of top executive departures, the Information reported on Saturday."
+        },
+        {
+          "item": "Potential negative impact from sudden management shuffle",
+          "quote": "The departures blindsided many employees who discovered the abrupt management change from an internal message and the company's public facing blog."
+        }
+      ],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Support from Microsoft",
+          "quote": "Backed by billions of dollars from Microsoft (MSFT.O), which does not have a board seat in the non-profit governing the startup, OpenAI kicked off the generative AI craze last November by releasing ChatGPT."
+        }
+      ]
+    }
+  },
+  {
+    "name": "ChatGPT",
+    "description": "An AI product developed by OpenAI",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "72417803",
+      "name": "ChatGPT",
+      "extract": "ChatGPT (Chat Generative Pre-trained Transformer) is a large language model-based chatbot developed by OpenAI and launched on November 30, 2022, that enables users to refine and steer a conversation towards a desired length, format, style, level of detail, and language. Successive prompts and replies, known as prompt engineering, are considered at each conversation stage as a context.ChatGPT is built upon either GPT-3.5 or GPT-4, both of which are members of OpenAI's proprietary series of generative pre-trained transformer (GPT) models, based on the transformer architecture developed by Google—and is fine-tuned for conversational applications using a combination of supervised and reinforcement learning techniques. ChatGPT was released as a freely available research preview, but due to its popularity, OpenAI now operates the service on a freemium model. It allows users on its free tier to access the GPT-3.5-based version. In contrast, the more advanced GPT-4-based version and priority access to newer features are provided to paid subscribers under the commercial name \"ChatGPT Plus\".\nBy January 2023, it had become what was then the fastest-growing consumer software application in history, gaining over 100 million users and contributing to OpenAI's valuation growing to $29 billion. ChatGPT's release spurred the development of competing products, including Bard, Ernie Bot, LLaMA, Claude, and Grok. Microsoft launched its Bing Chat based on OpenAI's GPT-4. It raised concern among some observers over the potential of ChatGPT and similar programs to displace or atrophy human intelligence, enable plagiarism, or fuel misinformation.\n\n",
+      "description": "ChatGPT, developed by OpenAI, is a language model-based chatbot using GPT-3.5 or GPT-4 models, designed for text conversation with features like refining length, style, and detail level and operates on a freemium model - free users get access to the GPT-3.5 version and paid subscribers get access to the more advanced GPT-4 version under 'ChatGPT Plus'."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [],
+      "bad_scenarios": [
+        {
+          "item": "Sudden management changes and executive departures",
+          "quote": "A planned sale of OpenAI employee shares that would value the startup at about $86 billion on paper hangs in the balance after the sudden firing of CEO Sam Altman and a slew of top executive departures, the Information reported on Saturday."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Uncertainty over sale following management changes",
+          "quote": "The tender offer, which Thrive Capital is leading, has not yet closed but has been in its final stages and was expected to be completed as soon as next month, the report added, citing a person familiar with the matter."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Financial backing from Microsoft",
+          "quote": "Backed by billions of dollars from Microsoft (MSFT.O), which does not have a board seat in the non-profit governing the startup, OpenAI kicked off the generative AI craze last November by releasing ChatGPT."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Greg Brockman",
+    "description": "OpenAI's president and co-founder, who also quit the company",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "73299474",
+      "name": "Greg Brockman",
+      "extract": "Greg Brockman (born November 29, 1987) is an American entrepreneur, investor and software developer who is a co-founder and currently the president of OpenAI. He began his career at Stripe in 2010, upon leaving MIT, and became their CTO in 2013. He left Stripe in 2015 to co-found OpenAI, where he also assumed the role of CTO.",
+      "description": "Greg Brockman is an American entrepreneur, software developer, and co-founder of OpenAI, who formerly held the position of CTO at Stripe."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [
+        {
+          "item": "There may be potential for Brockman's return after stepping down",
+          "quote": "Greg Brockman, OpenAI president and co-founder, who stepped down from the board as chairman as part of the management shuffle, quit the company."
+        }
+      ],
+      "good_scenarios": [],
+      "bad_scenarios": [
+        {
+          "item": "One unfavorable scenario for Brockman could be the sudden termination of CEO Sam Altman and other executives' departure, which threatened the OpenAI share sale",
+          "quote": "A planned sale of OpenAI employee shares that would value the startup at about $86 billion on paper hangs in the balance after the sudden firing of CEO Sam Altman and a slew of top executive departures"
+        },
+        {
+          "item": "The unexpected management change may have adversely impacted employees and the organization",
+          "quote": "The departures blindsided many employees who discovered the abrupt management change from an internal message and the company's public facing blog."
+        }
+      ],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "OpenAI, which Brockman is a co-founder, is backed by significant funding from Microsoft",
+          "quote": "Backed by billions of dollars from Microsoft (MSFT.O), which does not have a board seat in the non-profit governing the startup, OpenAI kicked off the generative AI craze last November by releasing ChatGPT."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Microsoft",
+    "description": "A multinational technology company",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "19001",
+      "name": "Microsoft",
+      "extract": "Microsoft Corporation is an American multinational technology corporation headquartered in Redmond, Washington. Microsoft's best-known software products are the Windows line of operating systems, the Microsoft 365 suite of productivity applications, and the Edge web browser. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. Microsoft ranked No. 14 in the 2022 Fortune 500 rankings of the largest United States corporations by total revenue; it was the world's largest software maker by revenue as of 2022. It is considered one of the Big Five American information technology companies, alongside Alphabet (parent company of Google), Amazon, Apple, and Meta.\nMicrosoft was founded by Bill Gates and Paul Allen on April 4, 1975, to develop and sell BASIC interpreters for the Altair 8800. It rose to dominate the personal computer operating system market with MS-DOS in the mid-1980s, followed by Windows. The company's 1986 initial public offering (IPO) and subsequent rise in its share price created three billionaires and an estimated 12,000 millionaires among Microsoft employees. Since the 1990s, it has increasingly diversified from the operating system market and has made several corporate acquisitions, the largest being the acquisition of Activision Blizzard for $68.7 billion in October 2023, followed by its acquisition of LinkedIn for $26.2 billion in December 2016, and its acquisition of Skype Technologies for $8.5 billion in May 2011.As of 2015, Microsoft is market-dominant in the IBM PC compatible operating system market and the office software suite market, although it has lost the majority of the overall operating system market to Android. The company also produces a wide range of other consumer and enterprise software for desktops, laptops, tabs, gadgets, and servers, including Internet search (with Bing), the digital services market (through MSN), mixed reality (HoloLens), cloud computing (Azure), and software development (Visual Studio).\nSteve Ballmer replaced Gates as CEO in 2000 and later envisioned a \"devices and services\" strategy. This unfolded with Microsoft acquiring Danger Inc. in 2008, entering the personal computer production market for the first time in June 2012 with the launch of the Microsoft Surface line of tablet computers, and later forming Microsoft Mobile through the acquisition of Nokia's devices and services division. Since Satya Nadella took over as CEO in 2014, the company has scaled back on hardware and instead focused on cloud computing, a move that helped the company's shares reach their highest value since December 1999. Under Nadella's direction, the company has also heavily expanded its gaming business to support the Xbox brand, establishing the Microsoft Gaming division in 2022, dedicated to operating Xbox in addition to its three subsidiaries (publishers). Microsoft Gaming is the third-largest gaming company in the world by revenue as of 2023.Earlier dethroned by Apple in 2010, in 2018, Microsoft reclaimed its position as the most valuable publicly traded company in the world. In April 2019, Microsoft reached a trillion-dollar market cap, becoming the third U.S. public company to be valued at over $1 trillion after Apple and Amazon, respectively. As of 2023, Microsoft has the third-highest global brand valuation.\nMicrosoft has been criticized for its monopolistic practices and the company's software has been criticized for problems with ease of use, robustness, and security.",
+      "description": "Microsoft Corporation, an American multinational headquartered in Redmond, Washington, is known for software products including the Windows operating systems and Microsoft 365 applications, along with hardware products like Xbox consoles and Surface personal computers, and is globally recognized as one of the biggest revenue-earning software makers and an influential entity among the Big Five IT companies in the US."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Microsoft has the financial capability to back significant projects.",
+          "quote": "Backed by billions of dollars from Microsoft (MSFT.O), which does not have a board seat in the non-profit governing the startup, OpenAI kicked off the generative AI craze last November by releasing ChatGPT."
+        }
+      ]
+    }
+  }
+]

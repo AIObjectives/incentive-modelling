@@ -1,0 +1,55 @@
+Title: Reaction to Sam Altman's return as OpenAI CEO
+Source: Reuters
+Date: November 22, 20233:24 PM GMTUpdated 13 days ago
+Link: https://www.reuters.com/technology/reaction-sam-altmans-return-openai-ceo-2023-11-22/
+
+=== 
+
+Nov 22 (Reuters) - OpenAI said on Tuesday it had reached an agreement for Sam Altman to return as CEO days after his ouster, capping frenzied discussions about the future of the startup at the center of the artificial intelligence boom.
+
+Here's what analysts and investors say about the agreement:
+
+DANNI HEWSON, HEAD OF FINANCIAL ANALYSIS AT AJ BELL:
+
+"There are still huge questions about why Altman was fired and why Microsoft had seemingly been kept in the dark about the decision. What does seem clear is that Microsoft will now play a much bigger role, that the partnership will become stronger and the two companies more integrated."
+
+DANIELA HATHORN, ANALYST AT CAPITAL.COM:
+
+"The decision wasn't much of a choice as turmoil had clouded the company since the decision to let Altman go last Friday, turning investors and employees against the board members involved in the failed coup.
+
+"Microsoft... had openly supported Altman's return over the weekend. Still, the tech giant now wants a seat on the new board that will need to be formed over the coming months, as it wants to avoid any further surprises."
+
+THRIVE CAPITAL, OPENAI SHAREHOLDER
+"OpenAI has the potential to be one of the most consequential companies in the history of computing. Sam and Greg (Brockman) possess a profound commitment to the company's integrity, and an unmatched ability to inspire and lead.
+
+"The resilience and strength we have seen from the entire OpenAI team in the past few days has been extraordinary.
+
+"We believe this is the best outcome for the company, its employees, those who build on their technologies, and the world at large."
+
+IPEK OZKARDESKAYA, ANALYST AT SWISSQUOTE BANK:
+
+"His ousting upset to a point that company's existence was put to question. Now, the outcome could be frustrating for Microsoft.
+
+"Even though Microsoft benefits generously from ChatGPT's uprise, OpenAI remains a satellite unit, and integrating Altman in an internal MSFT team would've made sense."
+
+SUSANNAH STREETER, HEAD OF MONEY AND MARKETS, HARGREAVES LANSDOWN:
+
+"While it's still unclear exactly what the tug-of-war prompting his initial departure involved, Sam Altman's views about how to run the company will dominate future direction, especially given he’ll be supervised under a new board."
+
+KELVIN WONG, ANALYST, OANDA:
+
+"This latest boardroom tussle has shown that Altman has the full backing of Microsoft as a person and as long as he remains in charge of OpenAI, and there should not be any negative spillover effects between the partnership of OpenAI and Microsoft.
+
+"Altman and Brockman are also more suited to collaborate in start-up culture given the infancy of AI at this juncture without any red-tape hindrances from an MNC such as Microsoft."
+
+MAK YUEN TEEN, DIRECTOR OF CENTER FOR INVESTOR PROTECTION AT NATIONAL UNIVERSITY OF SINGAPORE BUSINSS SCHOOL:
+
+"There may be good reasons why Microsoft does not have a board seat. It may even be to protect Microsoft from anti-trust actions or conflicts as Microsoft itself has its own AI unit.
+
+"It (Altman's return) may put an end to the turmoil on the surface for now but there may continue to be deep governance issues that remain.
+
+"Sam Altman seems awfully powerful and it is unclear that any board would be able to oversee him. The danger is the board becomes a rubber stamp. Altman and (Microsoft CEO) Nadella may have pushed to allow Altman a much freer hand."
+
+VICTORIA SCHOLAR, HEAD OF INVESTMENT, INTERACTIVE INVESTOR:
+
+"While he'll (Microsoft CEO Nadella) no doubt be pleased about the fact that order has been restored at OpenAI, in which Microsoft is a major investor, there might be an element of disappointment that he hasn't snapped up the Silicon Valley superstar Altman after all."

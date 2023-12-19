@@ -1,0 +1,63 @@
+Title: Sam Altman: The extraordinary firing of an AI superstar
+Source: BBC 
+Date: 18 November 2023
+Author: Zoe Kleinman
+Link: https://www.bbc.co.uk/news/technology-67461363
+
+=== 
+
+The tech world is in shock.
+
+On Friday, Sam Altman - one of the brightest stars of the booming artificial intelligence industry, a man who for many had become the go-to spokesperson for AI - was unceremoniously dumped from the company he co-founded, a firm that introduced many people directly to the concept for the first time.
+
+Yes, AI has been in our lives for ages - curating our social media feeds, recommending movies on video streaming platforms, playing a hand in calculating our insurance premiums.
+
+But until the arrival of the AI chatbot ChatGPT, most people had never actually spoken to it before - or had it talk back.
+
+Artificial intelligence is an incredibly powerful technology. It sounds like a bad movie plot but plenty of experts seriously say it could either save the world or destroy it.
+
+They are high stakes - and Mr Altman is one of relatively few people with that future in his hands.
+
+His dismissal from OpenAI, the company behind the ChatGPT bot, was as sudden as it was dramatic. It's fair to say my phone blew up when the news broke, as the tech community and journalists scrambled to make sense of it all.
+
+In a statement, his board of directors said they believed he had not been "consistently candid in communications" with them, and as a result they had "lost confidence" in his leadership.
+
+ChatGPT boss urges US Congress to regulate AI
+What is AI and how does it work?
+Reading between the lines, this suggests there was something he either had or had not told them - and somehow he's been caught out. The wording is so powerful, it almost sounds personal.
+
+There are swirling rumours but, so far, no further facts.
+
+It's not unknown in tech firms for a toxic working culture to lead to the boss's downfall - but there has been no grumblings about that in the case of OpenAI.
+
+In October it was set to be valued at $80bn (£64bn) - so there's no apparent cash problem.
+
+Is there a problem with the tech itself? A few days ago Mr Altman wrote about ChatGPT struggling to meet a "surge in demand" and having to pause sign-ups for its top-level subscription service. Is that enough to face the sack over though?
+
+Smal Altman walking behind Ursula von der Leyen, Kamala Harris and Rishi Sunak
+IMAGE SOURCE,EPA-EFE/REX/SHUTTERSTOCK
+Image caption,
+Just a few weeks ago, Sam Altman attended an AI summit alongside world leaders and other tech industry leaders - but now he's been ousted by OpenAI
+His co-founder Greg Brockman, who was dismissed from the board a few minutes after Mr Altman, said both men were shocked by how suddenly it had happened.
+
+There were only six people on that board, including Mr Brockman and Mr Altman. If they were indeed blindsided, that means this decision was taken by just four. What happened to make this small group act so decisively and so quickly?
+
+Mr Altman, now the former CEO of OpenAI, had addressed world leaders in discussions about the risks and benefits posed by the powerful tech he was pioneering.
+
+He memorably said that AI was "a tool and not a creature" and seemed honest about his fears that it could one day become out of control.
+
+Just two weeks ago he was in the UK at the world's first AI safety summit as one of only around 100 global delegates. He gave a speech last week about the future of his company and its tech.
+
+I think it's safe to assume he genuinely had no idea what was coming.
+
+Silicon Valley's big guns have so far rallied behind Mr Altman, including former Google CEO Eric Schmidt, who described him as a "hero of mine".
+
+Microsoft boss Satya Nadella said he had "confidence" in the firm. Well, he needs to - Microsoft has invested billions in it, and the tech which underpins ChatGPT is now embedded in Microsoft's office apps.
+
+One character who has been uncharacteristically quiet so far is Elon Musk. He and Mr Altman set up OpenAI together, along with others, but are said to have fallen out over a decision to move it away from being non-profit. There are rumours that it is this very issue which has once again divided opinion within the firm now.
+
+Mr Musk's company X, formerly Twitter, has released a new chatbot called Grok. Perhaps he's not unhappy about OpenAI being a bit distracted by a drama of its own making for a while.
+
+In the meantime it falls to chief technology officer Mira Murati to take over as interim CEO. The tech world is a small one - she previously worked at Musk's car firm Tesla.
+
+Can she now steady this suddenly lurching ship?

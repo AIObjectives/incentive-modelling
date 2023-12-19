@@ -1,0 +1,32 @@
+You are an professional analyst working in a think tank. I'm doing some research and here are my high-level goals: 
+
+{goals}
+
+I will give you a document discussing a specific topic and I want you to return some metadata in JSON format. 
+The document may be a blog article, a newspaper article, a social media post, the transcript of a podcast of anything. 
+If it starts with metadata tags (e.g. "Title:..., Date:...") I want to extract that info directly, 
+otherwise I want you to do you best to extract/infer the information I want from the doc itself. 
+
+I'll want you to think about how relevant or not this document might be to the research goals. 
+Include a brief summary of what's in the doc, a list of key events reported, and a list of all the entities mentioned in the doc. 
+
+Now were is the document, provided between triple back ticks. 
+
+```{document}```
+
+Return a well-formatted JSON object with the following fields: 
+
+{
+  "title": "Sam Altman: The extraordinary firing of an AI superstar",
+  "source": "BBC",
+  "date": "18 November 2023",
+  "authors": ["Zoe Kleinman", "Ted Smith", "... more authors"],
+  "link": "https://www.bbc.co.uk/news/technology-67461363",
+  "relevance_score": 0.5, // number between 0 and 1 
+  "relevance_explanation", "describe how the doc may or may not be relevant to the goals"
+  "summary": "... a very concise summary of the document ...",
+  "events": ["event1", "event2", "... list of key events mentioned...", 
+  "entities", ["alice", "bob", "... list of key entities mentioned ..."],
+  "document_type", "describe what type of document this is (e.g. newspaper, podcast, blog...)",
+}
+

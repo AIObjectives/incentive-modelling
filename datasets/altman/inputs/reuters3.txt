@@ -1,0 +1,39 @@
+Title: OpenAI investors considering suing the board after CEO's abrupt firing
+Aythors: Anna Tong, Krystal Hu and Jody Godoy
+Date: November 21, 20238:13 PM GMT
+Link: https://www.reuters.com/technology/openai-investors-considering-suing-board-after-ceos-abrupt-firing-sources-2023-11-20/
+
+=== 
+
+Nov 20 (Reuters) - Some investors in OpenAI, makers of ChatGPT, are exploring legal recourse against the company's board, sources familiar with the matter told Reuters on Monday, after the directors ousted CEO Sam Altman and sparked a potential mass exodus of employees.
+
+Sources said investors are working with legal advisers to study their options. It was not immediately clear if these investors will sue OpenAI.
+
+Investors worry that they could lose hundreds of millions of dollars they invested in OpenAI, a crown jewel in some of their portfolios, with the potential collapse of the hottest startup in the rapidly growing generative AI sector.
+
+OpenAI did not respond to a request for comment.
+
+Microsoft (MSFT.O) owns 49% of the for-profit operating company, according to sources familiar with the matter. Other investors and employees control 49%, with 2% owned by OpenAI's nonprofit parent, according to Semafor.
+
+OpenAI's board fired Altman on Friday after a "breakdown of communications," according to an internal memo seen by Reuters.
+
+By Monday, most of OpenAI's more than 700 employees threatened to resign unless the company replaced the board.
+
+Illustration shows OpenAI logo
+OpenAI logo is seen in this illustration taken, February 3, 2023. REUTERS/Dado Ruvic/Illustration/File Photo Acquire Licensing Rights
+
+Venture capital investors usually hold board seats or voting power in their portfolio companies but OpenAI is controlled by its nonprofit parent company OpenAI Nonprofit, which according to OpenAI's website was created to benefit "humanity, not OpenAI investors."
+
+As a result, employees have more leverage in pressuring the board than the venture capitalists who helped fund the company, said Minor Myers, a law professor at the University of Connecticut. "There is nobody exactly who is in the seat of an injured investor," he said.
+
+That is a feature, not a bug of OpenAI's structure, which started out as a nonprofit but added a for-profit subsidiary in 2019 to raise capital. Keeping control of operations let the nonprofit preserve its "core mission, governance, and oversight," according to the company's website.
+
+Nonprofit boards have legal obligations to the organizations they oversee. But those obligations, such as the duty to exercise care and avoid self-dealing, leave a lot of leeway for leadership decisions, experts said.
+
+Those obligations can be further narrowed in a corporate structure such as OpenAI, which used a limited liability company as its operating arm, potentially further insulating the nonprofit's directors from investors, said Paul Weitzel, a law professor at the University of Nebraska.
+
+Even if investors found a way to sue, Weitzel said they would have a "weak case." Companies have broad latitude under the law to make business decisions, even ones that backfire.
+
+"You can fire visionary founders," Weitzel said. Apple (AAPL.O) famously fired Steve Jobs in the 1980s, before bringing him back around a decade later.
+
+Reporting by Anna Tong in San Francisco and Krystal Hu in New York Additional reporting by Jody Godoy in New York Editing by Tom Hals, Kenneth Li, Lisa Shumaker and Matthew Lewis

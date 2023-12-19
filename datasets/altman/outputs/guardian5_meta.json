@@ -1,0 +1,45 @@
+{
+  "title": "Sacking, revolt, return: how crisis at OpenAI over Sam Altman unfolded",
+  "source": "Guardian",
+  "date": "Sat 25 Nov 2023",
+  "authors": [
+    "Dan Milmo"
+  ],
+  "link": "https://www.theguardian.com/technology/2023/nov/25/how-crisis-openai-sam-altman-unfolded",
+  "relevance_score": 0.95,
+  "relevance_explanation": "This document details critical events surrounding the firing and reinstatement of Sam Altman, OpenAI’s CEO, which directly pertains to the research goals of understanding the driving factors behind the board's decision, subsequent actions, motivations, and power dynamics within OpenAI.",
+  "summary": "The article recounts the unplanned ousting of Sam Altman from OpenAI, the board-driven crisis, and his eventual reinstatement. It details the lack of candor as the reason for his firing, subsequent investor backlash, the internal revolt led by OpenAI employees, the establishment of an interim CEO, and the eventual return of Altman under a revised board structure.",
+  "events": [
+    "Sam Altman hinted at a significant AI development at the Apec summit.",
+    "Sam Altman was fired by OpenAI's board for communication breaches.",
+    "Greg Brockman quit after being removed from the board.",
+    "Mira Murati was appointed interim CEO.",
+    "Bret Taylor, Larry Summers, and Adam D'Angelo formed a new 'initial' board upon Altman's return.",
+    "An independent investigation into Altman's departure was announced.",
+    "Staff revolted and threatened to quit en masse if Altman and Brockman were not reinstated.",
+    "Altman and Brockman were hired by Microsoft to lead a new advanced AI research team.",
+    "OpenAI's board restructured, paving the way for Altman's return."
+  ],
+  "entities": [
+    "Sam Altman",
+    "OpenAI",
+    "Ilya Sutskever",
+    "Greg Brockman",
+    "Mira Murati",
+    "Microsoft",
+    "Satya Nadella",
+    "Jason Kwon",
+    "Jakub Pachocki",
+    "Aleksander Mądry",
+    "Szymon Sidor",
+    "Emmett Shear",
+    "Bret Taylor",
+    "Larry Summers",
+    "Adam D’Angelo",
+    "Helen Toner",
+    "Anna Makanju",
+    "'Q*' (AI model)",
+    "AGI (Artificial General Intelligence)"
+  ],
+  "document_type": "newspaper article"
+}

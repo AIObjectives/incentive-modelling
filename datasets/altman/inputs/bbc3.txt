@@ -1,0 +1,87 @@
+Source: BBC
+Title: OpenAI staff demand board resign over Sam Altman sacking
+Date: 20 November 2023
+Authors: Chris Vallance, Annabelle Liang & Zoe Kleinman
+Link: https://www.bbc.co.uk/news/business-67470876
+
+=== 
+
+Staff at OpenAI have called on the board of the artificial intelligence company to resign after the shock dismissal of former boss Sam Altman.
+
+In a letter, they question the board's competence, and accuse it of undermining the firm's work.
+
+They also demand Mr Altman's reinstatement.
+
+But Mr Altman now has a job at Microsoft and seems to want to stay. He and Microsoft boss Satya Nadella see OpenAI's success as vital, he added.
+
+"Satya and my top priority remains to ensure OpenAI continues to thrive," he tweeted.
+
+"We are committed to fully providing continuity of operations to our partners and customers. The OpenAI/Microsoft partnership makes this very doable."
+
+The sacking on Friday of a man who is one of the leading figures in artificial intelligence (AI) shocked the tech world.
+
+The letter's hundreds of signatories, who include senior staff, say they may themselves resign if their demands are not met.
+
+They also state that Microsoft, the biggest investor in OpenAI, has assured them that there are jobs for all OpenAI staff if they want to join the company.
+
+In an interview with CNBC, Mr Nadella said he was open to working with OpenAI or working with the OpenAI employees who come to Microsoft.
+
+"At this point… it's very, very clear that something has to change around the governance [at OpenAI]," he added, saying the firms would be in dialogue about this.
+
+Evan Morikawa, an engineering manager at OpenAI, posted on X - formerly Twitter - that 743 of the company's 770 workers had put their names to the letter.
+
+One of the notable people to sign the letter is OpenAI's chief scientist, Ilya Sutskever - despite being a member of the board which now finds itself under fire.
+
+Writing on X, he said that he had made a mistake.
+
+"Now I deeply regret my participation in the board's actions. I never intended to harm OpenAI. I love everything we've built together and I will do everything I can to reunite the company", he posted.
+
+Chaotic scenes
+In a fast moving and chaotic series of events over the weekend it seemed briefly that Mr Altman might get his job back, only for it to be announced he was joining Microsoft, which has invested billions in OpenAI in exchange for a 49% stake.
+
+Microsoft chief executive Satya Nadella wrote on X, that Mr Altman would be leading "a new advanced AI research team".
+
+Responding to the post confirming his new job, but before the letter was published, Mr Altman wrote "the mission continues".
+
+He later added: "We are all going to work together some way or other, and i'm so excited. one team, one mission."
+
+Meanwhile, ex-Twitch CEO Emmett Shear will become OpenAI's new interim boss.
+
+Writing on X, he called the job a "once-in-a-lifetime opportunity".
+
+But he added the way Mr Altman had been sacked was "handled very badly" and "seriously damaged our trust".
+
+Mr Altman, 38, helped launch the firm - best known for creating the popular ChatGPT bot - and has become one of the most influential figures in the fast-growing generative artificial intelligence (AI) space.
+
+The sacking of such a high profile figure surprised industry watchers, and angered many in the company he'd led - culminating in them demanding the board members resign.
+
+AI boss Sam Altman ousted after board loses confidence
+The extraordinary firing of an AI superstar
+'Embarrassing circus'
+Dan Ives of investment firm Wedbush Securities says Microsoft has ended up being strengthened - but the episode reflected badly on OpenAI.
+
+They were "at the kid's poker table and thought they won until Nadella and Microsoft took this all over in a World Series of Poker move for the ages", he wrote.
+
+"The embarrassing circus show over the weekend at OpenAI was finally taken over by the adults in the room."
+
+Emmett Shear speaks at an event in Lisbon in 2018.
+IMAGE SOURCE,GETTY IMAGES
+Image caption,
+Emmett Shear was the former boss of video-sharing platform Twitch
+OpenAI's new boss Emmett Shear is the former head and co-founder of video streaming service Twitch. A memo to OpenAI's staff said he had a "unique mix of skills, expertise and relationships that will drive OpenAI forward".
+
+In spite of now being at the helm of one of the world's most powerful AI companies - and being a self-described "techno-optimist" - Mr Shear has expressed concerns about what he sees as the potential existential threat posed by the technology.
+
+"It's like someone invented a way to make 10x [ten times] more powerful fusion bombs out of sand and bleach, that anyone could do at home", he told the Logan Bartlett Show podcast in June.
+
+The exact reasons for Mr Altman's sacking by the board remain unclear.
+
+On Friday, when OpenAI announced it was firing Mr Altman, it accused him of not being "consistently candid in his communications with the board, hindering its ability to exercise its responsibilities" - but did not specify what he is alleged to have not been candid about.
+
+Mr Shear has addressed some of the speculation on the subject.
+
+"The board did *not* remove Sam over any specific disagreement on safety, their reasoning was completely different from that. I'm not crazy enough to take this job without board support for commercializing our awesome models", he wrote on X.
+
+The mention of safety could suggest that this was not a disagreement about the management of the risks AI may pose, though the words are open to interpretation.
+
+But Mr Shear committed to hiring an independent investigator "to dig into the entire process".

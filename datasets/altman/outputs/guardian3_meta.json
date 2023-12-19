@@ -1,0 +1,46 @@
+{
+  "title": "‘Huge egos are in play’: behind the firing and rehiring of OpenAI’s Sam Altman",
+  "source": "Guardian",
+  "date": "Thu 23 Nov 2023 17.40 GMT",
+  "authors": [
+    "Blake Montgomery"
+  ],
+  "link": "https://www.theguardian.com/technology/2023/nov/23/huge-egos-are-in-play-behind-the-firing-and-rehiring-of-openais-sam-altman",
+  "relevance_score": 0.9,
+  "relevance_explanation": "The document is highly relevant to the research goals as it directly discusses the events surrounding the firing and rehiring of Sam Altman, providing insights into the power dynamics within OpenAI, the motivations of the involved entities, and the potential implications for AI regulation and the industry's power structure.",
+  "summary": "The article explores the tumultuous events around Sam Altman's brief dismissal from the CEO position at OpenAI and his subsequent reappointment after a strong employee backlash. It highlights the power struggles, the lack of transparency in decision-making, and the ideological divides within the company between AI 'accelerationists' and 'decelerationists'. It also discusses implications for AI regulation and potential risks associated with rapid AI development.",
+  "events": [
+    "OpenAI's board ousts CEO Sam Altman",
+    "Interim CEO Mira Murati is appointed, followed by Emmett Shear",
+    "Negotiations lead to Altman being hired by Microsoft for an AI unit",
+    "OpenAI employees sign an open letter threatening to quit if Altman isn't reinstated",
+    "Greg Brockman quits but is rehired alongside Altman",
+    "OpenAI's board is reconstituted",
+    "Questions are raised about AI regulation and safety"
+  ],
+  "entities": [
+    "Sam Altman",
+    "OpenAI",
+    "OpenAI's board of directors",
+    "Microsoft",
+    "Mira Murati",
+    "Emmett Shear",
+    "Ilya Sutskever",
+    "Greg Brockman",
+    "Rayid Ghani",
+    "United Kingdom’s Department for Science, Innovation and Technology (DSIT)",
+    "White House",
+    "Senators Richard Blumenthal and Josh Hawley",
+    "Carnegie Mellon University",
+    "New York University",
+    "Paul Barrett",
+    "Sarah Kreps",
+    "Cornell University",
+    "Tech Policy Institute",
+    "Meta",
+    "Mark Zuckerberg",
+    "Google",
+    "Derek Leben"
+  ],
+  "document_type": "newspaper article"
+}

@@ -1,0 +1,759 @@
+[
+  {
+    "name": "OpenAI",
+    "description": "An artificial intelligence research lab consisting of the for-profit arm OpenAI LP and its parent company, the non-profit OpenAI Inc.",
+    "mentions": 19,
+    "wikipedia": {
+      "id": "48795986",
+      "name": "OpenAI",
+      "extract": "OpenAI is an American artificial intelligence (AI) research organization consisting of the non-profit OpenAI, Inc. registered in Delaware and its for-profit subsidiary OpenAI Global, LLC. OpenAI researches artificial intelligence with the declared intention of developing \"safe and beneficial\" artificial general intelligence, which it defines as \"highly autonomous systems that outperform humans at most economically valuable work\". OpenAI has also developed several large language models, such as ChatGPT and GPT-4, as well as advanced image generation models like DALL-E 3, and in the past published open-source models.The organization was founded in December 2015 by Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston, John Schulman, Pamela Vagata, and Wojciech Zaremba, with Sam Altman and Elon Musk serving as the initial board members. Microsoft provided OpenAI Global LLC with a $1 billion investment in 2019 and a $10 billion investment in 2023, with a significant portion of the investment in the form of compute resources on Microsoft's Azure cloud service.On November 17, 2023, the board removed Altman as CEO, while Brockman was removed as chairman and then resigned as president. Four days later, both returned after negotiations with the board, and most of the board members resigned. The new initial board included former Salesforce co-CEO Bret Taylor as chairman. OpenAI also announced that Microsoft would have a non-voting board seat at OpenAI.",
+      "description": "OpenAI is an American AI research organization, focusing on developing \"safe and beneficial\" artificial general intelligence and producing large language and image generation models, funded by significant investments by Microsoft."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Pursue AGI",
+          "quote": "Will they still pursue AGI but more slowly? Will they become a safety-first company, like Anthropic claimed to be after the split of its founders with OpenAI?"
+        },
+        {
+          "item": "Create AI safety practices",
+          "quote": "The departures are a sign of immense disappointment among some employees after the Altman ouster and underscore long-simmering divisions at the ChatGPT creator about AI 'safety' practices."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Profit direction and speed of development",
+          "quote": "Sources tell me that the profit direction of the company under Altman and the speed of development, which could be seen as too risky, and the nonprofit side dedicated to more safety and caution were at odds."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Strategic pivots",
+          "quote": "In which ways will its industry and R&D strategies change? What happens with ChatGPT and GPT-4? And future models like GPT-5?"
+        },
+        {
+          "item": "Legal proceedings",
+          "quote": "What will Altman and Brockman do? Will they retaliate with litigation?"
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Continued AI development and advancement",
+          "quote": "What happens now with OpenAI? In which ways will its industry and R&D strategies change?"
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Loss of key personnel and instability",
+          "quote": "Jakub Pachocki...Aleksander Madry...and Szymon Sidor...told associates they had resigned."
+        },
+        {
+          "item": "Potential litigation",
+          "quote": "What will Altman and Brockman do? Will they retaliate with litigation?"
+        },
+        {
+          "item": "Negative impact on partnerships",
+          "quote": "What is the Microsoft executive thinking (Satya Nadella made a rather neutral statement saying the agreement with OpenAI is safe, but Swisher says this surely pisses them off)?"
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Risk from speedy development",
+          "quote": "Sources tell me that the profit direction of the company under Altman and the speed of development, which could be seen as too risky."
+        },
+        {
+          "item": "AI safety concerns",
+          "quote": "The departures are a sign of immense disappointment among some employees after the Altman ouster and underscore long-simmering divisions at the ChatGPT creator about AI 'safety' practices."
+        },
+        {
+          "item": "Internal conflicts and power struggles",
+          "quote": "Increasing tensions with Sam Altman and Greg Brockman over role and influence and he got the board on his side."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Technologies like ChatGPT",
+          "quote": "What happens with ChatGPT and GPT-4? And future models like GPT-5?"
+        },
+        {
+          "item": "Ties with large tech companies",
+          "quote": "Microsoft also was told just before, and employees not told in advance."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sam Altman",
+    "description": "The former CEO of OpenAI.",
+    "mentions": 8,
+    "wikipedia": {
+      "id": "22476815",
+      "name": "Sam Altman",
+      "extract": "Samuel Harris Altman (; AWLT-mən; born April 22, 1985) is an American entrepreneur and investor, who has been the CEO of OpenAI since 2019 (he was briefly fired and reinstated in November 2023). Prior to OpenAI, Altman was president of Y Combinator from 2014 to 2019.\n\n",
+      "description": "Samuel Harris Altman, born April 22, 1985, is an American entrepreneur and investor, currently serving as the CEO of OpenAI, and was previously the president of Y Combinator from 2014 to 2019."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [
+        {
+          "item": "Speeding up AI development",
+          "quote": "Sources tell me that the profit direction of the company under Altman and the speed of development, which could be seen as too risky, and the nonprofit side dedicated to more safety and caution were at odds."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Retaliate with litigation",
+          "quote": "What will Altman and Brockman do? Will they retaliate with litigation?"
+        },
+        {
+          "item": "Start a new AI company",
+          "quote": "Will they move on to create a new AI company to compete with OpenAI?"
+        }
+      ],
+      "good_scenarios": [],
+      "bad_scenarios": [
+        {
+          "item": "Being fired from OpenAI",
+          "quote": "The firing of OpenAI CEO, Sam Altman, by the company’s board."
+        },
+        {
+          "item": "Lack of trust from the board",
+          "quote": "The board no longer has confidence in his ability to continue leading OpenAI."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Loss of role and influence",
+          "quote": "sources tell me chief scientist Ilya Sutskever was at the center of this. Increasing tensions with Sam Altman and Greg Brockman over role and influence and he got the board on his side."
+        }
+      ],
+      "resources": []
+    }
+  },
+  {
+    "name": "Greg Brockman",
+    "description": "Former chairman of the board of OpenAI who remained in his role at the company even after stepping down as chairman.",
+    "mentions": 7,
+    "wikipedia": {
+      "id": "73299474",
+      "name": "Greg Brockman",
+      "extract": "Greg Brockman (born November 29, 1987) is an American entrepreneur, investor and software developer who is a co-founder and currently the president of OpenAI. He began his career at Stripe in 2010, upon leaving MIT, and became their CTO in 2013. He left Stripe in 2015 to co-found OpenAI, where he also assumed the role of CTO.",
+      "description": "Greg Brockman is an American entrepreneur, software developer, and co-founder of OpenAI, who formerly held the position of CTO at Stripe."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [
+        {
+          "item": "Greg Brockman may retaliate with litigation",
+          "quote": "What will Altman and Brockman do? Will they retaliate with litigation?"
+        },
+        {
+          "item": "Greg Brockman may create a new AI company to compete with OpenAI",
+          "quote": "Will they move on to create a new AI company to compete with OpenAI?"
+        }
+      ],
+      "good_scenarios": [],
+      "bad_scenarios": [
+        {
+          "item": "Removal from board position but Greg Brockman remains vital to the company",
+          "quote": "Greg was told that he was being removed from the board (but was vital to the company and would retain his role) and that Sam had been fired."
+        },
+        {
+          "item": "The schism within OpenAI and the effects it may have on the company",
+          "quote": "What will OpenAI employees do given not just what has happened but how — a heavy-worded announcement without any prior notice — and why — a clash between safety and advancement?"
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Effect on OpenAI as a result of Sam Altman's removal and the abrupt leadership transition",
+          "quote": "What happens now with OpenAI?"
+        }
+      ],
+      "resources": []
+    }
+  },
+  {
+    "name": "Ilya Sutskever",
+    "description": "Chief scientist of OpenAI who seems to be the main decision-maker behind the firing of Sam Altman and Greg Brockman.",
+    "mentions": 3,
+    "wikipedia": {
+      "id": "51097862",
+      "name": "Ilya Sutskever",
+      "extract": "Ilya Sutskever  (Hebrew: איליה סוצקבר; Russian: Илья Суцкевер; /ilja su:ʦkɪvər/ born 1985/86) is a computer scientist working in machine learning. He is a co-founder and Chief Scientist at OpenAI.He has made several major contributions to the field of deep learning. In 2023, Sutskever and the OpenAI board fired CEO Sam Altman, who returned a week later. He is the co-inventor, with Alex Krizhevsky and Geoffrey Hinton, of AlexNet, a convolutional neural network. Sutskever is also one of the many co-authors of the AlphaGo paper.",
+      "description": "Ilya Sutskever is a renowned computer scientist and co-founder of OpenAI who has made significant contributions to deep learning, including the co-invention of AlexNet, a convolutional neural network."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [
+        {
+          "item": "Having influence and a leadership role in the company",
+          "quote": "Increasing tensions with Sam Altman and Greg Brockman over role and influence."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Make significant company decisions",
+          "quote": "Ilya Sutskever, the brilliant mind behind many of OpenAI’s scientific successes seems to be the main decision-maker behind the firing."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "More control and influence over OpenAI",
+          "quote": "Ilya Sutskever, the brilliant mind behind many of OpenAI’s scientific successes seems to be the main decision-maker behind the firing."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Potential disagreements with company leadership leading to organizational upheaval",
+          "quote": "Increasing tensions with Sam Altman and Greg Brockman over role and influence."
+        }
+      ],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Board's support",
+          "quote": "he got the board on his side."
+        },
+        {
+          "item": "Own expertise and role as chief scientist",
+          "quote": "Ilya Sutskever, the brilliant mind behind many of OpenAI’s scientific successes seems to be the main decision-maker behind the firing."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kara Swisher",
+    "description": "A legendary Silicon Valley tech reporter who provided insight into the decisions made by the OpenAI board.",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "2464767",
+      "name": "Kara Swisher",
+      "extract": "Kara Anne Swisher ( KAIR-ə; born December 11, 1962) is an American journalist. She has covered the business of the internet since 1994. As of 2023, Swisher was a contributing editor at New York Magazine, the host of the podcast On with Kara Swisher, and the co-host of the podcast Pivot.In 2014 she co-founded Vox Media's Recode. From 2018 to 2022, she was an opinion writer for The New York Times, before re-joining Vox Media. She has also written for The Wall Street Journal, The Washington Post, the All Things Digital conference and the online publication All Things D. A self-described \"liberal, lesbian Donald Trump of San Francisco\" in 2016, she expressed interest in running for political office in San Francisco.",
+      "description": "Kara Anne Swisher is an American journalist, popular for covering internet-business since 1994, co-founding Vox Media's Recode, hosting various podcasts, and contributing to a variety of publications including The New York Times, Wall Street Journal and The Washington Post."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [
+        {
+          "item": "Uncovering and reporting on important events in the tech industry",
+          "quote": "It was Kara Swisher, a legendary Silicon Valley tech reporter, who scooped the reason behind this super-impactful, awkwardly-executed, and potentially very damaging move by the OpenAI board"
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Predicting industry responses and changes",
+          "quote": "Swisher also predicted, like others, that prominent people inside the company would leave after the destitution of Altman and Brockman."
+        }
+      ],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Sources within the industry",
+          "quote": "Sources tell me that the profit direction of the company under Altman and the speed of development, which could be seen as too risky, and the nonprofit side dedicated to more safety and caution were at odds."
+        },
+        {
+          "item": "Knowledge of the tech industry",
+          "quote": "It was Kara Swisher, a legendary Silicon Valley tech reporter, who scooped the reason behind this super-impactful, awkwardly-executed, and potentially very damaging move by the OpenAI board"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Microsoft",
+    "description": "A technology company that was informed about the changes at OpenAI just before they were publicly announced.",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "19001",
+      "name": "Microsoft",
+      "extract": "Microsoft Corporation is an American multinational technology corporation headquartered in Redmond, Washington. Microsoft's best-known software products are the Windows line of operating systems, the Microsoft 365 suite of productivity applications, and the Edge web browser. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. Microsoft ranked No. 14 in the 2022 Fortune 500 rankings of the largest United States corporations by total revenue; it was the world's largest software maker by revenue as of 2022. It is considered one of the Big Five American information technology companies, alongside Alphabet (parent company of Google), Amazon, Apple, and Meta.\nMicrosoft was founded by Bill Gates and Paul Allen on April 4, 1975, to develop and sell BASIC interpreters for the Altair 8800. It rose to dominate the personal computer operating system market with MS-DOS in the mid-1980s, followed by Windows. The company's 1986 initial public offering (IPO) and subsequent rise in its share price created three billionaires and an estimated 12,000 millionaires among Microsoft employees. Since the 1990s, it has increasingly diversified from the operating system market and has made several corporate acquisitions, the largest being the acquisition of Activision Blizzard for $68.7 billion in October 2023, followed by its acquisition of LinkedIn for $26.2 billion in December 2016, and its acquisition of Skype Technologies for $8.5 billion in May 2011.As of 2015, Microsoft is market-dominant in the IBM PC compatible operating system market and the office software suite market, although it has lost the majority of the overall operating system market to Android. The company also produces a wide range of other consumer and enterprise software for desktops, laptops, tabs, gadgets, and servers, including Internet search (with Bing), the digital services market (through MSN), mixed reality (HoloLens), cloud computing (Azure), and software development (Visual Studio).\nSteve Ballmer replaced Gates as CEO in 2000 and later envisioned a \"devices and services\" strategy. This unfolded with Microsoft acquiring Danger Inc. in 2008, entering the personal computer production market for the first time in June 2012 with the launch of the Microsoft Surface line of tablet computers, and later forming Microsoft Mobile through the acquisition of Nokia's devices and services division. Since Satya Nadella took over as CEO in 2014, the company has scaled back on hardware and instead focused on cloud computing, a move that helped the company's shares reach their highest value since December 1999. Under Nadella's direction, the company has also heavily expanded its gaming business to support the Xbox brand, establishing the Microsoft Gaming division in 2022, dedicated to operating Xbox in addition to its three subsidiaries (publishers). Microsoft Gaming is the third-largest gaming company in the world by revenue as of 2023.Earlier dethroned by Apple in 2010, in 2018, Microsoft reclaimed its position as the most valuable publicly traded company in the world. In April 2019, Microsoft reached a trillion-dollar market cap, becoming the third U.S. public company to be valued at over $1 trillion after Apple and Amazon, respectively. As of 2023, Microsoft has the third-highest global brand valuation.\nMicrosoft has been criticized for its monopolistic practices and the company's software has been criticized for problems with ease of use, robustness, and security.",
+      "description": "Microsoft Corporation, an American multinational headquartered in Redmond, Washington, is known for software products including the Windows operating systems and Microsoft 365 applications, along with hardware products like Xbox consoles and Surface personal computers, and is globally recognized as one of the biggest revenue-earning software makers and an influential entity among the Big Five IT companies in the US."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": []
+    }
+  },
+  {
+    "name": "Jakub Pachocki",
+    "description": "The director of research at OpenAI who resigned following Sam Altman's ouster.",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "75352338",
+      "name": "Removal of Sam Altman from OpenAI",
+      "extract": "On November 17, 2023, OpenAI's board of directors removed co-founder and chief executive Sam Altman with a statement that it had no confidence in Altman's leadership.  \nApproximately 107 hours later, after an intense pressure campaign from investors and a threatened mass resignation of OpenAI’s employees, OpenAI announced that it had reached an agreement in principle to have Altman return as CEO with a reconstituted board of the non-profit entity which oversees the for-profit company. Altman’s announced return was the third change of CEO announcement within a chaotic 4.5 day period.\n\n",
+      "description": "Sam Altman was removed as CEO by OpenAI's board due to lack of confidence but was reinstated after pressure from investors and potential employee resignations, marking the third CEO change within a tumultuous 4.5 day period in November 2023."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Ensuring truthful communication with the board",
+          "quote": "Mr. Altman’s departure follows a deliberative review process by the board, which concluded that he was not consistently candid in his communications with the board"
+        },
+        {
+          "item": "Actively exercising board responsibilities",
+          "quote": "hindering its ability to exercise its responsibilities"
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Lack of confidence in Altman's leadership",
+          "quote": "The board no longer has confidence in his ability to continue leading OpenAI."
+        },
+        {
+          "item": "Conflict over pace of development and profit direction",
+          "quote": "...the profit direction of the company under Altman and the speed of development, which could be seen as too risky, and the nonprofit side dedicated to more safety and caution were at odds."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Reinstating Brockman in his role but not as chairman",
+          "quote": "Greg Brockman will be stepping down as chairman of the board and will remain in his role at the company, reporting to the CEO."
+        },
+        {
+          "item": "Potentially publishing a joint statement from Altman and Brockman",
+          "quote": "It’s expected that Altman and Brockman will publish a joint statement soon."
+        },
+        {
+          "item": "Changes to OpenAI's R&D strategies",
+          "quote": "What happens now with OpenAI? In which ways will its industry and R&D strategies change?"
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Adopting a safety-first approach for AI practices",
+          "quote": "Will they become a safety-first company, like Anthropic claimed to be after the split of its founders with OpenAI?"
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Employees leaving following the termination of Altman",
+          "quote": "...prominent people inside the company would leave after the destitution of Altman and Brockman"
+        },
+        {
+          "item": "Poorly executed leadership transition causing damage to OpenAI",
+          "quote": "...this super-impactful, awkwardly-executed, and potentially very damaging move by the OpenAI board"
+        },
+        {
+          "item": "Loss of leadership in the AI industry",
+          "quote": "How will this affect the industry given that OpenAI is (was?) the absolute leader in the space?"
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Risk associated with fast pace of development",
+          "quote": "...the speed of development, which could be seen as too risky..."
+        },
+        {
+          "item": "Disruption due to abrupt leadership changes",
+          "quote": "What will OpenAI employees do given not just what has happened but how — a heavy-worded announcement without any prior notice"
+        }
+      ],
+      "resources": [
+        {
+          "item": "Support of the board for decision making",
+          "quote": "Mr. Altman’s departure follows a deliberative review process by the board"
+        },
+        {
+          "item": "Scientific assets and their contributions",
+          "quote": "Ilya Sutskever, the brilliant mind behind many of OpenAI’s scientific successes seems to be the main decision-maker behind the firing."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Aleksander Madry",
+    "description": "Head of a team at OpenAI evaluating potential risks from AI, who resigned following Sam Altman's ouster.",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "48795986",
+      "name": "OpenAI",
+      "extract": "OpenAI is an American artificial intelligence (AI) research organization consisting of the non-profit OpenAI, Inc. registered in Delaware and its for-profit subsidiary OpenAI Global, LLC. OpenAI researches artificial intelligence with the declared intention of developing \"safe and beneficial\" artificial general intelligence, which it defines as \"highly autonomous systems that outperform humans at most economically valuable work\". OpenAI has also developed several large language models, such as ChatGPT and GPT-4, as well as advanced image generation models like DALL-E 3, and in the past published open-source models.The organization was founded in December 2015 by Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston, John Schulman, Pamela Vagata, and Wojciech Zaremba, with Sam Altman and Elon Musk serving as the initial board members. Microsoft provided OpenAI Global LLC with a $1 billion investment in 2019 and a $10 billion investment in 2023, with a significant portion of the investment in the form of compute resources on Microsoft's Azure cloud service.On November 17, 2023, the board removed Altman as CEO, while Brockman was removed as chairman and then resigned as president. Four days later, both returned after negotiations with the board, and most of the board members resigned. The new initial board included former Salesforce co-CEO Bret Taylor as chairman. OpenAI also announced that Microsoft would have a non-voting board seat at OpenAI.",
+      "description": "OpenAI is an American AI research organization, focusing on developing \"safe and beneficial\" artificial general intelligence and producing large language and image generation models, funded by significant investments by Microsoft."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Pursue AGI",
+          "quote": "Will they still pursue AGI but more slowly? Will they become a safety-first company, like Anthropic claimed to be after the split of its founders with OpenAI?"
+        },
+        {
+          "item": "Create AI safety practices",
+          "quote": "The departures are a sign of immense disappointment among some employees after the Altman ouster and underscore long-simmering divisions at the ChatGPT creator about AI 'safety' practices."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Profit direction and speed of development",
+          "quote": "Sources tell me that the profit direction of the company under Altman and the speed of development, which could be seen as too risky, and the nonprofit side dedicated to more safety and caution were at odds."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Strategic pivots",
+          "quote": "In which ways will its industry and R&D strategies change? What happens with ChatGPT and GPT-4? And future models like GPT-5?"
+        },
+        {
+          "item": "Legal proceedings",
+          "quote": "What will Altman and Brockman do? Will they retaliate with litigation?"
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Continued AI development and advancement",
+          "quote": "What happens now with OpenAI? In which ways will its industry and R&D strategies change?"
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Loss of key personnel and instability",
+          "quote": "Jakub Pachocki...Aleksander Madry...and Szymon Sidor...told associates they had resigned."
+        },
+        {
+          "item": "Potential litigation",
+          "quote": "What will Altman and Brockman do? Will they retaliate with litigation?"
+        },
+        {
+          "item": "Negative impact on partnerships",
+          "quote": "What is the Microsoft executive thinking (Satya Nadella made a rather neutral statement saying the agreement with OpenAI is safe, but Swisher says this surely pisses them off)?"
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Risk from speedy development",
+          "quote": "Sources tell me that the profit direction of the company under Altman and the speed of development, which could be seen as too risky."
+        },
+        {
+          "item": "AI safety concerns",
+          "quote": "The departures are a sign of immense disappointment among some employees after the Altman ouster and underscore long-simmering divisions at the ChatGPT creator about AI 'safety' practices."
+        },
+        {
+          "item": "Internal conflicts and power struggles",
+          "quote": "Increasing tensions with Sam Altman and Greg Brockman over role and influence and he got the board on his side."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Technologies like ChatGPT",
+          "quote": "What happens with ChatGPT and GPT-4? And future models like GPT-5?"
+        },
+        {
+          "item": "Ties with large tech companies",
+          "quote": "Microsoft also was told just before, and employees not told in advance."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Szymon Sidor",
+    "description": "A seven-year researcher at OpenAI who resigned following Sam Altman's ouster.",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "48795986",
+      "name": "OpenAI",
+      "extract": "OpenAI is an American artificial intelligence (AI) research organization consisting of the non-profit OpenAI, Inc. registered in Delaware and its for-profit subsidiary OpenAI Global, LLC. OpenAI researches artificial intelligence with the declared intention of developing \"safe and beneficial\" artificial general intelligence, which it defines as \"highly autonomous systems that outperform humans at most economically valuable work\". OpenAI has also developed several large language models, such as ChatGPT and GPT-4, as well as advanced image generation models like DALL-E 3, and in the past published open-source models.The organization was founded in December 2015 by Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston, John Schulman, Pamela Vagata, and Wojciech Zaremba, with Sam Altman and Elon Musk serving as the initial board members. Microsoft provided OpenAI Global LLC with a $1 billion investment in 2019 and a $10 billion investment in 2023, with a significant portion of the investment in the form of compute resources on Microsoft's Azure cloud service.On November 17, 2023, the board removed Altman as CEO, while Brockman was removed as chairman and then resigned as president. Four days later, both returned after negotiations with the board, and most of the board members resigned. The new initial board included former Salesforce co-CEO Bret Taylor as chairman. OpenAI also announced that Microsoft would have a non-voting board seat at OpenAI.",
+      "description": "OpenAI is an American AI research organization, focusing on developing \"safe and beneficial\" artificial general intelligence and producing large language and image generation models, funded by significant investments by Microsoft."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Pursue AGI",
+          "quote": "Will they still pursue AGI but more slowly? Will they become a safety-first company, like Anthropic claimed to be after the split of its founders with OpenAI?"
+        },
+        {
+          "item": "Create AI safety practices",
+          "quote": "The departures are a sign of immense disappointment among some employees after the Altman ouster and underscore long-simmering divisions at the ChatGPT creator about AI 'safety' practices."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Profit direction and speed of development",
+          "quote": "Sources tell me that the profit direction of the company under Altman and the speed of development, which could be seen as too risky, and the nonprofit side dedicated to more safety and caution were at odds."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Strategic pivots",
+          "quote": "In which ways will its industry and R&D strategies change? What happens with ChatGPT and GPT-4? And future models like GPT-5?"
+        },
+        {
+          "item": "Legal proceedings",
+          "quote": "What will Altman and Brockman do? Will they retaliate with litigation?"
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Continued AI development and advancement",
+          "quote": "What happens now with OpenAI? In which ways will its industry and R&D strategies change?"
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Loss of key personnel and instability",
+          "quote": "Jakub Pachocki...Aleksander Madry...and Szymon Sidor...told associates they had resigned."
+        },
+        {
+          "item": "Potential litigation",
+          "quote": "What will Altman and Brockman do? Will they retaliate with litigation?"
+        },
+        {
+          "item": "Negative impact on partnerships",
+          "quote": "What is the Microsoft executive thinking (Satya Nadella made a rather neutral statement saying the agreement with OpenAI is safe, but Swisher says this surely pisses them off)?"
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Risk from speedy development",
+          "quote": "Sources tell me that the profit direction of the company under Altman and the speed of development, which could be seen as too risky."
+        },
+        {
+          "item": "AI safety concerns",
+          "quote": "The departures are a sign of immense disappointment among some employees after the Altman ouster and underscore long-simmering divisions at the ChatGPT creator about AI 'safety' practices."
+        },
+        {
+          "item": "Internal conflicts and power struggles",
+          "quote": "Increasing tensions with Sam Altman and Greg Brockman over role and influence and he got the board on his side."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Technologies like ChatGPT",
+          "quote": "What happens with ChatGPT and GPT-4? And future models like GPT-5?"
+        },
+        {
+          "item": "Ties with large tech companies",
+          "quote": "Microsoft also was told just before, and employees not told in advance."
+        }
+      ]
+    }
+  },
+  {
+    "name": "ChatGPT",
+    "description": "A model developed by OpenAI that generates human-like text.",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "72417803",
+      "name": "ChatGPT",
+      "extract": "ChatGPT (Chat Generative Pre-trained Transformer) is a large language model-based chatbot developed by OpenAI and launched on November 30, 2022, that enables users to refine and steer a conversation towards a desired length, format, style, level of detail, and language. Successive prompts and replies, known as prompt engineering, are considered at each conversation stage as a context.ChatGPT is built upon either GPT-3.5 or GPT-4, both of which are members of OpenAI's proprietary series of generative pre-trained transformer (GPT) models, based on the transformer architecture developed by Google—and is fine-tuned for conversational applications using a combination of supervised and reinforcement learning techniques. ChatGPT was released as a freely available research preview, but due to its popularity, OpenAI now operates the service on a freemium model. It allows users on its free tier to access the GPT-3.5-based version. In contrast, the more advanced GPT-4-based version and priority access to newer features are provided to paid subscribers under the commercial name \"ChatGPT Plus\".\nBy January 2023, it had become what was then the fastest-growing consumer software application in history, gaining over 100 million users and contributing to OpenAI's valuation growing to $29 billion. ChatGPT's release spurred the development of competing products, including Bard, Ernie Bot, LLaMA, Claude, and Grok. Microsoft launched its Bing Chat based on OpenAI's GPT-4. It raised concern among some observers over the potential of ChatGPT and similar programs to displace or atrophy human intelligence, enable plagiarism, or fuel misinformation.\n\n",
+      "description": "ChatGPT, developed by OpenAI, is a language model-based chatbot using GPT-3.5 or GPT-4 models, designed for text conversation with features like refining length, style, and detail level and operates on a freemium model - free users get access to the GPT-3.5 version and paid subscribers get access to the more advanced GPT-4 version under 'ChatGPT Plus'."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [
+        {
+          "item": "Maintaining a balance between safety and advancement",
+          "quote": "a clash between safety and advancement"
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Change in leadership and board members",
+          "quote": "Greg Brockman will be stepping down as chairman of the board and will remain in his role at the company."
+        },
+        {
+          "item": "Possible Changes in its industry and R&D strategies",
+          "quote": "In which ways will its industry and R&D strategies change?"
+        },
+        {
+          "item": "Potential Changes in the development road map for ChatGPT, GPT-4, and future models",
+          "quote": "What happens with ChatGPT and GPT-4? And future models like GPT-5?"
+        }
+      ],
+      "good_scenarios": [],
+      "bad_scenarios": [
+        {
+          "item": "Abrupt leadership changes may lead to disruption and resignation of key team members",
+          "quote": "three senior researchers … resigned from OpenAI following Sam Altman's ouster."
+        },
+        {
+          "item": "Potential disagreement and division among employees on the company direction",
+          "quote": "What will OpenAI employees do given not just what has happened but how — a heavy-worded announcement without any prior notice — and why — a clash between safety and advancement?"
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Risk of potential legal retaliation from ousted executives",
+          "quote": "Will they retaliate with litigation?"
+        },
+        {
+          "item": "Worries about the impact on ongoing partnerships",
+          "quote": "What is the Microsoft executive thinking (Satya Nadella made a rather neutral statement saying the agreement with OpenAI is safe, but Swisher says this surely pisses them off)?"
+        }
+      ],
+      "resources": [
+        {
+          "item": "Existing Technology and AI models (like GPT)",
+          "quote": "What does this mean for the whole ecosystem of startups building on top of OpenAI’s technology?"
+        },
+        {
+          "item": "OpenAI's Brand and Reputation as an industry leader",
+          "quote": "How will this affect the industry given that OpenAI is (was?) the absolute leader in the space?"
+        }
+      ]
+    }
+  },
+  {
+    "name": "GPT-4",
+    "description": "A future model of AI being developed by OpenAI.",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "72861474",
+      "name": "GPT-4",
+      "extract": "Generative Pre-trained Transformer 4 (GPT-4) is a multimodal large language model created by OpenAI, and the fourth in its series of GPT foundation models. It was initially released on March 14, 2023, and has been made publicly available via the paid chatbot product ChatGPT Plus, and via OpenAI's API.  As a transformer-based model, GPT-4 uses a paradigm where pre-training using both public data and \"data licensed from third-party providers\" is used to predict the next token. After this step, the model was then fine-tuned with reinforcement learning feedback from humans and AI for human alignment and policy compliance.: 2 Observers reported that the iteration of ChatGPT using GPT-4 was an improvement on the previous iteration based on GPT-3.5, with the caveat that GPT-4 retains some of the problems with earlier revisions. GPT-4 is also capable of taking images as input on ChatGPT. OpenAI has declined to reveal various technical details and statistics about GPT-4, such as the precise size of the model.\n\n",
+      "description": "Generative Pre-trained Transformer 4 (GPT-4) is a publicly accessible, multimodal large language model by OpenAI, released in 2023, notable for its image input capability in ChatGPT and improvements over its predecessor, GPT-3.5."
+    }
+  },
+  {
+    "name": "Anthropic",
+    "description": "An AI safety company.",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "6206236",
+      "name": "Anthropic",
+      "extract": "Anthropic PBC is an American artificial intelligence (AI) startup company, founded by former members of OpenAI. Anthropic develops general AI systems and large language models. It is a public-benefit corporation, and has been connected to the effective altruism movement.\nAs of July 2023, Anthropic had raised US$1.5 billion in funding. In September, Amazon announced an investment of up to US$4 billion, followed by a $2 billion commitment from Google the next month.",
+      "description": "Anthropic PBC is an American AI startup, founded by ex-OpenAI members, that develops general AI systems and large language models, and as of 2023, has raised over US$7.5 billion from investors including Amazon and Google."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [
+        {
+          "item": "To be a safety-first company",
+          "quote": "Will they become a safety-first company, like Anthropic claimed to be after the split of its founders with OpenAI?"
+        }
+      ],
+      "possible_actions": [],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Founders who are ex-OpenAI members",
+          "quote": "like Anthropic claimed to be after the split of its founders with OpenAI"
+        },
+        {
+          "item": "Investment amounting to over US$7.5 billion",
+          "quote": "Anthropic PBC is an American AI startup, founded by ex-OpenAI members, that develops general AI systems and large language models, and as of 2023, has raised over US$7.5 billion from investors including Amazon and Google."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Satya Nadella",
+    "description": "The CEO of Microsoft.",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "38309941",
+      "name": "Satya Nadella",
+      "extract": "Satya Narayana Nadella (; born 19 August 1967) is an Indian-American business executive. He is the executive chairman and CEO of Microsoft, succeeding Steve Ballmer in 2014 as CEO and John W. Thompson in 2021 as chairman. Before becoming CEO, he was the executive vice president of Microsoft's cloud and enterprise group, responsible for building and running the company's computing platforms.",
+      "description": "Satya Narayana Nadella, born on 19 August 1967, is an Indian-American business executive serving as the executive chairman and CEO of Microsoft since 2014."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [
+        {
+          "item": "Maintaining the agreement with OpenAI",
+          "quote": "Satya Nadella made a rather neutral statement saying the agreement with OpenAI is safe"
+        }
+      ],
+      "good_scenarios": [],
+      "bad_scenarios": [
+        {
+          "item": "Unexpected and abrupt changes in OpenAI's leadership impacting Microsoft's partnership",
+          "quote": "Satya Nadella made a rather neutral statement saying the agreement with OpenAI is safe, but Swisher says this surely pisses them off"
+        }
+      ],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Partnership with OpenAI",
+          "quote": "Satya Nadella made a rather neutral statement saying the agreement with OpenAI is safe"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Google",
+    "description": "A multinational technology company seen as a competitor in the space of AI.",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "1092923",
+      "name": "Google",
+      "extract": "Google LLC ( ) is an American multinational technology company focusing on artificial intelligence, online advertising, search engine technology, cloud computing, computer software, quantum computing, e-commerce, and consumer electronics. It has been referred to as \"the most powerful company in the world\" and as one of the world's most valuable brands due to its market dominance, data collection, and technological advantages in the field of artificial intelligence. Alongside Amazon, Apple Inc., Meta, and Microsoft, Google's parent company Alphabet Inc. is one of the five Big Tech companies.\nGoogle was founded on September 4, 1998, by American computer scientists Larry Page and Sergey Brin while they were PhD students at Stanford University in California. Together they own about 14% of its publicly listed shares and control 56% of its stockholder voting power through super-voting stock. The company went public via an initial public offering (IPO) in 2004. In 2015, Google was reorganized as a wholly owned subsidiary of Alphabet Inc. Google is Alphabet's largest subsidiary and is a holding company for Alphabet's internet properties and interests. Sundar Pichai was appointed CEO of Google on October 24, 2015, replacing Larry Page, who became the CEO of Alphabet. On December 3, 2019, Pichai also became the CEO of Alphabet.The company has since rapidly grown to offer a multitude of products and services beyond Google Search, many of which hold dominant market positions. These products address a wide range of use cases, including email (Gmail), navigation (Waze & Maps), cloud computing (Cloud), web browsing (Chrome), video sharing (YouTube), productivity (Workspace), operating systems (Android), cloud storage (Drive), language translation (Translate), photo storage (Photos), video calling (Meet), smart home (Nest), smartphones (Pixel), wearable technology (Pixel Watch & Fitbit), music streaming (YouTube Music), video on demand (YouTube TV), artificial intelligence (Google Assistant & Bard), machine learning APIs (TensorFlow), AI chips (TPU), and more. Discontinued Google products include gaming (Stadia), Glass, Google+, Reader, Play Music, Nexus, Hangouts, and Inbox by Gmail.Google's other ventures outside of Internet services and consumer electronics include quantum computing (Sycamore), self-driving cars (Waymo, formerly the Google Self-Driving Car Project), smart cities (Sidewalk Labs), and transformer models (Google Deepmind).Google and YouTube are the two most visited websites worldwide followed by Facebook and X (formerly known as Twitter). Google is also the largest search engine, mapping and navigation application, email provider, office suite, video sharing platform, photo and cloud storage provider, mobile operating system, web browser, ML framework, and AI virtual assistant provider in the world as measured by market share. On the list of most valuable brands, Google is ranked second by Forbes and fourth by Interbrand. It has received significant criticism involving issues such as privacy concerns, tax avoidance, censorship, search neutrality, antitrust and abuse of its monopoly position.",
+      "description": "Google LLC is an American multinational technology company specializing in artificial intelligence, online advertising, search engine technology, and more, recognized as one of the world's most valuable brands and a dominant force in the tech industry."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [
+        {
+          "item": "Google may be in the position to leverage the recent changes in the AI industry",
+          "quote": "What does this mean for Google and other competitors like Anthropic, Meta, xAI, Amazon, etc.?"
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Google could benefit from the changes at OpenAI if they are able to capitalize on the disruption",
+          "quote": "What does this mean for Google and other competitors like Anthropic, Meta, xAI, Amazon, etc.?"
+        }
+      ],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Google's Google Meet platform used by OpenAI for communication",
+          "quote": "Sam joined a Google Meet and the whole board, except Greg, was there."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Amazon",
+    "description": "A multinational technology company seen as a competitor in the space of AI.",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "90451",
+      "name": "Amazon (company)",
+      "extract": "Amazon.com, Inc. ( AM-ə-zon, UK also  AM-ə-zən) is an American multinational technology company focusing on e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence. It has been often referred to as \"one of the most influential economic and cultural forces in the world\", and is often regarded as one of the world's most valuable brands. It is considered to be one of the Big Five American technology companies, alongside Alphabet (parent company of Google), Apple, Meta and Microsoft.\nAmazon was founded by Jeff Bezos from his garage in Bellevue, Washington, on July 5, 1994. Initially an online marketplace for books, it has expanded into a multitude of product categories, a strategy that has earned it the moniker The Everything Store. It has multiple subsidiaries including Amazon Web Services (cloud computing), Zoox (autonomous vehicles), Kuiper Systems (satellite Internet), and Amazon Lab126 (computer hardware R&D). Its other subsidiaries include Ring, Twitch, IMDb, and Whole Foods Market. Its acquisition of Whole Foods in August 2017 for US$13.4 billion substantially increased its footprint as a physical retailer.Amazon has earned a reputation as a disruptor of well-established industries through technological innovation and \"aggressive\" reinvestment of profits into capital expenditures. As of 2023, it is the world's largest online retailer and marketplace, smart speaker provider, cloud computing service through AWS, live-streaming service through Twitch, and Internet company as measured by revenue and market share. In 2021, it surpassed Walmart as the world's largest retailer outside of China, driven in large part by its paid subscription plan, Amazon Prime, which has close to 200 million subscribers worldwide. It is the second-largest private employer in the United States.As of October 2023 Amazon is the 12th most visited website in the world with 82% of its primary domains traffic coming from the United States.Amazon also distributes a variety of downloadable and streaming content through its Amazon Prime Video, MGM+, Amazon Music, Twitch, and Audible units. It publishes books through its publishing arm, Amazon Publishing, film and television content through Amazon MGM Studios, including the Metro-Goldwyn-Mayer studio which acquired in March 2022. It also produces consumer electronics—most notably, Kindle e-readers, Echo devices, Fire tablets, and Fire TVs.\nAmazon has been criticized for customer data collection practices, a toxic work culture, censorship, tax avoidance, and anti-competitive behavior.",
+      "description": "Amazon.com, Inc. is an influential American multinational technology company specializing in e-commerce, cloud computing, and digital streaming, among other fields, and is renowned for being a major disruptor in numerous industries. Founded by Jeff Bezos in 1994, it is the world's largest online retailer and marketplace, boasting nearly 200 million Amazon Prime subscribers worldwide as of 2023."
+    }
+  },
+  {
+    "name": "Meta",
+    "description": "A multinational technology company seen as a competitor in the space of AI.",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "62420226",
+      "name": "Meta Platforms",
+      "extract": "Meta Platforms, Inc., doing business as Meta, and formerly named Facebook, Inc., and TheFacebook, Inc., is an American multinational technology conglomerate based in Menlo Park, California. The company owns and operates Facebook, Instagram, Threads, and WhatsApp, among other products and services. Meta is one of the world's most valuable companies and among the ten largest publicly traded corporations in the United States. It is considered one of the Big Five American information technology companies, alongside Google's parent company Alphabet, Amazon, Apple, and Microsoft.\nIn addition to Facebook, Instagram, Threads and WhatsApp, Meta has also acquired Oculus (which it has integrated into Reality Labs), Mapillary, CTRL-Labs, and a 9.99% stake in Jio Platforms; the company additionally endeavored into non-VR hardware, such as the discontinued Meta Portal smart displays line and presently partners with Luxottica through the Ray-Ban Stories series of smart glasses. Despite endeavors into hardware, the company still relies on advertising for a vast majority of its revenue, which in 2022 made up 97.5 percent of its revenue.On October 28, 2021, the parent company of Facebook changed its name from Facebook, Inc., to Meta Platforms, Inc., to \"reflect its focus on building the metaverse\". According to Meta, the term \"metaverse\" refers to the integrated environment that links all of the company's products and services.\n\n",
+      "description": "Meta Platforms, formerly named Facebook, Inc., is an American tech conglomerate that owns Facebook, Instagram, WhatsApp and other services, and is one of the world's most valuable companies focusing on building the \"metaverse\", a linked, integrated environment of all its products and services.\n"
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": []
+    }
+  },
+  {
+    "name": "xAI",
+    "description": "A company in the AI space; seen as a competitor in the space of AI.",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "74330685",
+      "name": "XAI (company)",
+      "extract": "X.AI Corp., doing business as xAI, is an American startup company working in the area of artificial intelligence (AI), founded by Elon Musk in March 2023. Its stated goal is \"to understand the true nature of the universe\".",
+      "description": "X.AI Corp., also known as xAI, is an American artificial intelligence startup founded by Elon Musk in 2023, aiming to understand the universe's true nature."
+    }
+  }
+]

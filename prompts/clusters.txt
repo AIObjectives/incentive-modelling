@@ -1,0 +1,27 @@
+I'm going to give you a relatively long list of strings and I want you to return a JSON object grouping these strings by semantic clusters. 
+
+For each cluster I want you to generate a short cluster name (field "clusterName") describing concisely what sort of items belong to the cluster. For instance, the cluster name can describe the topic covered by all items. But I also want you to choose a representative item (field "representativeItem") to represent the cluster. It should correspond to one of the most concise items in the cluster and it should be one of the most representative/characteristic of the cluster.  
+
+I want all the original strings to be listed in the "items" field of one cluster, but if it is too difficult to map all of them to good cluster, you can use a special cluster named "(Other)" to collect the items that couldn't be matched to any other cluster. The cluster names much be semantically close to all the items listed in the "items" field.
+
+I want to have at most 9 clusters. 
+
+Here is the list: """{all_items}"""
+
+Please return a JSON object looking like this: 
+
+{
+  "clusters": [
+    {
+      "clusterName": "cluster1", 
+      "representativeItem": "item2",
+      "items": ["item1", "item2", ...]
+    }, 
+    {
+      "clusterName": "cluster2", 
+      "representativeItem": "item6",
+      "items": ["item5", "item7", ...]
+    }, 
+    // ...     
+  ]
+}

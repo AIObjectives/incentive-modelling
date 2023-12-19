@@ -1,0 +1,30 @@
+Source: Guardian
+Title: Sam Altman ‘was working on new venture’ before sacking from OpenAI
+Subtitle: Company behind Chat GPT said to be in turmoil as top staff join exodus
+Date: Sat 18 Nov 2023 23.41 GMT
+Author: Shanti Das and David Connett
+Link: https://www.theguardian.com/technology/2023/nov/18/earthquake-at-chatgpt-developer-as-senior-staff-quit-after-sacking-of-boss-sam-altman
+
+=== 
+
+Sam Altman, the recently sacked boss of OpenAI, the company behind the ChatGPT bot, was telling investors he planned to launch a new company before his shock departure, it was claimed.
+
+The former OpenAI president, Greg Brockman, is also expected to join Altman after he quit the artificial intelligence firm along with other key senior executives following Altman’s abrupt departure.
+
+The new company was described as still “in development” on Saturday and many more employees could exit OpenAI to join the new venture.
+
+To add to the confusion over the future of one of the world’s most potentially valuable technology firms, a report by the Verge on Saturday night claimed that the OpenAI board was in discussions with Sam Altman to return as CEO, just a day after he was ousted.
+
+The crisis at OpenAI deepened this weekend when the company said Altman’s ousting was for allegedly misleading the board. In a statement, it said it had lost confidence in its 38-year-old co-founder after “a deliberative review process” concluded he had not been “consistently candid in his communications”, without specifying how.
+
+OpenAI staff were later told by the chief operating officer, Brad Lightcap, in an internal company memo his sacking was over a “breakdown in communication between Sam and the board”, and not “malfeasance or anything related to our financial, business, safety, or security/privacy practices”.
+
+Shortly after Altman’s dismissal Brockman announced that he had resigned. “Sam and I are shocked and saddened by what the board did today … We too are still trying to figure out exactly what happened,” he wrote on X.
+
+The departures stunned the tech world and have sent rumours swirling, with some speculating that internal divisions over AI safety could be to blame. The Information, a US tech publication, reported that Jakub Pachocki, OpenAI’s director of research, Aleksander Madry, head of a team evaluating potential risks from AI, and Szymon Sidor, a researcher, had told associates they had resigned.
+
+None of the three could be contacted for comment on Saturday. OpenAI, which is now being led by interim chief executive Mira Murati, also did not respond to requests for comment.
+
+Based in San Francisco, OpenAI was founded in 2015 by Altman, Brockman, Elon Musk and others as a not-for-profit group. It restructured in 2019 and has been backed heavily by Microsoft.
+
+Last year, it launched ChatGPT, a text-based AI-powered tool that allows users to enter prompts and receive human-like responses and is now used by millions. After ChatGPT’s launch, Altman was propelled to star status in Silicon Valley and beyond, and is seen as a pioneer in the world of AI. Earlier in November, he was one of 100 delegates who travelled to Bletchley Park for the UK’s AI summit, where he met Rishi Sunak. Altman is yet to comment on the details of his departure, other than to say his time at the company was “transformative” and that he would “have more to say about what’s next later”.

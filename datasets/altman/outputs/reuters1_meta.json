@@ -1,0 +1,36 @@
+{
+  "title": "Sam Altman's firing at OpenAI reflects schism over future of AI development",
+  "source": "Reuters",
+  "date": "November 20, 2023",
+  "authors": [
+    "Greg Bensinger"
+  ],
+  "link": "https://www.reuters.com/technology/sam-altmans-firing-openai-reflects-schism-over-future-ai-development-2023-11-20/",
+  "relevance_score": 0.9,
+  "relevance_explanation": "This document is highly relevant to the research goals. It discusses the key issue surrounding Sam Altman's firing, including the divergence of opinion on AI development within OpenAI and its potential societal impacts. It implicates the power dynamics and the contested visions for the future of AI that could have motivated the board's decision.",
+  "summary": "Sam Altman was ousted from OpenAI due to disagreements over the pace of AI deployment and safety procedures. This event highlights a schism in AI development philosophy and has significant implications for the future direction of the field.",
+  "events": [
+    "Sam Altman was fired from OpenAI.",
+    "OpenAI released new AI products earlier in the month.",
+    "Investment frenzy in AI firms triggered by the release of ChatGPT.",
+    "OpenAI's transition from a nonprofit to a partially for-profit entity.",
+    "Appointment of Emmett Shear as interim CEO of OpenAI."
+  ],
+  "entities": [
+    "Sam Altman",
+    "OpenAI",
+    "ChatGPT",
+    "Ilya Sutskever",
+    "Connor Leahy",
+    "ConjectureAI",
+    "Emmett Shear",
+    "Microsoft",
+    "Alphabet",
+    "Amazon.com",
+    "Anthropic",
+    "ScaleAI",
+    "European Union",
+    "Twitch"
+  ],
+  "document_type": "Newspaper article"
+}

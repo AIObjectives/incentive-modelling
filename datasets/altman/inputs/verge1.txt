@@ -1,0 +1,318 @@
+Source: The Verge
+Link: https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt
+Title: Turmoil at OpenAI: Now that Sam Altman is back, what’s next for the creator of ChatGPT?
+Author: Richard LAWLER
+Date: Dec 1, 2023
+
+=== 
+
+It’s official: Sam Altman is, once again, the CEO of OpenAI. How did the world’s hottest generative AI company go through three CEOs in under a week and end up with the same one it had at the start? This is what we know so far.
+
+On November 17th, OpenAI’s board abruptly announced that co-founder and CEO Sam Altman was out, effective immediately. After weekend talks to restore Sam Altman to his post fell apart, former Twitch boss Emmett Shear was announced as the interim CEO of OpenAI. Then hundreds of OpenAI employees — including former interim CEO Mira Murati and (now-former) board member Ilya Sutskever — signed a letter saying they would leave the company for jobs at Microsoft unless Altman is reinstated.
+
+After some negotiations, Altman has returned, along with president Greg Brockman, while Murati is returning to her role as the company’s CTO. The deal also includes a new set of board members, which now will include representation from Microsoft.
+
+The shake-up comes just shy of one year after the launch of ChatGPT, which quickly entered mainstream conversation, became one of the fastest-growing apps in history and initiated an industry-wide race to build generative AI tools and hardware to power them. At OpenAI’s first developer conference just a week before his ouster, Altman said the service had over 100 million weekly users, and more than 2 million developers were building on the company’s APIs.
+
+All of the news and updates about OpenAI’s executive turnover continue below.
+
+Highlights
+Microsoft joins OpenAI’s board with Sam Altman officially back as CEO
+Read Microsoft’s internal memos about the chaos at OpenAI
+Sam Altman to return as CEO of OpenAI
+OpenAI drops a big new ChatGPT feature with a joke about its CEO drama
+Sam Altman fired as CEO of OpenAI
+Emilia David
+DEC 1
+
+EMILIA DAVID
+
+In firing Altman, OpenAI’s board wanted to keep the element of surprise
+A rendition of OpenAI’s logo, which looks like a stylized whirlpool.
+Illustration: The Verge
+We still don’t know the whole story around the conflict between OpenAI CEO Sam Altman and the company’s board, but more and more is leaking out. A new report, from The New Yorker, alleges that OpenAI’s old board deliberately excluded Microsoft after initially voting to expel Sam Altman as CEO, and they actually believed the company would back them.
+
+In the sprawling story, New Yorker reported Microsoft executives were blindsided by the decision to oust Sam Altman, possibly to prevent Microsoft CEO Satya Nadella from warning Altman what was about to happen. 
+
+Alex Heath
+NOV 30
+
+ALEX HEATH
+
+Interview: Sam Altman on being fired and rehired by OpenAI
+OpenAI Holds Its First Developer Conference
+Sam Altman.
+When OpenAI’s board asked Sam Altman to return a day after they fired him, he initially felt defiant, hurt, and angry.
+
+“It took me a few minutes to snap out of it and get over the ego and emotions to then be like, ‘Yeah, of course I want to do that,’” he told me by phone on Wednesday. “Obviously, I really loved the company and had poured my life force into this for the last four and a half years full time, but really longer than that with most of my time. And we’re making such great progress on the mission that I care so much about, the mission of safe and beneficial AGI.”
+
+Alex Heath
+NOV 30
+
+ALEX HEATH
+
+Microsoft joins OpenAI’s board with Sam Altman officially back as CEO
+Sam Altman is officially OpenAI’s CEO again.
+
+Just before Thanksgiving, the company said it had reached a deal in principle for him to return, and now it’s done. Microsoft is getting a non-voting observer seat on the nonprofit board that controls OpenAI as well, the company announced on Wednesday.
+
+Alex Heath
+NOV 29
+
+ALEX HEATH
+
+OpenAI’s board needs to say something
+A photo of Adam D’Angelo.
+OpenAI’s Adam D’Angelo. Illustration by William Joel / The Verge, Photo: Quora
+Earlier this year, I ran into Adam D’Angelo at an AI conference in San Francisco’s “Cerebral Valley” neighborhood. 
+
+He was there to talk about Poe, the AI bot platform that is his pet project as the CEO of Quora. But I was more interested in his role as a board member of OpenAI, which had just lost two other directors in a matter of a few weeks: Reid Hoffman and Shivon Zilis. Was the board actively looking to fill their spots? I cornered D’Angelo in the halls of the conference venue to ask. He said yes and declined to elaborate. 
+
+Jon Porter
+NOV 23
+
+JON PORTER
+
+A troll worthy of Clippy themself.This Wall Street Journal article about the recent drama at OpenAI contains an amazing anecdote. Apparently an employee at AI rival Anthropic thought it’d be funny to send “thousands of paper clips in the shape of OpenAI’s logo” as a prank, in reference to the infamous paperclip maximizer thought experiment.
+Weirdly, I think OpenAI’s logo makes for a great paperclip design. Should we be worried?
+
+
+How a Fervent Belief Split Silicon Valley—and Fueled the Blowup at OpenAI
+[WSJ]
+
+
+NOV 23
+
+ALEX HEATH AND RICHARD LAWLER
+
+A recent OpenAI breakthrough on the path to AGI has caused a stir.Reports from Reuters and The Information Wednesday night detail an OpenAI model called Q* (pronounced Q Star) that was recently demonstrated internally and is capable of solving simple math problems. Doing grade school math may not seem impressive, but the reports note that, according to the researchers involved, it could be a step toward creating artificial general intelligence (AGI).
+After the publishing of the Reuters report, which said senior exec Mira Murati told employees that a letter about Q* “precipitated the board’s actions” to fire Sam Altman last week, OpenAI spokesperson Lindsey Held Bolton refuted that notion in a statement shared with The Verge: “Mira told employees what the media reports were about but she did not comment on the accuracy of the information.”
+
+Separately, a person familiar with the matter told The Verge that the board never received a letter about such a breakthrough and that the company’s research progress didn’t play a role in Altman’s sudden firing.
+
+The drama continues!
+
+
+ChatGPT logo in mint green and black colors.
+Everything we know so far about OpenAI, Sam Altman’s return, and what happens next
+RICHARD LAWLERDEC 1
+Tom Warren
+NOV 22
+
+TOM WARREN
+
+Read Microsoft’s internal memos about the chaos at OpenAI
+OpenAI - Microsoft
+Photo by Berke Bayur/Anadolu via Getty Images
+In the early hours of Wednesday morning, OpenAI announced that Sam Altman is returning as CEO, following a shock firing on Friday. Over the weekend, it looked like Altman and OpenAI co-founder Greg Brockman might end up at Microsoft, leading a new AI research lab. But after days of negotiation, that’s no longer the case and OpenAI has appointed a new board of directors and brought back Altman as CEO of the company.
+
+After a weekend of chaotic scenes, including hundreds of OpenAI employees threatening to quit and join Microsoft, things seem to be settling down. Microsoft CTO and EVP of AI Kevin Scott has now addressed Microsoft employees about the OpenAI turmoil. It’s the first company-wide communication to Microsoft employees about the situation, beyond CEO Satya Nadella’s announcement of Altman’s hiring not hiring on Sunday and the initial reaction to the news on Friday.
+
+
+NOV 22
+
+NILAY PATEL AND ALEX HEATH
+
+Sam Altman to return as CEO of OpenAI
+OpenAI Holds Its First Developer Conference
+Sam Altman speaks during the OpenAI DevDay event on November 6th, 2023. Photo by Justin Sullivan / Getty Images
+Sam Altman will return as CEO of OpenAI, overcoming an attempted boardroom coup that sent the company into chaos over the past several days. Former president Greg Brockman, who quit in protest of Altman’s firing, will return as well.
+
+The company said in a statement late Tuesday that it has an “agreement in principle” for Altman to return alongside a new board composed of Bret Taylor, Larry Summers, and Adam D’Angelo. D’Angelo is a holdover from the previous board that initially fired Altman on Friday. He remains on this new board to give the previous board some representation, we’re told.
+
+Emma Roth
+NOV 21
+
+EMMA ROTH
+
+OpenAI drops a big new ChatGPT feature with a joke about its CEO drama
+A rendition of OpenAI’s logo, which looks like a stylized whirlpool.
+Illustration: The Verge
+ChatGPT’s voice feature is now available to all users for free. In a post on X (formerly Twitter), OpenAI announced users can now tap the headphones icon to use their voice to talk with ChatGPT in the mobile app, as well as get an audible response.
+
+OpenAI first rolled out the ability to prompt ChatGPT with your voice and images in September, but it only made the feature available to paying users.
+
+Nilay Patel
+NOV 21
+
+NILAY PATEL
+
+The negotiations to bring Sam Altman back to OpenAI slowly continue.Here’s a brief update on where things stand with OpenAI today, after an explosive weekend and a very confusing Monday which saw the news of Sam Altman going to Microsoft slowly fade into Satya Nadella not seeming so sure that would happen.
+— We’re told Altman still wants to return to OpenAI and continues to negotiate with the board today.
+
+— As Bloomberg reported late last night, new interim CEO Emmett Shear is involved in mediating these negotiations, creating the frankly unprecedented situation where (1) the interim CEO who replaced (2) the interim CEO who replaced Sam and who (3) got replaced for trying to get Sam back is now (4) deeply involved in a new effort to get Sam back. Read it through a few times, it’s fine. It doesn’t make any sense to anyone else either.
+
+— Microsoft’s offer to hire everyone who threatened to quit is still on the table, and has now been made officially public, after being noted in the employee walkout letter yesterday. In general, Microsoft appears to have receded from the situation; Nadella remains in the mix but has now made several media appearances reiterating that he’ll will work with Altman and OpenAI “irrespective of configuration,” which frankly sounds like he’s talking about the benefits of plug and play device drivers in Windows. We all fall back to what we know.
+
+— We are told everyone, including the board, is trying to be reasonable, and put OpenAI back together.
+
+We’ll keep posting updates as we have them; at the very least we can say the overall temperature has dropped, but it’s not clear any of this results in an actual return.
+
+
+Tom Warren
+NOV 21
+
+TOM WARREN
+
+Microsoft offers to match OpenAI compensation.Microsoft CTO and EVP of AI Kevin Scott says the software maker will match OpenAI’s compensation to employees that want to join Sam Atlman’s new AI research lab. It comes shortly after Microsoft CEO Satya Nadella went on a media tour last night and didn’t seem to know if Sam Altman will actually join Microsoft or not. Competitors like Salesforce have been trying to tempt OpenAI employees to join rival AI projects.
+
+Richard Lawler
+NOV 21
+
+RICHARD LAWLER
+
+OpenAI exec to employees: “our number one goal remains to reunify OpenAI.”Several days after Sam Altman was removed from his post as OpenAI’s CEO, there is still no resolution to the issue, even after hundreds of employees signed a pledge to follow him to Microsoft unless he’s reinstated.
+Now, Bloomberg reports that global affairs VP Anna Makanju sent a memo to staff confirming that negotiations have continued between Altman, the remaining board members, and new interim CEO Emmett Shear, they won’t have a final response tonight and plan to continue discussions on Tuesday morning.
+
+
+OpenAI in ‘Intense Discussions’ to Unify Company, Memo Says
+[BLOOMBERG]
+
+Richard Lawler
+NOV 21
+
+RICHARD LAWLER
+
+A few more updates about OpenAI.As hundreds of employees threaten to quit unless Sam Altman’s firing is rolled back:
+The Information reports that before interim CEO Emmett Shear took the job, OpenAI’s remaining board members offered it to two others: former GitHub CEO Nat Friedman and Scale AI CEO Alex Wang. Both turned it down. (Update: And in another report, it says board members also pursued the CEO of its competitor Anthropic, Dario Amodei, and proposed a merger between the two companies.)
+
+From Business Insider there’s a report Ilya Sutskever gave employees two explanations for Altman’s firing: that he gave two people the same project and that he allegedly gave two board members different opinions about a member of personnel.
+
+Finally, the Wall Street Journal writes that Sutskever, one of the board members who voted to fire Altman, switched to asking for Altman’s return “after an emotionally charged conversation with Anna Brockman, Greg Brockman’s wife” and notes he officiated their civil ceremony at OpenAI’s offices in 2019.
+
+
+Tom Warren
+NOV 20
+
+TOM WARREN
+
+Is Sam Altman joining Microsoft? Satya Nadella doesn’t seem to know
+OpenAI Holds Its First Developer Conference
+Microsoft CEO Satya Nadella on stage at OpenAI’s first developer conference. Image: Getty
+Microsoft CEO Satya Nadella announced late last night that former OpenAI CEO Sam Altman and OpenAI co-founder Greg Brockman were both joining Microsoft to lead a new advanced AI research team, an announcement that sent Microsoft’s stock price soaring. Now, less than 24 hours later, following The Verge reporting that Sam Altman is still trying to return as OpenAI CEO, Nadella doesn’t seem so sure.
+
+“[We’re] committed to OpenAI and Sam, irrespective of what configuration,” said Nadella in an interview with CNBC’s Jon Fortt, adding that Microsoft “chose to explicitly partner with OpenAI [and] obviously that depends on the people at OpenAI staying there or coming to Microsoft, so I’m open to both options.” Nadella added that “obviously we want Sam and Greg to have a fantastic home if they’re not going to be [at] OpenAI, with all the colleagues at Microsoft, but I’m exactly where I was on Friday morning.”
+
+David Pierce
+NOV 20
+
+DAVID PIERCE
+
+Today on the (emergency) Vergecast: what in the world is happening at OpenAI.We tried to just tell the story in order, which is tough to do. Then we tried to figure out how this happened, what it means, and what might happen next. Grab the audio for your preferred podcast app right here.
+And because this story won’t stop, we didn’t even get all the news – because one outcome we didn’t think of is that Sam Altman might go back to OpenAI after all. Sure!
+
+
+
+
+NOV 20
+
+ALEX HEATH AND NILAY PATEL
+
+Sam Altman is still trying to return as OpenAI CEO
+Business And World Leaders Attend The APEC CEO Summit 2023 In San Francisco
+Photo by Justin Sullivan/Getty Images
+Sam Altman’s surprise move to Microsoft after his shock firing at OpenAI isn’t a done deal. He and co-founder Greg Brockman are still willing to return to OpenAI if the remaining board members who fired him step aside, multiple sources tell The Verge.
+
+The promised mass exodus of virtually every OpenAI employee — including board member and chief scientist Ilya Sutskever, who led the initial move to depose Altman! — means that there is more pressure on the board than ever, with only two of the three remaining members needing to flip. Altman posted on X that “we are all going to work together some way or other,” which we are told is meant to indicate that the fight continues.
+
+Read Article >
+Adi Robertson
+NOV 20
+
+ADI ROBERTSON
+
+Of course there’s a rationalist Harry Potter fanfic angle to the OpenAI drama.No, really: this does not surprise me at all! Unlike 404’s Jason Koebler, I did in fact read early parts of blogger and AI “doomer” Eliezer Yudkowsky’s Harry Potter and the Methods of Rationality — it was known in nerd/fan circles, not just the effective altruist movement, and at least initially was built around the pretty funny conceit of “applying cold hyperlogic to the quirks of a children’s fantasy series.” I did not get nearly far enough to reach the namecheck of Emmett Shear, OpenAI’s new CEO.
+New OpenAI CEO Was a Character in a Harry Potter Fanfic That's Wildly Popular With Effective Altruists
+[404 MEDIA]
+
+Tom Warren
+NOV 20
+
+TOM WARREN
+
+Sam Altman isn’t showing up in Microsoft’s corporate directory yet.Microsoft employees are waking up to the surprise news of former OpenAI CEO Sam Altman joining them as a colleague. Microsoft CEO Satya Nadella says Altman is joining to lead a new advanced AI research team, but he’s not yet showing up in Microsoft’s corporate directory according to multiple sources. He’s still marked as an OpenAI guest. Once he’s fully onboarded Altman will have a CEO title inside Microsoft and could be set to hire hundreds of OpenAI employees who have threatened to resign.
+📩 Do you know more about Microsoft’s plans for its new AI research team? You can reach me confidentially on the Signal messaging app: +442081230413, or through email (tom@theverge.com).
+
+
+OpenAI Holds Its First Developer Conference
+Microsoft hires former OpenAI CEO Sam Altman
+TOM WARRENNOV 20
+
+NOV 20
+
+JACOB KASTRENAKES AND TOM WARREN
+
+Hundreds of OpenAI employees threaten to resign and join Microsoft
+Photo of Satya Nadella standing in front of a sign that reads Microsoft loves OpenAI
+Microsoft CEO Satya Nadella onstage at Ignite 2023 in November. Image: Microsoft
+Most of the staff at OpenAI have threatened to resign from the company and join Microsoft, which has hired ousted OpenAI CEO Sam Altman and former OpenAI co-founder Greg Brockman to lead a new “advanced AI research team.” In a letter to OpenAI’s board that was reported on this morning by Wired and journalist Kara Swisher, more than 500 current OpenAI staffers say that “Microsoft has assured us that there are positions for all OpenAI employees at this new subsidiary should we choose to join.”
+
+The letter says the OpenAI employees will leave if the board does not reinstate Altman and Brockman and then resign. But seeing as the board has already made its choice, deciding to remain in place and naming a new CEO, while Altman and Brockman head to Microsoft, it seems that Microsoft may have just found Altman’s first several hundred employees, assuming they’re correct about the company’s promise to hire them all.
+
+Richard Lawler
+NOV 20
+
+RICHARD LAWLER
+
+We’re all trying to find the guy who did this.OpenAI chief scientist Ilya Sutskever, who reportedly led the push to fire Sam Altman, which kicked off an entire weekend of shenanigans including three CEOs in three days and Altman joining OpenAI financial backer Microsoft, has regrets. In a post on X, the platform formerly known as Twitter, he writes:
+I deeply regret my participation in the board’s actions. I never intended to harm OpenAI. I love everything we’ve built together and I will do everything I can to reunite the company.
+
+Moments after Sutskever’s post, newly-minted Microsoft exec Sam Altman quoted the post with a heart.
+
+
+
+Jess Weatherbed
+NOV 20
+
+JESS WEATHERBED
+
+OpenAI employees are openly criticizing the company’s leadership.OpenAI’s workforce is voicing complaints on X (formerly Twitter) following the ousting of former CEO Sam Altman and the confirmation on Sunday that he wouldn’t be re-instated.
+“Every single person whose ever told me to trust them on blind faith has been a liar,” said OpenAI technical staff member Brydon Eastman in a now-deleted post. “A chief scientist should [k]now this better than anyone.”
+
+
+A screenshot taken from X from user @shengiia_zhao regarding the sacking of OpenAI CEO Sam Altman.
+1/2Tensions are running high among the remaining OpenAI employees. Image: X / Shengiia Zhao
+Tom Warren
+NOV 20
+
+TOM WARREN
+
+Sam Altman has a CEO title inside Microsoft.That’s a big deal in itself. Microsoft typically uses the CEO title for the leaders of big divisions like Microsoft Gaming, or acquired companies like LinkedIn and GitHub. Altman as the CEO of a new advanced AI research team signals to me that Microsoft is treating this like a big acquisition, which makes sense when you consider that a number of OpenAI employees are joining Altman at Microsoft.
+OpenAI Holds Its First Developer Conference
+Microsoft hires former OpenAI CEO Sam Altman
+TOM WARRENNOV 20
+Tom Warren
+NOV 20
+
+TOM WARREN
+
+OpenAI’s new CEO is Twitch co-founder Emmett Shear
+TED2019: Bigger Than Us
+Emmett Shear at TED 2019. Photo by Lawrence Sumulong / Getty Images
+OpenAI has a third CEO in three days: Emmett Shear. After a shock firing of former CEO Sam Altman on Friday, Twitch co-founder Emmett Shear is officially taking over as interim CEO of OpenAI. The Information first revealed Shear’s appointment on Sunday night. The official announcement comes just an hour after Microsoft confirmed it had hired Sam Altman and OpenAI co-founder Greg Brockman to form a new advanced AI research team.
+
+“Today I got a call inviting me to consider a once-in-a-lifetime opportunity: to become the interim CEO of OpenAI,” says Shear in a post on X (formerly Twitter). “After consulting with my family and reflecting on it for just a few hours, I accepted.”
+
+Tom Warren
+NOV 20
+
+TOM WARREN
+
+Microsoft hires former OpenAI CEO Sam Altman
+OpenAI Holds Its First Developer Conference
+Photo by Justin Sullivan / Getty Images
+Microsoft is hiring former OpenAI CEO Sam Altman and co-founder Greg Brockman.
+
+Altman was fired from OpenAI on Friday after the board said it “no longer has confidence in his ability to continue leading OpenAI.” After a weekend of negotiations to potentially bring Altman back to OpenAI, Microsoft CEO Satya Nadella announced that both Altman and Brockman will be joining to lead Microsoft’s new advanced AI research team. Altman will have the CEO title of this new group.
+
+
+NOV 20
+
+NILAY PATEL AND ALEX HEATH
+
+Sam Altman isn’t coming back to OpenAI
+OpenAI Holds Its First Developer Conference
+Sam Altman at OpenAI’s first conference on November 6th. Photo by Justin Sullivan / Getty Images
+After a weekend of negotiations to potentially bring back Sam Altman as OpenAI CEO following his shock firing, the company’s nonprofit board has gone another way entirely and named former Twitch CEO and co-founder Emmett Shear as interim CEO, according to a person familiar with the matter. He will take over as CEO for Mira Murati, who was publicly aligned with Altman.
+
+That’s three CEOs in three days, if you’re keeping track.

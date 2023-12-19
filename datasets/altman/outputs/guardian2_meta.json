@@ -1,0 +1,37 @@
+{
+  "title": "Sam Altman ‘was working on new venture’ before sacking from OpenAI",
+  "source": "Guardian",
+  "date": "Sat 18 Nov 2023 23.41 GMT",
+  "authors": [
+    "Shanti Das",
+    "David Connett"
+  ],
+  "link": "https://www.theguardian.com/technology/2023/nov/18/earthquake-at-chatgpt-developer-as-senior-staff-quit-after-sacking-of-boss-sam-altman",
+  "relevance_score": 0.9,
+  "relevance_explanation": "The document is highly relevant as it directly discusses the sacking of Sam Altman from OpenAI, the aftermath involving key personnel exits, and highlights the potential reasons and speculations surrounding the incident which could illuminate the power dynamics and intentions within OpenAI.",
+  "summary": "Sam Altman was removed from OpenAI and was planning to start a new company before his departure. Senior executives also left OpenAI, with potential more to follow. OpenAI's board allegedly lost confidence in Altman for not being candid, leading to his sacking. There is speculation about AI safety being a divisive issue within the company. OpenAI is under interim CEO Mira Murati and has not commented on the situation.",
+  "events": [
+    "Sam Altman's sacking from OpenAI",
+    "Senior executives resigning from OpenAI",
+    "OpenAI's board discussions about Altman potentially returning as CEO",
+    "Allegations of misleading the board against Altman",
+    "Announcement of a new company potentially being formed by Altman"
+  ],
+  "entities": [
+    "Sam Altman",
+    "OpenAI",
+    "Greg Brockman",
+    "Brad Lightcap",
+    "Mira Murati",
+    "Jakub Pachocki",
+    "Aleksander Madry",
+    "Szymon Sidor",
+    "Elon Musk",
+    "Microsoft",
+    "ChatGPT",
+    "Rishi Sunak",
+    "The Verge",
+    "The Information"
+  ],
+  "document_type": "newspaper article"
+}

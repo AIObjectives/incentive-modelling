@@ -1,0 +1,668 @@
+[
+  {
+    "name": "Sam Altman",
+    "description": "Former CEO and co-founder of OpenAI",
+    "mentions": 7,
+    "wikipedia": {
+      "id": "22476815",
+      "name": "Sam Altman",
+      "extract": "Samuel Harris Altman (; AWLT-mən; born April 22, 1985) is an American entrepreneur and investor, who has been the CEO of OpenAI since 2019 (he was briefly fired and reinstated in November 2023). Prior to OpenAI, Altman was president of Y Combinator from 2014 to 2019.\n\n",
+      "description": "Samuel Harris Altman, born April 22, 1985, is an American entrepreneur and investor, currently serving as the CEO of OpenAI, and was previously the president of Y Combinator from 2014 to 2019."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Rapid development and public deployment of AI",
+          "quote": "On one side are those, like Altman, who view the rapid development and, especially, public deployment of AI as essential to stress-testing and perfecting the technology."
+        },
+        {
+          "item": "Commercialization of AI technologies",
+          "quote": "Of particular concern, reportedly, was that OpenAI announced a slate of new commercially available products at its developer event earlier this month, including a version of its ChatGPT-4 software and so-called agents that work like virtual assistants."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Pushing forward AI development",
+          "quote": "Sutskever reportedly felt Altman was pushing OpenAI’s software too quickly into users’ hands, potentially compromising safety."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Push for rapid development of AI",
+          "quote": "On one side are those, like Altman, who view the rapid development and, especially, public deployment of AI as essential to stress-testing and perfecting the technology."
+        },
+        {
+          "item": "Commercialization of AI technologies",
+          "quote": "Of particular concern, reportedly, was that OpenAI announced a slate of new commercially available products at its developer event earlier this month, including a version of its ChatGPT-4 software and so-called agents that work like virtual assistants."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Successful deployment of AI to the public",
+          "quote": "On one side are those, like Altman, who view the rapid development and, especially, public deployment of AI as essential to stress-testing and perfecting the technology."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "AI becoming uncontrollable leading to possible catastrophe",
+          "quote": "Some caution the hyper-intelligent software could become uncontrollable, leading to catastrophe."
+        },
+        {
+          "item": "Superintelligent AI going rogue",
+          "quote": "\"We don’t have a solution for steering or controlling a potentially superintelligent AI, and preventing it from going rogue,\" he and a deputy wrote in a July blog post."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Possible compromise in safety with rapid deployment of AI",
+          "quote": "Sutskever reportedly felt Altman was pushing OpenAI’s software too quickly into users’ hands, potentially compromising safety."
+        }
+      ],
+      "resources": [
+        {
+          "item": "AI technology, OpenAI and products like ChatGPT-4",
+          "quote": "Of particular concern, reportedly, was that OpenAI announced a slate of new commercially available products at its developer event earlier this month, including a version of its ChatGPT-4 software and so-called agents that work like virtual assistants."
+        },
+        {
+          "item": "Investment for AI development",
+          "quote": "ChatGPT's release last November prompted a frenzy of investment in AI firms, including $10 billion from Microsoft (MSFT.O) into OpenAI and billions more for other startups, including from Alphabet (GOOGL.O) and Amazon.com (AMZN.O)."
+        }
+      ]
+    }
+  },
+  {
+    "name": "OpenAI",
+    "description": "The company that Sam Altman was CEO at and it also created the ChatGPT chatbot",
+    "mentions": 10,
+    "wikipedia": {
+      "id": "48795986",
+      "name": "OpenAI",
+      "extract": "OpenAI is an American artificial intelligence (AI) research organization consisting of the non-profit OpenAI, Inc. registered in Delaware and its for-profit subsidiary OpenAI Global, LLC. OpenAI researches artificial intelligence with the declared intention of developing \"safe and beneficial\" artificial general intelligence, which it defines as \"highly autonomous systems that outperform humans at most economically valuable work\". OpenAI has also developed several large language models, such as ChatGPT and GPT-4, as well as advanced image generation models like DALL-E 3, and in the past published open-source models.The organization was founded in December 2015 by Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston, John Schulman, Pamela Vagata, and Wojciech Zaremba, with Sam Altman and Elon Musk serving as the initial board members. Microsoft provided OpenAI Global LLC with a $1 billion investment in 2019 and a $10 billion investment in 2023, with a significant portion of the investment in the form of compute resources on Microsoft's Azure cloud service.On November 17, 2023, the board removed Altman as CEO, while Brockman was removed as chairman and then resigned as president. Four days later, both returned after negotiations with the board, and most of the board members resigned. The new initial board included former Salesforce co-CEO Bret Taylor as chairman. OpenAI also announced that Microsoft would have a non-voting board seat at OpenAI.",
+      "description": "OpenAI is an American AI research organization, focusing on developing \"safe and beneficial\" artificial general intelligence and producing large language and image generation models, funded by significant investments by Microsoft."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Develop and perfect AI technology.",
+          "quote": "On one side are those, like Altman, who view the rapid development and, especially, public deployment of AI as essential to stress-testing and perfecting the technology."
+        },
+        {
+          "item": "Ensure AI is safe for human consumption.",
+          "quote": "On the other side are those who say the safest path forward is to fully develop and test AI in a laboratory first to ensure it is, so to speak, safe for human consumption."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Benefit humanity through AI advances.",
+          "quote": "Those who believe AI advances should benefit humanity"
+        },
+        {
+          "item": "Safety concerns around AI.",
+          "quote": "A concern among tech workers who follow a social movement called 'effective altruism'"
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Deploy AI publicly for testing.",
+          "quote": "view the rapid development and, especially, public deployment of AI as essential to stress-testing and perfecting the technology."
+        },
+        {
+          "item": "Develop and test AI in a lab.",
+          "quote": "say the safest path forward is to fully develop and test AI in a laboratory first"
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Creating AI that benefits humanity.",
+          "quote": "AI advances should benefit humanity."
+        },
+        {
+          "item": "Creating safe, fully tested AI.",
+          "quote": "safest path forward is to fully develop and test AI in a laboratory first to ensure it is, so to speak, safe for human consumption."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "AI becoming uncontrollable",
+          "quote": "Some caution the hyper-intelligent software could become uncontrollable, leading to catastrophe"
+        },
+        {
+          "item": "Humans losing control over AI",
+          "quote": "We don’t have a solution for steering or controlling a potentially superintelligent AI, and preventing it from going rogue. Humans won’t be able to reliably supervise AI systems much smarter than us"
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "AI becoming uncontrollable",
+          "quote": "Some caution the hyper-intelligent software could become uncontrollable, leading to catastrophe"
+        },
+        {
+          "item": "AI causing harm to humanity",
+          "quote": "AGI, what is referred to in the company’s charter as any threatening to 'harm to humanity or unduly concentrate power'"
+        }
+      ],
+      "resources": [
+        {
+          "item": "Investment from major companies",
+          "quote": "ChatGPT's release last November prompted a frenzy of investment in AI firms, including $10 billion from Microsoft (MSFT.O) into OpenAI and billions more for other startups, including from Alphabet (GOOGL.O) and Amazon.com (AMZN.O)"
+        },
+        {
+          "item": "Expert AI developers and scientists",
+          "quote": "The fate of OpenAI is viewed by many technologists as critical to the development of AI"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ilya Sutskever",
+    "description": "Chief scientist, board member of OpenAI who also approved Altman's firing",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "51097862",
+      "name": "Ilya Sutskever",
+      "extract": "Ilya Sutskever  (Hebrew: איליה סוצקבר; Russian: Илья Суцкевер; /ilja su:ʦkɪvər/ born 1985/86) is a computer scientist working in machine learning. He is a co-founder and Chief Scientist at OpenAI.He has made several major contributions to the field of deep learning. In 2023, Sutskever and the OpenAI board fired CEO Sam Altman, who returned a week later. He is the co-inventor, with Alex Krizhevsky and Geoffrey Hinton, of AlexNet, a convolutional neural network. Sutskever is also one of the many co-authors of the AlphaGo paper.",
+      "description": "Ilya Sutskever is a renowned computer scientist and co-founder of OpenAI who has made significant contributions to deep learning, including the co-invention of AlexNet, a convolutional neural network."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Ensuring AI safety",
+          "quote": "Sutskever reportedly felt Altman was pushing OpenAI’s software too quickly into users’ hands, potentially compromising safety."
+        },
+        {
+          "item": "Controlling AI to prevent it from going rogue",
+          "quote": "\"We don’t have a solution for steering or controlling a potentially superintelligent AI, and preventing it from going rogue,\" he and a deputy wrote in a July blog post."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Fear of AI becoming uncontrollable",
+          "quote": "\"Humans won’t be able to reliably supervise AI systems much smarter than us.”"
+        },
+        {
+          "item": "Concern over rapid public deployment of AI without sufficient testing",
+          "quote": "On the other side are those who say the safest path forward is to fully develop and test AI in a laboratory first to ensure it is, so to speak, safe for human consumption."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Influence over OpenAI's operations secisions",
+          "quote": "Among those sharing such fears is OpenAI's Ilya Sutskever, the chief scientist and a board member who approved Altman's ouster."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "AI being fully developed and tested before being released",
+          "quote": "those who say the safest path forward is to fully develop and test AI in a laboratory first to ensure it is, so to speak, safe for human consumption."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Release of potentially dangerous AI",
+          "quote": "Sutskever reportedly felt Altman was pushing OpenAI’s software too quickly into users’ hands, potentially compromising safety."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Uncontrollable AI",
+          "quote": "Some caution the hyper-intelligent software could become uncontrollable, leading to catastrophe - a concern among tech workers who follow a social movement called \"effective altruism,\" who believe AI advances should benefit humanity."
+        },
+        {
+          "item": "AI systems smarter than humans",
+          "quote": "\"Humans won’t be able to reliably supervise AI systems much smarter than us.”"
+        }
+      ],
+      "resources": [
+        {
+          "item": "Position at OpenAI",
+          "quote": "Among those sharing such fears is OpenAI's Ilya Sutskever, the chief scientist and a board member who approved Altman's ouster."
+        }
+      ]
+    }
+  },
+  {
+    "name": "ChatGPT",
+    "description": "Popular chatbot created by OpenAI",
+    "mentions": 3,
+    "wikipedia": {
+      "id": "72417803",
+      "name": "ChatGPT",
+      "extract": "ChatGPT (Chat Generative Pre-trained Transformer) is a large language model-based chatbot developed by OpenAI and launched on November 30, 2022, that enables users to refine and steer a conversation towards a desired length, format, style, level of detail, and language. Successive prompts and replies, known as prompt engineering, are considered at each conversation stage as a context.ChatGPT is built upon either GPT-3.5 or GPT-4, both of which are members of OpenAI's proprietary series of generative pre-trained transformer (GPT) models, based on the transformer architecture developed by Google—and is fine-tuned for conversational applications using a combination of supervised and reinforcement learning techniques. ChatGPT was released as a freely available research preview, but due to its popularity, OpenAI now operates the service on a freemium model. It allows users on its free tier to access the GPT-3.5-based version. In contrast, the more advanced GPT-4-based version and priority access to newer features are provided to paid subscribers under the commercial name \"ChatGPT Plus\".\nBy January 2023, it had become what was then the fastest-growing consumer software application in history, gaining over 100 million users and contributing to OpenAI's valuation growing to $29 billion. ChatGPT's release spurred the development of competing products, including Bard, Ernie Bot, LLaMA, Claude, and Grok. Microsoft launched its Bing Chat based on OpenAI's GPT-4. It raised concern among some observers over the potential of ChatGPT and similar programs to displace or atrophy human intelligence, enable plagiarism, or fuel misinformation.\n\n",
+      "description": "ChatGPT, developed by OpenAI, is a language model-based chatbot using GPT-3.5 or GPT-4 models, designed for text conversation with features like refining length, style, and detail level and operates on a freemium model - free users get access to the GPT-3.5 version and paid subscribers get access to the more advanced GPT-4 version under 'ChatGPT Plus'."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Stress-testing and perfecting AI technology",
+          "quote": "view the rapid development and, especially, public deployment of AI as essential to stress-testing and perfecting the technology"
+        },
+        {
+          "item": "Benefit humanity through AI",
+          "quote": "believe AI advances should benefit humanity"
+        },
+        {
+          "item": "Development and regulation of generative AI",
+          "quote": "accelerated debate about how best to regulate and develop the software"
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Safe AI development and deployment",
+          "quote": "safest path forward is to fully develop and test AI in a laboratory first to ensure it is, so to speak, safe for human consumption"
+        },
+        {
+          "item": "Control over AI systems",
+          "quote": "We don’t have a solution for steering or controlling a potentially superintelligent AI, and preventing it from going rogue"
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Release of commercially available products",
+          "quote": "OpenAI announced a slate of new commercially available products at its developer event earlier this month, including a version of its ChatGPT-4 software and so-called agents that work like virtual assistants"
+        },
+        {
+          "item": "Production of advanced generative AI software",
+          "quote": "Generative AI is the term for the software that can spit out coherent content, like essays, computer code and photo-like images, in response to simple prompts"
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Investment in AI firms",
+          "quote": "ChatGPT's release last November prompted a frenzy of investment in AI firms, including $10 billion from Microsoft (MSFT.O) into OpenAI and billions more for other startups, including from Alphabet (GOOGL.O) and Amazon.com (AMZN.O)"
+        },
+        {
+          "item": "Use of generative AI to supplement work",
+          "quote": "most use generative AI software, such as ChatGPT, to supplement their work, like writing quick summaries of lengthy documents"
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "AI becoming uncontrollable",
+          "quote": "hyper-intelligent software could become uncontrollable, leading to catastrophe"
+        },
+        {
+          "item": "AI taking over sensitive systems",
+          "quote": "software could, on its own, take over defense systems, create political propaganda or produce weapons"
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Development of uncontrollable AI",
+          "quote": "this is a technology that has the capability to outperform humans and become uncontrollable"
+        },
+        {
+          "item": "Risk of an AI going rogue",
+          "quote": "We don’t have a solution for steering or controlling a potentially superintelligent AI, and preventing it from going rogue"
+        }
+      ],
+      "resources": [
+        {
+          "item": "Investment from tech companies",
+          "quote": "ChatGPT's release last November prompted a frenzy of investment in AI firms, including $10 billion from Microsoft (MSFT.O) into OpenAI and billions more for other startups"
+        },
+        {
+          "item": "Generative AI software",
+          "quote": "Generative AI is the term for the software that can spit out coherent content, like essays, computer code and photo-like images, in response to simple prompts"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Connor Leahy",
+    "description": "CEO of ConjectureAI and a safety advocate",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "73248112",
+      "name": "Large language model",
+      "extract": "A large language model (LLM) is a type of language model notable for its ability to achieve general-purpose language understanding and generation. LLMs acquire these abilities by using massive amounts of data to learn billions of parameters during training and consuming large computational resources during their training and operation. LLMs are artificial neural networks (mainly transformers) and are (pre-)trained using self-supervised learning and semi-supervised learning.\nAs autoregressive language models, they work by taking an input text and repeatedly predicting the next token or word. Up to 2020, fine tuning was the only way a model could be adapted to be able to accomplish specific tasks. Larger sized models, such as GPT-3, however, can be prompt-engineered to achieve similar results. They are thought to acquire embodied knowledge about syntax, semantics and \"ontology\" inherent in human language corpora, but also inaccuracies and biases present in the corpora.Notable examples include OpenAI's GPT models (e.g., GPT-3.5 and GPT-4, used in ChatGPT), Google's PaLM (used in Bard), and Meta's LLaMa, as well as BLOOM, Ernie 3.0 Titan, and Anthropic's Claude 2.\n\n",
+      "description": "A large language model (LLM) is a type of artificial neural network that achieves language understanding and generation by learning from vast amounts of data, and can be trained to perform specific tasks, with notable examples including OpenAI's GPT models and Google's PaLM."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "AI development and deployment",
+          "quote": "On one side are those, like Altman, who view the rapid development and, especially, public deployment of AI as essential to stress-testing and perfecting the technology."
+        },
+        {
+          "item": "Safe AI development",
+          "quote": "On the other side are those who say the safest path forward is to fully develop and test AI in a laboratory first to ensure it is, so to speak, safe for human consumption."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Benefiting humanity",
+          "quote": "Tech workers who follow a social movement called 'effective altruism,' believe AI advances should benefit humanity."
+        },
+        {
+          "item": "AI safety",
+          "quote": "Sutskever reportedly felt Altman was pushing OpenAI’s software too quickly into users’ hands, potentially compromising safety."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Development and deployment of AI products",
+          "quote": "Of particular concern, reportedly, was that OpenAI announced a slate of new commercially available products at its developer event earlier this month."
+        },
+        {
+          "item": "Progress demonstration to investors",
+          "quote": "That can help explain the explosion of new AI products as firms like Anthropic and ScaleAI race to show investors progress."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Achieving effective and safe AI deployment",
+          "quote": "On one side are those, like Altman, who view the rapid development and, especially, public deployment of AI as essential to stress-testing and perfecting the technology."
+        },
+        {
+          "item": "Success in AI development not compromising safety",
+          "quote": "On the other side are those who say the safest path forward is to fully develop and test AI in a laboratory first to ensure it is, so to speak, safe for human consumption."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "AI becoming uncontrollable",
+          "quote": "Some caution the hyper-intelligent software could become uncontrollable, leading to catastrophe."
+        },
+        {
+          "item": "AI potentially going rogue",
+          "quote": "\"We don’t have a solution for steering or controlling a potentially superintelligent AI, and preventing it from going rogue,\" he and a deputy wrote in a July blog post."
+        },
+        {
+          "item": "Emergence of AGI affected by profit-making",
+          "quote": "Altman helped create a for-profit entity within the company for the purpose of raising funds and other aims. This has sparked concerns that ... this could lead it down a slippery slope toward a dangerous AGI."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Lack of AI control",
+          "quote": "\"We don’t have a solution for steering or controlling a potentially superintelligent AI, and preventing it from going rogue,\" he and a deputy wrote in a July blog post."
+        },
+        {
+          "item": "AI outperforming and becoming uncontrollable",
+          "quote": "“The question is whether this is just another product, like social media or cryptocurrency, or whether this is a technology that has the capability to outperform humans and become uncontrollable,” said Connor Leahy, CEO of ConjectureAI and a safety advocate."
+        },
+        {
+          "item": "Unknowable risks in fast-paced AI deployment",
+          "quote": "Others urge restraint, concerned that the technology presents unknowable risks."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Generative AI",
+          "quote": "Generative AI is the term for the software that can spit out coherent content, like essays, computer code and photo-like images, in response to simple prompts."
+        },
+        {
+          "item": "Investment capital",
+          "quote": "that can help explain the explosion of new AI products as firms like Anthropic and ScaleAI race to show investors progress. Regulators, meanwhile, are trying to keep pace with AI’s development."
+        },
+        {
+          "item": "Commercial AI products",
+          "quote": "OpenAI announced a slate of new commercially available products at its developer event earlier this month, including a version of its ChatGPT-4 software and so-called agents that work like virtual assistants."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Microsoft (MSFT.O)",
+    "description": "Corporate entity, has made investments into AI firms",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "19001",
+      "name": "Microsoft",
+      "extract": "Microsoft Corporation is an American multinational technology corporation headquartered in Redmond, Washington. Microsoft's best-known software products are the Windows line of operating systems, the Microsoft 365 suite of productivity applications, and the Edge web browser. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. Microsoft ranked No. 14 in the 2022 Fortune 500 rankings of the largest United States corporations by total revenue; it was the world's largest software maker by revenue as of 2022. It is considered one of the Big Five American information technology companies, alongside Alphabet (parent company of Google), Amazon, Apple, and Meta.\nMicrosoft was founded by Bill Gates and Paul Allen on April 4, 1975, to develop and sell BASIC interpreters for the Altair 8800. It rose to dominate the personal computer operating system market with MS-DOS in the mid-1980s, followed by Windows. The company's 1986 initial public offering (IPO) and subsequent rise in its share price created three billionaires and an estimated 12,000 millionaires among Microsoft employees. Since the 1990s, it has increasingly diversified from the operating system market and has made several corporate acquisitions, the largest being the acquisition of Activision Blizzard for $68.7 billion in October 2023, followed by its acquisition of LinkedIn for $26.2 billion in December 2016, and its acquisition of Skype Technologies for $8.5 billion in May 2011.As of 2015, Microsoft is market-dominant in the IBM PC compatible operating system market and the office software suite market, although it has lost the majority of the overall operating system market to Android. The company also produces a wide range of other consumer and enterprise software for desktops, laptops, tabs, gadgets, and servers, including Internet search (with Bing), the digital services market (through MSN), mixed reality (HoloLens), cloud computing (Azure), and software development (Visual Studio).\nSteve Ballmer replaced Gates as CEO in 2000 and later envisioned a \"devices and services\" strategy. This unfolded with Microsoft acquiring Danger Inc. in 2008, entering the personal computer production market for the first time in June 2012 with the launch of the Microsoft Surface line of tablet computers, and later forming Microsoft Mobile through the acquisition of Nokia's devices and services division. Since Satya Nadella took over as CEO in 2014, the company has scaled back on hardware and instead focused on cloud computing, a move that helped the company's shares reach their highest value since December 1999. Under Nadella's direction, the company has also heavily expanded its gaming business to support the Xbox brand, establishing the Microsoft Gaming division in 2022, dedicated to operating Xbox in addition to its three subsidiaries (publishers). Microsoft Gaming is the third-largest gaming company in the world by revenue as of 2023.Earlier dethroned by Apple in 2010, in 2018, Microsoft reclaimed its position as the most valuable publicly traded company in the world. In April 2019, Microsoft reached a trillion-dollar market cap, becoming the third U.S. public company to be valued at over $1 trillion after Apple and Amazon, respectively. As of 2023, Microsoft has the third-highest global brand valuation.\nMicrosoft has been criticized for its monopolistic practices and the company's software has been criticized for problems with ease of use, robustness, and security.",
+      "description": "Microsoft Corporation, an American multinational headquartered in Redmond, Washington, is known for software products including the Windows operating systems and Microsoft 365 applications, along with hardware products like Xbox consoles and Surface personal computers, and is globally recognized as one of the biggest revenue-earning software makers and an influential entity among the Big Five IT companies in the US."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [
+        {
+          "item": "Investing in AI technology for potential advancement and gain",
+          "quote": "ChatGPT's release last November prompted a frenzy of investment in AI firms, including $10 billion from Microsoft (MSFT.O) into OpenAI and billions more for other startups"
+        }
+      ],
+      "possible_actions": [],
+      "good_scenarios": [
+        {
+          "item": "The success and popular uptake of AI products they invested in",
+          "quote": "The popularity of OpenAI’s ChatGPT over the past year has accelerated debate about how best to regulate and develop the software."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Potential hazards or harms that could emerge from the AI technology they have invested in",
+          "quote": "Some caution the hyper-intelligent software could become uncontrollable, leading to catastrophe"
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Concerns over uncontrollable AI",
+          "quote": "observers are wary of versions that may emerge known as “artificial general intelligence,” or AGI, which could perform increasingly complicated tasks without any prompting. This has sparked concerns that the software could, on its own, take over defense systems, create political propaganda or produce weapons."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Financial resources for AI investments",
+          "quote": "ChatGPT's release last November prompted a frenzy of investment in AI firms, including $10 billion from Microsoft (MSFT.O) into OpenAI and billions more for other startups"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Alphabet (GOOGL.O)",
+    "description": "Corporate entity, has made investments into AI firms",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "47489893",
+      "name": "Alphabet Inc.",
+      "extract": "Alphabet Inc. is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through a restructuring of Google on October 2, 2015, and became the parent company of Google and several former Google subsidiaries. Alphabet is the world's third-largest technology company by revenue and one of the world's most valuable companies. It is considered one of the Big Five American information technology companies, alongside Amazon, Apple, Meta, and Microsoft.\nThe establishment of Alphabet Inc. was prompted by a desire to make the core Google business \"cleaner and more accountable\" while allowing greater autonomy to group companies that operate in businesses other than Internet services. Founders Larry Page and Sergey Brin announced their resignation from their executive posts in December 2019, with the CEO role to be filled by Sundar Pichai, also the CEO of Google. Page and Brin remain employees, board members, and controlling shareholders of Alphabet Inc.",
+      "description": "Alphabet Inc., an American multinational technology conglomerate headquartered in California, was created in 2015 as a restructuring of Google, becoming its parent company along with several former Google subsidiaries, with Sundar Pichai as its CEO."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [
+        {
+          "item": "Investment in Artificial Intelligence",
+          "quote": "ChatGPT's release last November prompted a frenzy of investment in AI firms, including... billions more for other startups, including from Alphabet (GOOGL.O)"
+        }
+      ],
+      "possible_actions": [],
+      "good_scenarios": [
+        {
+          "item": "Successful investments in startups",
+          "quote": "ChatGPT's release last November prompted a frenzy of investment in AI firms, including... billions more for other startups, including from Alphabet (GOOGL.O)"
+        }
+      ],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Financial resources for investment",
+          "quote": "ChatGPT's release last November prompted a frenzy of investment in AI firms, including... billions more for other startups, including from Alphabet (GOOGL.O)"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Amazon.com (AMZN.O)",
+    "description": "Corporate entity, has made investments into AI",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "55515500",
+      "name": "Andy Jassy",
+      "extract": "Andrew R. Jassy (born January 13, 1968) is an American business executive who is the president and chief executive officer (CEO) of Amazon. Before being appointed by Jeff Bezos and the Amazon board during the fourth quarter of 2020, Jassy served as the SVP and later as the CEO of Amazon Web Services from 2003 to 2021.",
+      "description": "Andrew R. Jassy (born January 13, 1968) is an American executive who serves as the president and CEO of Amazon, after previously leading Amazon Web Services from 2003 to 2021."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": []
+    }
+  },
+  {
+    "name": "Anthropic",
+    "description": "AI company racing to show investors progress",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "6206236",
+      "name": "Anthropic",
+      "extract": "Anthropic PBC is an American artificial intelligence (AI) startup company, founded by former members of OpenAI. Anthropic develops general AI systems and large language models. It is a public-benefit corporation, and has been connected to the effective altruism movement.\nAs of July 2023, Anthropic had raised US$1.5 billion in funding. In September, Amazon announced an investment of up to US$4 billion, followed by a $2 billion commitment from Google the next month.",
+      "description": "Anthropic PBC is an American AI startup, founded by ex-OpenAI members, that develops general AI systems and large language models, and as of 2023, has raised over US$7.5 billion from investors including Amazon and Google."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [
+        {
+          "item": "To keep pace with AI’s development and show progress to their investors",
+          "quote": "That can help explain the explosion of new AI products as firms like Anthropic and ScaleAI race to show investors progress."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Develop new AI products",
+          "quote": "That can help explain the explosion of new AI products as firms like Anthropic and ScaleAI race to show investors progress."
+        }
+      ],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [
+        {
+          "item": "AI becoming uncontrollable",
+          "quote": "observers are wary of versions that may emerge known as “artificial general intelligence,” or AGI, which could perform increasingly complicated tasks without any prompting. This has sparked concerns that the software could, on its own, take over defense systems, create political propaganda or produce weapons."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Investment from big players like Amazon and Google",
+          "quote": "ChatGPT's release last November prompted a frenzy of investment in AI firms, including $10 billion from Microsoft (MSFT.O) into OpenAI and billions more for other startups, including from Alphabet (GOOGL.O) and Amazon.com (AMZN.O)."
+        }
+      ]
+    }
+  },
+  {
+    "name": "ScaleAI",
+    "description": "AI company racing to show investors progress",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "56872847",
+      "name": "Michael Kratsios",
+      "extract": "Michael John Kotsakas Kratsios (born November 7, 1986) is an American business executive and government official. He served as the fourth Chief Technology Officer of the United States at the White House Office of Science and Technology Policy. In this role, Kratsios served as President Donald Trump's top technology advisor.  From July 10, 2020 to January 20, 2021, Kratsios was also the Acting Under Secretary of Defense for Research and Engineering.",
+      "description": "Michael John Kotsakas Kratsios is an American business executive who served as the fourth Chief Technology Officer of the United States and as Acting Under Secretary of Defense for Research and Engineering under President Donald Trump."
+    },
+    "motives": {
+      "document_analysis": {
+        "specific_mentions": "Michael Kratsios",
+        "mentions_in_narrative": "No",
+        "ability_to_provide_insights": "No",
+        "ability_to_answer_questions_about": {
+          "stated_goals": "No",
+          "main_motivations": "No",
+          "possible_actions": "No",
+          "good_and_bad_scenarios": "No",
+          "main_fears": "No",
+          "resources": "No"
+        },
+        "document_topic": "Firing of Sam Altman from OpenAI",
+        "issues_discussed": "Issues surrounding the future of AI development",
+        "judgements_about_Michael_Kratsios": "Cannot be made from this document"
+      }
+    }
+  },
+  {
+    "name": "Biden administration",
+    "description": "Government entity, trying to keep pace with AI development",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "65732174",
+      "name": "Presidency of Joe Biden",
+      "extract": "Joe Biden's tenure as the 46th president of the United States began with his inauguration on January 20, 2021. Biden, a Democrat from Delaware who previously served as vice president under Barack Obama, took office following his victory in the 2020 presidential election over Republican incumbent president Donald Trump. Upon his inauguration, he became the oldest president in American history, breaking the record set by his predecessor Trump. Biden entered office amid the COVID-19 pandemic, an economic crisis, and increased political polarization.On the first day of his presidency, Biden made an effort to revert President Trump's energy policy by restoring U.S. participation in the Paris Agreement and revoking the permit for the Keystone XL pipeline. He also halted funding for Trump's border wall, an expansion of the Mexican border wall. On his second day, he issued a series of executive orders to reduce the impact of COVID-19, including invoking the Defense Production Act of 1950, and set an early goal of achieving one hundred million COVID-19 vaccinations in the United States in his first 100 days.Biden signed into law the American Rescue Plan Act of 2021; a $1.9 trillion stimulus bill that temporarily established expanded unemployment insurance and sent $1,400 stimulus checks to most Americans in response to continued economic pressure from COVID-19. He signed the bipartisan Infrastructure Investment and Jobs Act; a ten-year plan brokered by Biden alongside Democrats and Republicans in Congress, to invest in American roads, bridges, public transit, ports and broadband access. Biden signed the Juneteenth National Independence Day Act, making Juneteenth a federal holiday in the United States. He appointed Ketanji Brown Jackson to the U.S. Supreme Court—the first Black woman to serve on the court. After The Supreme Court overturned Roe v. Wade, Biden took executive actions, such as the signing of Executive Order 14076, to preserve and protect women's health rights nationwide, against abortion bans in Republican led states. Biden proposed a significant expansion of the U.S. social safety net through the Build Back Better Act, but those efforts, along with voting rights legislation, failed in Congress. However, in August 2022, Biden signed the Inflation Reduction Act of 2022, a domestic appropriations bill that included some of the provisions of the Build Back Better Act after the entire bill failed to pass. It included significant federal investment in climate and domestic clean energy production, tax credits for solar panels, electric cars and other home energy programs as well as a three-year extension of Affordable Care Act subsidies. Biden signed the CHIPS and Science Act, bolstering the semiconductor and manufacturing industry, the Honoring our PACT Act, expanding healthcare for US veterans, and the Electoral Count Reform and Presidential Transition Improvement Act. In late 2022, Biden signed the Respect for Marriage Act, which repealed the Defense of Marriage Act and codified same-sex and interracial marriage in the United States. In response to the debt-ceiling crisis of 2023, Biden negotiated and signed the Fiscal Responsibility Act of 2023, which restrains federal spending for fiscal years 2024 and 2025, implements minor changes to SNAP and TANF, includes energy permitting reform, claws back some IRS funding and unspent money for COVID-19, and suspends the debt ceiling to January 1, 2025. Biden established the American Climate Corps and created the first ever White House Office of Gun Violence Prevention. On September 26, 2023, Joe Biden visited a United Auto Workers picket line during the 2023 United Auto Workers strike, making him the first US president to visit one.\nThe foreign policy goal of the Biden administration is to restore the US to a \"position of trusted leadership\" among global democracies in order to address the challenges posed by Russia and China. In foreign policy, Biden completed the withdrawal of U.S. military forces from Afghanistan, declaring an end to nation-building efforts and shifting U.S. foreign policy toward strategic competition with China and, to a lesser extent, Russia. However, during the withdrawal, the Afghan government collapsed and the Taliban seized control, leading to Biden receiving bipartisan criticism. He responded to the Russian invasion of Ukraine by imposing sanctions on Russia as well as providing Ukraine with over $100 billion in combined military, economic, and humanitarian aid. Biden also approved a raid which led to the death of Abu Ibrahim al-Hashimi al-Qurashi, the leader of the Islamic State, and approved a drone strike which killed Ayman Al Zawahiri, leader of Al-Qaeda. Biden signed AUKUS, an international security alliance, together with Australia and the United Kingdom. Biden called for the expansion of NATO with the addition of Finland and Sweden, and rallied NATO allies in support of Ukraine. During the 2023 Israel–Hamas war, Biden condemned Hamas and other Palestinian militants as terrorism and announced American military support for Israel; Biden also showed his support and sympathy towards Palestinians affected by the war, sent humanitarian aid, and brokered a four-day ceasefire.\nBiden began his term with over 50% approval ratings; however, these fell significantly after the withdrawal from Afghanistan and remained low as the country experienced high inflation and rising gas prices. His age and mental fitness have also been a subject of discussion.",
+      "description": "Joe Biden's tenure as the 46th president of the United States, which began on January 20, 2021, has been marked by key policy changes in areas like energy and climate, healthcare, and foreign relations, along with significant legislation, but faced criticism for issues like the Afghanistan withdrawal and economic challenges."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": [],
+      "additional_information": "The document provided does not contain information directly relevant to the questions posed about the presidency of Joe Biden. Instead, the article primarily discusses the recent events at OpenAI, including the firing of CEO Sam Altman, and general divergences of opinion on the development and safety of AI. It would be more appropriate to assess a document more focused on Biden's presidency in order to answer the requested questions."
+    }
+  },
+  {
+    "name": "European Union",
+    "description": "Government entity, working to enact broad oversight of AI",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "9317",
+      "name": "European Union",
+      "extract": "The European Union (EU) is a supranational political and economic union of 27 member states that are located primarily in Europe. The union has a total area of 4,233,255 km2 (1,634,469 sq mi) and an estimated total population of over 448 million. The EU has often been described as a sui generis political entity (without precedent or comparison) combining the characteristics of both a federation and a confederation.Containing 5.8% of the world population in 2020, the EU generated a nominal gross domestic product (GDP) of around US$16.6 trillion in 2022, constituting approximately one sixth of global nominal GDP and the third-biggest global economy after the United States and China. Additionally, all EU states except Bulgaria have a very high Human Development Index according to the United Nations Development Programme. Its cornerstone, the Customs Union, paved the way to establishing an internal single market based on standardised legal framework and legislation that applies in all member states in those matters, and only those matters, where the states have agreed to act as one. EU policies aim to ensure the free movement of people, goods, services and capital within the internal market; enact legislation in justice and home affairs; and maintain common policies on trade, agriculture, fisheries and regional development. Passport controls have been abolished for travel within the Schengen Area. The eurozone is a group composed of the 20 EU member states that have fully implemented the economic and monetary union and use the euro currency. Through the Common Foreign and Security Policy, the union has developed a role in external relations and defence. It maintains permanent diplomatic missions throughout the world and represents itself at the United Nations, the World Trade Organization, the G7 and the G20. Due to its global influence, the European Union has been described by some scholars as an emerging superpower.The union was established along with its citizenship when the Maastricht Treaty came into force in 1993, and was subsequently incorporated as an international legal juridical person upon entry into force of the Treaty of Lisbon in 2009, but its beginnings may be traced to its earliest predecessors incorporated primarily by a group of founding states known as the Inner Six (Belgium, France, Italy, Luxembourg, the Netherlands, and West Germany) at the start of modern institutionalised European integration in 1948 and onwards, namely to the Western Union (WU, 1954 renamed Western European Union, WEU), the International Authority for the Ruhr (IAR), the European Coal and Steel Community (ECSC), the European Economic Community (EEC, 1993 renamed European Community, EC) and the European Atomic Energy Community (Euratom), established, respectively, by the 1948 Treaty of Brussels, the 1948 London Six-Power Conference, the 1951 Treaty of Paris, the 1957 Treaty of Rome and the 1957 Euratom Treaty. These increasingly amalgamated bodies, later known collectively as the European Communities have grown since, along with their legal successor, the EU, both in size through accessions of further 21 states as well as in power through acquisitions of various policy areas to their remit by the virtue of the abovementioned treaties, as well as numerous other ones, such as the Modified Brussels Treaty, the Merger Treaty, the Single European Act, the Treaty of Amsterdam and the Treaty of Nice. In 2012, the EU was awarded the Nobel Peace Prize.After the creation by six states, 22 other states joined the union in 1973–2013. The United Kingdom became the only member state to leave the EU in 2020; ten countries are aspiring or negotiating to join it.",
+      "description": "The European Union (EU) is a political and economic union composed of 27 member states primarily located in Europe, established in 1993 with the Maastricht Treaty, and operates an internal single market with standardized legislations for freedom of movement of people, goods, services and capital."
+    },
+    "motives": {
+      "text": "The provided document does not contain specific information about the European Union's goals, motivations, actions, scenarios, fears, and resources. It seems to focus mainly on the topic of artificial intelligence (AI) and OpenAI's related developments and challenges. Therefore, based on the provided document, it is not possible to provide a direct answer to the given questions which are specific to the European Union. To answer these questions, a document or text providing relevant information about the European Union would be required."
+    }
+  },
+  {
+    "name": "Emmett Shear",
+    "description": "Former head of streaming platform Twitch, named as interim CEO of OpenAI",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "33627170",
+      "name": "Emmett Shear",
+      "extract": "Emmett Shear (born 1983) is an American Internet entrepreneur and investor. He is the co-founder of live video platform Justin.tv. He served as the chief executive officer of Twitch when it was spun off from Justin.tv until March 2023. In 2011, Shear was appointed as a part-time partner at venture capital firm Y Combinator. In November 2023, he briefly served as interim CEO of OpenAI.\n\n",
+      "description": "Emmett Shear, born 1983, is an American Internet entrepreneur and investor, known as the co-founder of Justin.tv and former CEO of Twitch, and for his brief tenure as interim CEO of OpenAI in 2023."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Advocate for slowed AI development",
+          "quote": "Late on Sunday, OpenAI named as interim CEO Emmett Shear, the former head of streaming platform Twitch. He advocated on social media in September for a 'slowing down' of AI development. 'If we’re at a speed of 10 right now, a pause is reducing to 0. I think we should aim for a 1-2 instead,' he wrote."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Ensure safe progression of AI development",
+          "quote": "'If we’re at a speed of 10 right now, a pause is reducing to 0. I think we should aim for a 1-2 instead,' he wrote."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Steer OpenAI's direction during his tenure as interim CEO",
+          "quote": "Late on Sunday, OpenAI named as interim CEO Emmett Shear, the former head of streaming platform Twitch."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Slower, controlled development and deployment of AI",
+          "quote": "He advocated on social media in September for a 'slowing down' of AI development. 'If we’re at a speed of 10 right now, a pause is reducing to 0. I think we should aim for a 1-2 instead,' he wrote."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Rapid and potentially unsafe development and deployment of AI",
+          "quote": "'If we’re at a speed of 10 right now, a pause is reducing to 0. I think we should aim for a 1-2 instead,' he wrote."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "AI development becoming out of control",
+          "quote": "'If we’re at a speed of 10 right now, a pause is reducing to 0. I think we should aim for a 1-2 instead,' he wrote."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Leadership at Open AI",
+          "quote": "Late on Sunday, OpenAI named as interim CEO Emmett Shear, the former head of streaming platform Twitch."
+        },
+        {
+          "item": "Experience from Twitch",
+          "quote": "Late on Sunday, OpenAI named as interim CEO Emmett Shear, the former head of streaming platform Twitch."
+        }
+      ]
+    }
+  }
+]

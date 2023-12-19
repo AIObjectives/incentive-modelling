@@ -1,0 +1,36 @@
+{
+  "title": "OpenAI staff demand board resign over Sam Altman sacking",
+  "source": "BBC",
+  "date": "20 November 2023",
+  "authors": [
+    "Chris Vallance",
+    "Annabelle Liang",
+    "Zoe Kleinman"
+  ],
+  "link": "https://www.bbc.co.uk/news/business-67470876",
+  "relevance_score": 0.9,
+  "relevance_explanation": "The document is highly relevant to the research goals as it provides insight into the aftermath of Sam Altman's firing from OpenAI, reactions from staff and board members, and subsequent changes in leadership and corporate structure involving Microsoft. It sheds light on the internal dissent, power dynamics, and partnerships that may have influenced the events.",
+  "summary": "OpenAI staff signed a letter demanding the board's resignation following the unexpected dismissal of Sam Altman. The letter claims the board undermined the firm, with potential mass resignations if demands are unmet. Altman, now at Microsoft, emphasized the OpenAI/Microsoft partnership's importance despite the unfolding events at OpenAI. This series of events includes Altman's dismissal, claims of governance issues by Satya Nadella, public support and regret from board members, Altman's new role at Microsoft, and the appointment of Emmett Shear as interim OpenAI CEO.",
+  "events": [
+    "OpenAI staff sign letter calling for the resignation of the board after Sam Altman's dismissal",
+    "Sam Altman accepts a position at Microsoft post-dismissal",
+    "Ilya Sutskever, OpenAI's chief scientist and board member, expresses regret on supporting board's decision",
+    "Microsoft's CEO Satya Nadella hints at governance issues at OpenAI and possibility of employing OpenAI's staff",
+    "Evan Morikawa announces the high number of staff signatories on the letter",
+    "Emmett Shear is appointed as the interim boss of OpenAI"
+  ],
+  "entities": [
+    "OpenAI",
+    "Sam Altman",
+    "Microsoft",
+    "Satya Nadella",
+    "Ilya Sutskever",
+    "Evan Morikawa",
+    "CNBC",
+    "Emmett Shear",
+    "Twitch",
+    "Wedbush Securities",
+    "Dan Ives"
+  ],
+  "document_type": "newspaper article"
+}

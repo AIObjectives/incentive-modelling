@@ -1,0 +1,32 @@
+{
+  "title": "OpenAI researchers warned board of AI breakthrough ahead of CEO ouster, sources say",
+  "source": "Reuters",
+  "date": "November 23, 2023",
+  "authors": [
+    "Anna Tong",
+    "Jeffrey Dastin",
+    "Krystal Hu"
+  ],
+  "link": "https://www.reuters.com/technology/sam-altmans-ouster-openai-was-precipitated-by-letter-board-about-ai-breakthrough-2023-11-22/",
+  "relevance_score": 0.9,
+  "relevance_explanation": "The document is highly relevant as it provides direct information about the circumstances leading to Sam Altman's firing and subsequent events that reflect on the internal dynamics and concerns at OpenAI.",
+  "summary": "A letter from OpenAI researchers to the board, warning about a potentially threatening AI breakthrough, was a key factor in the firing of CEO Sam Altman. OpenAI declined to comment but internally acknowledged the letter and a project named Q*. There were also concerns over commercializing technological advances without fully understanding their consequences. After Altman's firing, more than 700 employees threatened to quit. The Q* model showed potential in solving basic mathematical problems, indicating significant advances towards artificial general intelligence (AGI). Researchers also warned about the inherent dangers posed by intelligent machines.",
+  "events": [
+    "Researchers at OpenAI writing a warning letter to the board about AI breakthrough",
+    "Sam Altman's firing",
+    "700 OpenAI employees threatening to quit",
+    "OpenAI's internal acknowledgment of the researchers' letter and project Q*",
+    "Optimization of AI models by combining 'Code Gen' and 'Math Gen' teams"
+  ],
+  "entities": [
+    "OpenAI",
+    "Sam Altman",
+    "Microsoft",
+    "Reuters",
+    "Mira Murati",
+    "AI scientist team",
+    "Code Gen team",
+    "Math Gen team"
+  ],
+  "document_type": "newspaper article"
+}

@@ -1,0 +1,34 @@
+{
+  "title": "OpenAI investors considering suing the board after CEO's abrupt firing",
+  "source": "Reuters",
+  "date": "November 21, 2023",
+  "authors": [
+    "Anna Tong",
+    "Krystal Hu",
+    "Jody Godoy"
+  ],
+  "link": "https://www.reuters.com/technology/openai-investors-considering-suing-board-after-ceos-abrupt-firing-sources-2023-11-20/",
+  "relevance_score": 0.9,
+  "relevance_explanation": "The document is highly relevant as it discusses the direct aftermath of Sam Altman's firing from OpenAI, detailing investor reactions, potential legal actions, and mentioning the involvement of Microsoft. It references power dynamics within the organization and hints at the governance structure that might have motivated board decisions. This information is central to understanding the second and third research goals.",
+  "summary": "Following the sudden termination of CEO Sam Altman from OpenAI, investors are considering legal actions against the board due to fears of significant financial losses. OpenAI's unique corporate structure—with a for-profit segment controlled by a nonprofit—grants employees significant leverage, possibly more than venture capitalists. Despite investor concerns, legal experts speculate that a lawsuit would be challenging due to the broad legal latitude companies possess for business decisions.",
+  "events": [
+    "OpenAI's board fired Sam Altman after a 'breakdown of communications'.",
+    "Investors began exploring legal recourse against OpenAI's board.",
+    "Most OpenAI employees threatened to quit unless the board was replaced.",
+    "The potential collapse of OpenAI as a leading startup in the generative AI sector is feared."
+  ],
+  "entities": [
+    "OpenAI",
+    "Sam Altman",
+    "Microsoft",
+    "Reuters",
+    "Semafor",
+    "OpenAI Nonprofit",
+    "Minor Myers",
+    "University of Connecticut",
+    "Paul Weitzel",
+    "University of Nebraska",
+    "Apple"
+  ],
+  "document_type": "newspaper article"
+}

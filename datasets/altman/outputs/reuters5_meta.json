@@ -1,0 +1,46 @@
+{
+  "title": "ChatGPT maker OpenAI ousts CEO Sam Altman",
+  "source": "Reuters",
+  "date": "November 18, 2023",
+  "authors": [
+    "Jeffrey Dastin",
+    "Anna Tong",
+    "Samrhitha A",
+    "Krystal Hu"
+  ],
+  "link": "https://www.reuters.com/technology/openai-ceo-sam-altman-step-down-2023-11-17/",
+  "relevance_score": 0.9,
+  "relevance_explanation": "This document is highly relevant as it provides direct information regarding the firing of Sam Altman from OpenAI and gives insight into the subsequent events and actions of OpenAI, its board, and its partners. It also hints at potential motivations behind the entities' actions and the influence of power dynamics within the company and with its partners.",
+  "summary": "OpenAI's board has dismissed CEO Sam Altman. Mira Murati is appointed as the interim CEO, with Greg Brockman resigning after the announcement. The board cited a lack of candor from Altman. Microsoft's partnership remains stable, and the financial implications of the move have been discussed by several industry experts.",
+  "events": [
+    "Firing of Sam Altman by OpenAI's board",
+    "Appointment of Mira Murati as interim CEO",
+    "Resignation of Greg Brockman",
+    "OpenAI's claim on Altman's communication issues with the board",
+    "Stability of OpenAI's partnership with Microsoft post-management change",
+    "Mira Murati's attempt to calm employees",
+    "Sam Altman's public appearances right before the incident"
+  ],
+  "entities": [
+    "OpenAI",
+    "Sam Altman",
+    "Mira Murati",
+    "Greg Brockman",
+    "Ilya Sutskever",
+    "Microsoft",
+    "Satya Nadella",
+    "Tesla",
+    "Elon Musk",
+    "Anthropic",
+    "Eric Schmidt",
+    "Daniel Ives",
+    "Wedbush Securities",
+    "Thomas Hayes",
+    "Great Hill Capital",
+    "D.A. Davidson",
+    "Gil Luria",
+    "APEC",
+    "Burning Man"
+  ],
+  "document_type": "newspaper article"
+}

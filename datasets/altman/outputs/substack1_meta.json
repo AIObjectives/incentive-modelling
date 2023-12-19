@@ -1,0 +1,33 @@
+{
+  "title": "Why OpenAI Fired Sam Altman — And What Happens Next in the AI World",
+  "source": "The Algorithmic Bridge",
+  "date": "18 NOV 2023",
+  "authors": [
+    "ALBERTO ROMERO"
+  ],
+  "link": "https://thealgorithmicbridge.substack.com/p/why-openai-fired-sam-altman-and-what",
+  "relevance_score": 0.9,
+  "relevance_explanation": "This document discusses the direct incident of Sam Altman's firing, the reactions from key figures, and the implications for OpenAI and the AI industry at large, which are central to the research goals.",
+  "summary": "The article reports on the sudden firing of OpenAI CEO Sam Altman by the company's board, including the attendant circumstances and immediate aftermath. It describes the lack of transparency in Altman's and Brockman's dismissals, the rumored internal conflict over AI safety versus development speed, and the subsequent resignations of key research figures at OpenAI.",
+  "events": [
+    "Firing of Sam Altman as CEO of OpenAI",
+    "Greg Brockman stepping down as chairman of the board",
+    "Public reactions and speculation about the firings",
+    "Resignations of senior OpenAI researchers"
+  ],
+  "entities": [
+    "Sam Altman",
+    "Greg Brockman",
+    "Ilya Sutskever",
+    "Kara Swisher",
+    "Microsoft",
+    "The Information",
+    "Jakub Pachocki",
+    "Aleksander Madry",
+    "Szymon Sidor",
+    "ChatGPT",
+    "Anthropic",
+    "Satya Nadella"
+  ],
+  "document_type": "blog post"
+}

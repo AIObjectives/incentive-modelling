@@ -1,0 +1,1026 @@
+[
+  {
+    "name": "Microsoft",
+    "description": "A multinational technology company",
+    "mentions": 6,
+    "wikipedia": {
+      "id": "19001",
+      "name": "Microsoft",
+      "extract": "Microsoft Corporation is an American multinational technology corporation headquartered in Redmond, Washington. Microsoft's best-known software products are the Windows line of operating systems, the Microsoft 365 suite of productivity applications, and the Edge web browser. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. Microsoft ranked No. 14 in the 2022 Fortune 500 rankings of the largest United States corporations by total revenue; it was the world's largest software maker by revenue as of 2022. It is considered one of the Big Five American information technology companies, alongside Alphabet (parent company of Google), Amazon, Apple, and Meta.\nMicrosoft was founded by Bill Gates and Paul Allen on April 4, 1975, to develop and sell BASIC interpreters for the Altair 8800. It rose to dominate the personal computer operating system market with MS-DOS in the mid-1980s, followed by Windows. The company's 1986 initial public offering (IPO) and subsequent rise in its share price created three billionaires and an estimated 12,000 millionaires among Microsoft employees. Since the 1990s, it has increasingly diversified from the operating system market and has made several corporate acquisitions, the largest being the acquisition of Activision Blizzard for $68.7 billion in October 2023, followed by its acquisition of LinkedIn for $26.2 billion in December 2016, and its acquisition of Skype Technologies for $8.5 billion in May 2011.As of 2015, Microsoft is market-dominant in the IBM PC compatible operating system market and the office software suite market, although it has lost the majority of the overall operating system market to Android. The company also produces a wide range of other consumer and enterprise software for desktops, laptops, tabs, gadgets, and servers, including Internet search (with Bing), the digital services market (through MSN), mixed reality (HoloLens), cloud computing (Azure), and software development (Visual Studio).\nSteve Ballmer replaced Gates as CEO in 2000 and later envisioned a \"devices and services\" strategy. This unfolded with Microsoft acquiring Danger Inc. in 2008, entering the personal computer production market for the first time in June 2012 with the launch of the Microsoft Surface line of tablet computers, and later forming Microsoft Mobile through the acquisition of Nokia's devices and services division. Since Satya Nadella took over as CEO in 2014, the company has scaled back on hardware and instead focused on cloud computing, a move that helped the company's shares reach their highest value since December 1999. Under Nadella's direction, the company has also heavily expanded its gaming business to support the Xbox brand, establishing the Microsoft Gaming division in 2022, dedicated to operating Xbox in addition to its three subsidiaries (publishers). Microsoft Gaming is the third-largest gaming company in the world by revenue as of 2023.Earlier dethroned by Apple in 2010, in 2018, Microsoft reclaimed its position as the most valuable publicly traded company in the world. In April 2019, Microsoft reached a trillion-dollar market cap, becoming the third U.S. public company to be valued at over $1 trillion after Apple and Amazon, respectively. As of 2023, Microsoft has the third-highest global brand valuation.\nMicrosoft has been criticized for its monopolistic practices and the company's software has been criticized for problems with ease of use, robustness, and security.",
+      "description": "Microsoft Corporation, an American multinational headquartered in Redmond, Washington, is known for software products including the Windows operating systems and Microsoft 365 applications, along with hardware products like Xbox consoles and Surface personal computers, and is globally recognized as one of the biggest revenue-earning software makers and an influential entity among the Big Five IT companies in the US."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Advancement in artificial intelligence sector",
+          "quote": "Microsoft, OpenAI’s largest investor, has moved quickly to take on a key figure in the AI industry."
+        },
+        {
+          "item": "Expand AI research team",
+          "quote": "We’re extremely excited to share the news that Sam Altman and Greg Brockman, together with colleagues, will be joining Microsoft to lead a new advanced AI research team."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Acquire top AI talent",
+          "quote": "Microsoft has hired Sam Altman as head of a new advanced artificial intelligence team after attempts to reinstate him as chief executive of OpenAI failed."
+        },
+        {
+          "item": "Further investment and support for OpenAI",
+          "quote": "Nadella said Microsoft remained “committed” to OpenAI."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Continued cooperation with OpenAI despite changes",
+          "quote": "On Monday evening, however, Nadella said he was open to Altman remaining at OpenAI or joining Microsoft."
+        },
+        {
+          "item": "Expansion of AI team with top industry figures",
+          "quote": "it had appointed Altman and OpenAI’s former president, Greg Brockman, to lead a new advanced AI team at the company."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Successful integration of Altman and Brockman into Microsoft's AI team",
+          "quote": "We look forward to moving quickly to provide them with the resources needed for their success."
+        },
+        {
+          "item": "Successful realization of advanced AI goals.",
+          "quote": "Sam Altman and Greg Brockman, together with colleagues, will be joining Microsoft to lead a new advanced AI research team."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Unrest and resistance from OpenAI staff",
+          "quote": "There were indications of unrest among the remaining OpenAI staff on Monday morning."
+        },
+        {
+          "item": "Potential safety concerns and risks associated with rapid AI development",
+          "quote": "The arrival of ChatGPT, whose capabilities have taken experts, regulators and politicians by surprise, has stoked fears that AI companies are racing to develop products without due consideration for negative impacts such as generating disinformation or evading human control."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Facing backlash from the AI industry",
+          "quote": "Altman was fired on Friday after being accused of not being “consistently candid in communications” with the board in a move that sent shockwaves through Silicon Valley."
+        },
+        {
+          "item": "Potential risks associated with rapid AI development",
+          "quote": "The arrival of ChatGPT, whose capabilities have taken experts, regulators and politicians by surprise, has stoked fears that AI companies are racing to develop products without due consideration for negative impacts such as generating disinformation or evading human control."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Financial resources",
+          "quote": "Microsoft, OpenAI’s largest investor, has moved quickly to take on a key figure in the AI industry."
+        },
+        {
+          "item": "Strategic influence over OpenAI",
+          "quote": "Nadella said Microsoft remained “committed” to OpenAI although the reference to OpenAI colleagues joining Altman and Brockman indicates that important staffers are joining the top team in moving across to the company’s biggest backer."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sam Altman",
+    "description": "Former OpenAI CEO, newly appointed to lead a new advanced AI team at Microsoft",
+    "mentions": 11,
+    "wikipedia": {
+      "id": "22476815",
+      "name": "Sam Altman",
+      "extract": "Samuel Harris Altman (; AWLT-mən; born April 22, 1985) is an American entrepreneur and investor, who has been the CEO of OpenAI since 2019 (he was briefly fired and reinstated in November 2023). Prior to OpenAI, Altman was president of Y Combinator from 2014 to 2019.\n\n",
+      "description": "Samuel Harris Altman, born April 22, 1985, is an American entrepreneur and investor, currently serving as the CEO of OpenAI, and was previously the president of Y Combinator from 2014 to 2019."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "To lead a new advanced AI research team at Microsoft",
+          "quote": "Microsoft has hired Sam Altman as head of a new advanced artificial intelligence team after attempts to reinstate him as chief executive of OpenAI failed."
+        },
+        {
+          "item": "Possibly to start a new company with former OpenAI colleagues",
+          "quote": "Altman had been considering the option of starting a new company with former OpenAI colleagues."
+        },
+        {
+          "item": "To build a new AI hardware device",
+          "quote": "Altman and Apple’s former design chief Jony Ive have been discussing building a new AI hardware device, according to reports."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "To advance AI technology and its potential impacts",
+          "quote": "Altman was the trusted face of AI. His firm, though, is much more complex"
+        },
+        {
+          "item": "To regain his standing in the AI community",
+          "quote": "Altman’s firing by the board on Friday sent shock waves through the tech sector, and OpenAI staff, with the executive seen as not only the face of the company but also of the AI sector broadly."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Starting a new AI company",
+          "quote": "Altman had been considering the option of starting a new company with former OpenAI colleagues."
+        },
+        {
+          "item": "Building an AI hardware device",
+          "quote": "Altman and Apple’s former design chief Jony Ive have been discussing building a new AI hardware device, according to reports."
+        },
+        {
+          "item": "Returning to OpenAI with changes in governance structure",
+          "quote": "The Wall Street Journal had earlier reported that Altman’s return was conditional on a new board and governance structure."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Leading the newly formed AI team at Microsoft",
+          "quote": "Microsoft has hired Sam Altman as head of a new advanced artificial intelligence team."
+        },
+        {
+          "item": "Being reinstated as the CEO of OpenAI",
+          "quote": "Microsoft, OpenAI’s largest investor, has moved quickly to take on a key figure in the AI industry."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Being fired from OpenAI",
+          "quote": "Altman was fired on Friday after being accused of not being “consistently candid in communications” with the board."
+        },
+        {
+          "item": "Losing support of the AI community",
+          "quote": "The Verge had reported that other employees were likely to leave if Altman did not return."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Being sidelined in the AI industry",
+          "quote": "Altman was fired on Friday after being accused of not being “consistently candid in communications” with the board."
+        },
+        {
+          "item": "Impact of his removal on OpenAI",
+          "quote": "The Verge had reported that other employees were likely to leave if Altman did not return."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Support from Microsoft",
+          "quote": "Microsoft, OpenAI’s largest investor, has moved quickly to take on a key figure in the AI industry."
+        },
+        {
+          "item": "Credibility and Reputation in AI Sector",
+          "quote": "Altman’s firing by the board on Friday sent shock waves through the tech sector, and OpenAI staff, with the executive seen as not only the face of the company but also of the AI sector broadly."
+        }
+      ]
+    }
+  },
+  {
+    "name": "OpenAI",
+    "description": "Artificial intelligence lab, whose CEO position was formerly held by Sam Altman",
+    "mentions": 13,
+    "wikipedia": {
+      "id": "48795986",
+      "name": "OpenAI",
+      "extract": "OpenAI is an American artificial intelligence (AI) research organization consisting of the non-profit OpenAI, Inc. registered in Delaware and its for-profit subsidiary OpenAI Global, LLC. OpenAI researches artificial intelligence with the declared intention of developing \"safe and beneficial\" artificial general intelligence, which it defines as \"highly autonomous systems that outperform humans at most economically valuable work\". OpenAI has also developed several large language models, such as ChatGPT and GPT-4, as well as advanced image generation models like DALL-E 3, and in the past published open-source models.The organization was founded in December 2015 by Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston, John Schulman, Pamela Vagata, and Wojciech Zaremba, with Sam Altman and Elon Musk serving as the initial board members. Microsoft provided OpenAI Global LLC with a $1 billion investment in 2019 and a $10 billion investment in 2023, with a significant portion of the investment in the form of compute resources on Microsoft's Azure cloud service.On November 17, 2023, the board removed Altman as CEO, while Brockman was removed as chairman and then resigned as president. Four days later, both returned after negotiations with the board, and most of the board members resigned. The new initial board included former Salesforce co-CEO Bret Taylor as chairman. OpenAI also announced that Microsoft would have a non-voting board seat at OpenAI.",
+      "description": "OpenAI is an American AI research organization, focusing on developing \"safe and beneficial\" artificial general intelligence and producing large language and image generation models, funded by significant investments by Microsoft."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Work on AGI research, safety, products and policy",
+          "quote": "By resolution, we mean bringing back Sam, Greg, Jakub, Szymon, Aleksander and other colleagues (sorry if I missed you!) and remaining the place where people who want to work on AGI [artificial general intelligence] research, safety, products and policy can do their best work."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Protect and maintain staff",
+          "quote": "OpenAI is nothing without its people."
+        },
+        {
+          "item": "Commercialize their AI models",
+          "quote": "I’m not crazy enough to take this job without board support for commercializing our awesome models."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Change of governance structure",
+          "quote": "Either way, the executive told Bloomberg TV, OpenAI’s governance structure needed to change."
+        },
+        {
+          "item": "Partnering with the likes of Microsoft",
+          "quote": "Microsoft, OpenAI’s largest investor, has moved quickly to take on a key figure in the AI industry."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Successful commercialization of AI models",
+          "quote": "I’m not crazy enough to take this job without board support for commercializing our awesome models."
+        },
+        {
+          "item": "Maintain key staff",
+          "quote": "We are still working towards a resolution and we remain optimistic."
+        },
+        {
+          "item": "Close relationships with key investors",
+          "quote": "“We’re extremely excited to share the news that Sam Altman and Greg Brockman, together with colleagues, will be joining Microsoft to lead a new advanced AI research team."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Loss of key personnel",
+          "quote": "The Verge had reported that other employees were likely to leave if Altman did not return."
+        },
+        {
+          "item": "Rush in AI development leading to negative impacts",
+          "quote": "The arrival of ChatGPT, whose capabilities have taken experts, regulators and politicians by surprise, has stoked fears that AI companies are racing to develop products without due consideration for negative impacts such as generating disinformation or evading human control."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Uncontrolled AI development",
+          "quote": "The arrival of ChatGPT, whose capabilities have taken experts, regulators and politicians by surprise, has stoked fears that AI companies are racing to develop products without due consideration for negative impacts such as generating disinformation or evading human control."
+        },
+        {
+          "item": "Loss of trust in communication",
+          "quote": "Altman was fired on Friday after being accused of not being 'consistently candid in communications' with the board."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Support from their largest investor Microsoft",
+          "quote": "Nadella said Microsoft remained 'committed' to OpenAI."
+        },
+        {
+          "item": "Skilled and committed staff",
+          "quote": "OpenAI is nothing without its people."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Emmett Shear",
+    "description": "Co-founder of video streaming site Twitch, new CEO of OpenAI",
+    "mentions": 3,
+    "wikipedia": {
+      "id": "33627170",
+      "name": "Emmett Shear",
+      "extract": "Emmett Shear (born 1983) is an American Internet entrepreneur and investor. He is the co-founder of live video platform Justin.tv. He served as the chief executive officer of Twitch when it was spun off from Justin.tv until March 2023. In 2011, Shear was appointed as a part-time partner at venture capital firm Y Combinator. In November 2023, he briefly served as interim CEO of OpenAI.\n\n",
+      "description": "Emmett Shear, born 1983, is an American Internet entrepreneur and investor, known as the co-founder of Justin.tv and former CEO of Twitch, and for his brief tenure as interim CEO of OpenAI in 2023."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Slowing down AI development",
+          "quote": "Shear has stated he is “in favor of slowing down” AI development"
+        },
+        {
+          "item": "Commercializing OpenAI's models",
+          "quote": "I’m not crazy enough to take this job without board support for commercializing our awesome models"
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Safety concerns in AI",
+          "quote": "ChatGPT, whose capabilities have taken experts, regulators and politicians by surprise, has stoked fears that AI companies are racing to develop products without due consideration for negative impacts such as generating disinformation or evading human control"
+        },
+        {
+          "item": "Support from the board",
+          "quote": "I’m not crazy enough to take this job without board support for commercializing our awesome models"
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Managing OpenAI as its CEO",
+          "quote": "the non-profit board of the San Francisco-based OpenAI has installed Emmett Shear, the co-founder of video streaming site Twitch, as the company’s third CEO in three days"
+        },
+        {
+          "item": "Slowing down AI development",
+          "quote": "Shear has stated he is “in favor of slowing down” AI development"
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Successful commercialization of AI models",
+          "quote": "I’m not crazy enough to take this job without board support for commercializing our awesome models"
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Rapid development of AI without safety considerations",
+          "quote": "ChatGPT, whose capabilities have taken experts, regulators and politicians by surprise, has stoked fears that AI companies are racing to develop products without due consideration for negative impacts such as generating disinformation or evading human control"
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "AI development without safety considerations",
+          "quote": "ChatGPT, whose capabilities have taken experts, regulators and politicians by surprise, has stoked fears that AI companies are racing to develop products without due consideration for negative impacts such as generating disinformation or evading human control"
+        }
+      ],
+      "resources": [
+        {
+          "item": "Board support for commercialization",
+          "quote": "I’m not crazy enough to take this job without board support for commercializing our awesome models"
+        },
+        {
+          "item": "Position as CEO of OpenAI",
+          "quote": "the non-profit board of the San Francisco-based OpenAI has installed Emmett Shear, the co-founder of video streaming site Twitch, as the company’s third CEO in three days"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Satya Nadella",
+    "description": "The CEO of Microsoft",
+    "mentions": 3,
+    "wikipedia": {
+      "id": "38309941",
+      "name": "Satya Nadella",
+      "extract": "Satya Narayana Nadella (; born 19 August 1967) is an Indian-American business executive. He is the executive chairman and CEO of Microsoft, succeeding Steve Ballmer in 2014 as CEO and John W. Thompson in 2021 as chairman. Before becoming CEO, he was the executive vice president of Microsoft's cloud and enterprise group, responsible for building and running the company's computing platforms.",
+      "description": "Satya Narayana Nadella, born on 19 August 1967, is an Indian-American business executive serving as the executive chairman and CEO of Microsoft since 2014."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "To successfully establish a new advanced AI research team",
+          "quote": "“We’re extremely excited to share the news that Sam Altman and Greg Brockman, together with colleagues, will be joining Microsoft to lead a new advanced AI research team. We look forward to moving quickly to provide them with the resources needed for their success,” wrote Nadella."
+        },
+        {
+          "item": "To make changes to OpenAI’s governance structure",
+          "quote": "On Monday evening, however, Nadella said he was open to Altman remaining at OpenAI or joining Microsoft. Either way, the executive told Bloomberg TV, OpenAI’s governance structure needed to change."
+        },
+        {
+          "item": "Maintaining commitment to OpenAI",
+          "quote": "Nadella said Microsoft remained “committed” to OpenAI"
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "To secure a significant role for Microsoft in the AI industry",
+          "quote": "Microsoft, OpenAI’s largest investor, has moved quickly to take on a key figure in the AI industry."
+        },
+        {
+          "item": "To ensure the success of Altman and Brockman in their roles",
+          "quote": "We look forward to moving quickly to provide them with the resources needed for their success,” wrote Nadella."
+        },
+        {
+          "item": "Need for change in AI governance",
+          "quote": "On Monday evening, however, Nadella said he was open to Altman remaining at OpenAI or joining Microsoft. Either way, the executive told Bloomberg TV, OpenAI’s governance structure needed to change."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Providing necessary resources",
+          "quote": "We look forward to moving quickly to provide them with the resources needed for their success,"
+        },
+        {
+          "item": "Change in governance of OpenAI",
+          "quote": "Either way, the executive told Bloomberg TV, OpenAI’s governance structure needed to change."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Successful establishment of new advanced AI research team",
+          "quote": "We’re extremely excited to share the news that Sam Altman and Greg Brockman, together with colleagues, will be joining Microsoft to lead a new advanced AI research team."
+        },
+        {
+          "item": "Altman remaining at OpenAI or joining Microsoft",
+          "quote": "On Monday evening, however, Nadella said he was open to Altman remaining at OpenAI or joining Microsoft."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Unrest among remaining OpenAI staff",
+          "quote": "There were indications of unrest among the remaining OpenAI staff on Monday morning."
+        },
+        {
+          "item": "Negative impact of AI developments on society",
+          "quote": "The arrival of ChatGPT, whose capabilities have taken experts, regulators and politicians by surprise, has stoked fears that AI companies are racing to develop products without due consideration for negative impacts such as generating disinformation or evading human control."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Uncontrolled AI development",
+          "quote": "The arrival of ChatGPT, whose capabilities have taken experts, regulators and politicians by surprise, has stoked fears that AI companies are racing to develop products without due consideration for negative impacts such as generating disinformation or evading human control."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Access to leading figures in the AI industry",
+          "quote": "Microsoft, OpenAI’s largest investor, has moved quickly to take on a key figure in the AI industry."
+        },
+        {
+          "item": "Ability to provide resources for new AI team success",
+          "quote": "We look forward to moving quickly to provide them with the resources needed for their success,” wrote Nadella."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Twitch",
+    "description": "A live streaming platform for gamers",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "33548254",
+      "name": "Twitch (service)",
+      "extract": "Twitch is an American video live streaming service that focuses on video game live streaming, including broadcasts of esports competitions, in addition to offering music broadcasts, creative content, and \"in real life\" streams. Twitch is operated by Twitch Interactive, a subsidiary of Amazon.com, Inc. It was introduced in June 2011 as a spin-off of the general-interest streaming platform Justin.tv. Content on the site can be viewed either live or via video on demand. The games shown on Twitch's current homepage are listed according to audience preference and include genres such as real-time strategy games (RTS), fighting games, racing games, and first-person shooters.The popularity of Twitch eclipsed that of its general-interest counterpart. In October 2013, the website had 45 million unique viewers, and by February 2014, it was considered the fourth-largest source of peak Internet traffic in the United States. At the same time, Justin.tv's parent company was re-branded as Twitch Interactive to represent the shift in focus – Justin.tv was shut down in August 2014. That month, the service was acquired by Amazon for US$970 million, which later led to the introduction of synergies with the company's subscription service Amazon Prime. Twitch acquired Curse LLC in 2016, an operator of online video gaming communities and introduced means to purchase games through links on streams along with a program allowing streamers to receive commissions on the sales of games that they play.\nBy 2015, Twitch had more than 100 million viewers per month. In 2017, Twitch remained the leading live streaming video service for video games in the US, and had an advantage over YouTube Gaming, which shut down its standalone app in May 2019. As of February 2020, it had 3 million broadcasters monthly and 15 million daily active users, with 1.4 million average concurrent users. As of May 2018, Twitch had over 27,000 partner channels. As of October 2023, Twitch was the 37th visited website in the world with 20.26% of its traffic coming from the United States, followed by Germany with 7.08% and South Korea with 5.49%.\n\n",
+      "description": "Twitch, a subsidiary of Amazon, is an American live video streaming platform mostly known for video game broadcasts, esports competitions, music, and creative content streams, and has grown to be one the largest sources of Internet traffic in the US with millions of daily users worldwide."
+    }
+  },
+  {
+    "name": "Greg Brockman",
+    "description": "Former president of OpenAI, also joining Microsoft's new advanced AI team",
+    "mentions": 3,
+    "wikipedia": {
+      "id": "73299474",
+      "name": "Greg Brockman",
+      "extract": "Greg Brockman (born November 29, 1987) is an American entrepreneur, investor and software developer who is a co-founder and currently the president of OpenAI. He began his career at Stripe in 2010, upon leaving MIT, and became their CTO in 2013. He left Stripe in 2015 to co-found OpenAI, where he also assumed the role of CTO.",
+      "description": "Greg Brockman is an American entrepreneur, software developer, and co-founder of OpenAI, who formerly held the position of CTO at Stripe."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Insufficient Information",
+          "quote": "Insufficient Information"
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Insufficient Information",
+          "quote": "Insufficient Information"
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Lead a new advanced AI research team at Microsoft",
+          "quote": "Microsoft..said on Monday morning it had appointed Altman and OpenAI’s former president, Greg Brockman, to lead a new advanced AI team at the company."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Becoming part of Microsoft's AI team",
+          "quote": "We’re extremely excited to share the news that Sam Altman and Greg Brockman, together with colleagues, will be joining Microsoft to lead a new advanced AI research team."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Departure from OpenAI",
+          "quote": "Altman’s departure was followed by the resignations of Brockman and three senior researchers: Jakub Pachocki, Aleksander Mądry and Szymon Sidor."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Insufficient Information",
+          "quote": "Insufficient Information"
+        }
+      ],
+      "resources": [
+        {
+          "item": "Support and resources from Microsoft",
+          "quote": "We look forward to moving quickly to provide them with the resources needed for their success,” wrote Nadella."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mira Murati",
+    "description": "Interim CEO of OpenAI",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "73229875",
+      "name": "Mira Murati",
+      "extract": "Mira Murati (born 16 December 1988) is an Albanian engineer and business manager who has been serving as chief technology officer of OpenAI since 2018.She briefly served as  interim chief executive officer of OpenAI from 17 to 20 November 2023.",
+      "description": "Mira Murati, born in 1988, is an Albanian engineer and business manager who has been the chief technology officer at OpenAI since 2018 and served briefly as its interim CEO in 2023."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [
+        {
+          "item": "Continue maintaining the role and responsibilities as the CTO of OpenAI",
+          "quote": "Murati, the company’s chief technology officer."
+        }
+      ],
+      "good_scenarios": [],
+      "bad_scenarios": [
+        {
+          "item": "Facing possible unrest among OpenAI staff",
+          "quote": "There were indications of unrest among the remaining OpenAI staff on Monday morning."
+        },
+        {
+          "item": "Potential uncertainty in the OpenAI work structure as key figures join Microsoft",
+          "quote": "Microsoft, OpenAI’s largest investor, has moved quickly to take on a key figure in the AI industry."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Potential weakening loss of OpenAI's personnel",
+          "quote": "OpenAI is nothing without its people."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Support of OpenAI staff",
+          "quote": "Altman reposted the message with a heart emoji, while multiple OpenAI staff posted the same 'nothing without its people' message in an apparently coordinated move."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jony Ive",
+    "description": "Apple’s former design chief",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "465931",
+      "name": "Jony Ive",
+      "extract": "Sir Jonathan \"Jony\" Paul Ive  (born 27 February 1967) is a British-American designer. Ive is best known for his work at Apple Inc., where he served as senior vice president of industrial design and chief design officer. He also serves as Chancellor of the Royal College of Art in London.\nIve joined Apple in September 1992, and was promoted to senior vice president of industrial design in the late 1990s after the return of co-founder Steve Jobs to the company, and Chief Design Officer in 2015. He held that role until his departure from the company in July 2019. Working closely with Jobs during their tenure together at Apple, Ive played a vital role in the designs of the iMac, Power Mac G4 Cube, iPod, iPhone, iPad, MacBook, and parts of the user interface of Apple's mobile operating system iOS, among other products. He also helped design buildings, such as Apple Park and Apple Stores.\nBorn in London, Ive lived there until his family moved to Stafford when he was 12. He studied design at Newcastle Polytechnic, and was later hired by the London-based design firm Tangerine, where he worked on client projects for LG and Ideal Standard as well as Apple. After leaving Tangerine to join Apple full time, he began designing the decade's PowerBooks and Macs, finally taking up US citizenship in 2012 to become a dual British-American national. He was invited to join the Royal College of Art in May 2017 as its head-of-college, serving a fixed five-year term until May 2022.\nIve has received accolades and honours for his designs and patents. In the United Kingdom, he has been appointed a Royal Designer for Industry (RDI), an Honorary Fellow of the Royal Academy of Engineering (HonFREng), and a Knight Commander of the Order of the British Empire (KBE). In 2018, he was awarded the Hawking Fellowship of the Cambridge Union Society. In a 2004 BBC poll of cultural writers, Ive was ranked the most influential person in British culture. His designs have been described as integral to the successes of Apple, which has gone on to become the world's largest information technology company by revenue and the largest company in the world by market capitalization.\nOn 27 June 2019, in an interview with the Financial Times, Ive announced he would leave Apple after 27 years to start his own design firm, LoveFrom, together with industrial designer Marc Newson. He was recruited by the Agnelli family to work on Ferrari vehicles, starting in 2021.",
+      "description": "Sir Jonathan \"Jony\" Paul Ive is a British-American designer known for his work at Apple Inc., where he was the senior vice president of industrial design and chief design officer, designing products such as the iPhone and iPad. After leaving Apple in 2019, he founded design firm LoveFrom and has started working on Ferrari vehicles from 2021."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [
+        {
+          "item": "Discussing the possibility of building a new AI hardware device",
+          "quote": "Altman and Apple’s former design chief Jony Ive have been discussing building a new AI hardware device, according to reports."
+        }
+      ],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": []
+    }
+  },
+  {
+    "name": "SoftBank",
+    "description": "A multinational conglomerate holding company",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "370229",
+      "name": "SoftBank Group",
+      "extract": "SoftBank Group Corp. (ソフトバンクグループ株式会社, SofutoBanku Gurūpu Kabushiki gaisha) is a Japanese multinational investment holding company headquartered in Minato, Tokyo which focuses on investment management. The group primarily invests in companies operating in technology that offer goods and services to customers in a multitude of markets and industries ranging from the internet to automation. With over $100 billion in capital at its onset, SoftBank's Vision Fund is the world's largest technology-focused venture capital fund. Fund investors included sovereign wealth funds from countries in the Middle East.The company is known for the leadership of its controversial founder and largest shareholder Masayoshi Son. Its investee companies, subsidiaries and divisions, including several unprofitable unicorns, operate in robotics, artificial intelligence, software, logistics, transportation, biotechnology, robotic process automation, proptech, real estate, hospitality, broadband, fixed-line telecommunications, e-commerce, information technology, finance, media and marketing, and other areas. Among its most internationally recognizable current stockholdings are stakes in Arm (semiconductors), Alibaba (e-commerce), OYO Rooms (hospitality), WeWork (coworking) and Deutsche Telekom (telecommunications). SoftBank Corporation, its spun-out affiliate and former flagship business, is the third-largest wireless carrier in Japan, with 45.621 million subscribers as of March 2021. Poor investment decisions of Masayoshi Son’s SoftBank Group led to a panoply of losing investments across the history of the company.SoftBank was ranked in the 2017 Forbes Global 2000 list as the 36th largest public company in the world and the second-largest publicly traded company in Japan after Toyota.The logo of SoftBank is based on the flag of the Kaientai, a naval trading company founded in 1865, near the end of the Tokugawa shogunate, by Sakamoto Ryōma.Although SoftBank does not affiliate itself to any traditional keiretsu, it has close ties with Mizuho Financial Group, its primary lender.\n\n",
+      "description": "SoftBank Group Corp. is a Japanese multinational investment holding company that primarily invests in technology industries and operates in various sectors from robotics to e-commerce, with significant stakes in globally recognized companies like Alibaba and WeWork.\n"
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [
+        {
+          "item": "SoftBank's CEO, Masayoshi Son could potentially engage in further discussions regarding AI development",
+          "quote": "It was also reported that the SoftBank chief executive, Masayoshi Son, had been involved in the conversation."
+        }
+      ],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": []
+    }
+  },
+  {
+    "name": "Masayoshi Son",
+    "description": "SoftBank's chief executive, reportedly involved in conversations with Altman and Ive",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "1409754",
+      "name": "Masayoshi Son",
+      "extract": "Masayoshi Son (Japanese: 孫 正義, romanized: Son Masayoshi, Korean: 손정의, romanized: Son Jeong-ui; born 11 August 1957) is a Japanese billionaire technology entrepreneur, investor and philanthropist. A third-generation Zainichi Korean, he naturalized as a Japanese citizen in 1990. He is the founder, representative director, corporate officer, chairman and CEO of SoftBank Group Corp. (SBG), a strategic technology-focused investment holding company, as well as chairman of UK-based Arm Holdings.As an entrepreneur, he achieved notability in PC software distribution, computing-related book and magazine publishing, and telecommunications in Japan, starting in the 1980s and booming throughout the 1990s and 2000s. Poor investment decisions of Masayoshi Son's SoftBank Group led to a panoply of losing investments across the history of the company. Since Son founded SoftBank in 1981, he has made many investments, but the vast majority of those deals failed, and his reputation as an investor rests almost solely on his $20 million initial investment in Alibaba Group in 2000, a stake that had grown to a paper valuation of about $50 billion just before the Alibaba IPO in 2014. SoftBank's 27 percent stake in Alibaba was worth $132 billion in 2018, including additional purchases of the stock since 2000. The morphing of his own telecom company SoftBank Corp. into an investment management firm called SoftBank Group Corp. made him noted worldwide as a stock investor. However, after a number of high-profile setbacks, Son's investing strategy in the first and second SoftBank Vision Funds established in 2017 and 2019, has been described as one reliant on the greater fool theory. A controversial figure, Son has been called a gambler, mocked by some specialized media and dubbed the worst investor ever. Known for his eccentricity and criticized because of his hubris, his sanity has been questioned in the media prompting him to reply with humorous assent.In 2013, Son was placed 45th on the Forbes magazine's list of the World's Most Powerful People. In the 2018's ranking, he was placed on the 55th position.As of 2023, Son ranks 69th on the Forbes's list of The World's Billionaires and is #239 on the Bloomberg Billionaires Index. He had for many years the distinction of being the person who had lost the most money in history (more than $59bn during the dot com crash of 2000 alone, when his SoftBank shares plummeted), a feat surpassed by Elon Musk in the following decades.\n\n",
+      "description": "Masayoshi Son is a Japanese billionaire entrepreneur, investor, and philanthropist, best known as the founder and CEO of SoftBank Group Corp., with successful investments in Alibaba Group and a controversial yet notable reputation in the global investment scene."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [
+        {
+          "item": "Having a conversation with Altman and Apple's former design chief Jony Ive about building a new AI hardware device",
+          "quote": "Altman and Apple’s former design chief Jony Ive have been discussing building a new AI hardware device, according to reports. It was also reported that the SoftBank chief executive, Masayoshi Son, had been involved in the conversation."
+        }
+      ],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "His position as the SoftBank chief executive",
+          "quote": "It was also reported that the SoftBank chief executive, Masayoshi Son, had been involved in the conversation."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jason Kwon",
+    "description": "Chief Strategy Officer of OpenAI",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "75352338",
+      "name": "Removal of Sam Altman from OpenAI",
+      "extract": "On November 17, 2023, OpenAI's board of directors removed co-founder and chief executive Sam Altman with a statement that it had no confidence in Altman's leadership.  \nApproximately 107 hours later, after an intense pressure campaign from investors and a threatened mass resignation of OpenAI’s employees, OpenAI announced that it had reached an agreement in principle to have Altman return as CEO with a reconstituted board of the non-profit entity which oversees the for-profit company. Altman’s announced return was the third change of CEO announcement within a chaotic 4.5 day period.\n\n",
+      "description": "Sam Altman was removed as CEO by OpenAI's board due to lack of confidence but was reinstated after pressure from investors and potential employee resignations, marking the third CEO change within a tumultuous 4.5 day period in November 2023."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Change of governance structure",
+          "quote": "Either way, the executive told Bloomberg TV, OpenAI’s governance structure needed to change."
+        },
+        {
+          "item": "Restoring important staff and senior colleagues",
+          "quote": "“By resolution, we mean bringing back Sam, Greg, Jakub, Szymon, Aleksander and other colleagues (sorry if I missed you!) and remaining the place where people who want to work on AGI [artificial general intelligence] research, safety, products and policy can do their best work.”"
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Lack of trustworthiness and transparent communication with the board from Sam Altman",
+          "quote": "Altman was fired on Friday after being accused of not being “consistently candid in communications” with the board in a move that sent shockwaves through Silicon Valley."
+        },
+        {
+          "item": "Reaction to pressure from investors and potential employee resignations",
+          "quote": "OpenAI’s investors, led by Microsoft, then led an attempt to reinstate Altman and talks over an about-turn took place at the weekend – with Altman tweeting a picture of himself wearing a guest pass outside OpenAI’s offices."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Installing new CEO",
+          "quote": "However, the talks failed and OpenAI’s board has appointed Shear as interim CEO, replacing Altman’s temporary successor Murati, the company’s chief technology officer."
+        },
+        {
+          "item": "Reinstating Altman",
+          "quote": "The Wall Street Journal had earlier reported that Altman’s return was conditional on a new board and governance structure"
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Successful reinstatement of Sam Altman and clean transition",
+          "quote": "The Wall Street Journal had earlier reported that Altman’s return was conditional on a new board and governance structure."
+        },
+        {
+          "item": "Retention of key staffers and stability in the company",
+          "quote": "“By resolution, we mean bringing back Sam, Greg, Jakub, Szymon, Aleksander and other colleagues (sorry if I missed you!) and remaining the place where people who want to work on AGI [artificial general intelligence] research, safety, products and policy can do their best work.”"
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Continued unrest and employee resignations",
+          "quote": "The Verge had reported that other employees were likely to leave if Altman did not return."
+        },
+        {
+          "item": "Struggles with governance structure and lack of transparency",
+          "quote": "Altman was fired on Friday after being accused of not being “consistently candid in communications” with the board in a move that sent shockwaves through Silicon Valley."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Loss of key staff and brain drain",
+          "quote": "“OpenAI is nothing without its people”."
+        },
+        {
+          "item": "Risk of uncontrolled AI developments",
+          "quote": "The arrival of ChatGPT, whose capabilities have taken experts, regulators and politicians by surprise, has stoked fears that AI companies are racing to develop products without due consideration for negative impacts such as generating disinformation or evading human control."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Following the resignation of Altman and Brockman, OpenAI's board consists of four people",
+          "quote": "After the departure of Altman and Brockman it now consists of four people: OpenAI’s chief scientist Ilya Sutskever and three non-employees."
+        },
+        {
+          "item": "Backed by major investors like Microsoft",
+          "quote": "Microsoft, OpenAI’s largest investor, has moved quickly to take on a key figure in the AI industry."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jakub Pachocki",
+    "description": "Senior researcher at OpenAI",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "48795986",
+      "name": "OpenAI",
+      "extract": "OpenAI is an American artificial intelligence (AI) research organization consisting of the non-profit OpenAI, Inc. registered in Delaware and its for-profit subsidiary OpenAI Global, LLC. OpenAI researches artificial intelligence with the declared intention of developing \"safe and beneficial\" artificial general intelligence, which it defines as \"highly autonomous systems that outperform humans at most economically valuable work\". OpenAI has also developed several large language models, such as ChatGPT and GPT-4, as well as advanced image generation models like DALL-E 3, and in the past published open-source models.The organization was founded in December 2015 by Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston, John Schulman, Pamela Vagata, and Wojciech Zaremba, with Sam Altman and Elon Musk serving as the initial board members. Microsoft provided OpenAI Global LLC with a $1 billion investment in 2019 and a $10 billion investment in 2023, with a significant portion of the investment in the form of compute resources on Microsoft's Azure cloud service.On November 17, 2023, the board removed Altman as CEO, while Brockman was removed as chairman and then resigned as president. Four days later, both returned after negotiations with the board, and most of the board members resigned. The new initial board included former Salesforce co-CEO Bret Taylor as chairman. OpenAI also announced that Microsoft would have a non-voting board seat at OpenAI.",
+      "description": "OpenAI is an American AI research organization, focusing on developing \"safe and beneficial\" artificial general intelligence and producing large language and image generation models, funded by significant investments by Microsoft."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Work on AGI research, safety, products and policy",
+          "quote": "By resolution, we mean bringing back Sam, Greg, Jakub, Szymon, Aleksander and other colleagues (sorry if I missed you!) and remaining the place where people who want to work on AGI [artificial general intelligence] research, safety, products and policy can do their best work."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Protect and maintain staff",
+          "quote": "OpenAI is nothing without its people."
+        },
+        {
+          "item": "Commercialize their AI models",
+          "quote": "I’m not crazy enough to take this job without board support for commercializing our awesome models."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Change of governance structure",
+          "quote": "Either way, the executive told Bloomberg TV, OpenAI’s governance structure needed to change."
+        },
+        {
+          "item": "Partnering with the likes of Microsoft",
+          "quote": "Microsoft, OpenAI’s largest investor, has moved quickly to take on a key figure in the AI industry."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Successful commercialization of AI models",
+          "quote": "I’m not crazy enough to take this job without board support for commercializing our awesome models."
+        },
+        {
+          "item": "Maintain key staff",
+          "quote": "We are still working towards a resolution and we remain optimistic."
+        },
+        {
+          "item": "Close relationships with key investors",
+          "quote": "“We’re extremely excited to share the news that Sam Altman and Greg Brockman, together with colleagues, will be joining Microsoft to lead a new advanced AI research team."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Loss of key personnel",
+          "quote": "The Verge had reported that other employees were likely to leave if Altman did not return."
+        },
+        {
+          "item": "Rush in AI development leading to negative impacts",
+          "quote": "The arrival of ChatGPT, whose capabilities have taken experts, regulators and politicians by surprise, has stoked fears that AI companies are racing to develop products without due consideration for negative impacts such as generating disinformation or evading human control."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Uncontrolled AI development",
+          "quote": "The arrival of ChatGPT, whose capabilities have taken experts, regulators and politicians by surprise, has stoked fears that AI companies are racing to develop products without due consideration for negative impacts such as generating disinformation or evading human control."
+        },
+        {
+          "item": "Loss of trust in communication",
+          "quote": "Altman was fired on Friday after being accused of not being 'consistently candid in communications' with the board."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Support from their largest investor Microsoft",
+          "quote": "Nadella said Microsoft remained 'committed' to OpenAI."
+        },
+        {
+          "item": "Skilled and committed staff",
+          "quote": "OpenAI is nothing without its people."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Aleksander Mądry",
+    "description": "Senior researcher at OpenAI",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "48795986",
+      "name": "OpenAI",
+      "extract": "OpenAI is an American artificial intelligence (AI) research organization consisting of the non-profit OpenAI, Inc. registered in Delaware and its for-profit subsidiary OpenAI Global, LLC. OpenAI researches artificial intelligence with the declared intention of developing \"safe and beneficial\" artificial general intelligence, which it defines as \"highly autonomous systems that outperform humans at most economically valuable work\". OpenAI has also developed several large language models, such as ChatGPT and GPT-4, as well as advanced image generation models like DALL-E 3, and in the past published open-source models.The organization was founded in December 2015 by Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston, John Schulman, Pamela Vagata, and Wojciech Zaremba, with Sam Altman and Elon Musk serving as the initial board members. Microsoft provided OpenAI Global LLC with a $1 billion investment in 2019 and a $10 billion investment in 2023, with a significant portion of the investment in the form of compute resources on Microsoft's Azure cloud service.On November 17, 2023, the board removed Altman as CEO, while Brockman was removed as chairman and then resigned as president. Four days later, both returned after negotiations with the board, and most of the board members resigned. The new initial board included former Salesforce co-CEO Bret Taylor as chairman. OpenAI also announced that Microsoft would have a non-voting board seat at OpenAI.",
+      "description": "OpenAI is an American AI research organization, focusing on developing \"safe and beneficial\" artificial general intelligence and producing large language and image generation models, funded by significant investments by Microsoft."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Work on AGI research, safety, products and policy",
+          "quote": "By resolution, we mean bringing back Sam, Greg, Jakub, Szymon, Aleksander and other colleagues (sorry if I missed you!) and remaining the place where people who want to work on AGI [artificial general intelligence] research, safety, products and policy can do their best work."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Protect and maintain staff",
+          "quote": "OpenAI is nothing without its people."
+        },
+        {
+          "item": "Commercialize their AI models",
+          "quote": "I’m not crazy enough to take this job without board support for commercializing our awesome models."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Change of governance structure",
+          "quote": "Either way, the executive told Bloomberg TV, OpenAI’s governance structure needed to change."
+        },
+        {
+          "item": "Partnering with the likes of Microsoft",
+          "quote": "Microsoft, OpenAI’s largest investor, has moved quickly to take on a key figure in the AI industry."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Successful commercialization of AI models",
+          "quote": "I’m not crazy enough to take this job without board support for commercializing our awesome models."
+        },
+        {
+          "item": "Maintain key staff",
+          "quote": "We are still working towards a resolution and we remain optimistic."
+        },
+        {
+          "item": "Close relationships with key investors",
+          "quote": "“We’re extremely excited to share the news that Sam Altman and Greg Brockman, together with colleagues, will be joining Microsoft to lead a new advanced AI research team."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Loss of key personnel",
+          "quote": "The Verge had reported that other employees were likely to leave if Altman did not return."
+        },
+        {
+          "item": "Rush in AI development leading to negative impacts",
+          "quote": "The arrival of ChatGPT, whose capabilities have taken experts, regulators and politicians by surprise, has stoked fears that AI companies are racing to develop products without due consideration for negative impacts such as generating disinformation or evading human control."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Uncontrolled AI development",
+          "quote": "The arrival of ChatGPT, whose capabilities have taken experts, regulators and politicians by surprise, has stoked fears that AI companies are racing to develop products without due consideration for negative impacts such as generating disinformation or evading human control."
+        },
+        {
+          "item": "Loss of trust in communication",
+          "quote": "Altman was fired on Friday after being accused of not being 'consistently candid in communications' with the board."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Support from their largest investor Microsoft",
+          "quote": "Nadella said Microsoft remained 'committed' to OpenAI."
+        },
+        {
+          "item": "Skilled and committed staff",
+          "quote": "OpenAI is nothing without its people."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Szymon Sidor",
+    "description": "Senior researcher at OpenAI",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "48795986",
+      "name": "OpenAI",
+      "extract": "OpenAI is an American artificial intelligence (AI) research organization consisting of the non-profit OpenAI, Inc. registered in Delaware and its for-profit subsidiary OpenAI Global, LLC. OpenAI researches artificial intelligence with the declared intention of developing \"safe and beneficial\" artificial general intelligence, which it defines as \"highly autonomous systems that outperform humans at most economically valuable work\". OpenAI has also developed several large language models, such as ChatGPT and GPT-4, as well as advanced image generation models like DALL-E 3, and in the past published open-source models.The organization was founded in December 2015 by Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston, John Schulman, Pamela Vagata, and Wojciech Zaremba, with Sam Altman and Elon Musk serving as the initial board members. Microsoft provided OpenAI Global LLC with a $1 billion investment in 2019 and a $10 billion investment in 2023, with a significant portion of the investment in the form of compute resources on Microsoft's Azure cloud service.On November 17, 2023, the board removed Altman as CEO, while Brockman was removed as chairman and then resigned as president. Four days later, both returned after negotiations with the board, and most of the board members resigned. The new initial board included former Salesforce co-CEO Bret Taylor as chairman. OpenAI also announced that Microsoft would have a non-voting board seat at OpenAI.",
+      "description": "OpenAI is an American AI research organization, focusing on developing \"safe and beneficial\" artificial general intelligence and producing large language and image generation models, funded by significant investments by Microsoft."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Work on AGI research, safety, products and policy",
+          "quote": "By resolution, we mean bringing back Sam, Greg, Jakub, Szymon, Aleksander and other colleagues (sorry if I missed you!) and remaining the place where people who want to work on AGI [artificial general intelligence] research, safety, products and policy can do their best work."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Protect and maintain staff",
+          "quote": "OpenAI is nothing without its people."
+        },
+        {
+          "item": "Commercialize their AI models",
+          "quote": "I’m not crazy enough to take this job without board support for commercializing our awesome models."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Change of governance structure",
+          "quote": "Either way, the executive told Bloomberg TV, OpenAI’s governance structure needed to change."
+        },
+        {
+          "item": "Partnering with the likes of Microsoft",
+          "quote": "Microsoft, OpenAI’s largest investor, has moved quickly to take on a key figure in the AI industry."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Successful commercialization of AI models",
+          "quote": "I’m not crazy enough to take this job without board support for commercializing our awesome models."
+        },
+        {
+          "item": "Maintain key staff",
+          "quote": "We are still working towards a resolution and we remain optimistic."
+        },
+        {
+          "item": "Close relationships with key investors",
+          "quote": "“We’re extremely excited to share the news that Sam Altman and Greg Brockman, together with colleagues, will be joining Microsoft to lead a new advanced AI research team."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Loss of key personnel",
+          "quote": "The Verge had reported that other employees were likely to leave if Altman did not return."
+        },
+        {
+          "item": "Rush in AI development leading to negative impacts",
+          "quote": "The arrival of ChatGPT, whose capabilities have taken experts, regulators and politicians by surprise, has stoked fears that AI companies are racing to develop products without due consideration for negative impacts such as generating disinformation or evading human control."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Uncontrolled AI development",
+          "quote": "The arrival of ChatGPT, whose capabilities have taken experts, regulators and politicians by surprise, has stoked fears that AI companies are racing to develop products without due consideration for negative impacts such as generating disinformation or evading human control."
+        },
+        {
+          "item": "Loss of trust in communication",
+          "quote": "Altman was fired on Friday after being accused of not being 'consistently candid in communications' with the board."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Support from their largest investor Microsoft",
+          "quote": "Nadella said Microsoft remained 'committed' to OpenAI."
+        },
+        {
+          "item": "Skilled and committed staff",
+          "quote": "OpenAI is nothing without its people."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ilya Sutskever",
+    "description": "OpenAI’s chief scientist",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "51097862",
+      "name": "Ilya Sutskever",
+      "extract": "Ilya Sutskever  (Hebrew: איליה סוצקבר; Russian: Илья Суцкевер; /ilja su:ʦkɪvər/ born 1985/86) is a computer scientist working in machine learning. He is a co-founder and Chief Scientist at OpenAI.He has made several major contributions to the field of deep learning. In 2023, Sutskever and the OpenAI board fired CEO Sam Altman, who returned a week later. He is the co-inventor, with Alex Krizhevsky and Geoffrey Hinton, of AlexNet, a convolutional neural network. Sutskever is also one of the many co-authors of the AlphaGo paper.",
+      "description": "Ilya Sutskever is a renowned computer scientist and co-founder of OpenAI who has made significant contributions to deep learning, including the co-invention of AlexNet, a convolutional neural network."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Influence through position at OpenAI",
+          "quote": "OpenAI’s chief scientist Ilya Sutskever and three non-employees."
+        }
+      ]
+    }
+  },
+  {
+    "name": "ChatGPT",
+    "description": "An AI model developed by OpenAI",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "72417803",
+      "name": "ChatGPT",
+      "extract": "ChatGPT (Chat Generative Pre-trained Transformer) is a large language model-based chatbot developed by OpenAI and launched on November 30, 2022, that enables users to refine and steer a conversation towards a desired length, format, style, level of detail, and language. Successive prompts and replies, known as prompt engineering, are considered at each conversation stage as a context.ChatGPT is built upon either GPT-3.5 or GPT-4, both of which are members of OpenAI's proprietary series of generative pre-trained transformer (GPT) models, based on the transformer architecture developed by Google—and is fine-tuned for conversational applications using a combination of supervised and reinforcement learning techniques. ChatGPT was released as a freely available research preview, but due to its popularity, OpenAI now operates the service on a freemium model. It allows users on its free tier to access the GPT-3.5-based version. In contrast, the more advanced GPT-4-based version and priority access to newer features are provided to paid subscribers under the commercial name \"ChatGPT Plus\".\nBy January 2023, it had become what was then the fastest-growing consumer software application in history, gaining over 100 million users and contributing to OpenAI's valuation growing to $29 billion. ChatGPT's release spurred the development of competing products, including Bard, Ernie Bot, LLaMA, Claude, and Grok. Microsoft launched its Bing Chat based on OpenAI's GPT-4. It raised concern among some observers over the potential of ChatGPT and similar programs to displace or atrophy human intelligence, enable plagiarism, or fuel misinformation.\n\n",
+      "description": "ChatGPT, developed by OpenAI, is a language model-based chatbot using GPT-3.5 or GPT-4 models, designed for text conversation with features like refining length, style, and detail level and operates on a freemium model - free users get access to the GPT-3.5 version and paid subscribers get access to the more advanced GPT-4 version under 'ChatGPT Plus'."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [
+        {
+          "item": "commercialization of AI models",
+          "quote": "I’m not crazy enough to take this job without board support for commercializing our awesome models"
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "development of AI under new leadership",
+          "quote": "Microsoft, OpenAI’s largest investor, has moved quickly to take on a key figure in the AI industry"
+        },
+        {
+          "item": "team shifting to work under Microsoft",
+          "quote": "Altman and OpenAI’s former president, Greg Brockman, to lead a new advanced AI team at the company"
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "continued support from Microsoft",
+          "quote": "Nadella said Microsoft remained “committed” to OpenAI"
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "failing to consider negative impacts of AI",
+          "quote": "The arrival of ChatGPT, whose capabilities have taken experts, regulators and politicians by surprise, has stoked fears that AI companies are racing to develop products without due consideration for negative impacts such as generating disinformation or evading human control"
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "failure to manage and govern AI safety",
+          "quote": "Shear has stated he is “in favor of slowing down” AI development but wrote on X on Monday that Altman had not been fired because of safety concerns"
+        },
+        {
+          "item": "loss of key staff and researchers",
+          "quote": "The Verge had reported that other employees were likely to leave if Altman did not return"
+        }
+      ],
+      "resources": [
+        {
+          "item": "support and investment from Microsoft",
+          "quote": "Microsoft, OpenAI’s largest investor, has moved quickly to take on a key figure in the AI industry"
+        },
+        {
+          "item": "knowledge and leadership of AI industry figures",
+          "quote": "It said on Monday morning it had appointed Altman and OpenAI’s former president, Greg Brockman, to lead a new advanced AI team at the company"
+        }
+      ]
+    }
+  }
+]

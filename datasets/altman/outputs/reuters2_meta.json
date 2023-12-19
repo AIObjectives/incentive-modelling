@@ -1,0 +1,37 @@
+{
+  "title": "A timeline of Sam Altman's firing and dramatic return to OpenAI",
+  "source": "Reuters",
+  "date": "November 22, 2023 10:50 AM GMT",
+  "authors": [],
+  "link": "https://www.reuters.com/technology/openai-ouster-microsoft-ai-research-ceo-sam-altmans-tumultuous-weekend-2023-11-20/",
+  "relevance_score": 0.9,
+  "relevance_explanation": "The document is highly relevant as it provides a detailed timeline of the events surrounding Sam Altman's firing from OpenAI and subsequent developments, directly addressing the research goal of understanding the sequence of events and actions that followed the firing.",
+  "summary": "The document outlines the sequence of events following Sam Altman's firing from OpenAI, including Altman's short-lived move to Microsoft, the reactions of OpenAI staff and investors, and Altman's eventual reinstatement as CEO with a new board of directors.",
+  "events": [
+    "Nov. 17: OpenAI board fires CEO, co-founder Sam Altman and President Greg Brockman; Mira Murati named as interim CEO",
+    "Nov. 18: Sam Altman's firing reported as due to communication issues, not malfeasance",
+    "Nov. 18: Khosla Ventures expresses support for Altman",
+    "Nov. 18: OpenAI employees consider quitting or joining Altman's future ventures",
+    "Nov. 19: Altman deliberates on returning to OpenAI or starting a new AI company",
+    "Nov. 20: Microsoft hires Altman, Brockman, and others for AI research",
+    "Nov. 20: OpenAI appoints Emmett Shear as interim CEO and considers a merger; staff threaten to quit",
+    "Nov. 20: OpenAI investors weigh legal action against the board",
+    "Nov. 21: Altman reinstated as CEO with a new board along with the return of Greg Brockman"
+  ],
+  "entities": [
+    "Sam Altman",
+    "Greg Brockman",
+    "OpenAI",
+    "Mira Murati",
+    "Microsoft",
+    "Khosla Ventures",
+    "Brad Lightcap",
+    "Satya Nadella",
+    "Emmett Shear",
+    "Bret Taylor",
+    "Larry Summers",
+    "Adam D'Angelo",
+    "Anthropic"
+  ],
+  "document_type": "news article"
+}

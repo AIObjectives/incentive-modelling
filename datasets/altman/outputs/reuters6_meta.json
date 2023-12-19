@@ -1,0 +1,26 @@
+{
+  "title": "OpenAI's $86 billion share sale in jeopardy after Altman firing, The Information reports",
+  "source": "Reuters",
+  "date": "18 November 2023",
+  "authors": [],
+  "link": "https://www.reuters.com/technology/openais-86-bln-share-sale-jeopardy-following-altman-firing-information-2023-11-18/",
+  "relevance_score": 0.8,
+  "relevance_explanation": "The article is highly relevant as it details significant fallout from Sam Altman’s termination, specifically the impact on OpenAI’s financial operations and leadership structure, which directly relates to the research goals of understanding the consequences of Altman's firing and the power dynamics involved.",
+  "summary": "The article reports on the jeopardy faced by OpenAI's planned employee share sale after the firing of CEO Sam Altman. The sale, potentially valuing the company at $86 billion, is uncertain following leadership changes, including the departure of president Greg Brockman. The management shakeup caught employees off guard, occurring after significant backing from Microsoft and OpenAI's influence on the AI industry.",
+  "events": [
+    "Firing of CEO Sam Altman by OpenAI's board",
+    "Planned employee share sale at OpenAI valued around $86 billion put in jeopardy",
+    "Departure of OpenAI president and co-founder Greg Brockman from the company and board",
+    "Unexpected management changes communicated to OpenAI employees internally and through the company blog"
+  ],
+  "entities": [
+    "OpenAI",
+    "Sam Altman",
+    "Greg Brockman",
+    "Microsoft",
+    "Thrive Capital",
+    "The Information",
+    "Reuters"
+  ],
+  "document_type": "News article"
+}

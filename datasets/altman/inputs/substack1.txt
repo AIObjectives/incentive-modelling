@@ -1,0 +1,81 @@
+Title: Why OpenAI Fired Sam Altman — And What Happens Next in the AI World
+Subtitle: Expect many, many changes. Time to revisit our timelines for everything
+Author: ALBERTO ROMERO
+Date: 18 NOV 2023
+Link: https://thealgorithmicbridge.substack.com/p/why-openai-fired-sam-altman-and-what
+
+=== 
+
+I didn’t publish an article yesterday because I was busy following the most unexpected event of the year, if not the decade, in AI: The firing of OpenAI CEO, Sam Altman, by the company’s board.
+
+It started with a rather cryptic and not very pleasant-sounding blog post from the company announcing a leadership transition. Here are the most revealing bits:
+
+Mr. Altman’s departure follows a deliberative review process by the board, which concluded that he was not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities. The board no longer has confidence in his ability to continue leading OpenAI. …
+
+As a part of this transition, Greg Brockman will be stepping down as chairman of the board and will remain in his role at the company, reporting to the CEO.
+
+Unsurprisingly, Twitter, Signal, and Slack channels were flooded with speculation as to the probable reasons for such an abrupt decision that was conveyed in a tone that, in the business world, is the equivalent of a backstab.
+
+No one seemed to know anything: tech executives from other companies, including partners and investors, senior tech journalists, or even anonymous insiders. An hour later, Altman himself tweeted a very composed response to the news:
+
+i loved my time at openai. it was transformative for me personally, and hopefully the world a little bit. most of all i loved working with such talented people. will have more to say about what’s next later.
+
+Then, Greg Brockman announced, in another twist of events, his resignation from OpenAI: “based on today’s news i quit.”
+
+Perhaps the most surprising aspect of both Altman’s and Brockman’s public reactions was the implicit shock in their words — as if they had known about their termination at the same time the rest of the world did.
+
+It was Kara Swisher, a legendary Silicon Valley tech reporter, who scooped the reason behind this super-impactful, awkwardly-executed, and potentially very damaging move by the OpenAI board (others had previously considered this possibility but, as far as I know, very few people knew for sure and none of them were speaking publicly).
+
+Here’s what she said, in a chain of tweets (here, here):
+
+Sources tell me that the profit direction of the company under Altman and the speed of development, which could be seen as too risky, and the nonprofit side dedicated to more safety and caution were at odds. One person on the Sam side called it a “coup,” while another said it was the the right move.
+
+sources tell me chief scientist Ilya Sutskever was at the center of this. Increasing tensions with Sam Altman and Greg Brockman over role and influence and he got the board on his side.
+
+Ilya Sutskever, the brilliant mind behind many of OpenAI’s scientific successes seems to be the main decision-maker behind the firing.
+
+And, as people suspected, no one knew, not even Altman and Brockman, and neither did Microsoft execs nor OpenAI employees. Definitely not the ideal way to do something like this, which is already ugly in itself.
+
+Several sources told me Board told Sam Altman 30 mins in advance, Greg Brockman 5 mins in advance about the move. Brockman is chair of the board, so not sure how that worked. Microsoft also was told just before, and employees not told in advance.
+
+A few hours later, Greg Brockman explained what exactly happened during the 30 minutes before the company’s announcement, without going into much detail, which he seemingly lacked, except to convey that they are as shocked as we all are:
+
+We too are still trying to figure out exactly what happened. Here is what we know:
+
+Last night, Sam got a text from Ilya asking to talk at noon Friday. Sam joined a Google Meet and the whole board, except Greg, was there. Ilya told Sam he was being fired and that the news was going out very soon.
+
+At 12:19pm, Greg got a text from Ilya asking for a quick call. At 12:23pm, Ilya sent a Google Meet link. Greg was told that he was being removed from the board (but was vital to the company and would retain his role) and that Sam had been fired. Around the same time, OpenAI published a blog post.
+
+As far as we know, the management team was made aware of this shortly after, other than Mira who found out the night prior.
+
+Swisher also predicted, like others, that prominent people inside the company would leave after the destitution of Altman and Brockman. We didn’t have to wait much, The Information reported soon after that “three senior researchers … resigned from OpenAI following Sam Altman's ouster.”
+
+Jakub Pachocki, the company’s director of research; Aleksander Madry, head of a team evaluating potential risks from AI, and Szymon Sidor, a seven-year researcher at the startup, told associates they had resigned, these people said. The departures are a sign of immense disappointment among some employees after the Altman ouster and underscore long-simmering divisions at the ChatGPT creator about AI 'safety' practices.
+
+It’s expected that Altman and Brockman will publish a joint statement soon.
+
+Those are the facts, coming from close sources to OpenAI and the people affected. I will update you as soon as I know more. Now the question is: what are the implications of this incredibly impactful turn of events for OpenAI, AI, and the tech world?
+
+Here are some other questions to consider that should help us unravel the many ramifications that will come out of this, about which I will be writing in the coming days and weeks.
+
+What happens now with OpenAI? In which ways will its industry and R&D strategies change? What happens with ChatGPT and GPT-4? And future models like GPT-5? Will they still pursue AGI but more slowly? Will they become a safety-first company, like Anthropic claimed to be after the split of its founders with OpenAI?
+
+What will Altman and Brockman do? Will they retaliate with litigation? Will they move on to create a new AI company to compete with OpenAI?
+
+What will OpenAI employees do given not just what has happened but how — a heavy-worded announcement without any prior notice — and why — a clash between safety and advancement?
+
+What is the Microsoft executive thinking (Satya Nadella made a rather neutral statement saying the agreement with OpenAI is safe, but Swisher says this surely pisses them off)?
+
+How does this schism affect the ongoing battle between doomers/AI safety/effective altruists and effective accelerationists/techno-optimists?
+
+How will this affect the industry given that OpenAI is (was?) the absolute leader in the space? How will this affect the main directions of research and development of other AI companies and academia?
+
+What does this mean for open-source AI?
+
+What does this mean for Google and other competitors like Anthropic, Meta, xAI, Amazon, etc.?
+
+What does this mean for the whole ecosystem of startups building on top of OpenAI’s technology?
+
+The only thing we know for sure is that Altman’s firing by OpenAI’s board has radically changed the AI industry and community overnight. We should expect many more changes soon.
+
+To those who like to predict the future, I bet you didn’t see this one coming!

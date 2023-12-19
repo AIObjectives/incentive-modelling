@@ -1,0 +1,620 @@
+[
+  {
+    "name": "OpenAI",
+    "description": "Artificial Intelligence company",
+    "mentions": 21,
+    "wikipedia": {
+      "id": "48795986",
+      "name": "OpenAI",
+      "extract": "OpenAI is an American artificial intelligence (AI) research organization consisting of the non-profit OpenAI, Inc. registered in Delaware and its for-profit subsidiary OpenAI Global, LLC. OpenAI researches artificial intelligence with the declared intention of developing \"safe and beneficial\" artificial general intelligence, which it defines as \"highly autonomous systems that outperform humans at most economically valuable work\". OpenAI has also developed several large language models, such as ChatGPT and GPT-4, as well as advanced image generation models like DALL-E 3, and in the past published open-source models.The organization was founded in December 2015 by Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston, John Schulman, Pamela Vagata, and Wojciech Zaremba, with Sam Altman and Elon Musk serving as the initial board members. Microsoft provided OpenAI Global LLC with a $1 billion investment in 2019 and a $10 billion investment in 2023, with a significant portion of the investment in the form of compute resources on Microsoft's Azure cloud service.On November 17, 2023, the board removed Altman as CEO, while Brockman was removed as chairman and then resigned as president. Four days later, both returned after negotiations with the board, and most of the board members resigned. The new initial board included former Salesforce co-CEO Bret Taylor as chairman. OpenAI also announced that Microsoft would have a non-voting board seat at OpenAI.",
+      "description": "OpenAI is an American AI research organization, focusing on developing \"safe and beneficial\" artificial general intelligence and producing large language and image generation models, funded by significant investments by Microsoft."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Continuity of operations",
+          "quote": "\"We are committed to fully providing continuity of operations to our partners and customers.\""
+        },
+        {
+          "item": "OpenAI's success",
+          "quote": "\"Satya and my top priority remains to ensure OpenAI continues to thrive,\""
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "AI safety",
+          "quote": "\"The board did *not* remove Sam over any specific disagreement on safety, their reasoning was completely different from that.\""
+        },
+        {
+          "item": "Commercializing AI models",
+          "quote": "\"I'm not crazy enough to take this job without board support for commercializing our awesome models\""
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Personnel changes",
+          "quote": "\"Staff at OpenAI have called on the board of the artificial intelligence company to resign after the shock dismissal of former boss Sam Altman.\""
+        },
+        {
+          "item": "Independently investigating internal proceedings",
+          "quote": "\"But Mr Shear committed to hiring an independent investigator \"to dig into the entire process\".\""
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Working with Microsoft",
+          "quote": "\"In an interview with CNBC, Mr Nadella said he was open to working with OpenAI or working with the OpenAI employees who come to Microsoft.\""
+        },
+        {
+          "item": "Continued cooperation with partners and customers",
+          "quote": "\"We are committed to fully providing continuity of operations to our partners and customers.\""
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Lack of trust due to poor handling of personnel matters",
+          "quote": "\"But he added the way Mr Altman had been sacked was \"handled very badly\" and \"seriously damaged our trust\".\""
+        },
+        {
+          "item": "Undermining the firm's work",
+          "quote": "\"In a letter, they question the board's competence, and accuse it of undermining the firm's work.\""
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Existential threat posed by AI",
+          "quote": "\"Mr Shear has expressed concerns about what he sees as the potential existential threat posed by the technology.\""
+        },
+        {
+          "item": "Miscommunication and lack of candidness",
+          "quote": "\"it accused him of not being \"consistently candid in his communications with the board, hindering its ability to exercise its responsibilities\"\""
+        }
+      ],
+      "resources": [
+        {
+          "item": "Partnership with Microsoft",
+          "quote": "\"The OpenAI/Microsoft partnership makes this very doable.\""
+        },
+        {
+          "item": "Influential staff and leadership",
+          "quote": "\"Mr Altman, 38, helped launch the firm - best known for creating the popular ChatGPT bot - and has become one of the most influential figures in the fast-growing generative artificial intelligence (AI) space.\""
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sam Altman",
+    "description": "Former boss of OpenAI, now working at Microsoft",
+    "mentions": 14,
+    "wikipedia": {
+      "id": "22476815",
+      "name": "Sam Altman",
+      "extract": "Samuel Harris Altman (; AWLT-mən; born April 22, 1985) is an American entrepreneur and investor, who has been the CEO of OpenAI since 2019 (he was briefly fired and reinstated in November 2023). Prior to OpenAI, Altman was president of Y Combinator from 2014 to 2019.\n\n",
+      "description": "Samuel Harris Altman, born April 22, 1985, is an American entrepreneur and investor, currently serving as the CEO of OpenAI, and was previously the president of Y Combinator from 2014 to 2019."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Ensure OpenAI's success",
+          "quote": "\"Satya and my top priority remains to ensure OpenAI continues to thrive,\""
+        },
+        {
+          "item": "Maintain continuity of operations",
+          "quote": "\"We are committed to fully providing continuity of operations to our partners and customers.\""
+        },
+        {
+          "item": "Lead a new AI research team at Microsoft",
+          "quote": "Microsoft chief executive Satya Nadella wrote on X, that Mr Altman would be leading \"a new advanced AI research team\"."
+        },
+        {
+          "item": "Continue the mission even at Microsoft",
+          "quote": "Mr Altman wrote \"the mission continues\"."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Keep OpenAI thriving",
+          "quote": "\"Satya and my top priority remains to ensure OpenAI continues to thrive,\" he tweeted."
+        },
+        {
+          "item": "Continue association with AI research",
+          "quote": "\"the mission continues\", He later added: \"We are all going to work together some way or other, and i'm so excited. one team, one mission.\""
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Join Microsoft at a new position",
+          "quote": "\"But Mr Altman now has a job at Microsoft and seems to want to stay.\""
+        },
+        {
+          "item": "Lead new AI research team at Microsoft",
+          "quote": "Microsoft chief executive Satya Nadella wrote on X, that Mr Altman would be leading \"a new advanced AI research team\"."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Working at Microsoft",
+          "quote": "\"But Mr Altman now has a job at Microsoft and seems to want to stay.\""
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "OpenAI's board losing faith in Altman",
+          "quote": "Staff at OpenAI have called on the board of the artificial intelligence company to resign after the shock dismissal of former boss Sam Altman."
+        },
+        {
+          "item": "Public dismissal from OpenAI",
+          "quote": "The sacking on Friday of a man who is one of the leading figures in artificial intelligence (AI) shocked the tech world."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Ineffectiveness of OpenAI's board",
+          "quote": "In a letter, they question the board's competence, and accuse it of undermining the firm's work."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Support staff at OpenAI",
+          "quote": "The letter's hundreds of signatories, who include senior staff, say they may themselves resign if their demands are not met."
+        },
+        {
+          "item": "Job opportunity at Microsoft",
+          "quote": "\"But Mr Altman now has a job at Microsoft and seems to want to stay.\""
+        },
+        {
+          "item": "Backing from Microsoft boss",
+          "quote": "\"He and Microsoft boss Satya Nadella see OpenAI's success as vital, he added.\""
+        }
+      ]
+    }
+  },
+  {
+    "name": "Microsoft",
+    "description": "Leading technology company, the biggest investor in OpenAI",
+    "mentions": 11,
+    "wikipedia": {
+      "id": "19001",
+      "name": "Microsoft",
+      "extract": "Microsoft Corporation is an American multinational technology corporation headquartered in Redmond, Washington. Microsoft's best-known software products are the Windows line of operating systems, the Microsoft 365 suite of productivity applications, and the Edge web browser. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. Microsoft ranked No. 14 in the 2022 Fortune 500 rankings of the largest United States corporations by total revenue; it was the world's largest software maker by revenue as of 2022. It is considered one of the Big Five American information technology companies, alongside Alphabet (parent company of Google), Amazon, Apple, and Meta.\nMicrosoft was founded by Bill Gates and Paul Allen on April 4, 1975, to develop and sell BASIC interpreters for the Altair 8800. It rose to dominate the personal computer operating system market with MS-DOS in the mid-1980s, followed by Windows. The company's 1986 initial public offering (IPO) and subsequent rise in its share price created three billionaires and an estimated 12,000 millionaires among Microsoft employees. Since the 1990s, it has increasingly diversified from the operating system market and has made several corporate acquisitions, the largest being the acquisition of Activision Blizzard for $68.7 billion in October 2023, followed by its acquisition of LinkedIn for $26.2 billion in December 2016, and its acquisition of Skype Technologies for $8.5 billion in May 2011.As of 2015, Microsoft is market-dominant in the IBM PC compatible operating system market and the office software suite market, although it has lost the majority of the overall operating system market to Android. The company also produces a wide range of other consumer and enterprise software for desktops, laptops, tabs, gadgets, and servers, including Internet search (with Bing), the digital services market (through MSN), mixed reality (HoloLens), cloud computing (Azure), and software development (Visual Studio).\nSteve Ballmer replaced Gates as CEO in 2000 and later envisioned a \"devices and services\" strategy. This unfolded with Microsoft acquiring Danger Inc. in 2008, entering the personal computer production market for the first time in June 2012 with the launch of the Microsoft Surface line of tablet computers, and later forming Microsoft Mobile through the acquisition of Nokia's devices and services division. Since Satya Nadella took over as CEO in 2014, the company has scaled back on hardware and instead focused on cloud computing, a move that helped the company's shares reach their highest value since December 1999. Under Nadella's direction, the company has also heavily expanded its gaming business to support the Xbox brand, establishing the Microsoft Gaming division in 2022, dedicated to operating Xbox in addition to its three subsidiaries (publishers). Microsoft Gaming is the third-largest gaming company in the world by revenue as of 2023.Earlier dethroned by Apple in 2010, in 2018, Microsoft reclaimed its position as the most valuable publicly traded company in the world. In April 2019, Microsoft reached a trillion-dollar market cap, becoming the third U.S. public company to be valued at over $1 trillion after Apple and Amazon, respectively. As of 2023, Microsoft has the third-highest global brand valuation.\nMicrosoft has been criticized for its monopolistic practices and the company's software has been criticized for problems with ease of use, robustness, and security.",
+      "description": "Microsoft Corporation, an American multinational headquartered in Redmond, Washington, is known for software products including the Windows operating systems and Microsoft 365 applications, along with hardware products like Xbox consoles and Surface personal computers, and is globally recognized as one of the biggest revenue-earning software makers and an influential entity among the Big Five IT companies in the US."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Ensure OpenAI's success and continuity of operations",
+          "quote": "\"Satya and my top priority remains to ensure OpenAI continues to thrive,\" he tweeted."
+        },
+        {
+          "item": "Collaborate with OpenAI",
+          "quote": "\"At this point… it's very, very clear that something has to change around the governance [at OpenAI],\" he added, saying the firms would be in dialogue about this."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Investment in the successful functioning of OpenAI",
+          "quote": "Microsoft, the biggest investor in OpenAI, has assured them that there are jobs for all OpenAI staff if they want to join the company."
+        },
+        {
+          "item": "Exploring the potentials and opportunities of advanced AI",
+          "quote": "Microsoft chief executive Satya Nadella wrote on X, that Mr Altman would be leading \"a new advanced AI research team\"."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Recruit OpenAI staff",
+          "quote": "They also state that Microsoft, the biggest investor in OpenAI, has assured them that there are jobs for all OpenAI staff if they want to join the company."
+        },
+        {
+          "item": "Governance restructuring in OpenAI",
+          "quote": "\"At this point… it's very, very clear that something has to change around the governance [at OpenAI],\" he added, saying the firms would be in dialogue about this."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Successful integration and collaboration with OpenAI",
+          "quote": "\"We are committed to fully providing continuity of operations to our partners and customers. The OpenAI/Microsoft partnership makes this very doable.\""
+        },
+        {
+          "item": "Strengthening its AI capabilities",
+          "quote": "Microsoft chief executive Satya Nadella wrote on X, that Mr Altman would be leading \"a new advanced AI research team\"."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Failure in OpenAI's governance structure",
+          "quote": "\"At this point… it's very, very clear that something has to change around the governance [at OpenAI],\" he added, saying the firms would be in dialogue about this."
+        }
+      ],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Financial resources",
+          "quote": "Microsoft, which has invested billions in OpenAI in exchange for a 49% stake."
+        },
+        {
+          "item": "Newly joined AI expert",
+          "quote": "Microsoft chief executive Satya Nadella wrote on X, that Mr Altman would be leading \"a new advanced AI research team\"."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Satya Nadella",
+    "description": "CEO of Microsoft",
+    "mentions": 4,
+    "wikipedia": {
+      "id": "38309941",
+      "name": "Satya Nadella",
+      "extract": "Satya Narayana Nadella (; born 19 August 1967) is an Indian-American business executive. He is the executive chairman and CEO of Microsoft, succeeding Steve Ballmer in 2014 as CEO and John W. Thompson in 2021 as chairman. Before becoming CEO, he was the executive vice president of Microsoft's cloud and enterprise group, responsible for building and running the company's computing platforms.",
+      "description": "Satya Narayana Nadella, born on 19 August 1967, is an Indian-American business executive serving as the executive chairman and CEO of Microsoft since 2014."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Ensure OpenAI continues to thrive",
+          "quote": "\"Satya and my top priority remains to ensure OpenAI continues to thrive,\" he tweeted."
+        },
+        {
+          "item": "Provide continuity of operations to partners and customers",
+          "quote": "\"We are committed to fully providing continuity of operations to our partners and customers. The OpenAI/Microsoft partnership makes this very doable.\""
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Achieving OpenAI's success",
+          "quote": "He and Microsoft boss Satya Nadella see OpenAI's success as vital, he added."
+        },
+        {
+          "item": "Change in governance at OpenAI",
+          "quote": "\"At this point… it's very, very clear that something has to change around the governance [at OpenAI],\" he added, saying the firms would be in dialogue about this."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Working with OpenAI or OpenAI employees who join Microsoft",
+          "quote": "In an interview with CNBC, Mr Nadella said he was open to working with OpenAI or working with the OpenAI employees who come to Microsoft."
+        },
+        {
+          "item": "Discussion about governance changes at OpenAI",
+          "quote": "\"At this point… it's very, very clear that something has to change around the governance [at OpenAI],\" he added, saying the firms would be in dialogue about this."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "OpenAI thriving",
+          "quote": "\"Satya and my top priority remains to ensure OpenAI continues to thrive,\" he tweeted."
+        },
+        {
+          "item": "Effective cooperation with the OpenAI or OpenAI employees",
+          "quote": "In an interview with CNBC, Mr Nadella said he was open to working with OpenAI or working with the OpenAI employees who come to Microsoft."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Failure in governance at OpenAI",
+          "quote": "\"At this point… it's very, very clear that something has to change around the governance [at OpenAI],\" he added, saying the firms would be in dialogue about this."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Instability at OpenAI",
+          "quote": "\"At this point… it's very, very clear that something has to change around the governance [at OpenAI],\" he added, saying the firms would be in dialogue about this."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Microsoft's partnership with OpenAI",
+          "quote": "\"We are committed to fully providing continuity of operations to our partners and customers. The OpenAI/Microsoft partnership makes this very doable.\""
+        },
+        {
+          "item": "Microsoft's resources to accommodate OpenAI staff",
+          "quote": "They also state that Microsoft, the biggest investor in OpenAI, has assured them that there are jobs for all OpenAI staff if they want to join the company."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Evan Morikawa",
+    "description": "Engineering manager at OpenAI",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "21568",
+      "name": "Talk:Noam Chomsky",
+      "extract": "",
+      "description": "\"Talk:Noam Chomsky\" is a discussion page focused on sharing information, comments, and proposed edits about the linguist and philosopher Noam Chomsky on Wikipedia."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Not applicable",
+          "quote": "The document does not provide specific information about the stated goals of Talk:Noam Chomsky."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Not applicable",
+          "quote": "The document does not provide specific information about the main motivations of Talk:Noam Chomsky."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Not applicable",
+          "quote": "The document does not provide specific information about the possible actions of Talk:Noam Chomsky."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Not applicable",
+          "quote": "The document does not provide specific information about the good scenarios for Talk:Noam Chomsky."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Not applicable",
+          "quote": "The document does not provide specific information about the bad scenarios for Talk:Noam Chomsky."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Not applicable",
+          "quote": "The document does not provide specific information about the main fears of Talk:Noam Chomsky."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Not applicable",
+          "quote": "The document does not provide specific information about the resources of Talk:Noam Chomsky."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ilya Sutskever",
+    "description": "OpenAI's chief scientist",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "51097862",
+      "name": "Ilya Sutskever",
+      "extract": "Ilya Sutskever  (Hebrew: איליה סוצקבר; Russian: Илья Суцкевер; /ilja su:ʦkɪvər/ born 1985/86) is a computer scientist working in machine learning. He is a co-founder and Chief Scientist at OpenAI.He has made several major contributions to the field of deep learning. In 2023, Sutskever and the OpenAI board fired CEO Sam Altman, who returned a week later. He is the co-inventor, with Alex Krizhevsky and Geoffrey Hinton, of AlexNet, a convolutional neural network. Sutskever is also one of the many co-authors of the AlphaGo paper.",
+      "description": "Ilya Sutskever is a renowned computer scientist and co-founder of OpenAI who has made significant contributions to deep learning, including the co-invention of AlexNet, a convolutional neural network."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Reunite the company",
+          "quote": "\"I love everything we've built together and I will do everything I can to reunite the company\", he posted."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Regret over board's actions",
+          "quote": "\"Now I deeply regret my participation in the board's actions.\", he posted."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Attempt to reconcile internal teams",
+          "quote": "\"I love everything we've built together and I will do everything I can to reunite the company\", he posted."
+        },
+        {
+          "item": "Resignation from board",
+          "quote": "One of the notable people to sign the letter is OpenAI's chief scientist, Ilya Sutskever - despite being a member of the board which now finds itself under fire."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Restoration of trust within OpenAI",
+          "quote": "\"I love everything we've built together\", he posted."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Continued discord within OpenAI",
+          "quote": "\"Now I deeply regret my participation in the board's actions.\", he posted."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Harming OpenAI",
+          "quote": "\"I never intended to harm OpenAI.\", he posted."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Position as OpenAI's chief scientist and board member",
+          "quote": "One of the notable people to sign the letter is OpenAI's chief scientist, Ilya Sutskever"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Emmett Shear",
+    "description": "New interim boss of OpenAI, former CEO of Twitch",
+    "mentions": 4,
+    "wikipedia": {
+      "id": "33627170",
+      "name": "Emmett Shear",
+      "extract": "Emmett Shear (born 1983) is an American Internet entrepreneur and investor. He is the co-founder of live video platform Justin.tv. He served as the chief executive officer of Twitch when it was spun off from Justin.tv until March 2023. In 2011, Shear was appointed as a part-time partner at venture capital firm Y Combinator. In November 2023, he briefly served as interim CEO of OpenAI.\n\n",
+      "description": "Emmett Shear, born 1983, is an American Internet entrepreneur and investor, known as the co-founder of Justin.tv and former CEO of Twitch, and for his brief tenure as interim CEO of OpenAI in 2023."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Rebuilding trust after Sam Altman's dismissal",
+          "quote": "But he added the way Mr Altman had been sacked was 'handled very badly' and 'seriously damaged our trust'."
+        },
+        {
+          "item": "Investigate the process",
+          "quote": "But Mr Shear committed to hiring an independent investigator 'to dig into the entire process'."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Opportunity",
+          "quote": "Writing on X, he called the job a 'once-in-a-lifetime opportunity'."
+        },
+        {
+          "item": "Technological Optimism",
+          "quote": "In spite of now being at the helm of one of the world's most powerful AI companies - and being a self-described 'techno-optimist'"
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Hire an independent investigator",
+          "quote": "But Mr Shear committed to hiring an independent investigator 'to dig into the entire process'."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Successfully leading OpenAI",
+          "quote": "OpenAI's new boss Emmett Shear is the former head and co-founder of video streaming service Twitch. A memo to OpenAI's staff said he had a 'unique mix of skills, expertise and relationships that will drive OpenAI forward'."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Potential existential threat posed by AI",
+          "quote": "Mr Shear has expressed concerns about what he sees as the potential existential threat posed by the technology."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Existential threat of AI",
+          "quote": "'It's like someone invented a way to make 10x [ten times] more powerful fusion bombs out of sand and bleach, that anyone could do at home', he told the Logan Bartlett Show podcast in June."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Skills and Expertise",
+          "quote": "A memo to OpenAI's staff said he had a 'unique mix of skills, expertise and relationships that will drive OpenAI forward'."
+        }
+      ]
+    }
+  },
+  {
+    "name": "CNBC",
+    "description": "Media entity where Mr Nadella had an interview",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "223441",
+      "name": "CNBC",
+      "extract": "CNBC (formerly Consumer News and Business Channel) is an American basic cable business news channel and website. It provides business news programming on weekdays from 5:00 a.m. to 7:00 p.m., Eastern Time, while broadcasting talk shows, investigative reports, documentaries, infomercials, reality shows, and other programs at all other times. Along with Fox Business and Bloomberg Television, it is one of the three major business news channels. It also operates a website and mobile apps, whereby users can watch the channel via streaming media, and which provide some content that is only accessible to paid subscribers. CNBC content is available on demand on smart speakers including Amazon Echo devices with Amazon Alexa, Google Home and app devices with Google Assistant, and on Apple Siri voice interfaces including iPhones. Many CNBC TV shows are available as podcasts for on-demand listening. Graphics are designed by Sweden-based Magoo 3D studios.CNBC is a division of NBCUniversal News Group, a subsidiary of NBCUniversal, which is owned by Comcast. It is headquartered in Englewood Cliffs, New Jersey.\nIn addition to the domestic U.S. feed, there are several international editions on the list of CNBC channels, although many just license the CNBC name. Examples include CNBC World, CNBC Europe, CNBC Asia, Class CNBC in Italy, CNBC Indonesia in Indonesia, JKN-CNBC in Thailand, CNBC Arabia in the UAE, Nikkei CNBC in Japan, CNBC TV18, CNBC Awaaz, and CNBC Baazar (A special Gujarati language channel) in India, and GNN/CNBC Pakistan in Pakistan.\n\n",
+      "description": "CNBC, originally the Consumer News and Business Channel, is an American basic cable business news channel and website that broadcasts business news, talk shows, investigative reports, documentaries, and other programs, owned by NBCUniversal News Group and headquartered in Englewood Cliffs, New Jersey."
+    }
+  },
+  {
+    "name": "Twitter",
+    "description": "Social media platform mentioned as 'X'",
+    "mentions": 4,
+    "wikipedia": {
+      "id": "9988187",
+      "name": "Twitter",
+      "extract": "X, formerly but still commonly called Twitter, is an online social media and social networking service operated by the American company X Corp., the successor of Twitter, Inc. On X, registered users can post text, images and videos. Users can also like, repost, quote repost, comment on posts, direct message, video and audio call, bookmark, join lists and communities, and join public Spaces with other registered users. Users can vote on context added by approved users using the Community Notes feature. Posting information to the site is often referred to historically as tweeting, retweeting and quote tweeting/retweeting (depending on the country). Although the service is now called X, the primary website address remains twitter.com as of November 2023, with the x.com domain name redirecting to that address.\nTwitter was created in March 2006 by Jack Dorsey, Noah Glass, Biz Stone, and Evan Williams. It was launched in July of that year. Its parent company, Twitter, Inc., was based in San Francisco, California and had more than 25 offices around the world. By 2012, more than 100 million users produced 340 million tweets a day, and the service handled an average of 1.6 billion search queries per day. In 2013, it was one of the world's ten most-visited websites. By the start of 2019, Twitter had more than 330 million monthly active users. In practice, the vast majority of tweets are produced by a minority of users. In 2020, it was estimated that approximately 48 million accounts (15% of all accounts) were not genuine people. As of October 2023, X is the 5th most-visited website in the world with 23.6% of its traffic coming from the United States followed by Japan at 15.94% and the United Kingdom at 5.57% according to data provided by Similarweb.In October 2022, billionaire Elon Musk acquired Twitter for US$44 billion, gaining control of the platform and becoming CEO. Since the acquisition, the platform has been criticized for the spread of misinformation and disinformation, facilitating an increase in hate speech, promoting antisemitic conspiracy theories and transphobia. However, the platform has been embraced for taking a different approach to content moderation. Focusing more on automation—allowing Twitter to stop the distribution of material deemed harmful rather than banning or ‘striking’ users outright—this has been praised for less political influence on moderation, but criticized for allowing more abuse to stay on the platform. X has been described as turning into a ‘digital town square’ as coined by Elon Musk. With no major features released as of yet, payment processing and other features unrelated to typical social networking, like as seen with WeChat, may be the goal of the acquisition and rebrand of what was historically Twitter. This has received mostly negative reactions, with the first debut of this idea being with the Ron DeSantis presidential campaign, a figure closely tied with Elon Musk’s political affiliations.Linda Yaccarino succeeded Musk as CEO on June 5, 2023, with Musk remaining as Chairman and CTO. In July 2023, Musk announced that Twitter would be rebranded to X and that the bird logo would be retired. In October 2023, the company estimated its value at about $19 billion, down about 55% from the purchase price one year earlier. Fidelity at about the same time estimated the value to be down 65% from its purchase price.\n\n",
+      "description": "Twitter, now known as X, is an American-based online social media and social networking service where users can post text, images, videos, and interact with other users. Founded in 2006, and acquired by billionaire Elon Musk in 2022, it is one of the world's top visited websites with over 330 million active users as of 2019."
+    }
+  },
+  {
+    "name": "Twitch",
+    "description": "Video sharing platform, former company of Emmett Shear",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "33548254",
+      "name": "Twitch (service)",
+      "extract": "Twitch is an American video live streaming service that focuses on video game live streaming, including broadcasts of esports competitions, in addition to offering music broadcasts, creative content, and \"in real life\" streams. Twitch is operated by Twitch Interactive, a subsidiary of Amazon.com, Inc. It was introduced in June 2011 as a spin-off of the general-interest streaming platform Justin.tv. Content on the site can be viewed either live or via video on demand. The games shown on Twitch's current homepage are listed according to audience preference and include genres such as real-time strategy games (RTS), fighting games, racing games, and first-person shooters.The popularity of Twitch eclipsed that of its general-interest counterpart. In October 2013, the website had 45 million unique viewers, and by February 2014, it was considered the fourth-largest source of peak Internet traffic in the United States. At the same time, Justin.tv's parent company was re-branded as Twitch Interactive to represent the shift in focus – Justin.tv was shut down in August 2014. That month, the service was acquired by Amazon for US$970 million, which later led to the introduction of synergies with the company's subscription service Amazon Prime. Twitch acquired Curse LLC in 2016, an operator of online video gaming communities and introduced means to purchase games through links on streams along with a program allowing streamers to receive commissions on the sales of games that they play.\nBy 2015, Twitch had more than 100 million viewers per month. In 2017, Twitch remained the leading live streaming video service for video games in the US, and had an advantage over YouTube Gaming, which shut down its standalone app in May 2019. As of February 2020, it had 3 million broadcasters monthly and 15 million daily active users, with 1.4 million average concurrent users. As of May 2018, Twitch had over 27,000 partner channels. As of October 2023, Twitch was the 37th visited website in the world with 20.26% of its traffic coming from the United States, followed by Germany with 7.08% and South Korea with 5.49%.\n\n",
+      "description": "Twitch, a subsidiary of Amazon, is an American live video streaming platform mostly known for video game broadcasts, esports competitions, music, and creative content streams, and has grown to be one the largest sources of Internet traffic in the US with millions of daily users worldwide."
+    }
+  },
+  {
+    "name": "Wedbush Securities",
+    "description": "Investment firm",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "29171891",
+      "name": "Wedbush Securities",
+      "extract": "Wedbush Securities Inc. is a privately held investment firm based in Los Angeles.  As of February 2022, the firm had $4.1 billion under management with 7,460 clients.",
+      "description": "Wedbush Securities Inc. is a Los Angeles-based private investment firm managing $4.1 billion as of February 2022."
+    },
+    "motives": {
+      "document": {
+        "details": "The provided document does not contain specific information about Wedbush Securities' goals, motivations, possible actions, good scenarios, bad scenarios, main fears, and resources.",
+        "mainCompany": "OpenAI",
+        "secondaryCompany": {
+          "name": "Wedbush Securities",
+          "mention": "Only mention about Wedbush Securities is made by Dan Ives, who is from the investment firm, commenting on the situation between OpenAI and Microsoft.",
+          "quote": "Dan Ives of investment firm Wedbush Securities says Microsoft has ended up being strengthened - but the episode reflected badly on OpenAI."
+        },
+        "requirements": "Please provide a document specifically about Wedbush Securities for a more accurate analysis."
+      }
+    }
+  },
+  {
+    "name": "Dan Ives",
+    "description": "Person associated with Wedbush Securities",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "66405413",
+      "name": "Criticism of Tesla, Inc.",
+      "extract": "Tesla, Inc. has been criticized for its cars, workplace culture, business practices, and occupational safety. Many of the criticisms are also directed toward Elon Musk, the company's CEO and Product Architect. Critics have also accused Tesla of deceptive marketing, unfulfilled promises, and fraud. The company is currently facing criminal and civil investigations into its self-driving claims. Critics have highlighted Tesla's downplaying of issues, and Tesla's alleged retaliation against several whistleblowers.\nThe safety and quality of Tesla cars and services have been questioned. There have been hundreds of reports of sudden unintended acceleration, brake failures, and \"whompy wheels\" – collapsing wheels due to faulty car suspension. These safety and quality problems have been compounded by the poor wait times of Tesla's customer service. Some features such as Autopilot, Full Self-Driving beta, and Passenger Play (a feature allowing riders to play Tesla games while in motion) have been criticized for their careless deployment. Critics have noted that some Tesla cars have had poor build quality due to rushed testing, leading to a high ratio of flawed vehicles. Others criticized the company's \"stealth\" vehicle recalls, requiring customers to sign non-disclosure agreements.\nRelationships between Musk, Tesla board members, employees, and unions have been complicated, partly resulting in a high turnover rate. Employees have reported poor treatment and policies, resulting in a high injury rate, with some having faced sexual harassment, racism, and union-busting incidents. Tesla's environmental practices, use of cryptocurrencies, and compliance with open source licenses have been mentioned by critics. Detractors also claim that Tesla and Musk's public relations activities have been used to deflect criticisms.\nMusk and his company have been repeatedly accused of engaging in fraud, such as in their buyout of SolarCity, selling defective vehicles, overpromising, and posting reckless tweets. One tweet resulted in Musk agreeing to pay a fine and step down as Tesla's chairman. Proponents and opponents of Tesla consistently accuse each other of conflict of interests, believing Tesla's stock valuation is either under or overvalued.\n\n",
+      "description": "Tesla, Inc., along with its CEO Elon Musk, has faced criticism over the company's workplace culture, business practices, occupational safety, and alleged fraud, with additional concerns raised about the safety, quality and customer service tied to their cars, relationships with employees and unions, and their environmental practices."
+    },
+    "motives": {
+      "key1": "value1",
+      "key2": "value2",
+      "key3": "value3"
+    }
+  },
+  {
+    "name": "Logan Bartlett Show podcast",
+    "description": "Podcast where Mr Shear expressed his concern about AI",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "30601506",
+      "name": "Carolla Digital",
+      "extract": "Carolla Digital (formerly ACE Broadcasting Network) is an American podcast network. The flagship program of the network is The Adam Carolla Show, which is released daily. The network also produces several other shows that are released on a weekly basis.",
+      "description": "Carolla Digital, previously known as ACE Broadcasting Network, is an American podcast network that releases several shows weekly, with The Adam Carolla Show as its main daily program."
+    }
+  },
+  {
+    "name": "ChatGPT bot",
+    "description": "Popular bot created by OpenAI",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "72417803",
+      "name": "ChatGPT",
+      "extract": "ChatGPT (Chat Generative Pre-trained Transformer) is a large language model-based chatbot developed by OpenAI and launched on November 30, 2022, that enables users to refine and steer a conversation towards a desired length, format, style, level of detail, and language. Successive prompts and replies, known as prompt engineering, are considered at each conversation stage as a context.ChatGPT is built upon either GPT-3.5 or GPT-4, both of which are members of OpenAI's proprietary series of generative pre-trained transformer (GPT) models, based on the transformer architecture developed by Google—and is fine-tuned for conversational applications using a combination of supervised and reinforcement learning techniques. ChatGPT was released as a freely available research preview, but due to its popularity, OpenAI now operates the service on a freemium model. It allows users on its free tier to access the GPT-3.5-based version. In contrast, the more advanced GPT-4-based version and priority access to newer features are provided to paid subscribers under the commercial name \"ChatGPT Plus\".\nBy January 2023, it had become what was then the fastest-growing consumer software application in history, gaining over 100 million users and contributing to OpenAI's valuation growing to $29 billion. ChatGPT's release spurred the development of competing products, including Bard, Ernie Bot, LLaMA, Claude, and Grok. Microsoft launched its Bing Chat based on OpenAI's GPT-4. It raised concern among some observers over the potential of ChatGPT and similar programs to displace or atrophy human intelligence, enable plagiarism, or fuel misinformation.",
+      "description": "ChatGPT, developed by OpenAI, is a chatbot based on large language model technology that allows users to steer a conversation to desired parameters, and has become one of the fastest-growing consumer software apps with over 100 million users as of January 2023."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [],
+      "bad_scenarios": [
+        {
+          "item": "Loss of trust due to poor handling of changes",
+          "quote": "But he added the way Mr Altman had been sacked was 'handled very badly' and 'seriously damaged our trust'."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Potential existential threat posed by the technology",
+          "quote": "Mr Shear has expressed concerns about what he sees as the potential existential threat posed by the technology."
+        },
+        {
+          "item": "Uncertain governance at OpenAI",
+          "quote": "At this point… it's very, very clear that something has to change around the governance [at OpenAI]."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Partnership with Microsoft",
+          "quote": "The OpenAI/Microsoft partnership makes this very doable."
+        },
+        {
+          "item": "Investment funds from Microsoft",
+          "quote": "Microsoft, which has invested billions in OpenAI in exchange for a 49% stake."
+        }
+      ]
+    }
+  }
+]

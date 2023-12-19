@@ -1,0 +1,1125 @@
+[
+  {
+    "name": "Sam Altman",
+    "description": "the chief executive of OpenAI",
+    "mentions": 13,
+    "wikipedia": {
+      "id": "22476815",
+      "name": "Sam Altman",
+      "extract": "Samuel Harris Altman (; AWLT-mən; born April 22, 1985) is an American entrepreneur and investor, who has been the CEO of OpenAI since 2019 (he was briefly fired and reinstated in November 2023). Prior to OpenAI, Altman was president of Y Combinator from 2014 to 2019.\n\n",
+      "description": "Samuel Harris Altman, born April 22, 1985, is an American entrepreneur and investor, currently serving as the CEO of OpenAI, and was previously the president of Y Combinator from 2014 to 2019."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "OpenAI's mission",
+          "quote": "OpenAI was founded in 2015 with the goal of developing 'safe and beneficial artificial general intelligence [AGI] for the benefit of humanity'."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Pushing the frontier of AI",
+          "quote": "When Sam Altman, the chief executive of OpenAI, took to the stage in San Francisco nine days ago he hinted at another significant development in the world of artificial intelligence."
+        },
+        {
+          "item": "Returning to OpenAI",
+          "quote": "Still working on it …\" Then a deal was struck. OpenAI announced on Tuesday night in California that it had reached an agreement in principle for Altman to return with a new-look “initial” board chaired by Bret Taylor, the former co-chief executive of software company Salesforce, along with Larry Summers, the former US Treasury secretary, and D’Angelo."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Returning to lead OpenAI",
+          "quote": "Altman posted on X that Friday that he had “loved my time at openai\" but it soon became clear the story was far from over. The Information, a tech news site, quoted a memo from the company’s chief strategy officer, Jason Kwon, telling staff in a memo on Saturday that an effort was under way to bring back Altman and other colleagues who had quit."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Pushing AI forward",
+          "quote": "Four times now in the history of OpenAI, the most recent time was just in the last couple weeks, I’ve gotten to be in the room, when we sort of push the veil of ignorance back and the frontier of discovery forward, and getting to do that is the professional honour of a lifetime."
+        },
+        {
+          "item": "Returning to OpenAI",
+          "quote": "Then a deal was struck. OpenAI announced on Tuesday night in California that it had reached an agreement in principle for Altman to return with a new-look “initial” board chaired by Bret Taylor."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Firing from OpenAI",
+          "quote": "And a major event in AI did occur the next day – Altman was fired."
+        },
+        {
+          "item": "Uncertainty around OpenAI's leadership",
+          "quote": "The talks with OpenAI’s four remaining board members failed and Emmett Shear, the former CEO of video game streaming platform Twitch, was appointed the company’s third CEO in three days."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Conflict with OpenAI board",
+          "quote": "OpenAI’s board announced on Friday 17 November that it had sacked the 38-year-old for failing to be “consistently candid in his communications” with its members, without giving further details about the alleged breaches of trust."
+        },
+        {
+          "item": "Potential safety concerns of new AI model",
+          "quote": "But after Altman’s return, Reuters and the Information reported that some OpenAI researchers had been concerned by the capabilities of a new AI model being worked on the company before the CEO was fired."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Support from OpenAI staff and investors",
+          "quote": "The vast majority of OpenAI’s 770 employees including Murati signed a letter addressed to the board threatening to quit en masse unless Altman and Brockman were reinstated by the board – a move that must then be followed by the board stepping down."
+        },
+        {
+          "item": "Position at Microsoft's new advanced AI research team",
+          "quote": "Soon after, Nadella announced that Microsoft had hired Altman and Brockman to lead a “new advanced AI research team”, although he added in a round of media interviews on Monday that he was open to both staying at OpenAI."
+        }
+      ]
+    }
+  },
+  {
+    "name": "OpenAI",
+    "description": "AI research company behind ChatGPT",
+    "mentions": 15,
+    "wikipedia": {
+      "id": "48795986",
+      "name": "OpenAI",
+      "extract": "OpenAI is an American artificial intelligence (AI) research organization consisting of the non-profit OpenAI, Inc. registered in Delaware and its for-profit subsidiary OpenAI Global, LLC. OpenAI researches artificial intelligence with the declared intention of developing \"safe and beneficial\" artificial general intelligence, which it defines as \"highly autonomous systems that outperform humans at most economically valuable work\". OpenAI has also developed several large language models, such as ChatGPT and GPT-4, as well as advanced image generation models like DALL-E 3, and in the past published open-source models.The organization was founded in December 2015 by Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston, John Schulman, Pamela Vagata, and Wojciech Zaremba, with Sam Altman and Elon Musk serving as the initial board members. Microsoft provided OpenAI Global LLC with a $1 billion investment in 2019 and a $10 billion investment in 2023, with a significant portion of the investment in the form of compute resources on Microsoft's Azure cloud service.On November 17, 2023, the board removed Altman as CEO, while Brockman was removed as chairman and then resigned as president. Four days later, both returned after negotiations with the board, and most of the board members resigned. The new initial board included former Salesforce co-CEO Bret Taylor as chairman. OpenAI also announced that Microsoft would have a non-voting board seat at OpenAI.",
+      "description": "OpenAI is an American AI research organization, focusing on developing \"safe and beneficial\" artificial general intelligence and producing large language and image generation models, funded by significant investments by Microsoft."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Developing safe and beneficial artificial general intelligence for the benefit of humanity",
+          "quote": "OpenAI was founded in 2015 with the goal of developing “safe and beneficial artificial general intelligence [AGI] for the benefit of humanity”."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Push the frontier of artificial intelligence discovery",
+          "quote": "When Sam Altman, the chief executive of OpenAI, took to the stage in San Francisco nine days ago he hinted at another significant development in the world of artificial intelligence."
+        },
+        {
+          "item": "Avoid artificial general intelligence evading human control and endangering humanity",
+          "quote": "Some experts are concerned that the emergence of AGI could lead, in theory, to a system capable of evading human control and endangering humanity."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "OpenAI can fire and reinstate its CEO",
+          "quote": "The board announced on Friday 17 November that it had sacked the 38-year-old for failing to be “consistently candid in his communications”... OpenAI announced on Tuesday night in California that it had reached an agreement in principle for Altman to return..."
+        },
+        {
+          "item": "OpenAI can conduct an independent investigation into internal matters",
+          "quote": "OpenAI will reportedly conduct an independent investigation into the circumstances around Altman’s departure..."
+        },
+        {
+          "item": "OpenAI can develop new AI models",
+          "quote": "OpenAI researchers had been concerned by the capabilities of a new AI model being worked on the company..."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "OpenAI would consider return of its sacked CEO as favorable",
+          "quote": "OpenAI announced on Tuesday night in California that it had reached an agreement in principle for Altman to return..."
+        },
+        {
+          "item": "OpenAI would consider achieving a breakthrough in technology as positive",
+          "quote": "According to the Information, the “Q*” model – pronounced “Q-star” – was able to solve maths problems it had not seen before, representing a potential breakthrough in the technology."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "OpenAI would consider safety concerns related to its AI technology as unfavorable",
+          "quote": "Some experts are concerned that the emergence of AGI could lead, in theory, to a system capable of evading human control and endangering humanity."
+        },
+        {
+          "item": "OpenAI disapproves internal disagreements and conflicts",
+          "quote": "It became clear, however, that Altman was edging closer to a return. OpenAI’s vice-president of global affairs, Anna Makanju, told staff that “intense discussions” were taking place to resolve the crisis."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Fear of a highly intelligent AI evading human control",
+          "quote": "Some experts are concerned that the emergence of AGI could lead, in theory, to a system capable of evading human control and endangering humanity."
+        }
+      ],
+      "resources": [
+        {
+          "item": "OpenAI has a vast staff, which includes researchers",
+          "quote": "OpenAI’s 770 employees..."
+        },
+        {
+          "item": "OpenAI is funded by significant investments from Microsoft",
+          "quote": "OpenAI was founded as a non-profit company whose board oversees a commercial subsidiary in which Microsoft is the biggest investor."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ilya Sutskever",
+    "description": "fellow board member and OpenAI’s chief scientist",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "51097862",
+      "name": "Ilya Sutskever",
+      "extract": "Ilya Sutskever  (Hebrew: איליה סוצקבר; Russian: Илья Суцкевер; /ilja su:ʦkɪvər/ born 1985/86) is a computer scientist working in machine learning. He is a co-founder and Chief Scientist at OpenAI.He has made several major contributions to the field of deep learning. In 2023, Sutskever and the OpenAI board fired CEO Sam Altman, who returned a week later. He is the co-inventor, with Alex Krizhevsky and Geoffrey Hinton, of AlexNet, a convolutional neural network. Sutskever is also one of the many co-authors of the AlphaGo paper.",
+      "description": "Ilya Sutskever is a renowned computer scientist and co-founder of OpenAI who has made significant contributions to deep learning, including the co-invention of AlexNet, a convolutional neural network."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Developing safe and beneficial artificial general intelligence for the benefit of humanity",
+          "quote": "OpenAI was founded in 2015 with the goal of developing “safe and beneficial artificial general intelligence [AGI] for the benefit of humanity"
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Pushing the veil of ignorance back and the frontier of discovery forward",
+          "quote": "When Sam Altman, the chief executive of OpenAI, took to the stage in San Francisco nine days ago he hinted at another significant development in the world of artificial intelligence. “Four times now in the history of OpenAI, the most recent time was just in the last couple weeks, I’ve gotten to be in the room, when we sort of push the veil of ignorance back and the frontier of discovery forward …"
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Bringing back Altman and other colleagues who had quit",
+          "quote": "An effort was under way to bring back Altman and other colleagues who had quit"
+        },
+        {
+          "item": "Assisting in healing divisions within the organization",
+          "quote": "Altman, who had reportedly demanded a new board as a precondition for his return, indicated on Thursday – Thanksgiving in the US – that he was in the process of healing any divisions"
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Emergence of an AI that can solve unseen problems",
+          "quote": "Altman was able to solve maths problems it had not seen before, representing a potential breakthrough in the technology."
+        },
+        {
+          "item": "Altman's return to the organization",
+          "quote": "Then a deal was struck. OpenAI announced on Tuesday night in California that it had reached an agreement in principle for Altman to return"
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Altman's sudden dismissal from the company",
+          "quote": "Altman was fired."
+        },
+        {
+          "item": "An AI system evading human control and endangering humanity",
+          "quote": "Some experts are concerned that the emergence of AGI could lead, in theory, to a system capable of evading human control and endangering humanity."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "AGI potentially escaping human control",
+          "quote": "Some experts are concerned that the emergence of AGI could lead, in theory, to a system capable of evading human control and endangering humanity."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Support of a large team of employees and researchers",
+          "quote": "The vast majority of OpenAI’s 770 employees including Murati signed a letter addressed to the board threatening to quit en masse unless Altman and Brockman were reinstated by the board."
+        },
+        {
+          "item": "involvement of Microsoft, a major investor in OpenAI",
+          "quote": "OpenAI was founded as a non-profit company whose board oversees a commercial subsidiary in which Microsoft is the biggest investor."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Greg Brockman",
+    "description": "chair and president of OpenAI",
+    "mentions": 6,
+    "wikipedia": {
+      "id": "73299474",
+      "name": "Greg Brockman",
+      "extract": "Greg Brockman (born November 29, 1987) is an American entrepreneur, investor and software developer who is a co-founder and currently the president of OpenAI. He began his career at Stripe in 2010, upon leaving MIT, and became their CTO in 2013. He left Stripe in 2015 to co-found OpenAI, where he also assumed the role of CTO.",
+      "description": "Greg Brockman is an American entrepreneur, software developer, and co-founder of OpenAI, who formerly held the position of CTO at Stripe."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Developing safe and beneficial artificial general intelligence for the benefit of humanity",
+          "quote": "OpenAI was founded in 2015 with the goal of developing 'safe and beneficial artificial general intelligence [AGI] for the benefit of humanity'"
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Working at the forefront of AI and AGI development",
+          "quote": "The mission has not changed."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Resign and quit from the company",
+          "quote": "Brockman was told he could stay at the company but chose to quit."
+        },
+        {
+          "item": "Join Microsoft's new advanced AI research team",
+          "quote": "Microsoft had hired Altman and Brockman to lead a 'new advanced AI research team'"
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Returning to OpenAI after resolution of conflicts",
+          "quote": "Altman posted a picture of himself inside OpenAI’s San Francisco headquarters holding a guest pass with the message 'first and last time i ever wear one of these'."
+        },
+        {
+          "item": "Working in Microsoft's new advanced AI research team",
+          "quote": "Soon after, Nadella announced that Microsoft had hired Altman and Brockman to lead a 'new advanced AI research team'"
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Being removed from OpenAI's board",
+          "quote": "Brockman was not on the call but minutes later he too was summoned to Google Meet and told that he was being removed from the board."
+        },
+        {
+          "item": "If OpenAI develops AGI that could evade human control and endanger humanity",
+          "quote": "Some experts are concerned that the emergence of AGI could lead, in theory, to a system capable of evading human control and endangering humanity."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Lack of transparency and candidness in communication with the board",
+          "quote": "OpenAI’s board announced on Friday 17 November that it had sacked the 38-year-old for failing to be 'consistently candid in his communications' with its members"
+        },
+        {
+          "item": "AGI technology escaping human control",
+          "quote": "Some experts are concerned that the emergence of AGI could lead, in theory, to a system capable of evading human control and endangering humanity."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Position as Chair and President of OpenAI (before dismissal)",
+          "quote": "Greg Brockman, OpenAI’s chair and president"
+        },
+        {
+          "item": "Position in Microsoft's new advanced AI research team",
+          "quote": "Microsoft had hired Altman and Brockman to lead a 'new advanced AI research team'"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mira Murati",
+    "description": "OpenAI’s chief technology officer and interim CEO",
+    "mentions": 3,
+    "wikipedia": {
+      "id": "73229875",
+      "name": "Mira Murati",
+      "extract": "Mira Murati (born 16 December 1988) is an Albanian engineer and business manager who has been serving as chief technology officer of OpenAI since 2018.She briefly served as  interim chief executive officer of OpenAI from 17 to 20 November 2023.",
+      "description": "Mira Murati, born in 1988, is an Albanian engineer and business manager who has been the chief technology officer at OpenAI since 2018 and served briefly as its interim CEO in 2023."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "To successfully lead OpenAI as their interim CEO",
+          "quote": "OpenAI appointed Mira Murati, the company’s chief technology officer, as interim CEO."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "To contribute to OpenAI's mission",
+          "quote": "OpenAI was founded in 2015 with the goal of developing “safe and beneficial artificial general intelligence [AGI] for the benefit of humanity”."
+        },
+        {
+          "item": "To resolve the leadership crisis at OpenAI",
+          "quote": "Bloomberg reported that Murati sent a message to staff on the Slack platform saying “still working on it …”"
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "May use communication and negotiation to further the interests of OpenAI",
+          "quote": "“We are unable to work for or with people that lack competence, judgment and care for our mission and employees,” said the letter, which surprisingly was also signed by board member Sutskever."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Resolution of the leadership crisis at OpenAI",
+          "quote": "“We are still working towards a resolution and we remain optimistic,” Kwon wrote. “By resolution, we mean bringing back Sam, Greg, Jakub, Szymon, Aleksander and other colleagues.”"
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Continued leadership turmoil and potential mass employee resignation",
+          "quote": "The vast majority of OpenAI’s 770 employees including Murati signed a letter addressed to the board threatening to quit en masse unless Altman and Brockman were reinstated by the board – a move that must then be followed by the board stepping down."
+        },
+        {
+          "item": "Detriment to OpenAI's mission and cause",
+          "quote": "Some experts are concerned that the emergence of AGI could lead, in theory, to a system capable of evading human control and endangering humanity. OpenAI’s board has changed but its mission has not."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Disruption of OpenAI's mission and work due to leadership disputes",
+          "quote": "The talks with OpenAI’s four remaining board members failed and Emmett Shear, the former CEO of video game streaming platform Twitch, was appointed the company’s third CEO in three days."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Murati's position and authority as interim CEO of OpenAI",
+          "quote": "OpenAI appointed Mira Murati, the company’s chief technology officer, as interim CEO."
+        },
+        {
+          "item": "Murati's professional networks and the staff under her leadership",
+          "quote": "The vast majority of OpenAI’s 770 employees including Murati signed a letter addressed to the board threatening to quit en masse unless Altman and Brockman were reinstated by the board – a move that must then be followed by the board stepping down."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Microsoft",
+    "description": "Biggest investor in OpenAI and tech company",
+    "mentions": 3,
+    "wikipedia": {
+      "id": "19001",
+      "name": "Microsoft",
+      "extract": "Microsoft Corporation is an American multinational technology corporation headquartered in Redmond, Washington. Microsoft's best-known software products are the Windows line of operating systems, the Microsoft 365 suite of productivity applications, and the Edge web browser. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. Microsoft ranked No. 14 in the 2022 Fortune 500 rankings of the largest United States corporations by total revenue; it was the world's largest software maker by revenue as of 2022. It is considered one of the Big Five American information technology companies, alongside Alphabet (parent company of Google), Amazon, Apple, and Meta.\nMicrosoft was founded by Bill Gates and Paul Allen on April 4, 1975, to develop and sell BASIC interpreters for the Altair 8800. It rose to dominate the personal computer operating system market with MS-DOS in the mid-1980s, followed by Windows. The company's 1986 initial public offering (IPO) and subsequent rise in its share price created three billionaires and an estimated 12,000 millionaires among Microsoft employees. Since the 1990s, it has increasingly diversified from the operating system market and has made several corporate acquisitions, the largest being the acquisition of Activision Blizzard for $68.7 billion in October 2023, followed by its acquisition of LinkedIn for $26.2 billion in December 2016, and its acquisition of Skype Technologies for $8.5 billion in May 2011.As of 2015, Microsoft is market-dominant in the IBM PC compatible operating system market and the office software suite market, although it has lost the majority of the overall operating system market to Android. The company also produces a wide range of other consumer and enterprise software for desktops, laptops, tabs, gadgets, and servers, including Internet search (with Bing), the digital services market (through MSN), mixed reality (HoloLens), cloud computing (Azure), and software development (Visual Studio).\nSteve Ballmer replaced Gates as CEO in 2000 and later envisioned a \"devices and services\" strategy. This unfolded with Microsoft acquiring Danger Inc. in 2008, entering the personal computer production market for the first time in June 2012 with the launch of the Microsoft Surface line of tablet computers, and later forming Microsoft Mobile through the acquisition of Nokia's devices and services division. Since Satya Nadella took over as CEO in 2014, the company has scaled back on hardware and instead focused on cloud computing, a move that helped the company's shares reach their highest value since December 1999. Under Nadella's direction, the company has also heavily expanded its gaming business to support the Xbox brand, establishing the Microsoft Gaming division in 2022, dedicated to operating Xbox in addition to its three subsidiaries (publishers). Microsoft Gaming is the third-largest gaming company in the world by revenue as of 2023.Earlier dethroned by Apple in 2010, in 2018, Microsoft reclaimed its position as the most valuable publicly traded company in the world. In April 2019, Microsoft reached a trillion-dollar market cap, becoming the third U.S. public company to be valued at over $1 trillion after Apple and Amazon, respectively. As of 2023, Microsoft has the third-highest global brand valuation.\nMicrosoft has been criticized for its monopolistic practices and the company's software has been criticized for problems with ease of use, robustness, and security.",
+      "description": "Microsoft Corporation, an American multinational headquartered in Redmond, Washington, is known for software products including the Windows operating systems and Microsoft 365 applications, along with hardware products like Xbox consoles and Surface personal computers, and is globally recognized as one of the biggest revenue-earning software makers and an influential entity among the Big Five IT companies in the US."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [
+        {
+          "item": "Invest in advancing artificial intelligence research through companies like OpenAI",
+          "quote": "Microsoft is the biggest investor"
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Hire talented individuals from OpenAI",
+          "quote": "Soon after, Nadella announced that Microsoft had hired Altman and Brockman to lead a 'new advanced AI research team'"
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Leadership role in influential AI companies due to investment",
+          "quote": "As one analyst pointed out Altman would have a de facto leadership role at OpenAI because of Microsoft’s investment"
+        }
+      ],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Investment power",
+          "quote": "OpenAI was founded as a non-profit company whose board oversees a commercial subsidiary in which Microsoft is the biggest investor"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Satya Nadella",
+    "description": "CEO of Microsoft",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "38309941",
+      "name": "Satya Nadella",
+      "extract": "Satya Narayana Nadella (; born 19 August 1967) is an Indian-American business executive. He is the executive chairman and CEO of Microsoft, succeeding Steve Ballmer in 2014 as CEO and John W. Thompson in 2021 as chairman. Before becoming CEO, he was the executive vice president of Microsoft's cloud and enterprise group, responsible for building and running the company's computing platforms.",
+      "description": "Satya Narayana Nadella, born on 19 August 1967, is an Indian-American business executive serving as the executive chairman and CEO of Microsoft since 2014."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Leading Microsoft's investments in AI",
+          "quote": "Soon after, Nadella announced that Microsoft had hired Altman and Brockman to lead a “new advanced AI research team”"
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Keeping an open door for Altman at OpenAI",
+          "quote": "he was open to both staying at OpenAI."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Hiring key individuals to bolster Microsoft’s AI team",
+          "quote": "Microsoft had hired Altman and Brockman to lead a “new advanced AI research team”"
+        },
+        {
+          "item": "Providing further patronage to OpenAI",
+          "quote": "As one analyst pointed out Altman would have a de facto leadership role at OpenAI because of Microsoft’s investment."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Having a say in decisions in OpenAI due to Microsoft's major investment.",
+          "quote": "As one analyst pointed out Altman would have a de facto leadership role at OpenAI because of Microsoft’s investment."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Decisions being made at OpenAI without consulting Microsoft",
+          "quote": "Microsoft’s CEO, Satya Nadella, said his company had not been contacted before the announcement."
+        }
+      ],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Extensive investment in OpenAI",
+          "quote": "OpenAI was founded as a non-profit company whose board oversees a commercial subsidiary in which Microsoft is the biggest investor."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jason Kwon",
+    "description": "chief strategy officer at OpenAI",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "75352338",
+      "name": "Removal of Sam Altman from OpenAI",
+      "extract": "On November 17, 2023, OpenAI's board of directors removed co-founder and chief executive Sam Altman with a statement that it had no confidence in Altman's leadership.  \nApproximately 107 hours later, after an intense pressure campaign from investors and a threatened mass resignation of OpenAI’s employees, OpenAI announced that it had reached an agreement in principle to have Altman return as CEO with a reconstituted board of the non-profit entity which oversees the for-profit company. Altman’s announced return was the third change of CEO announcement within a chaotic 4.5 day period.\n\n",
+      "description": "Sam Altman was removed as CEO by OpenAI's board due to lack of confidence but was reinstated after pressure from investors and potential employee resignations, marking the third CEO change within a tumultuous 4.5 day period in November 2023."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "To ensure candid communications from the company's leadership",
+          "quote": "OpenAI’s board announced on Friday 17 November that it had sacked the 38-year-old for failing to be “consistently candid in his communications” with its members"
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "To rebuild trust and integrity among the board members",
+          "quote": "without giving further details about the alleged breaches of trust."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "To conduct an independent investigation into the circumstances around Altman’s departure",
+          "quote": "OpenAI will reportedly conduct an independent investigation into the circumstances around Altman’s departure"
+        },
+        {
+          "item": "Reconstitute board of directors",
+          "quote": "Altman, who had reportedly demanded a new board as a precondition for his return"
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Successful reinstatement of Altman without causing damage to the company's vision and operations",
+          "quote": "OpenAI announced on Tuesday night in California that it had reached an agreement in principle for Altman to return with a new-look “initial” board."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Mass employee resignations following removal of Altman from CEO position",
+          "quote": "The vast majority of OpenAI’s 770 employees including Murati signed a letter addressed to the board threatening to quit en masse unless Altman and Brockman were reinstated by the board."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Loss of competent leadership and employees",
+          "quote": "Altman was given notice of what was coming after he came off stage."
+        },
+        {
+          "item": "Disruptions to company's mission and operations",
+          "quote": "“We are unable to work for or with people that lack competence, judgment and care for our mission and employees,” said the letter"
+        }
+      ],
+      "resources": [
+        {
+          "item": "Investor support",
+          "quote": "his return. OpenAI was founded as a non-profit company whose board oversees a commercial subsidiary in which Microsoft is the biggest investor."
+        },
+        {
+          "item": "Staff support",
+          "quote": "the vast majority of OpenAI’s 770 employees including Murati signed a letter addressed to the board threatening to quit en masse unless Altman and Brockman were reinstated by the board."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Jakub Pachocki",
+    "description": "senior researcher at OpenAI",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "48795986",
+      "name": "OpenAI",
+      "extract": "OpenAI is an American artificial intelligence (AI) research organization consisting of the non-profit OpenAI, Inc. registered in Delaware and its for-profit subsidiary OpenAI Global, LLC. OpenAI researches artificial intelligence with the declared intention of developing \"safe and beneficial\" artificial general intelligence, which it defines as \"highly autonomous systems that outperform humans at most economically valuable work\". OpenAI has also developed several large language models, such as ChatGPT and GPT-4, as well as advanced image generation models like DALL-E 3, and in the past published open-source models.The organization was founded in December 2015 by Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston, John Schulman, Pamela Vagata, and Wojciech Zaremba, with Sam Altman and Elon Musk serving as the initial board members. Microsoft provided OpenAI Global LLC with a $1 billion investment in 2019 and a $10 billion investment in 2023, with a significant portion of the investment in the form of compute resources on Microsoft's Azure cloud service.On November 17, 2023, the board removed Altman as CEO, while Brockman was removed as chairman and then resigned as president. Four days later, both returned after negotiations with the board, and most of the board members resigned. The new initial board included former Salesforce co-CEO Bret Taylor as chairman. OpenAI also announced that Microsoft would have a non-voting board seat at OpenAI.",
+      "description": "OpenAI is an American AI research organization, focusing on developing \"safe and beneficial\" artificial general intelligence and producing large language and image generation models, funded by significant investments by Microsoft."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Developing safe and beneficial artificial general intelligence for the benefit of humanity",
+          "quote": "OpenAI was founded in 2015 with the goal of developing “safe and beneficial artificial general intelligence [AGI] for the benefit of humanity”."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Push the frontier of artificial intelligence discovery",
+          "quote": "When Sam Altman, the chief executive of OpenAI, took to the stage in San Francisco nine days ago he hinted at another significant development in the world of artificial intelligence."
+        },
+        {
+          "item": "Avoid artificial general intelligence evading human control and endangering humanity",
+          "quote": "Some experts are concerned that the emergence of AGI could lead, in theory, to a system capable of evading human control and endangering humanity."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "OpenAI can fire and reinstate its CEO",
+          "quote": "The board announced on Friday 17 November that it had sacked the 38-year-old for failing to be “consistently candid in his communications”... OpenAI announced on Tuesday night in California that it had reached an agreement in principle for Altman to return..."
+        },
+        {
+          "item": "OpenAI can conduct an independent investigation into internal matters",
+          "quote": "OpenAI will reportedly conduct an independent investigation into the circumstances around Altman’s departure..."
+        },
+        {
+          "item": "OpenAI can develop new AI models",
+          "quote": "OpenAI researchers had been concerned by the capabilities of a new AI model being worked on the company..."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "OpenAI would consider return of its sacked CEO as favorable",
+          "quote": "OpenAI announced on Tuesday night in California that it had reached an agreement in principle for Altman to return..."
+        },
+        {
+          "item": "OpenAI would consider achieving a breakthrough in technology as positive",
+          "quote": "According to the Information, the “Q*” model – pronounced “Q-star” – was able to solve maths problems it had not seen before, representing a potential breakthrough in the technology."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "OpenAI would consider safety concerns related to its AI technology as unfavorable",
+          "quote": "Some experts are concerned that the emergence of AGI could lead, in theory, to a system capable of evading human control and endangering humanity."
+        },
+        {
+          "item": "OpenAI disapproves internal disagreements and conflicts",
+          "quote": "It became clear, however, that Altman was edging closer to a return. OpenAI’s vice-president of global affairs, Anna Makanju, told staff that “intense discussions” were taking place to resolve the crisis."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Fear of a highly intelligent AI evading human control",
+          "quote": "Some experts are concerned that the emergence of AGI could lead, in theory, to a system capable of evading human control and endangering humanity."
+        }
+      ],
+      "resources": [
+        {
+          "item": "OpenAI has a vast staff, which includes researchers",
+          "quote": "OpenAI’s 770 employees..."
+        },
+        {
+          "item": "OpenAI is funded by significant investments from Microsoft",
+          "quote": "OpenAI was founded as a non-profit company whose board oversees a commercial subsidiary in which Microsoft is the biggest investor."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Aleksander Mądry",
+    "description": "senior researcher at OpenAI",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "48795986",
+      "name": "OpenAI",
+      "extract": "OpenAI is an American artificial intelligence (AI) research organization consisting of the non-profit OpenAI, Inc. registered in Delaware and its for-profit subsidiary OpenAI Global, LLC. OpenAI researches artificial intelligence with the declared intention of developing \"safe and beneficial\" artificial general intelligence, which it defines as \"highly autonomous systems that outperform humans at most economically valuable work\". OpenAI has also developed several large language models, such as ChatGPT and GPT-4, as well as advanced image generation models like DALL-E 3, and in the past published open-source models.The organization was founded in December 2015 by Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston, John Schulman, Pamela Vagata, and Wojciech Zaremba, with Sam Altman and Elon Musk serving as the initial board members. Microsoft provided OpenAI Global LLC with a $1 billion investment in 2019 and a $10 billion investment in 2023, with a significant portion of the investment in the form of compute resources on Microsoft's Azure cloud service.On November 17, 2023, the board removed Altman as CEO, while Brockman was removed as chairman and then resigned as president. Four days later, both returned after negotiations with the board, and most of the board members resigned. The new initial board included former Salesforce co-CEO Bret Taylor as chairman. OpenAI also announced that Microsoft would have a non-voting board seat at OpenAI.",
+      "description": "OpenAI is an American AI research organization, focusing on developing \"safe and beneficial\" artificial general intelligence and producing large language and image generation models, funded by significant investments by Microsoft."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Developing safe and beneficial artificial general intelligence for the benefit of humanity",
+          "quote": "OpenAI was founded in 2015 with the goal of developing “safe and beneficial artificial general intelligence [AGI] for the benefit of humanity”."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Push the frontier of artificial intelligence discovery",
+          "quote": "When Sam Altman, the chief executive of OpenAI, took to the stage in San Francisco nine days ago he hinted at another significant development in the world of artificial intelligence."
+        },
+        {
+          "item": "Avoid artificial general intelligence evading human control and endangering humanity",
+          "quote": "Some experts are concerned that the emergence of AGI could lead, in theory, to a system capable of evading human control and endangering humanity."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "OpenAI can fire and reinstate its CEO",
+          "quote": "The board announced on Friday 17 November that it had sacked the 38-year-old for failing to be “consistently candid in his communications”... OpenAI announced on Tuesday night in California that it had reached an agreement in principle for Altman to return..."
+        },
+        {
+          "item": "OpenAI can conduct an independent investigation into internal matters",
+          "quote": "OpenAI will reportedly conduct an independent investigation into the circumstances around Altman’s departure..."
+        },
+        {
+          "item": "OpenAI can develop new AI models",
+          "quote": "OpenAI researchers had been concerned by the capabilities of a new AI model being worked on the company..."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "OpenAI would consider return of its sacked CEO as favorable",
+          "quote": "OpenAI announced on Tuesday night in California that it had reached an agreement in principle for Altman to return..."
+        },
+        {
+          "item": "OpenAI would consider achieving a breakthrough in technology as positive",
+          "quote": "According to the Information, the “Q*” model – pronounced “Q-star” – was able to solve maths problems it had not seen before, representing a potential breakthrough in the technology."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "OpenAI would consider safety concerns related to its AI technology as unfavorable",
+          "quote": "Some experts are concerned that the emergence of AGI could lead, in theory, to a system capable of evading human control and endangering humanity."
+        },
+        {
+          "item": "OpenAI disapproves internal disagreements and conflicts",
+          "quote": "It became clear, however, that Altman was edging closer to a return. OpenAI’s vice-president of global affairs, Anna Makanju, told staff that “intense discussions” were taking place to resolve the crisis."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Fear of a highly intelligent AI evading human control",
+          "quote": "Some experts are concerned that the emergence of AGI could lead, in theory, to a system capable of evading human control and endangering humanity."
+        }
+      ],
+      "resources": [
+        {
+          "item": "OpenAI has a vast staff, which includes researchers",
+          "quote": "OpenAI’s 770 employees..."
+        },
+        {
+          "item": "OpenAI is funded by significant investments from Microsoft",
+          "quote": "OpenAI was founded as a non-profit company whose board oversees a commercial subsidiary in which Microsoft is the biggest investor."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Szymon Sidor",
+    "description": "senior researcher at OpenAI",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "48795986",
+      "name": "OpenAI",
+      "extract": "OpenAI is an American artificial intelligence (AI) research organization consisting of the non-profit OpenAI, Inc. registered in Delaware and its for-profit subsidiary OpenAI Global, LLC. OpenAI researches artificial intelligence with the declared intention of developing \"safe and beneficial\" artificial general intelligence, which it defines as \"highly autonomous systems that outperform humans at most economically valuable work\". OpenAI has also developed several large language models, such as ChatGPT and GPT-4, as well as advanced image generation models like DALL-E 3, and in the past published open-source models.The organization was founded in December 2015 by Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston, John Schulman, Pamela Vagata, and Wojciech Zaremba, with Sam Altman and Elon Musk serving as the initial board members. Microsoft provided OpenAI Global LLC with a $1 billion investment in 2019 and a $10 billion investment in 2023, with a significant portion of the investment in the form of compute resources on Microsoft's Azure cloud service.On November 17, 2023, the board removed Altman as CEO, while Brockman was removed as chairman and then resigned as president. Four days later, both returned after negotiations with the board, and most of the board members resigned. The new initial board included former Salesforce co-CEO Bret Taylor as chairman. OpenAI also announced that Microsoft would have a non-voting board seat at OpenAI.",
+      "description": "OpenAI is an American AI research organization, focusing on developing \"safe and beneficial\" artificial general intelligence and producing large language and image generation models, funded by significant investments by Microsoft."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Developing safe and beneficial artificial general intelligence for the benefit of humanity",
+          "quote": "OpenAI was founded in 2015 with the goal of developing “safe and beneficial artificial general intelligence [AGI] for the benefit of humanity”."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Push the frontier of artificial intelligence discovery",
+          "quote": "When Sam Altman, the chief executive of OpenAI, took to the stage in San Francisco nine days ago he hinted at another significant development in the world of artificial intelligence."
+        },
+        {
+          "item": "Avoid artificial general intelligence evading human control and endangering humanity",
+          "quote": "Some experts are concerned that the emergence of AGI could lead, in theory, to a system capable of evading human control and endangering humanity."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "OpenAI can fire and reinstate its CEO",
+          "quote": "The board announced on Friday 17 November that it had sacked the 38-year-old for failing to be “consistently candid in his communications”... OpenAI announced on Tuesday night in California that it had reached an agreement in principle for Altman to return..."
+        },
+        {
+          "item": "OpenAI can conduct an independent investigation into internal matters",
+          "quote": "OpenAI will reportedly conduct an independent investigation into the circumstances around Altman’s departure..."
+        },
+        {
+          "item": "OpenAI can develop new AI models",
+          "quote": "OpenAI researchers had been concerned by the capabilities of a new AI model being worked on the company..."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "OpenAI would consider return of its sacked CEO as favorable",
+          "quote": "OpenAI announced on Tuesday night in California that it had reached an agreement in principle for Altman to return..."
+        },
+        {
+          "item": "OpenAI would consider achieving a breakthrough in technology as positive",
+          "quote": "According to the Information, the “Q*” model – pronounced “Q-star” – was able to solve maths problems it had not seen before, representing a potential breakthrough in the technology."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "OpenAI would consider safety concerns related to its AI technology as unfavorable",
+          "quote": "Some experts are concerned that the emergence of AGI could lead, in theory, to a system capable of evading human control and endangering humanity."
+        },
+        {
+          "item": "OpenAI disapproves internal disagreements and conflicts",
+          "quote": "It became clear, however, that Altman was edging closer to a return. OpenAI’s vice-president of global affairs, Anna Makanju, told staff that “intense discussions” were taking place to resolve the crisis."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Fear of a highly intelligent AI evading human control",
+          "quote": "Some experts are concerned that the emergence of AGI could lead, in theory, to a system capable of evading human control and endangering humanity."
+        }
+      ],
+      "resources": [
+        {
+          "item": "OpenAI has a vast staff, which includes researchers",
+          "quote": "OpenAI’s 770 employees..."
+        },
+        {
+          "item": "OpenAI is funded by significant investments from Microsoft",
+          "quote": "OpenAI was founded as a non-profit company whose board oversees a commercial subsidiary in which Microsoft is the biggest investor."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Emmett Shear",
+    "description": "former CEO of video game streaming platform Twitch",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "33627170",
+      "name": "Emmett Shear",
+      "extract": "Emmett Shear (born 1983) is an American Internet entrepreneur and investor. He is the co-founder of live video platform Justin.tv. He served as the chief executive officer of Twitch when it was spun off from Justin.tv until March 2023. In 2011, Shear was appointed as a part-time partner at venture capital firm Y Combinator. In November 2023, he briefly served as interim CEO of OpenAI.\n\n",
+      "description": "Emmett Shear, born 1983, is an American Internet entrepreneur and investor, known as the co-founder of Justin.tv and former CEO of Twitch, and for his brief tenure as interim CEO of OpenAI in 2023."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [
+        {
+          "item": "Leading OpenAI",
+          "quote": "Emmett Shear, the former CEO of video game streaming platform Twitch, was appointed the company’s third CEO in three days."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Stability in company leadership",
+          "quote": "Emmett Shear, the former CEO of video game streaming platform Twitch, was appointed the company’s third CEO in three days."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Company instability and personnel changes",
+          "quote": "Emmett Shear, the former CEO of video game streaming platform Twitch, was appointed the company’s third CEO in three days."
+        }
+      ],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Previous experience as the CEO of Twitch",
+          "quote": "Emmett Shear, the former CEO of video game streaming platform Twitch, was appointed the company’s third CEO in three days."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Adam D’Angelo",
+    "description": "co-founder of the question-and-answer website Quora and OpenAI board member",
+    "mentions": 3,
+    "wikipedia": {
+      "id": "28125485",
+      "name": "Adam D'Angelo",
+      "extract": "Adam D'Angelo (born August 21, 1984) is an American internet entrepreneur. He is best known for his role as the co-founder and CEO of Quora, based in Mountain View, California.",
+      "description": "Adam D'Angelo is an American internet entrepreneur, best known as the co-founder and CEO of Quora."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [
+        {
+          "item": "Interact closely with key individuals in the AI industry",
+          "quote": "“Just spent a really nice few hours with @adamdangelo,” he wrote on X."
+        }
+      ],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Professional reputation and influence",
+          "quote": "The other three board members were: Adam D’Angelo, the co-founder of the question-and-answer website Quora;"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Tasha McCauley",
+    "description": "tech entrepreneur and OpenAI board member",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "48795986",
+      "name": "OpenAI",
+      "extract": "OpenAI is an American artificial intelligence (AI) research organization consisting of the non-profit OpenAI, Inc. registered in Delaware and its for-profit subsidiary OpenAI Global, LLC. OpenAI researches artificial intelligence with the declared intention of developing \"safe and beneficial\" artificial general intelligence, which it defines as \"highly autonomous systems that outperform humans at most economically valuable work\". OpenAI has also developed several large language models, such as ChatGPT and GPT-4, as well as advanced image generation models like DALL-E 3, and in the past published open-source models.The organization was founded in December 2015 by Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston, John Schulman, Pamela Vagata, and Wojciech Zaremba, with Sam Altman and Elon Musk serving as the initial board members. Microsoft provided OpenAI Global LLC with a $1 billion investment in 2019 and a $10 billion investment in 2023, with a significant portion of the investment in the form of compute resources on Microsoft's Azure cloud service.On November 17, 2023, the board removed Altman as CEO, while Brockman was removed as chairman and then resigned as president. Four days later, both returned after negotiations with the board, and most of the board members resigned. The new initial board included former Salesforce co-CEO Bret Taylor as chairman. OpenAI also announced that Microsoft would have a non-voting board seat at OpenAI.",
+      "description": "OpenAI is an American AI research organization, focusing on developing \"safe and beneficial\" artificial general intelligence and producing large language and image generation models, funded by significant investments by Microsoft."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Developing safe and beneficial artificial general intelligence for the benefit of humanity",
+          "quote": "OpenAI was founded in 2015 with the goal of developing “safe and beneficial artificial general intelligence [AGI] for the benefit of humanity”."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Push the frontier of artificial intelligence discovery",
+          "quote": "When Sam Altman, the chief executive of OpenAI, took to the stage in San Francisco nine days ago he hinted at another significant development in the world of artificial intelligence."
+        },
+        {
+          "item": "Avoid artificial general intelligence evading human control and endangering humanity",
+          "quote": "Some experts are concerned that the emergence of AGI could lead, in theory, to a system capable of evading human control and endangering humanity."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "OpenAI can fire and reinstate its CEO",
+          "quote": "The board announced on Friday 17 November that it had sacked the 38-year-old for failing to be “consistently candid in his communications”... OpenAI announced on Tuesday night in California that it had reached an agreement in principle for Altman to return..."
+        },
+        {
+          "item": "OpenAI can conduct an independent investigation into internal matters",
+          "quote": "OpenAI will reportedly conduct an independent investigation into the circumstances around Altman’s departure..."
+        },
+        {
+          "item": "OpenAI can develop new AI models",
+          "quote": "OpenAI researchers had been concerned by the capabilities of a new AI model being worked on the company..."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "OpenAI would consider return of its sacked CEO as favorable",
+          "quote": "OpenAI announced on Tuesday night in California that it had reached an agreement in principle for Altman to return..."
+        },
+        {
+          "item": "OpenAI would consider achieving a breakthrough in technology as positive",
+          "quote": "According to the Information, the “Q*” model – pronounced “Q-star” – was able to solve maths problems it had not seen before, representing a potential breakthrough in the technology."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "OpenAI would consider safety concerns related to its AI technology as unfavorable",
+          "quote": "Some experts are concerned that the emergence of AGI could lead, in theory, to a system capable of evading human control and endangering humanity."
+        },
+        {
+          "item": "OpenAI disapproves internal disagreements and conflicts",
+          "quote": "It became clear, however, that Altman was edging closer to a return. OpenAI’s vice-president of global affairs, Anna Makanju, told staff that “intense discussions” were taking place to resolve the crisis."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Fear of a highly intelligent AI evading human control",
+          "quote": "Some experts are concerned that the emergence of AGI could lead, in theory, to a system capable of evading human control and endangering humanity."
+        }
+      ],
+      "resources": [
+        {
+          "item": "OpenAI has a vast staff, which includes researchers",
+          "quote": "OpenAI’s 770 employees..."
+        },
+        {
+          "item": "OpenAI is funded by significant investments from Microsoft",
+          "quote": "OpenAI was founded as a non-profit company whose board oversees a commercial subsidiary in which Microsoft is the biggest investor."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Helen Toner",
+    "description": "a director and AI safety expert at Georgetown University’s Center for Security and Emerging Technology, OpenAI board member",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "75380868",
+      "name": "Helen Toner",
+      "extract": "Helen Toner is an Australian researcher and former board member of OpenAI.",
+      "description": "Helen Toner is an Australian researcher and ex-board member at OpenAI."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Position as a director and AI safety expert at Georgetown University’s Center for Security and Emerging Technology",
+          "quote": "The other three board members were: Adam D’Angelo, the co-founder of the question-and-answer website Quora; Tasha McCauley, a tech entrepreneur; and Helen Toner, a director and AI safety expert at Georgetown University’s Center for Security and Emerging Technology."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Anna Makanju",
+    "description": "OpenAI’s vice-president of global affairs",
+    "mentions": 1,
+    "wikipedia": {
+      "error": "Error extracting pageId:None of these pages seem to be related to \"Anna Makanju\" described as \"OpenAI’s vice-president of global affairs\"."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Develop safe and beneficial AGI for the benefit of humanity",
+          "quote": "OpenAI was founded in 2015 with the goal of developing “safe and beneficial artificial general intelligence [AGI] for the benefit of humanity”."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Advancement of artificial general intelligence",
+          "quote": "“Four times now in the history of OpenAI... I’ve gotten to be in the room, when we sort of push the veil of ignorance back and the frontier of discovery forward, and getting to do that is the professional honour of a lifetime,” he told the Asia-Pacific Economic Cooperation (Apec) summit."
+        },
+        {
+          "item": "Returning to OpenAI as the CEO",
+          "quote": "Altman posted on X that Friday that he had “loved my time at openai”..."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Develop advanced AI tools",
+          "quote": "But after Altman’s return, Reuters and the Information reported that some OpenAI researchers had been concerned by the capabilities of a new AI model being worked on the company "
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Returning with a new-look “initial” board",
+          "quote": "Then a deal was struck. OpenAI announced on Tuesday night in California that it had reached an agreement in principle for Altman to return with a new-look “initial” board chaired by Bret Taylor"
+        },
+        {
+          "item": "Reconciliation with board members",
+          "quote": " “Just spent a really nice few hours with @adamdangelo,” he wrote on X. “Happy thanksgiving from our families to yours!”"
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Being removed from OpenAI as CEO",
+          "quote": "And a major event in AI did occur the next day – Altman was fired."
+        },
+        {
+          "item": "OpenAI's employees revolting for his removal",
+          "quote": "By Monday simmering staff discontent at Altman’s ousting broke into open revolt. The vast majority of OpenAI’s 770 employees including Murati signed a letter addressed to the board threatening to quit en masse unless Altman and Brockman were reinstated by the board."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Potential for AGI to evade human control",
+          "quote": "Some experts are concerned that the emergence of AGI could lead, in theory, to a system capable of evading human control and endangering humanity."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Support from employees and investors",
+          "quote": "OpenAI’s 770 employees including Murati signed a letter addressed to the board threatening to quit en masse unless Altman and Brockman were reinstated by the board."
+        },
+        {
+          "item": "Partnership and investment from Microsoft",
+          "quote": "OpenAI was founded as a non-profit company whose board oversees a commercial subsidiary in which Microsoft is the biggest investor."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bret Taylor",
+    "description": "the former co-chief executive of software company Salesforce",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "24401213",
+      "name": "Bret Taylor",
+      "extract": "Bret Steven Taylor (born 1980) is an American computer programmer and entrepreneur. He is most notable for leading the team that co-created Google Maps and his tenures as the CTO of Facebook (now Meta Platforms), as the chairman of Twitter, Inc.'s board of directors prior to its acquisition by Elon Musk, and as the co-CEO of Salesforce (alongside co-founder Marc Benioff). Taylor was additionally one of the founders of FriendFeed and the creator of Quip. Since November 2023, he is chairman of OpenAI.",
+      "description": "Bret Steven Taylor is an American computer programmer notable for co-creating Google Maps, serving as the CTO of Facebook, chairman of Twitter, Inc., co-CEO of Salesforce, and he is currently the chairman of OpenAI as of November 2023.\n"
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Chair the new-look 'initial' board of OpenAI",
+          "quote": "OpenAI announced on Tuesday night in California that it had reached an agreement in principle for Altman to return with a new-look “initial” board chaired by Bret Taylor, the former co-chief executive of software company Salesforce, along with Larry Summers, the former US Treasury secretary, and D’Angelo."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Promotion of safe and beneficial artificial general intelligence",
+          "quote": "OpenAI was founded in 2015 with the goal of developing 'safe and beneficial artificial general intelligence [AGI] for the benefit of humanity'."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Conduct independent investigation into circumstances of CEO's departure",
+          "quote": "OpenAI will reportedly conduct an independent investigation into the circumstances around Altman’s departure, which has initially been announced by Shear."
+        },
+        {
+          "item": "Lead OpenAI's board and steer its direction",
+          "quote": "OpenAI announced on Tuesday night in California that it had reached an agreement in principle for Altman to return with a new-look “initial” board chaired by Bret Taylor, the former co-chief executive of software company Salesforce, along with Larry Summers, the former US Treasury secretary, and D’Angelo."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Return of former CEO Sam Altman being welcomed by staff",
+          "quote": "The vast majority of OpenAI’s 770 employees including Murati signed a letter addressed to the board threatening to quit en masse unless Altman and Brockman were reinstated by the board – a move that must then be followed by the board stepping down."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Further conflicts and disagreements within the board or staff",
+          "quote": "Altman, who had reportedly demanded a new board as a precondition for his return, indicated on Thursday – Thanksgiving in the US – that he was in the process of healing any divisions with D’Angelo."
+        },
+        {
+          "item": "AI technology evading human control and endangering humanity",
+          "quote": "Some experts are concerned that the emergence of AGI could lead, in theory, to a system capable of evading human control and endangering humanity."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Uncontrolled advancement in AI",
+          "quote": "Some experts are concerned that the emergence of AGI could lead, in theory, to a system capable of evading human control and endangering humanity."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Support from OpenAI employees",
+          "quote": "The vast majority of OpenAI’s 770 employees including Murati signed a letter addressed to the board threatening to quit en masse unless Altman and Brockman were reinstated by the board – a move that must then be followed by the board stepping down."
+        },
+        {
+          "item": "OpenAI's capabilities and technology",
+          "quote": "According to the Information, the “Q*” model – pronounced “Q-star” – was able to solve maths problems it had not seen before, representing a potential breakthrough in the technology."
+        },
+        {
+          "item": "Influence from Microsoft's investment",
+          "quote": "As one analyst pointed out Altman would have a de facto leadership role at OpenAI because of Microsoft’s investment."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Larry Summers",
+    "description": "the former US Treasury secretary",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "206211",
+      "name": "Lawrence Summers",
+      "extract": "Lawrence Henry Summers (born November 30, 1954) is an American economist who served as the 71st United States Secretary of the Treasury from 1999 to 2001 and as director of the National Economic Council from 2009 to 2010. He also served as president of Harvard University from 2001 to 2006, where he is the Charles W. Eliot university professor and director of the Mossavar-Rahmani Center for Business and Government at Harvard Kennedy School. In November 2023, Summers joined the board of directors of artificial general intelligence company OpenAI.Summers became a professor of economics at Harvard University in 1983. He left Harvard in 1991, working as the Chief Economist of the World Bank from 1991 to 1993. In 1993, Summers was appointed Under Secretary for International Affairs of the United States Department of the Treasury under President Bill Clinton's administration. In 1995, he was promoted to Deputy Secretary of the Treasury under his long-time political mentor Robert Rubin. In 1999, he succeeded Rubin as Secretary of the Treasury. While working for the Clinton administration, Summers played a leading role in the American response to the 1994 economic crisis in Mexico, the 1997 Asian financial crisis, and the Russian financial crisis. He was also influential in the Harvard Institute for International Development and American-advised privatization of the economies of the post-Soviet states, and in the deregulation of the U.S financial system, including the repeal of the Glass-Steagall Act.\nFollowing the end of Clinton's term, Summers served as the 27th president of Harvard University from 2001 to 2006. Summers resigned as Harvard's president in the wake of a no-confidence vote by Harvard faculty, which resulted in large part from Summers's conflict with Cornel West, financial conflict of interest questions regarding his relationship with Andrei Shleifer, and a 2005 speech in which he offered three reasons for the under-representation of women in science and engineering, including the possibility that there exists a \"different availability of aptitude at the high end\", in addition to patterns of discrimination and socialization.After his departure from Harvard, Summers worked as a managing partner at the hedge fund D. E. Shaw & Co. Summers rejoined public service during the Obama administration, serving as the Director of the White House United States National Economic Council for President Barack Obama from January 2009 until November 2010, where he emerged as a key economic decision-maker in the Obama administration's response to the Great Recession.\n\n",
+      "description": "Lawrence Henry Summers is a renowned American economist who has served as the 71st United States Secretary of the Treasury, director of the National Economic Council, and president of Harvard University, and in 2023, joined the board of directors of artificial general intelligence company OpenAI."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Contributing to the development of the AGI",
+          "quote": "OpenAI was founded in 2015 with the goal of developing “safe and beneficial artificial general intelligence [AGI] for the benefit of humanity”. AGI refers to an AI that can perform a variety of tasks at, or above, a human level of intelligence."
+        }
+      ],
+      "main_motivations": [],
+      "possible_actions": [
+        {
+          "item": "Rejoin the OpenAI board",
+          "quote": "OpenAI announced on Tuesday night in California that it had reached an agreement in principle for Altman to return with a new-look “initial” board chaired by Bret Taylor, the former co-chief executive of software company Salesforce, along with Larry Summers, and D’Angelo. Altman has not, so far, regained his place on the board."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Functioning of OpenAI in line with its original mission",
+          "quote": "OpenAI’s board has changed but its mission has not."
+        }
+      ],
+      "bad_scenarios": [],
+      "main_fears": [
+        {
+          "item": "Potential of AGI escaping human control",
+          "quote": "Some experts are concerned that the emergence of AGI could lead, in theory, to a system capable of evading human control and endangering humanity."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Position on the board of OpenAI",
+          "quote": "in 2023, joined the board of directors of artificial general intelligence company OpenAI."
+        }
+      ]
+    }
+  }
+]

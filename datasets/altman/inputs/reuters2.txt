@@ -1,0 +1,34 @@
+Title: A timeline of Sam Altman's firing and dramatic return to OpenAI
+Source: Reuter
+Date: November 22, 202310:50 AM GMT
+Links: https://www.reuters.com/technology/openai-ouster-microsoft-ai-research-ceo-sam-altmans-tumultuous-weekend-2023-11-20/
+
+=== 
+
+Following his surprise dismissal on Friday, Altman had briefly joined Microsoft (MSFT.O) as the head of artificial intelligence research along with the ChatGPT maker's former President Greg Brockman and other staff.
+
+The developments come less than a year after OpenAI kicked off a generative AI frenzy with the launch of viral chatbot ChatGPT and bagged Microsoft as an investor, among other big names.
+
+Date
+Event
+Nov. 17
+OpenAI board fires CEO, co-founder Sam Altman and President Greg Brockman quits after being removed from the board. Company names Mira Murati as interim CEO
+Nov. 18
+Altman's firing was over a "breakdown in communication between Sam and the board," and not "malfeasance", COO Brad Lightcap says in an internal memo
+Nov. 18
+Early investor Khosla Ventures says it wants Altman back at OpenAI, "but will back him in whatever he does next"
+Nov. 18
+Some employees contemplated quitting if Altman was not restored as CEO by the end of the weekend, while others expressed support for joining his new venture, people familiar with the matter said
+Nov. 19
+Altman discusses a possible return to the company, considers launching new AI startup, source tells Reuters
+Nov. 20
+Microsoft CEO Satya Nadella says the Windows maker has hired Altman, Brockman and their colleagues to lead a new advanced AI research team
+Nov. 20
+OpenAI appoints former Twitch boss Emmett Shear as interim CEO. Shear pledges probe into Altman's exit. OpenAI board approaches rival Anthropic's CEO on merger, for taking top job, sources say
+Nov. 20
+Nearly all OpenAI staff threaten to quit and join Altman at Microsoft if board doesn't resign, according to a letter seen by Reuters
+Nov. 20
+Some investors in OpenAI explore legal recourse against the company's board, sources familiar with the matter told Reuters
+Nov. 21
+OpenAI said Altman will return as CEO with a new initial board of Bret Taylor, Larry Summers, and Adam D'Angelo. Brockman will also returning to the startup.
+Reporting by Akash Sriram in Bengaluru; Editing by Shounak Dasgupta and Nivedita Bhattacharjee

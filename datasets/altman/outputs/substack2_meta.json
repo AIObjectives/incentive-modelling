@@ -1,0 +1,49 @@
+{
+  "title": "OpenAI: The Battle of the Board",
+  "source": "Substack",
+  "date": "22 NOV 2023",
+  "authors": [
+    "ZVI MOWSHOWITZ"
+  ],
+  "link": "https://thezvi.substack.com/p/openai-the-battle-of-the-board",
+  "relevance_score": 0.9,
+  "relevance_explanation": "The document is highly relevant to the research goals as it covers in detail the intricacies behind Sam Altman's firing, the internal conflicts within OpenAI's board, the power dynamics, and the subsequent actions and responses of all parties involved. The analysis provided gives insight into the motivations, the control struggle over OpenAI's direction and governance, and an interpretation of the actions that followed the dismissal.",
+  "summary": "The article delves into the dismissal of Sam Altman from the position of CEO by OpenAI's board and the subsequent reinstatement agreement, touching upon the power struggles within the organization and the distinct perspectives of various board members. It highlights Altman's vision of making OpenAI function like a typical Big Tech company, his inclination to power consolidation, and the board's different stance on the pace and safety of AI development. The document uncovers supposed conflicting interests, safety concerns, and the debate on OpenAI's mission and governance, resulting in Altman's initial termination and the negotiation of a new board structure.",
+  "events": [
+    "Firing of Sam Altman as CEO of OpenAI by the board",
+    "Reinstatement agreement of Sam Altman with a new initial board structure",
+    "OpenAI's board and Sam Altman's power clash",
+    "Disclosure of OpenAI's organizational structure and mission statement",
+    "Reports of OpenAI's warning to investors about potential lack of profitability",
+    "Clashes on the perspective of OpenAI's direction between board members and Sam Altman",
+    "Allegations of Altman's self-coup attempt via board manipulation",
+    "Publications and criticisms that led to internal disputes within OpenAI",
+    "Board's decision to fire Altman due to lack of candor in communications",
+    "Negotiations for the formation of a new governance framework and board"
+  ],
+  "entities": [
+    "OpenAI",
+    "Sam Altman",
+    "Bret Taylor",
+    "Larry Summers",
+    "Adam D’Angelo",
+    "Microsoft",
+    "Helen Toner",
+    "Tasha McCauley",
+    "Ilya Sutskever",
+    "Greg Brockman",
+    "Paul Graham",
+    "Anthropic",
+    "AI hardware project",
+    "Superalignment Taskforce",
+    "Jan Leike",
+    "Emmett Shear",
+    "Nat Friedman",
+    "Alex Wang",
+    "Mike Solana",
+    "Federal Trade Commission (FTC)",
+    "EU",
+    "Effective Altruism"
+  ],
+  "document_type": "The document appears to be a blog post that provides an analytical narrative and interpretation of the events surrounding the OpenAI board's decision and the power dynamics at play."
+}

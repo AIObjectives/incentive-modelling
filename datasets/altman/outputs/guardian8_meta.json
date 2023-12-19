@@ -1,0 +1,43 @@
+{
+  "title": "OpenAI staff threaten to quit en masse unless Sam Altman is reinstated",
+  "source": "Guardian",
+  "date": "Mon 20 Nov 2023 23.46 GMT",
+  "authors": [
+    "Dan Milmo",
+    "Blake Montgomery"
+  ],
+  "link": "https://www.theguardian.com/technology/2023/nov/20/openai-staff-walkout-sam-altman-board",
+  "relevance_score": 0.9,
+  "relevance_explanation": "This document is highly relevant to the research goals as it covers the immediate aftermath of Sam Altman's firing, including staff reaction and subsequent power struggle within OpenAI. It gives insight into employee sentiment, the board’s reported incompetence, and hints at the internal dynamics of the company as well as its relationship with Microsoft.",
+  "summary": "The article reports on the internal upheaval at OpenAI following the board's decision to fire CEO Sam Altman. Almost all of the 700 OpenAI staff signed an open letter demanding the board's resignation and Altman's reinstatement, threatening to join him at a new venture in Microsoft if their demands are not met. The board's dismissal of Altman for a lack of candor is mentioned without elaboration, and there is a significant expression of employee support for Altman, along with a discussion about OpenAI's governance and its ties to Microsoft.",
+  "events": [
+    "Sam Altman's firing from OpenAI",
+    "Open letter from OpenAI staff demanding board resignation and Altman's return",
+    "Potential mass resignation of OpenAI staff",
+    "Microsoft announces hiring of Altman and Greg Brockman",
+    "Microsoft CEO Satya Nadella comments on OpenAI's governance structure",
+    "Altman returns to OpenAI HQ after dismissal",
+    "Appointment of Emmett Shear as interim CEO of OpenAI",
+    "OpenAI board's statement on the reasoning behind Altman's dismissal",
+    "Public solidarity expressions from OpenAI employees on social media"
+  ],
+  "entities": [
+    "OpenAI",
+    "Sam Altman",
+    "OpenAI's board",
+    "Microsoft",
+    "Greg Brockman",
+    "Satya Nadella",
+    "Ilya Sutskever",
+    "Adam D'Angelo",
+    "Tasha McCauley",
+    "Helen Toner",
+    "Mira Murati",
+    "Emmett Shear",
+    "Kara Swisher",
+    "Noam (AI researcher)",
+    "Dan Ives",
+    "Wedbush Securities"
+  ],
+  "document_type": "newspaper article"
+}

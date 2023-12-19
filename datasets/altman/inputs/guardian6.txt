@@ -1,0 +1,52 @@
+Source: Guardian
+Title: Microsoft hires former OpenAI CEO Sam Altman
+Subtitle: Tech company creates advanced new artificial intelligence team as Twitch’s Emmett Shear joins OpenAI
+Authors: Dan Milmo and Josh Taylor
+Date: Mon 20 Nov 2023 23.45 GMT
+Link: https://www.theguardian.com/technology/2023/nov/20/sam-altman-openai-ceo-wont-return-chatgpt-talks-fail-emmett-shear-twitch
+
+=== 
+
+Microsoft has hired Sam Altman as head of a new advanced artificial intelligence team after attempts to reinstate him as chief executive of OpenAI failed.
+
+The appointment was confirmed in a statement on X by the Microsoft CEO, Satya Nadella, on Monday.
+
+At the end of a dramatic weekend of boardroom drama, the non-profit board of the San Francisco-based OpenAI has installed Emmett Shear, the co-founder of video streaming site Twitch, as the company’s third CEO in three days.
+
+Microsoft, OpenAI’s largest investor, has moved quickly to take on a key figure in the AI industry. It said on Monday morning it had appointed Altman and OpenAI’s former president, Greg Brockman, to lead a new advanced AI team at the company.
+
+“We’re extremely excited to share the news that Sam Altman and Greg Brockman, together with colleagues, will be joining Microsoft to lead a new advanced AI research team. We look forward to moving quickly to provide them with the resources needed for their success,” wrote Nadella.
+
+On Monday evening, however, Nadella said he was open to Altman remaining at OpenAI or joining Microsoft. Either way, the executive told Bloomberg TV, OpenAI’s governance structure needed to change.
+
+
+Nadella said Microsoft remained “committed” to OpenAI although the reference to OpenAI colleagues joining Altman and Brockman indicates that important staffers are joining the top team in moving across to the company’s biggest backer.
+
+There were indications of unrest among the remaining OpenAI staff on Monday morning. Altman’s short-lived successor as interim CEO, Mira Murati, posted on X in the wake of the Microsoft announcement that “OpenAI is nothing without its people”. Altman reposted the message with a heart emoji, while multiple OpenAI staff posted the same “nothing without its people” message in an apparently coordinated move.
+
+
+Altman was fired on Friday after being accused of not being “consistently candid in communications” with the board in a move that sent shockwaves through Silicon Valley. OpenAI’s investors, led by Microsoft, then led an attempt to reinstate Altman and talks over an about-turn took place at the weekend – with Altman tweeting a picture of himself wearing a guest pass outside OpenAI’s offices.
+
+However, the talks failed and OpenAI’s board has appointed Shear as interim CEO, replacing Altman’s temporary successor Murati, the company’s chief technology officer.
+
+Sam Altman was the trusted face of AI. His firm, though, is much more complex
+John Naughton
+John Naughton
+Read more
+Shear has stated he is “in favor of slowing down” AI development but wrote on X on Monday that Altman had not been fired because of safety concerns. The arrival of ChatGPT, whose capabilities have taken experts, regulators and politicians by surprise, has stoked fears that AI companies are racing to develop products without due consideration for negative impacts such as generating disinformation or evading human control.
+
+“The board did *not* remove Sam over any specific disagreement on safety, their reasoning was completely different from that. I’m not crazy enough to take this job without board support for commercializing our awesome models,” he wrote.
+
+On Sunday, Altman had posted an image of himself on X wearing an OpenAI guest badge stating “first and last time I ever wear one of these”.
+
+The Wall Street Journal had earlier reported that Altman’s return was conditional on a new board and governance structure, and Altman had been considering the option of starting a new company with former OpenAI colleagues.
+
+Altman and Apple’s former design chief Jony Ive have been discussing building a new AI hardware device, according to reports. It was also reported that the SoftBank chief executive, Masayoshi Son, had been involved in the conversation.
+
+Altman’s firing by the board on Friday sent shock waves through the tech sector, and OpenAI staff, with the executive seen as not only the face of the company but also of the AI sector broadly. The Verge had reported that other employees were likely to leave if Altman did not return.
+
+An earlier report quoted a memo from the company’s chief strategy officer, Jason Kwon, telling staff that an effort was under way to bring back Altman and other senior colleagues who had left. Altman’s departure was followed by the resignations of Brockman and three senior researchers: Jakub Pachocki, Aleksander Mądry and Szymon Sidor.
+
+“We are still working towards a resolution and we remain optimistic,” Kwon wrote, according to the Information. “By resolution, we mean bringing back Sam, Greg, Jakub, Szymon, Aleksander and other colleagues (sorry if I missed you!) and remaining the place where people who want to work on AGI [artificial general intelligence] research, safety, products and policy can do their best work.”
+
+OpenAI is governed by a non-profit parent and its board, which runs a for-profit subsidiary where Altman was CEO. After the departure of Altman and Brockman it now consists of four people: OpenAI’s chief scientist Ilya Sutskever and three non-employees.

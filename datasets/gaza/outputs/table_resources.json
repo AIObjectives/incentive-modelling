@@ -1,0 +1,762 @@
+{
+  "columns": [
+    {
+      "id": "56472",
+      "name": "Netanyahu",
+      "count": 7
+    },
+    {
+      "id": "9282173",
+      "name": "Israel",
+      "count": 6
+    },
+    {
+      "id": "13913",
+      "name": "Hamas",
+      "count": 4
+    },
+    {
+      "id": "12047",
+      "name": "Gaza",
+      "count": 3
+    },
+    {
+      "id": "13919",
+      "name": "Hezbollah",
+      "count": 3
+    },
+    {
+      "id": "24093",
+      "name": "Palestinian Authority",
+      "count": 3
+    },
+    {
+      "id": "32212",
+      "name": "US military",
+      "count": 3
+    },
+    {
+      "id": "555560",
+      "name": "Piers Morgan",
+      "count": 3
+    },
+    {
+      "id": "1114732",
+      "name": "Palestine",
+      "count": 3
+    },
+    {
+      "id": "3434750",
+      "name": "United States",
+      "count": 3
+    },
+    {
+      "id": "14653",
+      "name": "Iran",
+      "count": 2
+    },
+    {
+      "id": "19323",
+      "name": "Middle East",
+      "count": 2
+    },
+    {
+      "id": "23267",
+      "name": "Palestinian",
+      "count": 2
+    },
+    {
+      "id": "31756",
+      "name": "US Congress",
+      "count": 2
+    },
+    {
+      "id": "52108",
+      "name": "General Dynamics",
+      "count": 2
+    },
+    {
+      "id": "145422",
+      "name": "Joe Biden",
+      "count": 2
+    },
+    {
+      "id": "349303",
+      "name": "Saudi Arabia",
+      "count": 2
+    },
+    {
+      "id": "10976205",
+      "name": "Sabrina Tavernise",
+      "count": 2
+    },
+    {
+      "id": "20740978",
+      "name": "Pentagon",
+      "count": 2
+    },
+    {
+      "id": "33240386",
+      "name": "Bassem Youssef",
+      "count": 2
+    },
+    {
+      "id": "30680",
+      "name": "New York Times",
+      "count": 1
+    },
+    {
+      "id": "232595",
+      "name": "Mahmoud Abbas",
+      "count": 1
+    },
+    {
+      "id": "397603",
+      "name": "The Comedy Store",
+      "count": 1
+    },
+    {
+      "id": "6191053",
+      "name": "Jared Kushner",
+      "count": 1
+    },
+    {
+      "id": "8087628",
+      "name": "Egypt",
+      "count": 1
+    },
+    {
+      "id": "26385186",
+      "name": "Israeli",
+      "count": 1
+    },
+    {
+      "id": "38689358",
+      "name": "Mohammed Bin Salman",
+      "count": 1
+    },
+    {
+      "id": "59993169",
+      "name": "Patrick Kingsley",
+      "count": 1
+    }
+  ],
+  "rows": [
+    {
+      "id": "Global Influence & Alliances",
+      "name": "Global Influence & Alliances",
+      "representativeItem": "International support, solidarity and advocacy",
+      "count": 19
+    },
+    {
+      "id": "Military & Defense",
+      "name": "Military & Defense",
+      "representativeItem": "Military strength",
+      "count": 13
+    },
+    {
+      "id": "Media Influence & Information Access",
+      "name": "Media Influence & Information Access",
+      "representativeItem": "Access to influential guests",
+      "count": 7
+    },
+    {
+      "id": "Economic Resources",
+      "name": "Economic Resources",
+      "representativeItem": "Vast reserves of petroleum",
+      "count": 4
+    },
+    {
+      "id": "Investment & Financial Interests",
+      "name": "Investment & Financial Interests",
+      "representativeItem": "Possibility to invest in arms industry",
+      "count": 4
+    },
+    {
+      "id": "Regional Conflict & Support",
+      "name": "Regional Conflict & Support",
+      "representativeItem": "Hamas's resources mainly include its fighters, network of subterranean fortifications, and support from certain allied actors",
+      "count": 4
+    },
+    {
+      "id": "Comedy & Performance",
+      "name": "Comedy & Performance",
+      "representativeItem": "Skilled in stand-up comedy",
+      "count": 2
+    },
+    {
+      "id": "(Other)",
+      "name": "(Other)",
+      "representativeItem": "Olive oil from the West Bank",
+      "count": 2
+    },
+    {
+      "id": "Military Budget & Spending",
+      "name": "Military Budget & Spending",
+      "representativeItem": "Pentagon budget",
+      "count": 2
+    }
+  ],
+  "cells": {
+    "Comedy & Performance_33240386": [
+      {
+        "item": "Skilled in stand-up comedy",
+        "src_id": "Bassem1",
+        "quote": "But actually this is not this is not the first time we meet in person no no we did originally in London last year..."
+      }
+    ],
+    "Media Influence & Information Access_33240386": [
+      {
+        "item": "Social media followers",
+        "src_id": "Bassem1",
+        "quote": "Oh hi Basim it seems that you have more followers than me but it seems that I blocked you why and I told you and then we we said the story on air"
+      }
+    ],
+    "Media Influence & Information Access_555560": [
+      {
+        "item": "Powerful platform for free speech",
+        "src_id": "Bassem1",
+        "quote": "I'm for free speech and I really am the whole show is predicated from that"
+      },
+      {
+        "item": "Access to influential guests",
+        "src_id": "Bassem1",
+        "quote": "I invited John Stewart to my show as much of like a reception"
+      },
+      {
+        "item": "Piers Morgan has a platform at his disposal to tackle various issues",
+        "src_id": "Bassem2",
+        "quote": "(58:16) you mean you're not going to support mayor Jose"
+      }
+    ],
+    "(Other)_1114732": [
+      {
+        "item": "Olive oil from the West Bank",
+        "src_id": "Bassem1",
+        "quote": "this is a gift from me and my wife this is uh olive oil from the West Bank ah whenever you go to I go to Jordan a lot but my wife also like ask for the oil from the West Bank"
+      }
+    ],
+    "Comedy & Performance_397603": [
+      {
+        "item": "Provides a venue for standup performances",
+        "src_id": "Bassem1",
+        "quote": "(02:15) Los Angeles where you performed many times as a standup"
+      }
+    ],
+    "Global Influence & Alliances_23267": [
+      {
+        "item": "Strong community in their homeland and diaspora",
+        "src_id": "Bassem2",
+        "quote": "(1:02:03) 2 million people living in Gaza there are 3.5 million people living in the West Bank there is 350,000 people lifting East and there's like six or seven million people living outside."
+      },
+      {
+        "item": "International support, solidarity and advocacy",
+        "src_id": "Bassem2",
+        "quote": "(1:51:54) as an American citizen why every American president cand presidential candidate have to go and kiss the hand and bend the knees to APAC this is a Lobby that works for a foreign country interest."
+      }
+    ],
+    "Military & Defense_26385186": [
+      {
+        "item": "Israel's military power",
+        "src_id": "Bassem2",
+        "quote": "it takes you 3 weeks 9,000 Palestinian civilian death 21,000 injured as we are talking right now Israel just bombed Galia which is a known refugee camp this it is a very this is not self-defense"
+      }
+    ],
+    "Global Influence & Alliances_56472": [
+      {
+        "item": "Political alliances",
+        "src_id": "Bassem2",
+        "quote": "(1:08:43) he had to to get power uh you know again he had put a bunch of right-wing Headbangers into his cabinet"
+      },
+      {
+        "item": "Bipartisan support from US",
+        "src_id": "Times",
+        "quote": "President Biden and GOP leaders are expressing total, bipartisan support for Israel."
+      },
+      {
+        "item": "Defense assistance from US",
+        "src_id": "Times",
+        "quote": "The U.S. provides over $3 billion in defense assistance to Israel annually, with Israel the single largest recipient."
+      }
+    ],
+    "Military & Defense_56472": [
+      {
+        "item": "Military strength",
+        "src_id": "Bassem2",
+        "quote": "(58:47) can you please reinstate my account thank you there a threat that you'd be worried about"
+      },
+      {
+        "item": "Israeli Army",
+        "src_id": "Daily",
+        "quote": "It also gives them more time to train...a lot of the people that are massed on the Gazan border are reservists who’ve been called up, several hundred thousand of them."
+      },
+      {
+        "item": "Air Force",
+        "src_id": "Daily",
+        "quote": "And I think crucially, it gives the Air Force more time to try and take out Hamas fighters and tunnels from the air."
+      },
+      {
+        "item": "Advanced arms industry",
+        "src_id": "Times",
+        "quote": "Israel’s arms industry and storehouses are more advanced today and much larger."
+      }
+    ],
+    "Global Influence & Alliances_12047": [
+      {
+        "item": "International support and advocacy",
+        "src_id": "Bassem2",
+        "quote": "(1:05:36)...I will never give you anything with peaceful resolution you will always have to fight for it..."
+      }
+    ],
+    "Economic Resources_349303": [
+      {
+        "item": "Vast reserves of petroleum",
+        "src_id": "Bassem2",
+        "quote": "The nation is globally significant due to its vast reserves of petroleum, making it the world's third-largest oil producer"
+      },
+      {
+        "item": "Saudi Arabia commands considerable influence and leverage in the region, backed by its abundant oil reserves and economic status",
+        "src_id": "Times",
+        "quote": "The last surprise invasion of Israel fifty years ago made an accidental winner out of Saudi Arabia"
+      }
+    ],
+    "Military & Defense_9282173": [
+      {
+        "item": "Military infrastructure",
+        "src_id": "Brand",
+        "quote": "(16:29) the US military uses sa phones for secured communication and those guys know how to keep their business quiet"
+      },
+      {
+        "item": "Israeli troops massed near the Gaza border",
+        "src_id": "Daily",
+        "quote": "Amidst the calamity, Israel is biding its time. Troops are amassed on the border with Gaza."
+      },
+      {
+        "item": "Advanced arms industry",
+        "src_id": "Times",
+        "quote": "Israel’s arms industry and storehouses are more advanced today and much larger."
+      }
+    ],
+    "Global Influence & Alliances_9282173": [
+      {
+        "item": "Partnership with US Defense industry",
+        "src_id": "Brand",
+        "quote": "(16:47) one practice that introduces bias into the shaping of defence policy is the revolving door between the US government and the weapons industry"
+      },
+      {
+        "item": "Supportive global leaders",
+        "src_id": "Daily",
+        "quote": "Israel had just experienced what its president has called the bloodiest day for Jews since the Holocaust. And it felt like there was broad global support, particularly from leaders if not citizens for Israel taking essentially defensive action against the group that had enacted all these massacres in Southern Israel, Hamas."
+      },
+      {
+        "item": "US financial and strategic support",
+        "src_id": "Times",
+        "quote": "The U.S. provides over $3 billion in defense assistance to Israel annually."
+      }
+    ],
+    "Investment & Financial Interests_1114732": [
+      {
+        "item": "Possibility to invest in arms industry",
+        "src_id": "Brand",
+        "quote": "(03:03) us Congressional leaders have been making some Strategic investment moves into military related stocks that's pretty astonishing isn't it to consider that when most of us are thinking where do you find a unifying truth in this complex and horrific matter that there are people in Congress paid for by you elected to serve you that are right now going this might be a good time to invest in Lockheed Martin"
+      }
+    ],
+    "Military & Defense_1114732": [
+      {
+        "item": "Military capabilities",
+        "src_id": "Brand",
+        "quote": "(13:04) hope at all of resolution well I was at the arms conference and no one had any ideas that didn't lead to selling more arms it was almost as if the whole thing the whole system was geared towards selling arms"
+      }
+    ],
+    "Investment & Financial Interests_31756": [
+      {
+        "item": "Potential to profit from personal investments in defense and military-related stocks",
+        "src_id": "Brand",
+        "quote": "people in Congress should not be able to invest in companies that will benefit from military conflict"
+      }
+    ],
+    "Investment & Financial Interests_145422": [
+      {
+        "item": "Ability to influence stock investments through his administrative actions",
+        "src_id": "Brand",
+        "quote": "(14:34) a war that's being fought territorially on spiritual values or at least religious edicts is somewhat out of line with the direction of power and finance"
+      }
+    ],
+    "Military & Defense_52108": [
+      {
+        "item": "Production capacity for combat vehicles and submarines",
+        "src_id": "Brand",
+        "quote": "Fox Business reported that shares of General Dynamics which make submarines and combat Vehicles Rose the most since March 20120"
+      }
+    ],
+    "Investment & Financial Interests_52108": [
+      {
+        "item": "Beneficial financial relationships with US congress members investing in defense stocks",
+        "src_id": "Brand",
+        "quote": "you have people in Congress investing in stocks and shares that they are in a position to influence the trajectory of"
+      }
+    ],
+    "Global Influence & Alliances_32212": [
+      {
+        "item": "large budget for advanced technologies and global deployment",
+        "src_id": "Brand",
+        "quote": "at a time when the Pentagon budget is soaring towards $1 trillion per year and debates about how to respond to the challenges posed by Russia and China are front and center it is more important than ever to make an independent assessment of the best path forward"
+      },
+      {
+        "item": "around 800 overseas military bases",
+        "src_id": "Brand",
+        "quote": "at a time when the Pentagon budget is soaring towards $1 trillion per year and debates about how to respond to the challenges posed by Russia and China are front and center it is more important than ever to make an independent assessment of the best path forward"
+      },
+      {
+        "item": "influence over the process of determining the size and shape of the Pentagon budget",
+        "src_id": "Brand",
+        "quote": "employing well-connected ex-military officers can give weapons makers enormous unwarranted influence over the process of determining the size and shape of the Pentagon budget"
+      }
+    ],
+    "Economic Resources_19323": [
+      {
+        "item": "Vast petroleum reserves",
+        "src_id": "Brand",
+        "quote": "(04:32) heavyweights like Exon Mobile, Devon energy and Chevron are clearly the fav."
+      }
+    ],
+    "Military Budget & Spending_20740978": [
+      {
+        "item": "Pentagon budget",
+        "src_id": "Brand",
+        "quote": "At a time when the Pentagon budget is soaring towards $1 trillion per year"
+      },
+      {
+        "item": "Ability to influence spending priorities",
+        "src_id": "Brand",
+        "quote": "This new influx of former military officials into the arms sector will distort Pentagon spending priorities and promote higher military budgets"
+      }
+    ],
+    "Military & Defense_12047": [
+      {
+        "item": "Air Force",
+        "src_id": "Daily",
+        "quote": "And I think crucially, it gives the Air Force more time to try and take out Hamas fighters and tunnels from the air."
+      },
+      {
+        "item": "Army",
+        "src_id": "Daily",
+        "quote": "Remember that a lot of the people that are massed on the Gazan border are reservists who’ve been called up, several hundred thousand of them."
+      }
+    ],
+    "Regional Conflict & Support_13913": [
+      {
+        "item": "Hamas's resources mainly include its fighters, network of subterranean fortifications, and support from certain allied actors",
+        "src_id": "Daily",
+        "quote": "Then there’s the fact that Hamas is very well dug in underneath its stronghold of Gaza City. It has hundreds of miles of tunnels that it’s burrowed away over the last decade and a half."
+      },
+      {
+        "item": "Financial aid from Iran",
+        "src_id": "Times",
+        "quote": "Iran has always been Hamas’ single largest sponsor, providing 70% of the financing for Hamas including upwards of $100 million in military aid every year in addition to military training and humanitarian assistance."
+      },
+      {
+        "item": "Mobilized forces within Gaza Strip",
+        "src_id": "Times",
+        "quote": "Hamas has thoroughly embedded its operations within civilian infrastructure."
+      }
+    ],
+    "Media Influence & Information Access_59993169": [
+      {
+        "item": "Access to inside information and sources, and his position in The New York Times",
+        "src_id": "Daily",
+        "quote": "You’re not quite seeing Western leaders coming out strongly against an invasion in and of itself. But there seem to be more qualifiers and qualifications attached to the West’s expression of support for Israel."
+      }
+    ],
+    "Media Influence & Information Access_10976205": [
+      {
+        "item": "Access to reliable sources and firsthand information",
+        "src_id": "Daily",
+        "quote": "You’re reaching me on the road between Tel Aviv and Jerusalem. I’ve spent the last nine hours watching security camera footage from a kibbutz in the South."
+      },
+      {
+        "item": "Support from The New York Times, a reputable news organization",
+        "src_id": "Daily",
+        "quote": "From The New York Times, I’m Sabrina Tavernise. And this is The Daily."
+      }
+    ],
+    "Global Influence & Alliances_24093": [
+      {
+        "item": "Negotiation partners like Qatar and Egypt",
+        "src_id": "Daily",
+        "quote": "And there are intense negotiations going on, not directly between Hamas and Israel, because they don’t have formal relations. But mediated by Qatar, and to some extent, Egypt."
+      },
+      {
+        "item": "Support from international community",
+        "src_id": "Daily",
+        "quote": "And it felt like there was broad global support, particularly from leaders if not citizens for Israel taking essentially defensive action against the group that had enacted all these massacres in Southern Israel, Hamas."
+      },
+      {
+        "item": "Possible support from other nations",
+        "src_id": "Times",
+        "quote": "Many in the Palestinian Authority were said to welcome a Saudi peace plan"
+      }
+    ],
+    "Regional Conflict & Support_14653": [
+      {
+        "item": "Sponsorship of Hamas",
+        "src_id": "Daily",
+        "quote": "And Hamas is backed by Iran."
+      }
+    ],
+    "Global Influence & Alliances_13913": [
+      {
+        "item": "Protection from other nations",
+        "src_id": "Times",
+        "quote": "Russia has also nurtured extremely close ties to Iran in addition to Hamas"
+      }
+    ],
+    "Economic Resources_3434750": [
+      {
+        "item": "Monetary Resources",
+        "src_id": "Times",
+        "quote": "The U.S. provides over $3 billion in defense assistance to Israel annually, with Israel the single largest recipient."
+      }
+    ],
+    "Global Influence & Alliances_14653": [
+      {
+        "item": "Financial and military resources",
+        "src_id": "Times",
+        "quote": "Iran has always been Hamas’ single largest sponsor, providing 70% of the financing for Hamas including upwards of $100 million in military aid every year in addition to military training and humanitarian assistance."
+      }
+    ],
+    "Global Influence & Alliances_38689358": [
+      {
+        "item": "Global alliances, economic influence, and the powerful position as a leader in the Middle East",
+        "src_id": "Times",
+        "quote": "Saudi Arabia is one of the leading nations in its region and has considerable international influence and ties to the US."
+      }
+    ],
+    "Global Influence & Alliances_6191053": [
+      {
+        "item": "Influence in the Abraham Accords",
+        "src_id": "Times",
+        "quote": "This time, by all accounts, Israel, Saudi Arabia, and the United States were inching closer towards a transformative three-way deal [...] the transformation of the region which had started with the Abraham Accords shepherded by Jared Kushner, which the first author helped advise and participated in [...]"
+      }
+    ],
+    "(Other)_8087628": [
+      {
+        "item": "Not explicitly mentioned",
+        "src_id": "Times",
+        "quote": ""
+      }
+    ],
+    "Military & Defense_13919": [
+      {
+        "item": "Hezbollah has a significant number of rockets aimed towards Israel, sponsored by Iran.",
+        "src_id": "Times",
+        "quote": "it appears Hezbollah in Lebanon did not exploit Saturday’s chaos to launch a much-feared simultaneous attack of Israel from the north even as the Iran-backed Shi’ite militia continues to have thousands of rockets aimed towards Israel."
+      }
+    ]
+  },
+  "meta": {
+    "Bassem1": {
+      "title": "LIVE: Bassem Youssef Returns | Piers Morgan Uncensored | 01-Nov-23",
+      "source": "YouTube",
+      "date": "01 November 2023",
+      "authors": [
+        "Piers Morgan",
+        "Bassem Youssef"
+      ],
+      "link": "https://www.youtube.com/watch?v=hbb-A0G330s",
+      "relevance_score": 0.8,
+      "relevance_explanation": "The document discusses the geopolitical situation in the Middle East, specifically the Israel-Palestine conflict, through the lens of Bassem Youssef, an Egyptian comedian and political commentator. It provides insights into the motivations and views of different entities involved, reflecting on the power dynamics and public opinions. It is relevant as it explores the narratives surrounding key historical and contemporary events shaping the region.",
+      "summary": "The transcript is from a Piers Morgan interview with Bassem Youssef, addressing the geopolitical situation in the Middle East, with a focus on the Israel-Palestine conflict. Youssef shares his experiences and opinions on regional politics, media coverage, and the implications of differing perspectives. Discussions include the impact of European colonialism, the Arab Spring, and the dynamics of military and religious authority in Egypt.",
+      "events": [
+        "Bassem Youssef's interview following the Israel-Palestine conflict",
+        "Discussion on societal attitudes and media's role in shaping the narrative",
+        "Reflection on Bassem Youssef's past arrest and subsequent emigration",
+        "Presentation of the historical context of the Israel-Palestine conflict by Bassem Youssef"
+      ],
+      "entities": [
+        "Bassem Youssef",
+        "Piers Morgan",
+        "Israel",
+        "Palestine",
+        "Europeans",
+        "Hamas",
+        "Arab world",
+        "Donald Trump",
+        "Muhammad Morsi",
+        "General Sisi",
+        "Cairo",
+        "Tahrir Square",
+        "Larry King",
+        "CNN"
+      ],
+      "document_type": "Transcript of a video interview"
+    },
+    "Bassem2": {
+      "title": "LIVE: Bassem Youssef Returns | Piers Morgan Uncensored | 01-Nov-23",
+      "source": "YouTube",
+      "date": "01 November 2023",
+      "authors": [
+        "Piers Morgan",
+        "Bassem Youssef"
+      ],
+      "link": "https://www.youtube.com/watch?v=hbb-A0G330s",
+      "relevance_score": 0.8,
+      "relevance_explanation": "The document is a transcript of a discussion between Piers Morgan and Bassem Youssef, addressing the geopolitical situation in the Middle East, particularly the Israeli-Palestinian conflict. Given the complex dynamics and the historical context of the issue, the content is relevant to understanding the motivations and actions of entities in the region.",
+      "summary": "The document is a transcript of a segment from 'Piers Morgan Uncensored' featuring Bassem Youssef. The conversation delves into the Palestinian-Israeli conflict, historical grievances, the roles and perspectives of various entities, and the broader implications for Middle Eastern geopolitics and cultural dynamics. Youssef criticizes certain Israeli policies and actions, and conveys the sentiment among Arabs of inequality in the global arena, particularly concerning the West's response to events in the Middle East.",
+      "events": [
+        "Discussion of cultural erasure in the context of the Israeli-Palestinian conflict",
+        "Examination of historical events and grievances leading up to and stemming from the events of 1948",
+        "Reference to changing political leadership in Israel and potential implications for the conflict",
+        "Allegations of ongoing injustices against Palestinians in Gaza and the West Bank",
+        "References to previous conflicts and Israeli military responses"
+      ],
+      "entities": [
+        "Bassem Youssef",
+        "Piers Morgan",
+        "Palestinian people",
+        "Israeli government",
+        "Hamas",
+        "Jonathan Friedland",
+        "Netanyahu",
+        "Queen Rania of Jordan",
+        "Iran",
+        "United Nations",
+        "Egypt"
+      ],
+      "document_type": "This is a transcript of a podcast/interview segment featuring a conversation on a politically sensitive topic with relevance to Middle Eastern geopolitics."
+    },
+    "Brand": {
+      "title": "Israel vs Palestine: What They’re Not Telling You",
+      "source": "YouTube",
+      "date": "unknown",
+      "authors": [
+        "unknown"
+      ],
+      "link": "https://www.youtube.com/watch?v=OWzJNTiXnv0",
+      "relevance_score": 0.7,
+      "relevance_explanation": "The document contains an analysis of the Middle East conflict from a geopolitical and financial perspective, which is relevant to understanding the motivations of involved entities and the power dynamics. However, its focus on US Congress members' investments and the military-industrial complex may have limited direct implications for the broader geopolitical situation in the Middle East.",
+      "summary": "The document is a transcript of a video where the narrator discusses how the conflict between Israel and Hamas has led to members of the US Congress investing in military-related stocks. It highlights the potential conflict of interest and questions the ethical implications of these actions. The narrator also critiques the revolving door between the Pentagon/military officials and the arms industry, lobbying activities' influence on conflicts, and the impact of geopolitical tensions on defense stocks.",
+      "events": [
+        "Escalation of conflict between Israel and Hamas",
+        "US Congress members investing in military-related stocks",
+        "Russia invades Ukraine",
+        "Shares of defense companies surge due to geopolitical tensions"
+      ],
+      "entities": [
+        "Israel",
+        "Hamas",
+        "US Congress",
+        "Joe Biden",
+        "General Dynamics",
+        "Lockheed Martin",
+        "Republicans",
+        "Democrats",
+        "Exxon Mobil",
+        "Chevron",
+        "Fortinet",
+        "Unusual Whales",
+        "Northrop Grumman",
+        "Boeing",
+        "RTX",
+        "Well's Fargo",
+        "Raytheon",
+        "Quincy Institute for Responsible Statecraft",
+        "General Dynamics",
+        "Pentagon"
+      ],
+      "document_type": "YouTube video transcript"
+    },
+    "Daily": {
+      "title": "Why Israel Is Delaying the Ground Invasion",
+      "source": "The New York Times",
+      "date": "2023-10-25",
+      "authors": [
+        "Sabrina Tavernise",
+        "Patrick Kingsley"
+      ],
+      "link": "https://www.nytimes.com/2023/10/25/podcasts/the-daily/israel-gaza-invasion.html?showTranscript=1",
+      "relevance_score": 0.9,
+      "relevance_explanation": "The document provides a detailed analysis of the current strategic military considerations and diplomatic efforts between Israel and Gaza following an attack, which is highly relevant for understanding the geopolitical dynamics in the Middle East, the actions each party is taking, and their motivations.",
+      "summary": "The transcript from The New York Times' podcast, The Daily, discusses the reasons behind Israel's delay in initiating a ground invasion of Gaza following an attack by Hamas. The discussion includes analysis of the geopolitical repercussions such an invasion could have, including the heightened risk of civilian casualties and the potentially complicated aftermath of re-establishing control in the region. It touches on Israel's military strategy, the concerns with a densely populated urban battlefield, diplomatic negotiations involving hostages, and the political calculations of Israeli Prime Minister Benjamin Netanyahu.",
+      "events": [
+        "Hamas attack on Israel on October 7th",
+        "Israel preparing for a ground invasion of Gaza",
+        "Negotiations mediated by Qatar and Egypt for the release of hostages",
+        "Intense Israeli airstrikes on Gaza hitting 7,000 targets",
+        "The death of nearly 6,000 people in Gaza as a result of the bombing campaign",
+        "Israel's consideration of a political transition in Gaza post-invasion"
+      ],
+      "entities": [
+        "Israel",
+        "Gaza",
+        "Hamas",
+        "Israeli troops",
+        "Benjamin Netanyahu",
+        "Qatar",
+        "Egypt",
+        "Hezbollah",
+        "Lebanese militia",
+        "Iran",
+        "Palestinian Authority",
+        "Israeli army",
+        "Israeli Air Force",
+        "Gazan civilians",
+        "Hamas fighters",
+        "Joe Biden"
+      ],
+      "document_type": "podcast transcript"
+    },
+    "Times": {
+      "title": "Why Hamas Tried to Sabotage Arab-Israeli Peace Prospects With a Massive Unprovoked Attack",
+      "source": "TIME",
+      "date": "Not provided",
+      "authors": [
+        "Not listed"
+      ],
+      "link": "https://time.com/6321671/why-hamas-sabotaged-peace-prospects-israel-attack/",
+      "relevance_score": 0.8,
+      "relevance_explanation": "This document is highly relevant to the goals of the research, as it discusses a significant geopolitical event in the Middle East that plays into the broader context of the Arab-Israeli peace efforts, power dynamics, and motivations of the groups involved.",
+      "summary": "The article discusses a massive and unprovoked attack by Hamas on Israel that derailed imminent peace prospects exemplified by the developing relationship between Israel and Saudi Arabia. It relates this event to the sabotage of Israeli-Palestinian peace in 2000 and views the attack as an attempt by Hamas to prevent a transformative deal in the region. The document delves into strategic questions that arise from this event, considering the roles of various entities such as Iran, Egypt, Jordan, the Palestinian Authority, Hezbollah, the US, Russia, as well as the internal dynamics of Israel politics surrounding the event.",
+      "events": [
+        "Massive unprovoked attack by Hamas on Israel",
+        "Israel declares all-out war in response",
+        "Derailment of peace efforts between Israel and Saudi Arabia",
+        "Bipartisan U.S. support for Israel declared amidst the crisis",
+        "Increased global scrutiny and pressure on Iran for funding Hamas",
+        "Restraint practised by Egypt, Jordan, and other Arab nations"
+      ],
+      "entities": [
+        "Hamas",
+        "Israel",
+        "Gaza Strip",
+        "Israeli Prime Minister Benjamin Netanyahu",
+        "Saudi Arabia",
+        "United States",
+        "Saudi Crown Prince Mohammed Bin Salman",
+        "Jared Kushner",
+        "Mohamed Allabar",
+        "Iran",
+        "Roya Hakakian",
+        "Mahsa Amini",
+        "Egypt",
+        "Jordan",
+        "West Bank/Palestinian Authority",
+        "Hezbollah",
+        "UAE",
+        "Bahrain",
+        "Morocco",
+        "President Biden",
+        "Yair Lapid",
+        "Benny Gantz",
+        "Mahmound Abbas",
+        "Raytheon",
+        "Russia",
+        "Vladimir Putin",
+        "Syrian dictator Bashar al-Assad",
+        "Israeli Military Intelligence Directorate (Aman)",
+        "Lebanese Hezbollah"
+      ],
+      "document_type": "Online news article"
+    }
+  }
+}

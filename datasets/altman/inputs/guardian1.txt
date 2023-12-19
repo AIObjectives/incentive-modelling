@@ -1,0 +1,57 @@
+Source: Guardian
+Title: OpenAI fires co-founder and CEO Sam Altman for allegedly lying to company board
+Subtitle: AI firm’s board said Altman was ‘not consistently candid in his communications with the board’ and had lost its confidence
+Date: Sat 18 Nov 2023 01.13 GMT
+Authors: Blake Montgomery and Dani Anguiano
+Link: https://www.theguardian.com/technology/2023/nov/17/openai-ceo-sam-altman-fired
+
+=== 
+
+Sam Altman, the chief executive and co-founder of OpenAI, has been ousted from his own company after its board accused him of “being not consistently candid in his communications”.
+
+Altman’s dismissal is a major shakeup in Silicon Valley. Following the launch of ChatGPT, the wildly popular chatbot developed by OpenAI, Altman became one of the world’s most visible tech executives and a sought-after expert on artificial intelligence.
+
+In a statement on Friday, Open AI’s board “no longer has confidence in his ability to lead” and said new leadership is “necessary” as the company moves forward, said a statement posted on its website. He is likewise leaving the company’s board.
+
+“Mr. Altman’s departure follows a deliberative review process by the board, which concluded that he was not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities,” the board’s statement said. What Altman had allegedly hidden from his company’s board was not clear.
+
+Altman tweeted a sunny message after the combative announcement.
+
+“I loved my time at openai. it was transformative for me personally, and hopefully the world a little bit. most of all i loved working with such talented people. will have more to say about what’s next later,” he wrote.
+
+Mira Murati, OpenAI’s CTO, will become interim CEO in his place, according to the statement. Murati has been a part of the San Francisco-based company’s leadership for five years. Greg Brockman will step down from his role as the chair of the board but will retain his other position as OpenAI president, according to the statement.
+
+Brockman announced his departure on social media on Friday. “Based on today’s news, I quit,” he wrote.
+
+
+The announcement blindsided employees, many of whom learned of the sudden ouster from an internal announcement and the company’s public facing blog. OpenAI scheduled an emergency all-hands meeting on Friday afternoon to discuss the news with employees, a person familiar with the matter told Reuters.
+
+Altman has been regarded as the leading voice in the AI field since his company released ChatGPT in November 2022. The generative AI chatbot accrued more than 100 million users in less than a year.
+
+The 38-year-old has led efforts to create “artificial general intelligence”, or AGI, an AI system capable of completing any task a human can achieve.
+
+Altman helped found the company in 2015, initially as a non-profit with a $1bn endowment from high-profile backers including Elon Musk, Peter Thiel and LinkedIn co-founder Reid Hoffman. Altman and Musk served as co-chairs with a goal “to advance digital intelligence in the way that is most likely to benefit humanity as a whole, unconstrained by a need to generate financial return”. In 2019, however, OpenAI reshaped itself around a “capped profit” model with Altman as the CEO.
+
+After releasing ChatGPT last year, Altman was thrust into the spotlight. He has been among the most vocal proponents of artificial intelligence, but has also led calls for regulation and warned that the technology comes with risks as it reshapes society. He testified before the US Congress in May about what form AI legislation should take.
+
+Sam Altman speaks to the media after testifying in Washington as part of a hearing on how artificial intelligence should be regulated.
+Sam Altman speaks to the media after testifying in Washington as part of a hearing on how artificial intelligence should be regulated. Photograph: Jim Lo Scalzo/EPA
+Altman has long been viewed as a Silicon Valley wunderkind. In the tradition of other tech founders before him, Altman dropped out of Stanford in 2005 to launch his social-networking app, Loopt, which he later sold for $43m. He was recruited in 2014 to serve as the president of the startup accelerator Y Combinator but left in 2020 to focus on OpenAI.
+
+The launch of ChatGPT elevated his profile significantly – he has been called the father of ChatGPT and the “Oppenheimer of our age”. Earlier this year he traveled on a 22-country tour in which he met with world leaders, including Rishi Sunak, Emmanuel Macron and Narendra Modi, among others.
+
+Just one day before his firing, he spoke at the Asia-Pacific Economic Cooperation conference in San Francisco where he argued that AI will be “the greatest leap forward of any of the big technological revolutions we’ve had so far”.
+
+He also acknowledged the need for guardrails.
+
+“I really think the world is going to rise to the occasion and everybody wants to do the right thing,” Altman said.
+
+Stocks for Microsoft, a key business partner of OpenAI that announced this year it planned to invest billions in the company, further fell on Friday after news broke of Altman’s departure. Microsoft said the shakeup will not affect its relationship with OpenAI.
+
+At an emergency all-hands meeting on Friday afternoon after the announcement, Murati sought to calm employees and said OpenAI’s partnership with Microsoft is stable and its backer’s executives, including CEO Satya Nadella, continue to express confidence in the startup, a person familiar with the matter told Reuters.
+
+The Information previously reported details of the meeting.
+
+“Microsoft remains committed to Mira and their team as we bring this next era of AI to our customers,” a spokesperson for the software maker told Reuters on Friday.
+
+In a statement published on Microsoft’s website, Nadella added: “We have a long-term agreement with OpenAI ... Together, we will continue to deliver the meaningful benefits of this technology to the world.”

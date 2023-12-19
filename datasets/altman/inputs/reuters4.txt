@@ -1,0 +1,43 @@
+Source: Reuters
+Title: OpenAI researchers warned board of AI breakthrough ahead of CEO ouster, sources say
+Author: Anna Tong, Jeffrey Dastin and Krystal Hu
+Date: November 23, 20239:52 AM GMT
+Link: https://www.reuters.com/technology/sam-altmans-ouster-openai-was-precipitated-by-letter-board-about-ai-breakthrough-2023-11-22/
+
+=== 
+
+Nov 22 (Reuters) - Ahead of OpenAI CEO Sam Altman’s four days in exile, several staff researchers wrote a letter to the board of directors warning of a powerful artificial intelligence discovery that they said could threaten humanity, two people familiar with the matter told Reuters.
+
+The previously unreported letter and AI algorithm were key developments before the board's ouster of Altman, the poster child of generative AI, the two sources said. Prior to his triumphant return late Tuesday, more than 700 employees had threatened to quit and join backer Microsoft (MSFT.O) in solidarity with their fired leader.
+
+The sources cited the letter as one factor among a longer list of grievances by the board leading to Altman's firing, among which were concerns over commercializing advances before understanding the consequences. Reuters was unable to review a copy of the letter. The staff who wrote the letter did not respond to requests for comment.
+
+After being contacted by Reuters, OpenAI, which declined to comment, acknowledged in an internal message to staffers a project called Q* and a letter to the board before the weekend's events, one of the people said. An OpenAI spokesperson said that the message, sent by long-time executive Mira Murati, alerted staff to certain media stories without commenting on their accuracy.
+
+Some at OpenAI believe Q* (pronounced Q-Star) could be a breakthrough in the startup's search for what's known as artificial general intelligence (AGI), one of the people told Reuters. OpenAI defines AGI as autonomous systems that surpass humans in most economically valuable tasks.
+
+Given vast computing resources, the new model was able to solve certain mathematical problems, the person said on condition of anonymity because the individual was not authorized to speak on behalf of the company. Though only performing math on the level of grade-school students, acing such tests made researchers very optimistic about Q*’s future success, the source said.
+
+Reuters could not independently verify the capabilities of Q* claimed by the researchers.
+
+'VEIL OF IGNORANCE'
+
+[1/2]Sam Altman, CEO of ChatGPT maker OpenAI, arrives for a bipartisan Artificial Intelligence (AI) Insight Forum for all U.S. senators hosted by Senate Majority Leader Chuck Schumer (D-NY) at the U.S. Capitol in Washington, U.S., September 13, 2023. REUTERS/Julia Nikhinson/File Photo Acquire Licensing Rights
+
+
+
+Researchers consider math to be a frontier of generative AI development. Currently, generative AI is good at writing and language translation by statistically predicting the next word, and answers to the same question can vary widely. But conquering the ability to do math — where there is only one right answer — implies AI would have greater reasoning capabilities resembling human intelligence. This could be applied to novel scientific research, for instance, AI researchers believe.
+
+Unlike a calculator that can solve a limited number of operations, AGI can generalize, learn and comprehend.
+
+In their letter to the board, researchers flagged AI’s prowess and potential danger, the sources said without specifying the exact safety concerns noted in the letter. There has long been discussion among computer scientists about the danger posed by highly intelligent machines, for instance if they might decide that the destruction of humanity was in their interest.
+
+Researchers have also flagged work by an "AI scientist" team, the existence of which multiple sources confirmed. The group, formed by combining earlier "Code Gen" and "Math Gen" teams, was exploring how to optimize existing AI models to improve their reasoning and eventually perform scientific work, one of the people said.
+
+Altman led efforts to make ChatGPT one of the fastest growing software applications in history and drew investment - and computing resources - necessary from Microsoft to get closer to AGI.
+
+In addition to announcing a slew of new tools in a demonstration this month, Altman last week teased at a summit of world leaders in San Francisco that he believed major advances were in sight.
+
+"Four times now in the history of OpenAI, the most recent time was just in the last couple weeks, I've gotten to be in the room, when we sort of push the veil of ignorance back and the frontier of discovery forward, and getting to do that is the professional honor of a lifetime," he said at the Asia-Pacific Economic Cooperation summit.
+
+A day later, the board fired Altman.

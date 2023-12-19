@@ -1,0 +1,37 @@
+{
+  "title": "OpenAI fires co-founder and CEO Sam Altman for allegedly lying to company board",
+  "source": "Guardian",
+  "date": "Sat 18 Nov 2023 01.13 GMT",
+  "authors": [
+    "Blake Montgomery",
+    "Dani Anguiano"
+  ],
+  "link": "https://www.theguardian.com/technology/2023/nov/17/openai-ceo-sam-altman-fired",
+  "relevance_score": 0.9,
+  "relevance_explanation": "This document is directly relevant to the main research goal, as it discusses the reasons behind Sam Altman's dismissal from OpenAI, and provides insights into the immediate aftermath, including reactions from relevant parties and the market.",
+  "summary": "Sam Altman was ousted from OpenAI by its board on allegations of being 'not consistently candid in his communications.' This led to a lack of confidence in his leadership, and subsequent replacement by Mira Murati as interim CEO. Greg Brockman stepped down as chair of the board but remains OpenAI president. Altman's firing surprised employees, was followed by an emergency all-hands meeting, and impacted Microsoft's stocks. However, Microsoft maintains its commitment to OpenAI and looks forward to its ongoing partnership.",
+  "events": [
+    "Sam Altman's dismissal as CEO of OpenAI",
+    "OpenAI's board releases a statement regarding the lack of confidence in Altman",
+    "Mira Murati appointed as OpenAI's interim CEO",
+    "Greg Brockman's resignation from his role as the chair of the board",
+    "OpenAI's emergency all-hands meeting following the announcement",
+    "Microsoft's stock price drop",
+    "Microsoft reaffirming its commitment to OpenAI post-announcement"
+  ],
+  "entities": [
+    "Sam Altman",
+    "OpenAI",
+    "Mira Murati",
+    "Greg Brockman",
+    "Microsoft",
+    "Satya Nadella",
+    "Elon Musk",
+    "Peter Thiel",
+    "Reid Hoffman",
+    "ChatGPT",
+    "Reuters",
+    "The Information"
+  ],
+  "document_type": "newspaper article"
+}

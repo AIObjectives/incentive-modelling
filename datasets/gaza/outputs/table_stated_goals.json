@@ -1,0 +1,651 @@
+{
+  "columns": [
+    {
+      "id": "56472",
+      "name": "Netanyahu",
+      "count": 6
+    },
+    {
+      "id": "555560",
+      "name": "Piers Morgan",
+      "count": 3
+    },
+    {
+      "id": "3434750",
+      "name": "United States",
+      "count": 3
+    },
+    {
+      "id": "33240386",
+      "name": "Bassem Youssef",
+      "count": 3
+    },
+    {
+      "id": "12047",
+      "name": "Gaza",
+      "count": 2
+    },
+    {
+      "id": "13913",
+      "name": "Hamas",
+      "count": 2
+    },
+    {
+      "id": "23267",
+      "name": "Palestinian",
+      "count": 2
+    },
+    {
+      "id": "24093",
+      "name": "Palestinian Authority",
+      "count": 2
+    },
+    {
+      "id": "145422",
+      "name": "Joe Biden",
+      "count": 2
+    },
+    {
+      "id": "349303",
+      "name": "Saudi Arabia",
+      "count": 2
+    },
+    {
+      "id": "9282173",
+      "name": "Israel",
+      "count": 2
+    },
+    {
+      "id": "10976205",
+      "name": "Sabrina Tavernise",
+      "count": 2
+    },
+    {
+      "id": "14653",
+      "name": "Iran",
+      "count": 1
+    },
+    {
+      "id": "30680",
+      "name": "New York Times",
+      "count": 1
+    },
+    {
+      "id": "31756",
+      "name": "US Congress",
+      "count": 1
+    },
+    {
+      "id": "52108",
+      "name": "General Dynamics",
+      "count": 1
+    },
+    {
+      "id": "232595",
+      "name": "Mahmoud Abbas",
+      "count": 1
+    },
+    {
+      "id": "1114732",
+      "name": "Palestine",
+      "count": 1
+    },
+    {
+      "id": "7515964",
+      "name": "Jordan",
+      "count": 1
+    },
+    {
+      "id": "8087628",
+      "name": "Egypt",
+      "count": 1
+    },
+    {
+      "id": "26385186",
+      "name": "Israeli",
+      "count": 1
+    },
+    {
+      "id": "38689358",
+      "name": "Mohammed Bin Salman",
+      "count": 1
+    },
+    {
+      "id": "59993169",
+      "name": "Patrick Kingsley",
+      "count": 1
+    }
+  ],
+  "rows": [
+    {
+      "id": "Middle East Conflict",
+      "name": "Middle East Conflict",
+      "representativeItem": "Support for Israel's security",
+      "count": 19
+    },
+    {
+      "id": "Peace Initiatives",
+      "name": "Peace Initiatives",
+      "representativeItem": "Achieving a peace agreement with Saudi Arabia",
+      "count": 5
+    },
+    {
+      "id": "Public Discourse",
+      "name": "Public Discourse",
+      "representativeItem": "He attempts to create a fair discussion platform",
+      "count": 4
+    },
+    {
+      "id": "Miscellaneous or Unspecified",
+      "name": "Miscellaneous or Unspecified",
+      "representativeItem": "Not specified in the document",
+      "count": 3
+    },
+    {
+      "id": "Political Aspirations",
+      "name": "Political Aspirations",
+      "representativeItem": "Maintaining his political power",
+      "count": 3
+    },
+    {
+      "id": "Israel Support",
+      "name": "Israel Support",
+      "representativeItem": "Support for Israel's security",
+      "count": 3
+    },
+    {
+      "id": "Media and Reporting",
+      "name": "Media and Reporting",
+      "representativeItem": "Deliver accurate news and analysis",
+      "count": 2
+    },
+    {
+      "id": "Comedy and Performance",
+      "name": "Comedy and Performance",
+      "representativeItem": "Keep his comedy performance coontinuing",
+      "count": 1
+    },
+    {
+      "id": "Cultural Preservation",
+      "name": "Cultural Preservation",
+      "representativeItem": "Preserving culture and heritage",
+      "count": 1
+    }
+  ],
+  "cells": {
+    "Middle East Conflict_33240386": [
+      {
+        "item": "Raise awareness about the Middle East condition",
+        "src_id": "Bassem1",
+        "quote": "I would know this but like I would really love to tell...might not be go well with other people but at least we have a conversation and I think that is the reason why people reacted that way."
+      }
+    ],
+    "Public Discourse_33240386": [
+      {
+        "item": "Speak up against controversial issues",
+        "src_id": "Bassem1",
+        "quote": "I was a heart surgeon until yeah uh 2011 happened and the revolution happened and I had my own show on YouTube..."
+      }
+    ],
+    "Comedy and Performance_33240386": [
+      {
+        "item": "Keep his comedy performance coontinuing",
+        "src_id": "Bassem1",
+        "quote": "So, a lot of people think that I'm healing asylum I'm not I just it was just a strike of luck"
+      }
+    ],
+    "Public Discourse_555560": [
+      {
+        "item": "Piers Morgan aims to get a clear understanding of complex issues",
+        "src_id": "Bassem1",
+        "quote": "here's where I've got to with this conflict now..."
+      },
+      {
+        "item": "He attempts to create a fair discussion platform",
+        "src_id": "Bassem1",
+        "quote": "I'm struggling to find myself saying I condemn it because I believe"
+      },
+      {
+        "item": "Piers Morgan wants to discuss and highlight important global issues",
+        "src_id": "Bassem2",
+        "quote": "(57:41) I'm Piers Morgan uncensored in New York City"
+      }
+    ],
+    "Miscellaneous or Unspecified_1114732": [
+      {
+        "item": "Strategic Significance",
+        "src_id": "Bassem1",
+        "quote": "Palestine is a geographical region in West Asia...its strategic, cultural, and religious significance."
+      }
+    ],
+    "Middle East Conflict_23267": [
+      {
+        "item": "Right to return to their homes in Palestine and stop ongoing injustices",
+        "src_id": "Bassem2",
+        "quote": "(1:02:03) 2 million people living in Gaza there are 3.5 million people living in the West Bank there is 350,000 people lifting East and there's like six or seven million people living outside those people the Palestinian that were pushed out they do not have the right to go back right now if you meet Palestinians you'll see them wearing a necklace with a key that key is their house that they were kicked out from in yafa."
+      },
+      {
+        "item": "22% land restoration as part of possible resolution",
+        "src_id": "Bassem2",
+        "quote": "(1:07:46) the official stand of the Palestinian Authority and again I cannot speak it is very difficult to do this the official send of the Palestinian Authority is that we we are just happy with 22% of the land"
+      }
+    ],
+    "Middle East Conflict_26385186": [
+      {
+        "item": "Israel's supposed goal to eradicate Hamas",
+        "src_id": "Bassem2",
+        "quote": "Israel has decided to eliminate a terror group Hamas as the world did with Isis for example"
+      }
+    ],
+    "Political Aspirations_56472": [
+      {
+        "item": "Maintaining his political power",
+        "src_id": "Bassem2",
+        "quote": "(1:08:43) he had to to get power uh you know again he had put a bunch of right-wing Headbangers into his cabinet who have incredibly bad records"
+      }
+    ],
+    "Middle East Conflict_56472": [
+      {
+        "item": "Expanding Israeli territory",
+        "src_id": "Bassem2",
+        "quote": "(1:04:59) fact all along history Israel didn't give an inch of land by peace"
+      },
+      {
+        "item": "End to Hamas",
+        "src_id": "Daily",
+        "quote": "I mean, initially, of course, he declared there would be an end to Hamas with this great urgency."
+      },
+      {
+        "item": "Remove the threat of Hamas",
+        "src_id": "Daily",
+        "quote": "It has to do something. And far from being irrational and emotional to respond to what Hamas has done, it’s actually the most logical thing, to try to remove this organization that just led these bloody massacres in Southern Israel."
+      },
+      {
+        "item": "To declare Hamas as an illegitimate entity",
+        "src_id": "Times",
+        "quote": "Hamas is a group dedicated to wiping out the Jewish State of Israel and refuses to recognize Israel’s legitimacy."
+      }
+    ],
+    "Cultural Preservation_12047": [
+      {
+        "item": "Preserving culture and heritage",
+        "src_id": "Bassem2",
+        "quote": "(56:58) ...there was like a vibrant Palestinian culture happening over there and right now they are erasing this culture..."
+      }
+    ],
+    "Political Aspirations_349303": [
+      {
+        "item": "Maintain political influence and cultural heritage",
+        "src_id": "Bassem2",
+        "quote": "The nation is globally significant due to its vast reserves of petroleum, making it the world's third-largest oil producer, and is known for its dominant influence in the Middle East and parts of Asia through its rich cultural heritage and political power."
+      }
+    ],
+    "Political Aspirations_31756": [
+      {
+        "item": "Represent the people of America",
+        "src_id": "Brand",
+        "quote": "if it's your job to run America to represent the people of America and you are also making those kind of Investments"
+      }
+    ],
+    "Israel Support_145422": [
+      {
+        "item": "Support for Israel's security",
+        "src_id": "Brand",
+        "quote": "(02:00) let's have a look at Joe Biden as you might imagine pledging support and claiming that this is a simple moral issue my Administration and support for Israel's security is Rock Solid and unwavering"
+      },
+      {
+        "item": "Stand strongly behind Israel",
+        "src_id": "Times",
+        "quote": "President Biden and leading U.S. Republican voices alike are vowing to stand strongly behind Israel."
+      }
+    ],
+    "Miscellaneous or Unspecified_52108": [
+      {
+        "item": "Not specified in the document",
+        "src_id": "Brand",
+        "quote": "N/A"
+      }
+    ],
+    "Middle East Conflict_9282173": [
+      {
+        "item": "Eliminate Hamas from Gaza",
+        "src_id": "Daily",
+        "quote": "There’s a sense that after what Hamas did on October 7th, there’s no way that Israel could really countenance keeping us in its leadership on their doorstep."
+      }
+    ],
+    "Middle East Conflict_12047": [
+      {
+        "item": "Eliminate the threat posed by Hamas",
+        "src_id": "Daily",
+        "quote": "But underneath that headline, there’s a lot of nuance. For a start, there’s a small and not particularly vocal minority that doesn’t want to invade at all. And even among the people that do want an invasion, there are a mixture of positions. There are certainly those that sound very vengeful, there are people on the far right who are calling for the expulsion of all Palestinians from Gaza. But then there’s also probably a much bigger group that just wants to get rid of Hamas..."
+      }
+    ],
+    "Middle East Conflict_13913": [
+      {
+        "item": "Hamas, through their actions, seemingly aims to resist Israeli control and advocate for Palestinian rights",
+        "src_id": "Daily",
+        "quote": "If you do go in, what do you do after that? Hamas, the whole point of going in is to destroy Hamas."
+      },
+      {
+        "item": "Sabotage peace prospects in Mideast",
+        "src_id": "Times",
+        "quote": "the trigger to the attack was likely that the prospect of a wider Mideast peace was almost at hand through an impending deal between Israel and Saudi Arabia. Hamas’ sabotage parallels the disruption of the prospective Israeli-Palestinian peace plan in 2000."
+      }
+    ],
+    "Middle East Conflict_59993169": [
+      {
+        "item": "Understanding reasons for Israel's delay in ground invasion",
+        "src_id": "Daily",
+        "quote": "Today, I talk to Jerusalem Bureau Chief Patrick Kingsley about why. It’s Wednesday. October 25th."
+      }
+    ],
+    "Middle East Conflict_10976205": [
+      {
+        "item": "Understanding the reasons behind Israel's delay in ground invasion of Gaza",
+        "src_id": "Daily",
+        "quote": "More than two weeks later, that invasion hasn’t happened. Today, I talk to Jerusalem Bureau Chief Patrick Kingsley about why."
+      }
+    ],
+    "Media and Reporting_10976205": [
+      {
+        "item": "Providing valuable and updated information through her war correspondence",
+        "src_id": "Daily",
+        "quote": "I’ve spent the last nine hours watching security camera footage from a kibbutz in the South called Kibbutz Be’eri, where more than 100 people were killed on October 7th during the Hamas terrorist attacks."
+      }
+    ],
+    "Middle East Conflict_24093": [
+      {
+        "item": "Get rid of Hamas",
+        "src_id": "Daily",
+        "quote": "There’s a sense that after what Hamas did on October 7th, there’s no way that Israel could really countenance keeping us in its leadership on their doorstep."
+      },
+      {
+        "item": "The Palestinian Authority seeks normalization and peace with other nations",
+        "src_id": "Times",
+        "quote": "Many in the Palestinian Authority were said to welcome a Saudi peace plan as well the offer of financial assistance to improve the lives of Palestinians before Hamas sabotaged those plans Saturday."
+      }
+    ],
+    "Media and Reporting_30680": [
+      {
+        "item": "Deliver accurate news and analysis",
+        "src_id": "Daily",
+        "quote": "Patrick Kingsley: You’re reaching me on the road between Tel Aviv and Jerusalem. I’ve spent the last nine hours watching security camera footage from a kibbutz in the South called Kibbutz Be’eri, where more than 100 people were killed on October 7th during the Hamas terrorist attacks. And I’ve been trying to research exactly what happened that day to try and piece together the events of the day."
+      }
+    ],
+    "Peace Initiatives_9282173": [
+      {
+        "item": "Achieving a peace agreement with Saudi Arabia",
+        "src_id": "Times",
+        "quote": "Israel, Saudi Arabia, and the United States were inching closer towards a transformative three-way deal, which would have seen Israel and Saudi formally recognize each other within a security, defense, and economic partnership with the U.S.'"
+      }
+    ],
+    "Peace Initiatives_349303": [
+      {
+        "item": "Saudi Arabia aims at normalizing diplomatic relations with Israel",
+        "src_id": "Times",
+        "quote": "Israel, Saudi Arabia, and the United States were inching closer towards a transformative three-way deal, which would have seen Israel and Saudi formally recognize each other within a security, defense, and economic partnership with the U.S."
+      }
+    ],
+    "Israel Support_3434750": [
+      {
+        "item": "Support Israel",
+        "src_id": "Times",
+        "quote": "President Biden and leading U.S. Republican voices alike are vowing to stand strongly behind Israel."
+      }
+    ],
+    "Peace Initiatives_3434750": [
+      {
+        "item": "Inspire a stronger bond between Israel and Saudi Arabia",
+        "src_id": "Times",
+        "quote": "Israel, Saudi Arabia, and the United States were inching closer towards a transformative three-way deal."
+      }
+    ],
+    "Middle East Conflict_3434750": [
+      {
+        "item": "Neutralize the threats of Hamas",
+        "src_id": "Times",
+        "quote": "The U.S. cannot afford to draw back its support for Israel now; if Hamas and Iran are not sufficiently punished for this round of violence, there are likely only larger provocations ahead."
+      }
+    ],
+    "Peace Initiatives_56472": [
+      {
+        "item": "Fostering peace between Israel and Saudi Arabia",
+        "src_id": "Times",
+        "quote": "Netanyahu similarly stated that he was confident of forging 'a historic peace' between his country and Saudi Arabia, with Israeli cabinet ministers already landing in Riyadh to 'nurture blossoming ties.'"
+      }
+    ],
+    "Middle East Conflict_14653": [
+      {
+        "item": "Support Hamas and destabilize Israel",
+        "src_id": "Times",
+        "quote": "Iran has always been Hamas’ single largest sponsor, providing 70% of the financing for Hamas including upwards of $100 million in military aid every year in addition to military training and humanitarian assistance."
+      }
+    ],
+    "Peace Initiatives_38689358": [
+      {
+        "item": "Achieving a formal recognition and alliance between Israel and Saudi Arabia",
+        "src_id": "Times",
+        "quote": "Just a week ago, Saudi Crown Prince Mohammed Bin Salman said that “every day we get closer” to a deal, while Netanyahu similarly stated that he was confident of forging “a historic peace” between his country and Saudi Arabia, with Israeli cabinet ministers already landing in Riyadh to “nurture blossoming ties.”"
+      }
+    ],
+    "Miscellaneous or Unspecified_8087628": [
+      {
+        "item": "Not explicitly mentioned",
+        "src_id": "Times",
+        "quote": ""
+      }
+    ],
+    "Middle East Conflict_7515964": [
+      {
+        "item": "Maintain peace with Israel",
+        "src_id": "Times",
+        "quote": "So far, thanks in large part to President Biden’s strong deterrence, it appears other Arabic nations, especially Egypt and Jordan, are not rushing to support Hamas in any substantive ways, rhetorical flourishes aside."
+      }
+    ]
+  },
+  "meta": {
+    "Bassem1": {
+      "title": "LIVE: Bassem Youssef Returns | Piers Morgan Uncensored | 01-Nov-23",
+      "source": "YouTube",
+      "date": "01 November 2023",
+      "authors": [
+        "Piers Morgan",
+        "Bassem Youssef"
+      ],
+      "link": "https://www.youtube.com/watch?v=hbb-A0G330s",
+      "relevance_score": 0.8,
+      "relevance_explanation": "The document discusses the geopolitical situation in the Middle East, specifically the Israel-Palestine conflict, through the lens of Bassem Youssef, an Egyptian comedian and political commentator. It provides insights into the motivations and views of different entities involved, reflecting on the power dynamics and public opinions. It is relevant as it explores the narratives surrounding key historical and contemporary events shaping the region.",
+      "summary": "The transcript is from a Piers Morgan interview with Bassem Youssef, addressing the geopolitical situation in the Middle East, with a focus on the Israel-Palestine conflict. Youssef shares his experiences and opinions on regional politics, media coverage, and the implications of differing perspectives. Discussions include the impact of European colonialism, the Arab Spring, and the dynamics of military and religious authority in Egypt.",
+      "events": [
+        "Bassem Youssef's interview following the Israel-Palestine conflict",
+        "Discussion on societal attitudes and media's role in shaping the narrative",
+        "Reflection on Bassem Youssef's past arrest and subsequent emigration",
+        "Presentation of the historical context of the Israel-Palestine conflict by Bassem Youssef"
+      ],
+      "entities": [
+        "Bassem Youssef",
+        "Piers Morgan",
+        "Israel",
+        "Palestine",
+        "Europeans",
+        "Hamas",
+        "Arab world",
+        "Donald Trump",
+        "Muhammad Morsi",
+        "General Sisi",
+        "Cairo",
+        "Tahrir Square",
+        "Larry King",
+        "CNN"
+      ],
+      "document_type": "Transcript of a video interview"
+    },
+    "Bassem2": {
+      "title": "LIVE: Bassem Youssef Returns | Piers Morgan Uncensored | 01-Nov-23",
+      "source": "YouTube",
+      "date": "01 November 2023",
+      "authors": [
+        "Piers Morgan",
+        "Bassem Youssef"
+      ],
+      "link": "https://www.youtube.com/watch?v=hbb-A0G330s",
+      "relevance_score": 0.8,
+      "relevance_explanation": "The document is a transcript of a discussion between Piers Morgan and Bassem Youssef, addressing the geopolitical situation in the Middle East, particularly the Israeli-Palestinian conflict. Given the complex dynamics and the historical context of the issue, the content is relevant to understanding the motivations and actions of entities in the region.",
+      "summary": "The document is a transcript of a segment from 'Piers Morgan Uncensored' featuring Bassem Youssef. The conversation delves into the Palestinian-Israeli conflict, historical grievances, the roles and perspectives of various entities, and the broader implications for Middle Eastern geopolitics and cultural dynamics. Youssef criticizes certain Israeli policies and actions, and conveys the sentiment among Arabs of inequality in the global arena, particularly concerning the West's response to events in the Middle East.",
+      "events": [
+        "Discussion of cultural erasure in the context of the Israeli-Palestinian conflict",
+        "Examination of historical events and grievances leading up to and stemming from the events of 1948",
+        "Reference to changing political leadership in Israel and potential implications for the conflict",
+        "Allegations of ongoing injustices against Palestinians in Gaza and the West Bank",
+        "References to previous conflicts and Israeli military responses"
+      ],
+      "entities": [
+        "Bassem Youssef",
+        "Piers Morgan",
+        "Palestinian people",
+        "Israeli government",
+        "Hamas",
+        "Jonathan Friedland",
+        "Netanyahu",
+        "Queen Rania of Jordan",
+        "Iran",
+        "United Nations",
+        "Egypt"
+      ],
+      "document_type": "This is a transcript of a podcast/interview segment featuring a conversation on a politically sensitive topic with relevance to Middle Eastern geopolitics."
+    },
+    "Brand": {
+      "title": "Israel vs Palestine: What They’re Not Telling You",
+      "source": "YouTube",
+      "date": "unknown",
+      "authors": [
+        "unknown"
+      ],
+      "link": "https://www.youtube.com/watch?v=OWzJNTiXnv0",
+      "relevance_score": 0.7,
+      "relevance_explanation": "The document contains an analysis of the Middle East conflict from a geopolitical and financial perspective, which is relevant to understanding the motivations of involved entities and the power dynamics. However, its focus on US Congress members' investments and the military-industrial complex may have limited direct implications for the broader geopolitical situation in the Middle East.",
+      "summary": "The document is a transcript of a video where the narrator discusses how the conflict between Israel and Hamas has led to members of the US Congress investing in military-related stocks. It highlights the potential conflict of interest and questions the ethical implications of these actions. The narrator also critiques the revolving door between the Pentagon/military officials and the arms industry, lobbying activities' influence on conflicts, and the impact of geopolitical tensions on defense stocks.",
+      "events": [
+        "Escalation of conflict between Israel and Hamas",
+        "US Congress members investing in military-related stocks",
+        "Russia invades Ukraine",
+        "Shares of defense companies surge due to geopolitical tensions"
+      ],
+      "entities": [
+        "Israel",
+        "Hamas",
+        "US Congress",
+        "Joe Biden",
+        "General Dynamics",
+        "Lockheed Martin",
+        "Republicans",
+        "Democrats",
+        "Exxon Mobil",
+        "Chevron",
+        "Fortinet",
+        "Unusual Whales",
+        "Northrop Grumman",
+        "Boeing",
+        "RTX",
+        "Well's Fargo",
+        "Raytheon",
+        "Quincy Institute for Responsible Statecraft",
+        "General Dynamics",
+        "Pentagon"
+      ],
+      "document_type": "YouTube video transcript"
+    },
+    "Daily": {
+      "title": "Why Israel Is Delaying the Ground Invasion",
+      "source": "The New York Times",
+      "date": "2023-10-25",
+      "authors": [
+        "Sabrina Tavernise",
+        "Patrick Kingsley"
+      ],
+      "link": "https://www.nytimes.com/2023/10/25/podcasts/the-daily/israel-gaza-invasion.html?showTranscript=1",
+      "relevance_score": 0.9,
+      "relevance_explanation": "The document provides a detailed analysis of the current strategic military considerations and diplomatic efforts between Israel and Gaza following an attack, which is highly relevant for understanding the geopolitical dynamics in the Middle East, the actions each party is taking, and their motivations.",
+      "summary": "The transcript from The New York Times' podcast, The Daily, discusses the reasons behind Israel's delay in initiating a ground invasion of Gaza following an attack by Hamas. The discussion includes analysis of the geopolitical repercussions such an invasion could have, including the heightened risk of civilian casualties and the potentially complicated aftermath of re-establishing control in the region. It touches on Israel's military strategy, the concerns with a densely populated urban battlefield, diplomatic negotiations involving hostages, and the political calculations of Israeli Prime Minister Benjamin Netanyahu.",
+      "events": [
+        "Hamas attack on Israel on October 7th",
+        "Israel preparing for a ground invasion of Gaza",
+        "Negotiations mediated by Qatar and Egypt for the release of hostages",
+        "Intense Israeli airstrikes on Gaza hitting 7,000 targets",
+        "The death of nearly 6,000 people in Gaza as a result of the bombing campaign",
+        "Israel's consideration of a political transition in Gaza post-invasion"
+      ],
+      "entities": [
+        "Israel",
+        "Gaza",
+        "Hamas",
+        "Israeli troops",
+        "Benjamin Netanyahu",
+        "Qatar",
+        "Egypt",
+        "Hezbollah",
+        "Lebanese militia",
+        "Iran",
+        "Palestinian Authority",
+        "Israeli army",
+        "Israeli Air Force",
+        "Gazan civilians",
+        "Hamas fighters",
+        "Joe Biden"
+      ],
+      "document_type": "podcast transcript"
+    },
+    "Times": {
+      "title": "Why Hamas Tried to Sabotage Arab-Israeli Peace Prospects With a Massive Unprovoked Attack",
+      "source": "TIME",
+      "date": "Not provided",
+      "authors": [
+        "Not listed"
+      ],
+      "link": "https://time.com/6321671/why-hamas-sabotaged-peace-prospects-israel-attack/",
+      "relevance_score": 0.8,
+      "relevance_explanation": "This document is highly relevant to the goals of the research, as it discusses a significant geopolitical event in the Middle East that plays into the broader context of the Arab-Israeli peace efforts, power dynamics, and motivations of the groups involved.",
+      "summary": "The article discusses a massive and unprovoked attack by Hamas on Israel that derailed imminent peace prospects exemplified by the developing relationship between Israel and Saudi Arabia. It relates this event to the sabotage of Israeli-Palestinian peace in 2000 and views the attack as an attempt by Hamas to prevent a transformative deal in the region. The document delves into strategic questions that arise from this event, considering the roles of various entities such as Iran, Egypt, Jordan, the Palestinian Authority, Hezbollah, the US, Russia, as well as the internal dynamics of Israel politics surrounding the event.",
+      "events": [
+        "Massive unprovoked attack by Hamas on Israel",
+        "Israel declares all-out war in response",
+        "Derailment of peace efforts between Israel and Saudi Arabia",
+        "Bipartisan U.S. support for Israel declared amidst the crisis",
+        "Increased global scrutiny and pressure on Iran for funding Hamas",
+        "Restraint practised by Egypt, Jordan, and other Arab nations"
+      ],
+      "entities": [
+        "Hamas",
+        "Israel",
+        "Gaza Strip",
+        "Israeli Prime Minister Benjamin Netanyahu",
+        "Saudi Arabia",
+        "United States",
+        "Saudi Crown Prince Mohammed Bin Salman",
+        "Jared Kushner",
+        "Mohamed Allabar",
+        "Iran",
+        "Roya Hakakian",
+        "Mahsa Amini",
+        "Egypt",
+        "Jordan",
+        "West Bank/Palestinian Authority",
+        "Hezbollah",
+        "UAE",
+        "Bahrain",
+        "Morocco",
+        "President Biden",
+        "Yair Lapid",
+        "Benny Gantz",
+        "Mahmound Abbas",
+        "Raytheon",
+        "Russia",
+        "Vladimir Putin",
+        "Syrian dictator Bashar al-Assad",
+        "Israeli Military Intelligence Directorate (Aman)",
+        "Lebanese Hezbollah"
+      ],
+      "document_type": "Online news article"
+    }
+  }
+}

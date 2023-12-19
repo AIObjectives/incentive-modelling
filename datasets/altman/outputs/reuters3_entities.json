@@ -1,0 +1,476 @@
+[
+  {
+    "name": "OpenAI",
+    "description": "A company involved in the generative AI sector, and the maker of ChatGPT",
+    "mentions": 13,
+    "wikipedia": {
+      "id": "48795986",
+      "name": "OpenAI",
+      "extract": "OpenAI is an American artificial intelligence (AI) research organization consisting of the non-profit OpenAI, Inc. registered in Delaware and its for-profit subsidiary OpenAI Global, LLC. OpenAI researches artificial intelligence with the declared intention of developing \"safe and beneficial\" artificial general intelligence, which it defines as \"highly autonomous systems that outperform humans at most economically valuable work\". OpenAI has also developed several large language models, such as ChatGPT and GPT-4, as well as advanced image generation models like DALL-E 3, and in the past published open-source models.The organization was founded in December 2015 by Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston, John Schulman, Pamela Vagata, and Wojciech Zaremba, with Sam Altman and Elon Musk serving as the initial board members. Microsoft provided OpenAI Global LLC with a $1 billion investment in 2019 and a $10 billion investment in 2023, with a significant portion of the investment in the form of compute resources on Microsoft's Azure cloud service.On November 17, 2023, the board removed Altman as CEO, while Brockman was removed as chairman and then resigned as president. Four days later, both returned after negotiations with the board, and most of the board members resigned. The new initial board included former Salesforce co-CEO Bret Taylor as chairman. OpenAI also announced that Microsoft would have a non-voting board seat at OpenAI.",
+      "description": "OpenAI is an American AI research organization, focusing on developing \"safe and beneficial\" artificial general intelligence and producing large language and image generation models, funded by significant investments by Microsoft."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Benefit humanity, not just investors",
+          "quote": "OpenAI Nonprofit, which according to OpenAI's website was created to benefit 'humanity, not OpenAI investors.'"
+        },
+        {
+          "item": "Preserve core mission, governance, and oversight",
+          "quote": "Keeping control of operations let the nonprofit preserve its 'core mission, governance, and oversight,' according to the company's website."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Avoid harm to investors and employees",
+          "quote": "Some investors in OpenAI, makers of ChatGPT, are exploring legal recourse against the company's board, sources familiar with the matter told Reuters on Monday, after the directors ousted CEO Sam Altman and sparked a potential mass exodus of employees."
+        },
+        {
+          "item": "Maintain integrity of the organization’s mission",
+          "quote": "That is a feature, not a bug of OpenAI's structure, which started out as a nonprofit but added a for-profit subsidiary in 2019 to raise capital."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Firing board members",
+          "quote": "By Monday, most of OpenAI's more than 700 employees threatened to resign unless the company replaced the board."
+        },
+        {
+          "item": "Facing legal recourse",
+          "quote": "Investors worry that they could lose hundreds of millions of dollars they invested in OpenAI, a crown jewel in some of their portfolios, with the potential collapse of the hottest startup in the rapidly growing generative AI sector."
+        },
+        {
+          "item": "Deciding on operational changes",
+          "quote": "OpenAI's board fired Altman on Friday after a 'breakdown of communications,' according to an internal memo seen by Reuters."
+        }
+      ],
+      "good_scenarios": [],
+      "bad_scenarios": [
+        {
+          "item": "Legal actions from investors",
+          "quote": "Some investors in OpenAI, makers of ChatGPT, are exploring legal recourse against the company's board, sources familiar with the matter told Reuters on Monday, after the directors ousted CEO Sam Altman and sparked a potential mass exodus of employees."
+        },
+        {
+          "item": "Loss of investment",
+          "quote": "Investors worry that they could lose hundreds of millions of dollars they invested in OpenAI."
+        },
+        {
+          "item": "Mass staff resignations",
+          "quote": "By Monday, most of OpenAI's more than 700 employees threatened to resign unless the company replaced the board."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Potential organizational collapse",
+          "quote": "Investors worry that they could lose hundreds of millions of dollars they invested in OpenAI... with the potential collapse of the hottest startup in the rapidly growing generative AI sector."
+        },
+        {
+          "item": "Investors suing the company",
+          "quote": "Nov 20 (Reuters) - Some investors in OpenAI, makers of ChatGPT, are exploring legal recourse against the company's board, sources familiar with the matter told Reuters on Monday, after the directors ousted CEO Sam Altman and sparked a potential mass exodus of employees."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Investments from Microsoft",
+          "quote": "Microsoft (MSFT.O) owns 49% of the for-profit operating company, according to sources familiar with the matter."
+        },
+        {
+          "item": "Investments from other investors",
+          "quote": "Other investors and employees control 49%, with 2% owned by OpenAI's nonprofit parent."
+        },
+        {
+          "item": "Generative AI technology",
+          "quote": "The potential collapse of the hottest startup in the rapidly growing generative AI sector."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sam Altman",
+    "description": "Former CEO of OpenAI who was abruptly fired",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "75352338",
+      "name": "Removal of Sam Altman from OpenAI",
+      "extract": "On November 17, 2023, OpenAI's board of directors removed co-founder and chief executive Sam Altman with a statement that it had no confidence in Altman's leadership.  \nApproximately 107 hours later, after an intense pressure campaign from investors and a threatened mass resignation of OpenAI’s employees, OpenAI announced that it had reached an agreement in principle to have Altman return as CEO with a reconstituted board of the non-profit entity which oversees the for-profit company. Altman’s announced return was the third change of CEO announcement within a chaotic 4.5 day period.\n\n",
+      "description": "Sam Altman was removed as CEO by OpenAI's board due to lack of confidence but was reinstated after pressure from investors and potential employee resignations, marking the third CEO change within a tumultuous 4.5 day period in November 2023."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "To study legal recourse against the company's board",
+          "quote": "Some investors in OpenAI...are exploring legal recourse against the company's board"
+        },
+        {
+          "item": "To replace the board of OpenAI",
+          "quote": "By Monday, most of OpenAI's more than 700 employees threatened to resign unless the company replaced the board."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Concern over potential financial loss",
+          "quote": "Investors worry that they could lose hundreds of millions of dollars they invested in OpenAI"
+        },
+        {
+          "item": "Breakdown of communications",
+          "quote": "OpenAI's board fired Altman on Friday after a 'breakdown of communications"
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Potential mass exodus of employees",
+          "quote": "the directors ousted CEO Sam Altman and sparked a potential mass exodus of employees."
+        },
+        {
+          "item": "Suing the board",
+          "quote": "It was not immediately clear if these investors will sue OpenAI."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Success in legal recourse against the company's board",
+          "quote": "Some investors in OpenAI...are exploring legal recourse against the company's board."
+        },
+        {
+          "item": "Successful replacement of the board by employees",
+          "quote": "By Monday, most of OpenAI's more than 700 employees threatened to resign unless the company replaced the board."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Collapse of OpenAI",
+          "quote": "Investors worry that they could lose hundreds of millions of dollars they invested in OpenAI...with the potential collapse of the hottest startup in the rapidly growing generative AI sector."
+        },
+        {
+          "item": "Investors having a weak case",
+          "quote": "Even if investors found a way to sue, Weitzel said they would have a 'weak case.'"
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Financial loss",
+          "quote": "Investors worry that they could lose hundreds of millions of dollars they invested in OpenAI"
+        },
+        {
+          "item": "Legal disputes and uncertainty",
+          "quote": "Some investors in OpenAI...are exploring legal recourse against the company's board"
+        }
+      ],
+      "resources": [
+        {
+          "item": "Legal advisers",
+          "quote": "Sources said investors are working with legal advisers to study their options."
+        },
+        {
+          "item": "Impact and collective influence of employees",
+          "quote": "By Monday, most of OpenAI's more than 700 employees threatened to resign unless the company replaced the board."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Microsoft",
+    "description": "A multinational technology company that owns 49% of OpenAI's for-profit operating company",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "19001",
+      "name": "Microsoft",
+      "extract": "Microsoft Corporation is an American multinational technology corporation headquartered in Redmond, Washington. Microsoft's best-known software products are the Windows line of operating systems, the Microsoft 365 suite of productivity applications, and the Edge web browser. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. Microsoft ranked No. 14 in the 2022 Fortune 500 rankings of the largest United States corporations by total revenue; it was the world's largest software maker by revenue as of 2022. It is considered one of the Big Five American information technology companies, alongside Alphabet (parent company of Google), Amazon, Apple, and Meta.\nMicrosoft was founded by Bill Gates and Paul Allen on April 4, 1975, to develop and sell BASIC interpreters for the Altair 8800. It rose to dominate the personal computer operating system market with MS-DOS in the mid-1980s, followed by Windows. The company's 1986 initial public offering (IPO) and subsequent rise in its share price created three billionaires and an estimated 12,000 millionaires among Microsoft employees. Since the 1990s, it has increasingly diversified from the operating system market and has made several corporate acquisitions, the largest being the acquisition of Activision Blizzard for $68.7 billion in October 2023, followed by its acquisition of LinkedIn for $26.2 billion in December 2016, and its acquisition of Skype Technologies for $8.5 billion in May 2011.As of 2015, Microsoft is market-dominant in the IBM PC compatible operating system market and the office software suite market, although it has lost the majority of the overall operating system market to Android. The company also produces a wide range of other consumer and enterprise software for desktops, laptops, tabs, gadgets, and servers, including Internet search (with Bing), the digital services market (through MSN), mixed reality (HoloLens), cloud computing (Azure), and software development (Visual Studio).\nSteve Ballmer replaced Gates as CEO in 2000 and later envisioned a \"devices and services\" strategy. This unfolded with Microsoft acquiring Danger Inc. in 2008, entering the personal computer production market for the first time in June 2012 with the launch of the Microsoft Surface line of tablet computers, and later forming Microsoft Mobile through the acquisition of Nokia's devices and services division. Since Satya Nadella took over as CEO in 2014, the company has scaled back on hardware and instead focused on cloud computing, a move that helped the company's shares reach their highest value since December 1999. Under Nadella's direction, the company has also heavily expanded its gaming business to support the Xbox brand, establishing the Microsoft Gaming division in 2022, dedicated to operating Xbox in addition to its three subsidiaries (publishers). Microsoft Gaming is the third-largest gaming company in the world by revenue as of 2023.Earlier dethroned by Apple in 2010, in 2018, Microsoft reclaimed its position as the most valuable publicly traded company in the world. In April 2019, Microsoft reached a trillion-dollar market cap, becoming the third U.S. public company to be valued at over $1 trillion after Apple and Amazon, respectively. As of 2023, Microsoft has the third-highest global brand valuation.\nMicrosoft has been criticized for its monopolistic practices and the company's software has been criticized for problems with ease of use, robustness, and security.",
+      "description": "Microsoft Corporation, an American multinational headquartered in Redmond, Washington, is known for software products including the Windows operating systems and Microsoft 365 applications, along with hardware products like Xbox consoles and Surface personal computers, and is globally recognized as one of the biggest revenue-earning software makers and an influential entity among the Big Five IT companies in the US."
+    },
+    "motives": {
+      "document_analysis": {
+        "content_relevance": "The provided document does not include sufficient specific information about Microsoft Corporation to answer all of the questions in depth. However, some insights can still be extracted",
+        "data": {
+          "stated_goals": [],
+          "main_motivations": [],
+          "possible_actions": [],
+          "good_scenarios": [
+            {
+              "item": "Maintaining their investment",
+              "quote": "Microsoft (MSFT.O) owns 49% of the for-profit operating company, according to sources familiar with the matter."
+            }
+          ],
+          "bad_scenarios": [
+            {
+              "item": "Potential loss of investment due to unrest in company",
+              "quote": "Sources said investors are working with legal advisers to study their options. It was not immediately clear if these investors will sue OpenAI."
+            },
+            {
+              "item": "Mass resignation of OpenAI employees affecting the company",
+              "quote": "By Monday, most of OpenAI's more than 700 employees threatened to resign unless the company replaced the board."
+            }
+          ],
+          "main_fears": [],
+          "resources": [
+            {
+              "item": "Significant ownership stake in OpenAI",
+              "quote": "Microsoft (MSFT.O) owns 49% of the for-profit operating company, according to sources familiar with the matter."
+            }
+          ]
+        }
+      },
+      "insufficient_information": "There is a lack of information to further describe the stated goals, main motivations, possible actions, and main fears of Microsoft. This document is primarily focused on OpenAI's current situation and doesn't provide ample data around Microsoft specifically."
+    }
+  },
+  {
+    "name": "Semafor",
+    "description": "An organization cited for the information about OpenAI's stakeholders",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "72046207",
+      "name": "Semafor (website)",
+      "extract": "Semafor is a news website founded in 2022 by Ben Smith, a former editor-in-chief of BuzzFeed News and media columnist at The New York Times, and Justin B. Smith, the former CEO of Bloomberg Media Group.",
+      "description": "\"Semafor is a news website, founded in 2022 by former BuzzFeed and New York Times editor Ben Smith and ex-Bloomberg Media Group CEO Justin B. Smith.\""
+    },
+    "motives": "Microsoft (MSFT.O) owns 49% of the for-profit operating company, according to sources familiar with the matter. Other investors and employees control 49%, with 2% owned by OpenAI's nonprofit parent, according to Semafor."
+  },
+  {
+    "name": "OpenAI Nonprofit",
+    "description": "The nonprofit parent company of OpenAI controlling its operations",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "48795986",
+      "name": "OpenAI",
+      "extract": "OpenAI is an American artificial intelligence (AI) research organization consisting of the non-profit OpenAI, Inc. registered in Delaware and its for-profit subsidiary OpenAI Global, LLC. OpenAI researches artificial intelligence with the declared intention of developing \"safe and beneficial\" artificial general intelligence, which it defines as \"highly autonomous systems that outperform humans at most economically valuable work\". OpenAI has also developed several large language models, such as ChatGPT and GPT-4, as well as advanced image generation models like DALL-E 3, and in the past published open-source models.The organization was founded in December 2015 by Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston, John Schulman, Pamela Vagata, and Wojciech Zaremba, with Sam Altman and Elon Musk serving as the initial board members. Microsoft provided OpenAI Global LLC with a $1 billion investment in 2019 and a $10 billion investment in 2023, with a significant portion of the investment in the form of compute resources on Microsoft's Azure cloud service.On November 17, 2023, the board removed Altman as CEO, while Brockman was removed as chairman and then resigned as president. Four days later, both returned after negotiations with the board, and most of the board members resigned. The new initial board included former Salesforce co-CEO Bret Taylor as chairman. OpenAI also announced that Microsoft would have a non-voting board seat at OpenAI.",
+      "description": "OpenAI is an American AI research organization, focusing on developing \"safe and beneficial\" artificial general intelligence and producing large language and image generation models, funded by significant investments by Microsoft."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Benefit humanity, not just investors",
+          "quote": "OpenAI Nonprofit, which according to OpenAI's website was created to benefit 'humanity, not OpenAI investors.'"
+        },
+        {
+          "item": "Preserve core mission, governance, and oversight",
+          "quote": "Keeping control of operations let the nonprofit preserve its 'core mission, governance, and oversight,' according to the company's website."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Avoid harm to investors and employees",
+          "quote": "Some investors in OpenAI, makers of ChatGPT, are exploring legal recourse against the company's board, sources familiar with the matter told Reuters on Monday, after the directors ousted CEO Sam Altman and sparked a potential mass exodus of employees."
+        },
+        {
+          "item": "Maintain integrity of the organization’s mission",
+          "quote": "That is a feature, not a bug of OpenAI's structure, which started out as a nonprofit but added a for-profit subsidiary in 2019 to raise capital."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Firing board members",
+          "quote": "By Monday, most of OpenAI's more than 700 employees threatened to resign unless the company replaced the board."
+        },
+        {
+          "item": "Facing legal recourse",
+          "quote": "Investors worry that they could lose hundreds of millions of dollars they invested in OpenAI, a crown jewel in some of their portfolios, with the potential collapse of the hottest startup in the rapidly growing generative AI sector."
+        },
+        {
+          "item": "Deciding on operational changes",
+          "quote": "OpenAI's board fired Altman on Friday after a 'breakdown of communications,' according to an internal memo seen by Reuters."
+        }
+      ],
+      "good_scenarios": [],
+      "bad_scenarios": [
+        {
+          "item": "Legal actions from investors",
+          "quote": "Some investors in OpenAI, makers of ChatGPT, are exploring legal recourse against the company's board, sources familiar with the matter told Reuters on Monday, after the directors ousted CEO Sam Altman and sparked a potential mass exodus of employees."
+        },
+        {
+          "item": "Loss of investment",
+          "quote": "Investors worry that they could lose hundreds of millions of dollars they invested in OpenAI."
+        },
+        {
+          "item": "Mass staff resignations",
+          "quote": "By Monday, most of OpenAI's more than 700 employees threatened to resign unless the company replaced the board."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Potential organizational collapse",
+          "quote": "Investors worry that they could lose hundreds of millions of dollars they invested in OpenAI... with the potential collapse of the hottest startup in the rapidly growing generative AI sector."
+        },
+        {
+          "item": "Investors suing the company",
+          "quote": "Nov 20 (Reuters) - Some investors in OpenAI, makers of ChatGPT, are exploring legal recourse against the company's board, sources familiar with the matter told Reuters on Monday, after the directors ousted CEO Sam Altman and sparked a potential mass exodus of employees."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Investments from Microsoft",
+          "quote": "Microsoft (MSFT.O) owns 49% of the for-profit operating company, according to sources familiar with the matter."
+        },
+        {
+          "item": "Investments from other investors",
+          "quote": "Other investors and employees control 49%, with 2% owned by OpenAI's nonprofit parent."
+        },
+        {
+          "item": "Generative AI technology",
+          "quote": "The potential collapse of the hottest startup in the rapidly growing generative AI sector."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Minor Myers",
+    "description": "A law professor at the University of Connecticut who commented on the leverage and rights of employees and venture capitalists in OpenAI",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "154242",
+      "name": "PH meter",
+      "extract": "A pH meter is a scientific instrument that measures the hydrogen-ion activity in water-based solutions, indicating its acidity or alkalinity expressed as pH. The pH meter measures the difference in electrical potential between a pH electrode and a reference electrode, and so the pH meter is sometimes referred to as a \"potentiometric pH meter\". The difference in electrical potential relates to the acidity or pH of the solution. Testing of pH via pH meters (pH-metry) is used in many applications ranging from laboratory experimentation to quality control.",
+      "description": "A pH meter is a scientific instrument used to measure the acidity or alkalinity, expressed as pH, in water-based solutions by indicating the hydrogen-ion activity."
+    }
+  },
+  {
+    "name": "University of Connecticut",
+    "description": "The institution where law professor Minor Myers works",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "1614913",
+      "name": "University of Connecticut School of Law",
+      "extract": "The University of Connecticut School of Law (UConn Law) is the law school associated with the University of Connecticut and located in Hartford, Connecticut. It is the only public law school in Connecticut and one of only four in New England. In 2020 it enrolled 488 JD students.",
+      "description": "The University of Connecticut School of Law (UConn Law), located in Hartford, Connecticut, is the only public law school in the state and one of only four in New England, enrolling 488 JD students in 2020."
+    }
+  },
+  {
+    "name": "Paul Weitzel",
+    "description": "A law professor at the University of Nebraska, providing comments on the obligations of nonprofit boards",
+    "mentions": 2,
+    "wikipedia": {
+      "error": "Error extracting pageId:None of these pages are a good match for \"Paul Weitzel\"."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Preserve OpenAI's core mission, governance, and oversight",
+          "quote": "Keeping control of operations let the nonprofit preserve its 'core mission, governance, and oversight,' according to the company's website."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Benefit humanity, not just OpenAI investors",
+          "quote": "OpenAI Nonprofit, which according to OpenAI's website was created to benefit 'humanity, not OpenAI investors.'"
+        },
+        {
+          "item": "Avoid losses on their investment in OpenAI",
+          "quote": "Investors worry that they could lose hundreds of millions of dollars they invested in OpenAI, a crown jewel in some of their portfolios, with the potential collapse of the hottest startup in the rapidly growing generative AI sector."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Exploring legal recourse against OpenAI's board",
+          "quote": "Some investors in OpenAI, makers of ChatGPT, are exploring legal recourse against the company's board, sources familiar with the matter told Reuters on Monday, after the directors ousted CEO Sam Altman and sparked a potential mass exodus of employees."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Successful lawsuit against OpenAI's board",
+          "quote": "It was not immediately clear if these investors will sue OpenAI."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Loss of their investment due to potential company collapse",
+          "quote": "Investors worry that they could lose hundreds of millions of dollars they invested in OpenAI, a crown jewel in some of their portfolios, with the potential collapse of the hottest startup in the rapidly growing generative AI sector."
+        },
+        {
+          "item": "Potential ineffectiveness of a lawsuit",
+          "quote": "Even if investors found a way to sue, Weitzel said they would have a 'weak case.' Companies have broad latitude under the law to make business decisions, even ones that backfire."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Losing their investment",
+          "quote": "Investors worry that they could lose hundreds of millions of dollars they invested in OpenAI, a crown jewel in some of their portfolios, with the potential collapse of the hottest startup in the rapidly growing generative AI sector."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Potential legal recourse",
+          "quote": "Some investors in OpenAI, makers of ChatGPT, are exploring legal recourse against the company's board, sources familiar with the matter told Reuters on Monday, after the directors ousted CEO Sam Altman and sparked a potential mass exodus of employees."
+        },
+        {
+          "item": "Ownership stake in OpenAI",
+          "quote": "Microsoft (MSFT.O) owns 49% of the for-profit operating company, according to sources familiar with the matter. Other investors and employees control 49%, with 2% owned by OpenAI's nonprofit parent, according to Semafor."
+        }
+      ]
+    }
+  },
+  {
+    "name": "University of Nebraska",
+    "description": "The institution where law professor Paul Weitzel works",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "323058",
+      "name": "University of Nebraska–Lincoln",
+      "extract": "The University of Nebraska–Lincoln (Nebraska or UNL) is a public land-grant research university in Lincoln, Nebraska, United States. Chartered in 1869 by the Nebraska Legislature as part of the Morrill Act of 1862, the school was known as the University of Nebraska until 1968, when it absorbed the Municipal University of Omaha to form the University of Nebraska system. It is the state's oldest university and the flagship institution of the state-wide system. The university has been governed by the Board of Regents since 1871, whose members are elected by district to six-year terms.\nThe university is organized into nine colleges: Agricultural Sciences and Natural Resources, Architecture, Arts and Sciences, Business, Education and Human Sciences, Engineering, Fine and Performing Arts, Journalism and Mass Communications, and Law. UNL offers over two hundred degrees across its undergraduate, graduate, and doctoral programs. The school also offers programs through the University of Nebraska Omaha College of Public Affairs and Community Service, the University of Nebraska Medical Center College of Dentistry and College of Nursing, and the Peter Kiewit Institute, which is managed in partnership with the Kiewit Corporation.Nebraska is considered to have \"very high research activity\" based on the Carnegie Classification. According to the National Science Foundation, Nebraska spent $320 million on research and development in 2020. Between its three campus locations (City Campus, East Campus, and Nebraska Innovation Campus) the university has over one hundred classroom buildings and research facilities. The university's enrollment is 19,552 undergraduate students and 4,879 graduate students, with 1,595 full-time or part-time instructional faculty. Undergraduate admission to the school is considered \"more selective.\"Nebraska's athletic programs, known as the Cornhuskers, compete in NCAA Division I and are a member of the Big Ten Conference. UNL's football team has won forty-six conference championships and claims five national championships, with an additional nine unclaimed. Twenty-five former Cornhuskers have been inducted into the College Football Hall of Fame. A total of 111 former Nebraska student-athletes have combined to win fifty-four Olympic medals, including sixteen gold medals. Among approximately 300,000 Nebraska alumni are three Nobel laureates, four Pulitzer Prize winners, one Turing Award winner, and twenty-two Rhodes Scholars.\n\n",
+      "description": "The University of Nebraska–Lincoln is a public land-grant research university, recognized for its high research activity and diverse programs, intra-country leading athletic programs, and notable alumni including Nobel laureates and Pulitzer Prize winners."
+    },
+    "motives": {
+      "message": "I'm unable to answer these questions based on the provided document as it doesn't provide any information regarding University of Nebraska–Lincoln. Instead, the document focuses on the events surrounding OpenAI and its stakeholders. I'd encourage you to provide another document that deals with your subject of interest so that I can extract the requested insights about University of Nebraska–Lincoln."
+    }
+  },
+  {
+    "name": "Apple",
+    "description": "A tech firm mentioned in historical context concerning firing of key individuals",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "856",
+      "name": "Apple Inc.",
+      "extract": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California. As of March 2023, Apple is the world's largest company by market capitalization, and with US$394.3 billion the largest technology company by 2022 revenue. As of June 2022, Apple is the fourth-largest personal computer vendor by unit sales; the largest manufacturing company by revenue; and the second-largest mobile phone manufacturer in the world. It is considered one of the Big Five American information technology companies, alongside Alphabet (parent company of Google), Amazon, Meta, and Microsoft.\nApple was founded as Apple Computer Company on April 1, 1976, by Steve Wozniak, Steve Jobs and Ronald Wayne to develop and sell Wozniak's Apple I personal computer. It was incorporated by Jobs and Wozniak as Apple Computer, Inc. in 1977. The company's second computer, the Apple II, became a best seller and one of the first mass-produced microcomputers. Apple went public in 1980 to instant financial success. The company developed computers featuring innovative graphical user interfaces, including the 1984 original Macintosh, announced that year in a critically acclaimed advertisement called \"1984\". By 1985, the high cost of its products, and power struggles between executives, caused problems. Wozniak stepped back from Apple and pursued other ventures, while Jobs resigned and founded NeXT, taking some Apple employees with him.\nAs the market for personal computers expanded and evolved throughout the 1990s, Apple lost considerable market share to the lower-priced duopoly of the Microsoft Windows operating system on Intel-powered PC clones (also known as \"Wintel\"). In 1997, weeks away from bankruptcy, the company bought NeXT to resolve Apple's unsuccessful operating system strategy and entice Jobs back to the company. Over the next decade, Jobs guided Apple back to profitability through a number of tactics including introducing the iMac, iPod, iPhone and iPad to critical acclaim, launching the \"Think different\" campaign and other memorable advertising campaigns, opening the Apple Store retail chain, and acquiring numerous companies to broaden the company's product portfolio. When Jobs resigned in 2011 for health reasons, and died two months later, he was succeeded as CEO by Tim Cook.\nApple became the first publicly traded U.S. company to be valued at over $1 trillion in August 2018, then at $2 trillion in August 2020, and at $3 trillion in January 2022. In June 2023, it was valued at just over $3 trillion. The company receives criticism regarding the labor practices of its contractors, its environmental practices, and its business ethics, including anti-competitive practices and materials sourcing. Nevertheless, the company has a large following and enjoys a high level of brand loyalty. It has also been consistently ranked as one of the world's most valuable brands.\n\n",
+      "description": "Apple Inc., an American multinational technology company, is one of the world's leading personal computer vendors and mobile phone manufacturers, founded in 1976 by Steve Jobs and Steve Wozniak, known for its innovative products such as the iPhone, iPad and Macintosh."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": []
+    }
+  },
+  {
+    "name": "Steve Jobs",
+    "description": "The late founder of Apple who was famously fired and rehired",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "7412236",
+      "name": "Steve Jobs",
+      "extract": "Steven Paul Jobs (February 24, 1955 – October 5, 2011) was an American businessman, inventor, and investor best known as the co-founder of Apple. Jobs was also chairman and majority shareholder of Pixar, and the founder of NeXT. He was a pioneer of the personal computer revolution of the 1970s and 1980s, along with his early business partner and fellow Apple co-founder Steve Wozniak.\nJobs was born in San Francisco to a Syrian father and Swiss-German American mother. He was adopted shortly after his birth. He attended Reed College in 1972 before withdrawing that same year. In 1974, he traveled through India seeking enlightenment before later studying Zen Buddhism. He and Wozniak co-founded Apple in 1976 to sell Wozniak's Apple I personal computer. Together the duo gained fame and wealth a year later with production and sale of the Apple II, one of the first highly successful mass-produced microcomputers. Jobs saw the commercial potential of the Xerox Alto in 1979, which was mouse-driven and had a graphical user interface (GUI). This led to the development of the unsuccessful Apple Lisa in 1983, followed by the breakthrough Macintosh in 1984, the first mass-produced computer with a GUI. The Macintosh introduced the desktop publishing industry in 1985 with the addition of the Apple LaserWriter, the first laser printer to feature vector graphics.\nIn 1985, Jobs departed Apple after a long power struggle with the company's board and its then-CEO, John Sculley. That same year, Jobs took some Apple employees with him to found NeXT, a computer platform development company that specialized in computers for higher-education and business markets, serving as its CEO. In addition, he helped develop the visual effects industry when he funded the computer graphics division of George Lucas's Lucasfilm in 1986. The Graphics Group eventually spun off independently as Pixar, producing the first 3D computer-animated feature film Toy Story (1995) and becoming a leading animation studio, producing over 27 films since.\nIn 1997, Jobs returned to Apple as CEO after the company's acquisition of NeXT. He was largely responsible for reviving Apple, which was on the verge of bankruptcy. He worked closely with British designer Jony Ive to develop a line of products and services that had larger cultural ramifications, beginning with the \"Think different\" advertising campaign, and leading to the iMac, iTunes, Mac OS X, Apple Store, iPod, iTunes Store, iPhone, App Store, and iPad. In 2003, Jobs was diagnosed with a pancreatic neuroendocrine tumor. He died of respiratory arrest related to the tumor in 2011, at the age of 56, with Tim Cook succeeding him as CEO of Apple. In 2022, he was posthumously awarded the Presidential Medal of Freedom.",
+      "description": "Steve Jobs was an American businessman and inventor, best known as the co-founder of Apple and Pixar, who contributed majorly to the personal computer revolution and changed the tech industry with products like the Macintosh, iPhone, and iPad."
+    }
+  },
+  {
+    "name": "ChatGPT",
+    "description": "A product of OpenAI",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "72417803",
+      "name": "ChatGPT",
+      "extract": "ChatGPT (Chat Generative Pre-trained Transformer) is a large language model-based chatbot developed by OpenAI and launched on November 30, 2022, that enables users to refine and steer a conversation towards a desired length, format, style, level of detail, and language. Successive prompts and replies, known as prompt engineering, are considered at each conversation stage as a context.ChatGPT is built upon either GPT-3.5 or GPT-4, both of which are members of OpenAI's proprietary series of generative pre-trained transformer (GPT) models, based on the transformer architecture developed by Google—and is fine-tuned for conversational applications using a combination of supervised and reinforcement learning techniques. ChatGPT was released as a freely available research preview, but due to its popularity, OpenAI now operates the service on a freemium model. It allows users on its free tier to access the GPT-3.5-based version. In contrast, the more advanced GPT-4-based version and priority access to newer features are provided to paid subscribers under the commercial name \"ChatGPT Plus\".\nBy January 2023, it had become what was then the fastest-growing consumer software application in history, gaining over 100 million users and contributing to OpenAI's valuation growing to $29 billion. ChatGPT's release spurred the development of competing products, including Bard, Ernie Bot, LLaMA, Claude, and Grok. Microsoft launched its Bing Chat based on OpenAI's GPT-4. It raised concern among some observers over the potential of ChatGPT and similar programs to displace or atrophy human intelligence, enable plagiarism, or fuel misinformation.\n\n",
+      "description": "ChatGPT, developed by OpenAI, is a language model-based chatbot using GPT-3.5 or GPT-4 models, designed for text conversation with features like refining length, style, and detail level and operates on a freemium model - free users get access to the GPT-3.5 version and paid subscribers get access to the more advanced GPT-4 version under 'ChatGPT Plus'."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": []
+    }
+  },
+  {
+    "name": "Reuters",
+    "description": "News organization providing the report",
+    "mentions": 3,
+    "wikipedia": {
+      "id": "18998750",
+      "name": "Reuters",
+      "extract": "Reuters ( , ROY-terz) is a news agency owned by Thomson Reuters Corporation. It employs around 2,500 journalists and 600 photojournalists in about 200 locations worldwide. Reuters is one of the largest news agencies in the world.The agency was established in London in 1851 by the German-born Paul Reuter. It was acquired by the Thomson Corporation of Canada in 2008 and now makes up the news media division of Thomson Reuters.\n\n",
+      "description": "Reuters is a global news agency, owned by the Thomson Reuters Corporation, that was established in London in 1851 and employs around 2,500 journalists worldwide."
+    }
+  }
+]

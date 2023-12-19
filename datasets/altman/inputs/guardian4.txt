@@ -1,0 +1,53 @@
+Source: Guardiant
+Title: Sam Altman’s OpenAI exit leads to rollercoaster for sector
+Subtitle:" Firing of industry figurehead led to rebellion at his former employer and his hiring by its rival Microsoft
+Author: Dan Milmo Global technology editor
+Date: Mon 20 Nov 2023 14.55 GMT
+Link: https://www.theguardian.com/technology/2023/nov/20/sam-altman-openai-exit-ai-microsoft
+
+=== 
+
+The blog headline was anodyne – “OpenAI announces leadership transition” – but the consequences for Silicon Valley were seismic.
+
+On Friday the company behind the hit AI text-generating system ChatGPT announced that Sam Altman, figurehead for the business and the artificial intelligence revolution that has enthralled and alarmed the world in equal measure, had been fired as chief executive.
+
+OpenAI’s non-profit board, which oversaw a commercial subsidiary run by Altman, said the 38-year-old “was not consistently candid in his communications” with its members.
+
+Sam Altman and the OpenAI logo displayed on a phone 
+OpenAI staff threaten to quit en masse unless Sam Altman is reinstated
+Read more
+The board delivered its blunt message via that staple of the modern office workplace: a video call. On Thursday night, Altman was invited by colleague and fellow board member Ilya Sutskever to a Google Meet call with the whole board at midday the next day.
+
+The meeting was short.
+
+“Ilya told Sam he was being fired and that the news was going out very soon,” wrote Altman’s close colleague, the OpenAI president and fellow board member Greg Brockman, on X, formerly Twitter. Brockman was not on the call but minutes later he was also told that he was being removed from the board but would be allowed to stay at OpenAI. Brockman quit.
+
+Altman’s departure immediately kickstarted attempts to reinstate him. As he posted on X “i loved my time at openai”, the company’s biggest investors moved to reverse the decision.
+
+Satya Nadella, the chief executive of Microsoft, OpenAI’s biggest investor with a 49% stake, led mediation efforts that were complicated by Altman’s reported insistence that OpenAI’s board be removed as a precondition for his return. The interim CEO, Mira Murati, OpenAI’s chief technology officer, signalled her support for Altman’s return by posting a heart emoji next to her former colleague’s post professing love for OpenAI.
+
+By Sunday it was clear that there was momentum behind Altman’s potential return. The OpenAI chief strategy officer, Jason Kwon, told staff on Saturday he was “optimistic” that an agreement could be struck to reverse the firing.
+
+On Sunday Altman posted a picture of himself inside OpenAI’s San Francisco office wearing a guest pass – and evidently trying to negotiate his reinstatement. He wrote: “first and last time i ever wear one of these”. In a move that symbolised the division between OpenAI’s staff and its board, Kwon later posted a picture, apparently from his own phone, of Altman taking the guest pass selfie.
+
+It appeared that OpenAI’s biggest investors – including one of the world’s most powerful companies – and senior staff were up against four people: the remnants of OpenAI’s board. It comprised OpenAI’s chief scientist Ilya Sutskever and three non-employees: Adam D’Angelo, the founder of question-and-answer website Quora; Tasha McCauley, a tech entrepreneur; and Helen Toner, a director at Georgetown University’s Center for Security and Emerging Technology.
+
+Despite his array of supporters, Altman did not return. Late on Sunday, the OpenAI board appointed Emmett Shear, the co-founder of the video streaming service Twitch, as interim CEO. Soon afterwards, Nadella announced that Microsoft had hired Altman and Brockman to lead a new advanced AI research team.
+
+It remains unclear what exactly Altman was accused of not being candid about. Shear wrote on X that Altman – who has reportedly been talking to Apple’s former design chief Jony Ive about building a new AI hardware device – had not been pushed out because of any safety concerns over the pace of AI development. It remains unclear what communications the board was referring to when it cited Altman’s lack of candour.
+
+Nadella said Microsoft remained “committed to our partnership with OpenAI”, which has resulted in OpenAI’s models being embedded in Microsoft products such as its Bing search engine, with the unusual consequence that OpenAI’s former leader is now a senior figure at the San Francisco company’s biggest shareholder. That guest pass will probably be in regular use after all.
+
+However, if OpenAI still has the financial lifeline from a tech company that pumped billions of dollars into the business, it now faces a dearth of something in much shorter supply: AI talent.
+
+Altman and Brockman were reportedly followed out of the door by three senior researchers: Jakub Pachocki, the director of research; Aleksander Mądry, who evaluated AI risks; and Szymon Sidor. On Sunday, OpenAI staff posted heart emojis next to re-posts of Altman’s message on X stating that he loves the OpenAI team “so much” – a gesture that has been interpreted as a willingness to join their former CEO at his next venture.
+
+The messages became more overt in the wake of the Microsoft announcement, with Murati posting: “OpenAI is nothing without its people.” The gesture, reposted with a heart emoji by Altman, was repeated across X by multiple colleagues – who in turn were reposted by Altman with the same emoji.
+
+That snowballed into threats of a mass resignation on Monday, when more than 600 of OpenAI’s 700 staff warned in an open letter they could quit if the board did not reinstate Altman and Brockman – and step down themselves. “Your actions have made it obvious that you are incapable of overseeing OpenAI,” they wrote.
+
+One AI company executive said they expected Microsoft, despite its significant investment, and others to poach OpenAI staff “as aggressively as they can”. The executive added: “There is exactly one team in the world that has built GPT-4 [the model behind ChatGPT]. And now that team is going to be torn apart, as is often the case in competitive technical domains.”
+
+For Altman, one thing has not changed: he remains determined to build artificial general intelligence, the term for an AI system that can perform an array of tasks at a level above or beyond human intelligence. For the many experts and tech professionals seeking a slowdown in AI development, it means events over the past few days have changed little.
+
+As Altman wrote on Monday morning: “The mission continues.”

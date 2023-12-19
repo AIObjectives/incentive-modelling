@@ -1,0 +1,43 @@
+Source: Reuters
+Title: Sam Altman's firing at OpenAI reflects schism over future of AI development
+Authors: By Greg Bensinger
+Date: November 20, 202310:12 PM GMT
+Link: https://www.reuters.com/technology/sam-altmans-firing-openai-reflects-schism-over-future-ai-development-2023-11-20/
+
+=== 
+
+SAN FRANCISCO, Nov 20 (Reuters) - The rift that cost artificial-intelligence whiz kid Sam Altman his CEO job at OpenAI reflects a fundamental difference of opinion over safety, broadly, between two camps developing the world-altering software and pondering its societal impact.
+
+On one side are those, like Altman, who view the rapid development and, especially, public deployment of AI as essential to stress-testing and perfecting the technology. On the other side are those who say the safest path forward is to fully develop and test AI in a laboratory first to ensure it is, so to speak, safe for human consumption.
+
+Altman, 38, was fired on Friday from the company that created the popular ChatGPT chatbot. To many, he was considered the human face of generative AI.
+
+Some caution the hyper-intelligent software could become uncontrollable, leading to catastrophe - a concern among tech workers who follow a social movement called "effective altruism," who believe AI advances should benefit humanity. Among those sharing such fears is OpenAI's Ilya Sutskever, the chief scientist and a board member who approved Altman's ouster.
+
+A similar division has emerged between developers of self-driving cars – also controlled by AI – who say they must be unleashed among dense urban streets to fully understand the vehicles' faculties and foibles; whereas others urge restraint, concerned that the technology presents unknowable risks.
+
+Those worries over generative AI came to a head with the surprise ousting of Altman, who was also OpenAI's cofounder. Generative AI is the term for the software that can spit out coherent content, like essays, computer code and photo-like images, in response to simple prompts. The popularity of OpenAI’s ChatGPT over the past year has accelerated debate about how best to regulate and develop the software.
+
+“The question is whether this is just another product, like social media or cryptocurrency, or whether this is a technology that has the capability to outperform humans and become uncontrollable,” said Connor Leahy, CEO of ConjectureAI and a safety advocate. “Does the future then belong to the machines?”
+
+Sutskever reportedly felt Altman was pushing OpenAI’s software too quickly into users’ hands, potentially compromising safety.
+
+"We don’t have a solution for steering or controlling a potentially superintelligent AI, and preventing it from going rogue," he and a deputy wrote in a July blog post. "Humans won’t be able to reliably supervise AI systems much smarter than us.”
+
+Of particular concern, reportedly, was that OpenAI announced a slate of new commercially available products at its developer event earlier this month, including a version of its ChatGPT-4 software and so-called agents that work like virtual assistants.
+
+Sutskever did not respond to a request for comment.
+
+The fate of OpenAI is viewed by many technologists as critical to the development of AI. Discussions over the weekend for Altman to be reinstalled fizzled, dashing hopes among the former CEO's acolytes.
+
+ChatGPT's release last November prompted a frenzy of investment in AI firms, including $10 billion from Microsoft (MSFT.O) into OpenAI and billions more for other startups, including from Alphabet (GOOGL.O) and Amazon.com (AMZN.O).
+
+That can help explain the explosion of new AI products as firms like Anthropic and ScaleAI race to show investors progress. Regulators, meanwhile, are trying to keep pace with AI’s development, including guidelines from the Biden administration and a push for “mandatory self-regulation” from some countries as the European Union works to enact broad oversight of the software.
+
+While most use generative AI software, such as ChatGPT, to supplement their work, like writing quick summaries of lengthy documents, observers are wary of versions that may emerge known as “artificial general intelligence,” or AGI, which could perform increasingly complicated tasks without any prompting. This has sparked concerns that the software could, on its own, take over defense systems, create political propaganda or produce weapons.
+
+OpenAI was founded as a nonprofit eight years ago, in part to ensure its products were not driven by profit-making that could lead it down a slippery slope toward a dangerous AGI, what is referred to in the company’s charter as any threatening to “harm to humanity or unduly concentrate power.” But since then, Altman helped create a for-profit entity within the company for the purpose of raising funds and other aims.
+
+Late on Sunday, OpenAI named as interim CEO Emmett Shear, the former head of streaming platform Twitch. He advocated on social media in September for a "slowing down" of AI development. "If we’re at a speed of 10 right now, a pause is reducing to 0. I think we should aim for a 1-2 instead," he wrote.
+
+The precise reasons behind Altman's ouster were still unclear as of Monday. But it is safe to conclude that OpenAI faces steep challenges going forward.

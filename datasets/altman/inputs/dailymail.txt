@@ -1,0 +1,161 @@
+Source: Daily Mail
+Title: Inside OpenAI's chaotic five days: How CEO Sam Altman was sacked, then snapped up by Microsoft, only for him to return to ChatGPT creators along with a new board
+Subtitle: The firing and rehiring of OpenAI CEO Sam Altman is one of the most dramatic stories in recent Silicon Valley history 
+Author: PAUL FARRELL 
+Date: 11:13, 22 November 2023
+Link: https://www.dailymail.co.uk/news/article-12779095/Inside-OpenAIs-chaotic-five-days-CEO-Sam-Altman-sacked-snapped-Microsoft-return-ChatGPT-creators-new-board.html
+
+=== 
+
+Sam Altman, the face of ChatGPT technology, was sensationally ousted from his role as CEO of the company he co-founded, OpenAI, on Friday - which turned out to be only the beginning of a chaotic five days in Silicon Valley.
+
+Altman's firing led to a near mutiny from OpenAI employees who en masse threatened to follow their former leader to Microsoft. 
+
+Following that apparent ultimatum from staff, efforts began over the weekend to get Altman back on board. 
+
+Those efforts appeared to have been in vain by Monday as OpenAI announced that former Twitch head-honcho Emmett Shear had been installed as CEO on a temporary basis with Altman joining Microsoft. 
+
+The most shocking moment was yet to come, however, when late Tuesday California time, OpenAI and Altman confirmed that he was back as CEO alongside a new-look board that saw all but one of those who voted for his removal gone from the company. 
+
+In the space of less than a week, the tech industry was left reeling and the future still uncertain for OpenAI. 
+
+Sam Altman, 38, was pulled as CEO of ChatGPT-maker OpenAI Friday over fears he was flouting the dangers of artificial intelligence, according to a new report
++9
+View gallery
+Sam Altman, 38, was pulled as CEO of ChatGPT-maker OpenAI Friday over fears he was flouting the dangers of artificial intelligence, according to a new report
+
+Aside from sparking worry among the public, this uncertainty was apparently also felt within OpenAI's six-person board, according to The New York Times report - particularly, by one of Altman's co-founders, Ilya Sutskever
++9
+View gallery
+Aside from sparking worry among the public, this uncertainty was apparently also felt within OpenAI's six-person board, according to The New York Times report - particularly, by one of Altman's co-founders, Ilya Sutskever
+
+OpenAI board member Helen Toner
++9
+View gallery
+Former OpenAI board member Helen Toner expressed concerns about the company's direction with regarding making technology safe in a paper that attracted Altman's ire
+
+TRENDING
+
+Meghan Markle is pictured smiling in first sighting since royals named
+350.7k viewing now
+
+Huge group of men who've escaped Xi's communist regime at US border
+10.1k viewing now
+
+Prince Harry's lawyers to challenge Home Office police guards decision
+36k viewing now
+On Friday, reports emerged from various sources across Silicon Valley that Altman had been fired from his role as CEO of OpenAI, leading the tech tycoon to comment on X that it was 'sorta like reading your own eulogy while you're still alive.' 
+
+Jakob Pachocki and fellow cofounder Greg Brockman, were seemingly taken aback by the firing and both quit in protest of the alleged ambush late Friday night.
+
+Brockman said in a series of posts on X that Altman was asked to attend a meeting on Friday at noon by fellow co-founder Ilya Sutskever. Brockman was the only board member who was not present. 
+
+At that meeting, Altman was told that he was being let go. 
+
+The New York Times later reported that Sutskever and Altman had been at odds for at least a year. 
+
+Sutskever was allegedly concerned about Altman's focus on growth over AI safety. The pair had been working together for eight years at the time of the firing. 
+
+A few weeks previously, Altman was said to be angry with another board member, Helen Toner, who is also the director of strategy at Georgetown University’s Center for Security and Emerging Technology.
+
+Toner published a paper that was critical of OpenAI and its practices around AI safety. In the same paper, Toner was complimentary of one of the company's competitors, a startup named Anthropic. 
+
+'I did not feel we’re on the same page on the damage of all this. Any amount of criticism from a board member carries a lot of weight,' Altman wrote to Toner in an email, according to the Times. 
+
+The paper came as the Federal Trade Commission continues to investigate the world of AI. Sutskver appeared to side with Toner in the dispute because, as the Times put it: '[Sutskver] is deeply concerned that AI could one day destroy humanity.' 
+
+By Saturday, efforts from execs began to bring Altman back and a leaked memo to staff suggested the company was 'optimistic' about his possible return.
+
+Microsoft CEO Satya Nadella is reported to have been 'blindsided' by the decision to remove Altman. Microsoft is among the biggest investors to OpenAI. Nadella was heavily involved behind the scenes in negotiations between Altman and the board.
+
+Meanwhile, OpenAI CTO Jason Kwon wrote a memo to staff stating that the leadership was 'optimistic' that everyone who left, including Altman, would be brought back.  
+
+Altman appeared to confirm that he would not be returning to OpenAI with this picture he posted to X on Sunday
+Microsoft CEO Satya Nadella was working behind the scenes to negotiate for Altman's return
+Altman appeared to confirm that he would not be returning to OpenAI with this picture showing him as a guest at OpenAI HQ on Sunday (left). Meanwhile Microsoft CEO Satya Nadella (right) was working behind the scenes to negotiate for Altman's return
+
+On Sunday, rumors swirled on social media that Altman was open to returning if there was a change of board and governance at the company.
+
+The ousted CEO threw cold water on the rumors, posting a snap of himself using an OpenAI guest-pass while visiting his old employer on X, and wrote: 'first and last time i ever wear one of these.' 
+
+This was seemingly confirmed when Sutskever issued a memo saying Altman was gone for good, as result several more employees depart.  
+
+Everything continued to evolve on Monday with Nadella announcing that Altman, OAI co-founder Greg Brockman and Jakub Pachocki would be joining Microsoft to lead a new AI innovation team.
+
+The CEO issued a statement saying that his company remains committed to investing in AI.  
+
+Emmet Shear, the interim CEO of OpenAI after his predecessor Sam Altman was fired from the role, has a wild history on social media including posts about Nazis, rape fantasies and kinky sex
++9
+View gallery
+Emmet Shear, the interim CEO of OpenAI after his predecessor Sam Altman was fired from the role, has a wild history on social media including posts about Nazis, rape fantasies and kinky sex
+
+
+
+
+In the meantime, former Twitch leader Emmett Shear had taken over as OpenAI's interim chief executive becoming the company's third CEO in three days. Since Altman's firing on Friday afternoon, former CTO Mira Murati had been installed in the role. 
+
+Shear's appointment was met with further dismay by employees after his bizarre posts on X became public knowledge.
+
+In one post on X, he said: 'The Nazis were very evil, but I'd rather the actual literal Nazis take over the world forever than flip a coin on the end of all value.'
+
+Some of his tweets also concerned sex and rape, including one that insisted 40-60 percent of women have 'rape fantasies.'
+
+Hours later, Ilya Sutskever issued statement in which he stated his regrets over his role in Altman's departure.
+
+Former US Treasury Secretary Larry Summers is also joining the OpenAI Board of Directors
++9
+View gallery
+Former US Treasury Secretary Larry Summers is also joining the OpenAI Board of Directors
+
+Former Twitter chair Bret Taylor is another new addition to the OpenAI board
++9
+View gallery
+Former Twitter chair Bret Taylor is another new addition to the OpenAI board
+
+CEO and Co-founder of Quora Adam D'Angelo (pictured left) will remain on the board of OpenAI
++9
+View gallery
+CEO and Co-founder of Quora Adam D'Angelo (pictured left) will remain on the board of OpenAI
+
+Microsoft CEO Satya Nadella also welcomed the news of Altman's return in a message on X
+Microsoft CEO Satya Nadella also welcomed the news of Altman's return in a message on X 
+
+Altman announced his formal return to OpenAI in a message on X
+Altman announced his formal return to OpenAI in a message on X 
+
+The Wall Street Journal reports that this came after an intervention from Brockman's wife, Anna. The couple were married at OpenAI's headquarters in 2019 with Sutskever officiating. 
+
+'I deeply regret my participation in the board's actions. I never intended to harm OpenAI. I love everything we've built together and I will do everything I can to reunite the company,' Sutskever wrote on X. 
+
+He then signed a letter calling for the current board to resign. The letter was issued by a majority of staff that showed up to work on Monday amid the turomoil. 
+
+After days of turmoil, Altman announced on X that he is to return to OpenAI late Tuesday. It was earlier reported that Altman and Brockman were ready to return if the the board who fired the former CEO walked. 
+
+The co-founder will join a new board that includes former US treasury secretary Larry Summers, former co-CEO of Salesforce Bret Taylor and Adam D'Angelo, the only holdover for the previous administration. 
+
+Days earlier, D'Angelo voted to oust Altman. 'I love OpenAI, and everything I’ve done over the past few days has been in service of keeping this team and its mission together,' Altman wrote on X.
+
+His return saw one of the company's founders, Illya Sutskever, as well as Helen Toner and Tasha McCauley leave. 
+
+Founded by Altman and ten others in 2015, OpenAI rolled out ChatGPT a year ago - and its ability to mimic human writing has proved polarizing ever since
++9
+View gallery
+Founded by Altman and ten others in 2015, OpenAI rolled out ChatGPT a year ago - and its ability to mimic human writing has proved polarizing ever since 
+
+Altman thanked Microsoft Chairman and CEO Satya Nadella for helping to make the stunning reversal happen.
+
+'When i decided to join [Microsoft] on Sunday evening, it was clear that was the best path for me and the team. With the new board and with Satya's support, I'm looking forward to returning to openai, and building on our strong partnership with [Microsoft].
+
+In a statement of his own, Nadella credited the changes to the board in getting Altman back to OpenAI.
+
+'We are encouraged by the changes to the OpenAI board,' he wrote. 'We believe this is a first essential step on a path to more stable, well-informed, and effective governance.'
+
+'Sam, Greg, and I have talked and agreed they have a key role to play along with the OAI leadership team in ensuring OAI continues to thrive and build on its mission.'
+
+'We look forward to building on our strong partnership and delivering the value of this next generation of AI to our customers and partners.'
+
+OpenAI posted it's own statement on X to confirm the announcement.
+
+'We have reached an agreement in principle for Sam Altman to return to OpenAI as CEO with a new initial board of Bret Taylor (Chair), Larry Summers, and Adam D'Angelo,' they wrote.
+
+'We are collaborating to figure out the details. Thank you so much for your patience through this.'

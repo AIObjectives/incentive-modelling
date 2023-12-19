@@ -1,0 +1,40 @@
+{
+  "title": "Sam Altman’s OpenAI exit leads to rollercoaster for sector",
+  "source": "The Guardian",
+  "date": "Mon 20 Nov 2023 14.55 GMT",
+  "authors": [
+    "Dan Milmo"
+  ],
+  "link": "https://www.theguardian.com/technology/2023/nov/20/sam-altman-openai-exit-ai-microsoft",
+  "relevance_score": 0.9,
+  "relevance_explanation": "The document is highly relevant as it directly details the circumstances around Sam Altman's termination, responses from various stakeholders, and the implications for OpenAI and the broader AI sector.",
+  "summary": "Sam Altman was fired from OpenAI by the board for not being candid, leading to attempts to reinstate him, mediated by Satya Nadella of Microsoft. Altman insisted on the board's removal for his return, which did not happen. Instead, Microsoft hired Altman and Brockman after Emmett Shear was appointed as interim CEO of OpenAI. This event leds to a potential talent drain at OpenAI, with senior researchers and staff indicating they may follow Altman.",
+  "events": [
+    "Sam Altman fired from OpenAI",
+    "OpenAI's board communicates the decision via a video call",
+    "Greg Brockman resigns from OpenAI",
+    "Microsoft's Satya Nadella mediates for Altman's potential return",
+    "Emmett Shear appointed as interim CEO of OpenAI",
+    "Microsoft hires Altman and Brockman",
+    "OpenAI faces potential mass resignation from staff"
+  ],
+  "entities": [
+    "Sam Altman",
+    "OpenAI",
+    "Ilya Sutskever",
+    "Greg Brockman",
+    "Mira Murati",
+    "Jason Kwon",
+    "Satya Nadella",
+    "Microsoft",
+    "Emmett Shear",
+    "Twitch",
+    "Adam D'Angelo",
+    "Tasha McCauley",
+    "Helen Toner",
+    "Jakub Pachocki",
+    "Aleksander Mądry",
+    "Szymon Sidor"
+  ],
+  "document_type": "newspaper article"
+}

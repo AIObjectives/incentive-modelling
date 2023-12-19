@@ -1,0 +1,891 @@
+[
+  {
+    "name": "Sam Altman",
+    "description": "Returning CEO of OpenAI",
+    "mentions": 10,
+    "wikipedia": {
+      "id": "22476815",
+      "name": "Sam Altman",
+      "extract": "Samuel Harris Altman (; AWLT-mən; born April 22, 1985) is an American entrepreneur and investor, who has been the CEO of OpenAI since 2019 (he was briefly fired and reinstated in November 2023). Prior to OpenAI, Altman was president of Y Combinator from 2014 to 2019.\n\n",
+      "description": "Samuel Harris Altman, born April 22, 1985, is an American entrepreneur and investor, currently serving as the CEO of OpenAI, and was previously the president of Y Combinator from 2014 to 2019."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Returning to OpenAI after ouster",
+          "quote": "\"i'm looking forward to returning to openai,\" Altman said in a post on the X social media platform late on Tuesday."
+        },
+        {
+          "item": "Reestablishing his influence over OpenAI's direction",
+          "quote": "\"The return of Altman consolidates his influence over the direction of OpenAI.\""
+        },
+        {
+          "item": "Advancing AI while considering its risks",
+          "quote": "The return of Altman could potentially usher in a new era for the startup which had long juggled concerns among staff about AI's dangers and its potential for commercialization."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Contributing to the development of AI that benefits humanity",
+          "quote": "Altman's firing other than his lack of candor and its need to defend OpenAI's mission to develop AI that benefits humanity."
+        },
+        {
+          "item": "Ensuring stability in OpenAI",
+          "quote": "\"This was the pathway that maximized safety alongside doing right by all stakeholders involved,\" he said."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Steering OpenAI in a more commercial direction",
+          "quote": "\"The return of Altman consolidates his influence over the direction of OpenAI, and probably means it will be more bold and profit focused, but also potentially less risk averse,\""
+        },
+        {
+          "item": "Collaborating more closely with investors",
+          "quote": "Analysts said the reshuffle will favor Altman and Microsoft (MSFT.O), which has pledged billions of dollars to the startup and is rolling out its technology to its customers globally."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "More integration with Microsoft as its partner",
+          "quote": "\"What does seem clear is that Microsoft will now play a much bigger role, that the partnership will become stronger and the two companies more integrated.\""
+        },
+        {
+          "item": "Retaining all of OpenAI's over 700-strong staff",
+          "quote": "By Monday, nearly all of OpenAI's over 700-strong staff had threatened to leave and join Microsoft's effort unless the board stepped down and reinstated Altman."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Losing OpenAI's staff to Microsoft",
+          "quote": "By Monday, nearly all of OpenAI's over 700-strong staff had threatened to leave and join Microsoft's effort unless the board stepped down and reinstated Altman."
+        },
+        {
+          "item": "Experiencing more upheaval and instability at OpenAI",
+          "quote": "His departure triggered a major upheaval at OpenAI."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "AI safety not being prioritized",
+          "quote": "The startup which had long juggled concerns among staff about AI's dangers."
+        },
+        {
+          "item": "Commercialization overtaking the initial mission",
+          "quote": "The return of Altman could potentially usher in a new era for the startup which had long juggled concerns among staff about AI's dangers and its potential for commercialization."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Microsoft's investment and technology",
+          "quote": "Analysts said the reshuffle will favor Altman and Microsoft (MSFT.O), which has pledged billions of dollars to the startup and is rolling out its technology to its customers globally."
+        },
+        {
+          "item": "OpenAI's staff of computer scientists",
+          "quote": "This threat was backed by Microsoft's vast computing power, the key asset driving OpenAI's technology along with its staff of computer scientists."
+        }
+      ]
+    }
+  },
+  {
+    "name": "OpenAI",
+    "description": "AI startup",
+    "mentions": 12,
+    "wikipedia": {
+      "id": "48795986",
+      "name": "OpenAI",
+      "extract": "OpenAI is an American artificial intelligence (AI) research organization consisting of the non-profit OpenAI, Inc. registered in Delaware and its for-profit subsidiary OpenAI Global, LLC. OpenAI researches artificial intelligence with the declared intention of developing \"safe and beneficial\" artificial general intelligence, which it defines as \"highly autonomous systems that outperform humans at most economically valuable work\". OpenAI has also developed several large language models, such as ChatGPT and GPT-4, as well as advanced image generation models like DALL-E 3, and in the past published open-source models.The organization was founded in December 2015 by Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston, John Schulman, Pamela Vagata, and Wojciech Zaremba, with Sam Altman and Elon Musk serving as the initial board members. Microsoft provided OpenAI Global LLC with a $1 billion investment in 2019 and a $10 billion investment in 2023, with a significant portion of the investment in the form of compute resources on Microsoft's Azure cloud service.On November 17, 2023, the board removed Altman as CEO, while Brockman was removed as chairman and then resigned as president. Four days later, both returned after negotiations with the board, and most of the board members resigned. The new initial board included former Salesforce co-CEO Bret Taylor as chairman. OpenAI also announced that Microsoft would have a non-voting board seat at OpenAI.",
+      "description": "OpenAI is an American AI research organization, focusing on developing \"safe and beneficial\" artificial general intelligence and producing large language and image generation models, funded by significant investments by Microsoft."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "To develop AI that benefits humanity",
+          "quote": "The original board had given scant explanation for Altman's firing on Friday other than his lack of candor and its need to defend OpenAI's mission to develop AI that benefits humanity."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "To maintain a partnership with Microsoft and become more integrated with it",
+          "quote": "What does seem clear is that Microsoft will now play a much bigger role, that the partnership will become stronger and the two companies more integrated."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Return of Sam Altman as CEO could drive commercialization and boldness with potential risk-taking",
+          "quote": "The return of Altman consolidates his influence over the direction of OpenAI, and probably means it will be more bold and profit focused, but also potentially less risk averse."
+        },
+        {
+          "item": "Potential reshuffling of the board",
+          "quote": "It was not immediately clear if the previous board directors who hold no equity in OpenAI would retain their seats, or if the backers of its capped-profit subsidiary - such as 49% owner Microsoft - would ultimately win board appointments."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Further integration with Microsoft",
+          "quote": "We believe this is a first essential step on a path to more stable, well-informed, and effective governance."
+        },
+        {
+          "item": "Potential profit focus and bold decisions under Altman's leadership",
+          "quote": "The return of Altman consolidates his influence over the direction of OpenAI, and probably means it will be more bold and profit focused, but also potentially less risk averse."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Loss of staff following Sam Altman's firing",
+          "quote": "By Monday, nearly all of OpenAI's over 700-strong staff had threatened to leave and join Microsoft's effort unless the board stepped down and reinstated Altman, according to a letter reviewed by Reuters."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Potential risks and dangers of AI",
+          "quote": "The return of Altman could potentially usher in a new era for the startup which had long juggled concerns among staff about AI's dangers and its potential for commercialization."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Funding support from Microsoft",
+          "quote": "Microsoft (MSFT.O), which has pledged billions of dollars to the startup and is rolling out its technology to its customers globally."
+        },
+        {
+          "item": "Computer scientists and other staff",
+          "quote": "This threat was backed by Microsoft's vast computing power, the key asset driving OpenAI's technology along with its staff of computer scientists."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Microsoft",
+    "description": "Global technology company",
+    "mentions": 7,
+    "wikipedia": {
+      "id": "19001",
+      "name": "Microsoft",
+      "extract": "Microsoft Corporation is an American multinational technology corporation headquartered in Redmond, Washington. Microsoft's best-known software products are the Windows line of operating systems, the Microsoft 365 suite of productivity applications, and the Edge web browser. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. Microsoft ranked No. 14 in the 2022 Fortune 500 rankings of the largest United States corporations by total revenue; it was the world's largest software maker by revenue as of 2022. It is considered one of the Big Five American information technology companies, alongside Alphabet (parent company of Google), Amazon, Apple, and Meta.\nMicrosoft was founded by Bill Gates and Paul Allen on April 4, 1975, to develop and sell BASIC interpreters for the Altair 8800. It rose to dominate the personal computer operating system market with MS-DOS in the mid-1980s, followed by Windows. The company's 1986 initial public offering (IPO) and subsequent rise in its share price created three billionaires and an estimated 12,000 millionaires among Microsoft employees. Since the 1990s, it has increasingly diversified from the operating system market and has made several corporate acquisitions, the largest being the acquisition of Activision Blizzard for $68.7 billion in October 2023, followed by its acquisition of LinkedIn for $26.2 billion in December 2016, and its acquisition of Skype Technologies for $8.5 billion in May 2011.As of 2015, Microsoft is market-dominant in the IBM PC compatible operating system market and the office software suite market, although it has lost the majority of the overall operating system market to Android. The company also produces a wide range of other consumer and enterprise software for desktops, laptops, tabs, gadgets, and servers, including Internet search (with Bing), the digital services market (through MSN), mixed reality (HoloLens), cloud computing (Azure), and software development (Visual Studio).\nSteve Ballmer replaced Gates as CEO in 2000 and later envisioned a \"devices and services\" strategy. This unfolded with Microsoft acquiring Danger Inc. in 2008, entering the personal computer production market for the first time in June 2012 with the launch of the Microsoft Surface line of tablet computers, and later forming Microsoft Mobile through the acquisition of Nokia's devices and services division. Since Satya Nadella took over as CEO in 2014, the company has scaled back on hardware and instead focused on cloud computing, a move that helped the company's shares reach their highest value since December 1999. Under Nadella's direction, the company has also heavily expanded its gaming business to support the Xbox brand, establishing the Microsoft Gaming division in 2022, dedicated to operating Xbox in addition to its three subsidiaries (publishers). Microsoft Gaming is the third-largest gaming company in the world by revenue as of 2023.Earlier dethroned by Apple in 2010, in 2018, Microsoft reclaimed its position as the most valuable publicly traded company in the world. In April 2019, Microsoft reached a trillion-dollar market cap, becoming the third U.S. public company to be valued at over $1 trillion after Apple and Amazon, respectively. As of 2023, Microsoft has the third-highest global brand valuation.\nMicrosoft has been criticized for its monopolistic practices and the company's software has been criticized for problems with ease of use, robustness, and security.",
+      "description": "Microsoft Corporation, an American multinational headquartered in Redmond, Washington, is known for software products including the Windows operating systems and Microsoft 365 applications, along with hardware products like Xbox consoles and Surface personal computers, and is globally recognized as one of the biggest revenue-earning software makers and an influential entity among the Big Five IT companies in the US."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Strengthen partnership and integration with OpenAI",
+          "quote": "\"What does seem clear is that Microsoft will now play a much bigger role, that the partnership will become stronger and the two companies more integrated.\""
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Global rollout of OpenAI's technology",
+          "quote": "Microsoft (MSFT.O), which has pledged billions of dollars to the startup and is rolling out its technology to its customers globally."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Influence over AI safety and growth through funding and board seats in OpenAI",
+          "quote": "It was not immediately clear if the previous board directors who hold no equity in OpenAI would retain their seats, or if the backers of its capped-profit subsidiary - such as 49% owner Microsoft - would ultimately win board appointments."
+        },
+        {
+          "item": "Multibillion-dollar investment in OpenAI",
+          "quote": "Windows maker reveals multi-year, multi-billion dollar investment in OpenAI in January"
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Increasing influence in OpenAI and closer integration with the startup",
+          "quote": "\"What does seem clear is that Microsoft will now play a much bigger role, that the partnership will become stronger and the two companies more integrated.\""
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Lack of clarity and potential disputes around Altman's firing and role in OpenAI",
+          "quote": "\"There are still huge questions about why Altman was fired and why Microsoft had been kept in the dark about the decision,\" said Danni Hewson, AJ Bell's head of financial analysis."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Potential for disruption and conflict within OpenAI board and shareholders",
+          "quote": "Reuters earlier reported some shareholders were exploring legal recourse after the turmoil threatened the future of OpenAI, recently expected to have an over $80 billion valuation."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Multibillion-dollar investment and vast computing power",
+          "quote": "Windows maker reveals multi-year, multi-billion dollar investment in OpenAI in January"
+        },
+        {
+          "item": "Ability to absorb OpenAI's staff",
+          "quote": "By Monday, nearly all of OpenAI's over 700-strong staff had threatened to leave and join Microsoft's effort unless the board stepped down and reinstated Altman, according to a letter reviewed by Reuters."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bret Taylor",
+    "description": "Former Salesforce co-CEO, chair of OpenAI's new initial board",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "24401213",
+      "name": "Bret Taylor",
+      "extract": "Bret Steven Taylor (born 1980) is an American computer programmer and entrepreneur. He is most notable for leading the team that co-created Google Maps and his tenures as the CTO of Facebook (now Meta Platforms), as the chairman of Twitter, Inc.'s board of directors prior to its acquisition by Elon Musk, and as the co-CEO of Salesforce (alongside co-founder Marc Benioff). Taylor was additionally one of the founders of FriendFeed and the creator of Quip. Since November 2023, he is chairman of OpenAI.",
+      "description": "Bret Steven Taylor is an American computer programmer notable for co-creating Google Maps, serving as the CTO of Facebook, chairman of Twitter, Inc., co-CEO of Salesforce, and he is currently the chairman of OpenAI as of November 2023.\n"
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [
+        {
+          "item": "Directing and guiding the board's decisions as Chairman",
+          "quote": "The ChatGPT maker also unveiled a new initial board with former Salesforce co-CEO Bret Taylor as chair"
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "OpenAI's progress and growth",
+          "quote": "We believe this is a first essential step on a path to more stable, well-informed, and effective governance"
+        }
+      ],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Influence and position as chair of OpenAI's board",
+          "quote": "The ChatGPT maker also unveiled a new initial board with former Salesforce co-CEO Bret Taylor as chair"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Larry Summers",
+    "description": "Former U.S. Treasury Secretary, director on OpenAI's new initial board",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "206211",
+      "name": "Lawrence Summers",
+      "extract": "Lawrence Henry Summers (born November 30, 1954) is an American economist who served as the 71st United States Secretary of the Treasury from 1999 to 2001 and as director of the National Economic Council from 2009 to 2010. He also served as president of Harvard University from 2001 to 2006, where he is the Charles W. Eliot university professor and director of the Mossavar-Rahmani Center for Business and Government at Harvard Kennedy School. In November 2023, Summers joined the board of directors of artificial general intelligence company OpenAI.Summers became a professor of economics at Harvard University in 1983. He left Harvard in 1991, working as the Chief Economist of the World Bank from 1991 to 1993. In 1993, Summers was appointed Under Secretary for International Affairs of the United States Department of the Treasury under President Bill Clinton's administration. In 1995, he was promoted to Deputy Secretary of the Treasury under his long-time political mentor Robert Rubin. In 1999, he succeeded Rubin as Secretary of the Treasury. While working for the Clinton administration, Summers played a leading role in the American response to the 1994 economic crisis in Mexico, the 1997 Asian financial crisis, and the Russian financial crisis. He was also influential in the Harvard Institute for International Development and American-advised privatization of the economies of the post-Soviet states, and in the deregulation of the U.S financial system, including the repeal of the Glass-Steagall Act.\nFollowing the end of Clinton's term, Summers served as the 27th president of Harvard University from 2001 to 2006. Summers resigned as Harvard's president in the wake of a no-confidence vote by Harvard faculty, which resulted in large part from Summers's conflict with Cornel West, financial conflict of interest questions regarding his relationship with Andrei Shleifer, and a 2005 speech in which he offered three reasons for the under-representation of women in science and engineering, including the possibility that there exists a \"different availability of aptitude at the high end\", in addition to patterns of discrimination and socialization.After his departure from Harvard, Summers worked as a managing partner at the hedge fund D. E. Shaw & Co. Summers rejoined public service during the Obama administration, serving as the Director of the White House United States National Economic Council for President Barack Obama from January 2009 until November 2010, where he emerged as a key economic decision-maker in the Obama administration's response to the Great Recession.\n\n",
+      "description": "Lawrence Henry Summers is a renowned American economist who has served as the 71st United States Secretary of the Treasury, director of the National Economic Council, and president of Harvard University, and in 2023, joined the board of directors of artificial general intelligence company OpenAI."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [
+        {
+          "item": "Being a part of AI development for commercial and beneficial purposes",
+          "quote": "OpenAI's mission to develop AI that benefits humanity."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Influencing decisions and direction at OpenAI",
+          "quote": "The ChatGPT maker also unveiled a new initial board with former Salesforce co-CEO Bret Taylor as chair and Larry Summers, former U.S. Treasury Secretary, and Adam D'Angelo as directors."
+        }
+      ],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "His experience and influence",
+          "quote": "Larry Summers, former U.S. Treasury Secretary, and Adam D'Angelo as directors."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Adam D'Angelo",
+    "description": "Director on OpenAI's new initial board, part of the original board that dismissed Altman",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "28125485",
+      "name": "Adam D'Angelo",
+      "extract": "Adam D'Angelo (born August 21, 1984) is an American internet entrepreneur. He is best known for his role as the co-founder and CEO of Quora, based in Mountain View, California.",
+      "description": "Adam D'Angelo is an American internet entrepreneur, best known as the co-founder and CEO of Quora."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [
+        {
+          "item": "Successful role as a director in the newly constituted board of OpenAI ",
+          "quote": "The ChatGPT maker also unveiled a new initial board with former Salesforce co-CEO Bret Taylor as chair and Larry Summers, former U.S. Treasury Secretary, and Adam D'Angelo as directors. D'Angelo was part of the original board that had dismissed Altman."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Turbulence and uncertainty in OpenAI's future",
+          "quote": "Reuters earlier reported some shareholders were exploring legal recourse after the turmoil threatened the future of OpenAI, recently expected to have an over $80 billion valuation."
+        }
+      ],
+      "main_fears": [],
+      "resources": []
+    }
+  },
+  {
+    "name": "Danni Hewson",
+    "description": "AJ Bell's head of financial analysis",
+    "mentions": 1,
+    "wikipedia": {
+      "error": "Error extracting pageId:There doesn't seem to be a Wikipedia page for Danni Hewson as AJ Bell's head of financial analysis in the provided options."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Return Sam Altman as CEO",
+          "quote": "Sam Altman is returning as CEO of OpenAI just days after his ouster"
+        },
+        {
+          "item": "Defend OpenAI's mission",
+          "quote": "OpenAI's mission to develop AI that benefits humanity"
+        },
+        {
+          "item": "Full integration with Microsoft",
+          "quote": "Microsoft will now play a much bigger role, that the partnership will become stronger and the two companies more integrated."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Restoration of stability",
+          "quote": "We believe this is a first essential step on a path to more stable, well-informed, and effective governance."
+        },
+        {
+          "item": "Commercialization of AI",
+          "quote": "The return of Altman could potentially usher in a new era for the startup which had long juggled concerns among staff about AI's dangers and its potential for commercialization."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Board Reformation",
+          "quote": "The ChatGPT maker also unveiled a new initial board with former Salesforce co-CEO Bret Taylor as chair and Larry Summers, former U.S. Treasury Secretary, and Adam D'Angelo as directors."
+        },
+        {
+          "item": "Potential reshuffling",
+          "quote": "Analysts said the reshuffle will favor Altman and Microsoft (MSFT.O)"
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Stronger Integration with Microsoft",
+          "quote": "Microsoft will now play a much bigger role, that the partnership will become stronger and the two companies more integrated."
+        },
+        {
+          "item": "Reinstatement of Sam Altman and Stability",
+          "quote": "We believe this is the best outcome for the company."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Loss of staff and ally company",
+          "quote": "By Monday, nearly all of OpenAI's over 700-strong staff had threatened to leave and join Microsoft's effort unless the board stepped down and reinstated Altman."
+        },
+        {
+          "item": "Unstable governance and leadership",
+          "quote": "OpenAI's mission to develop AI that benefits humanity."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "AI's dangers and impact on employees",
+          "quote": "The startup which had long juggled concerns among staff about AI's dangers."
+        },
+        {
+          "item": "Potential loss of staff and collapse",
+          "quote": "By Monday, nearly all of OpenAI's over 700-strong staff had threatened to leave and join Microsoft's effort unless the board stepped down and reinstated Altman."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Investment and support from Microsoft",
+          "quote": "Microsoft has pledged billions of dollars to the startup and is rolling out its technology to its customers globally."
+        },
+        {
+          "item": "Talented and skilled staff workforce",
+          "quote": "OpenAI's over 700-strong staff."
+        },
+        {
+          "item": "Significant valuation of the company",
+          "quote": "OpenAI, recently expected to have an over $80 billion valuation."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Satya Nadella",
+    "description": "CEO of Microsoft",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "38309941",
+      "name": "Satya Nadella",
+      "extract": "Satya Narayana Nadella (; born 19 August 1967) is an Indian-American business executive. He is the executive chairman and CEO of Microsoft, succeeding Steve Ballmer in 2014 as CEO and John W. Thompson in 2021 as chairman. Before becoming CEO, he was the executive vice president of Microsoft's cloud and enterprise group, responsible for building and running the company's computing platforms.",
+      "description": "Satya Narayana Nadella, born on 19 August 1967, is an Indian-American business executive serving as the executive chairman and CEO of Microsoft since 2014."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [
+        {
+          "item": "Stronger governance in OpenAI",
+          "quote": "\"We believe this is a first essential step on a path to more stable, well-informed, and effective governance,\" he said on X."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Support and facilitate changes in OpenAI",
+          "quote": "Microsoft's CEO Satya Nadella welcomed the changes."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Greater integration and partnership between Microsoft and OpenAI",
+          "quote": "\"What does seem clear is that Microsoft will now play a much bigger role, that the partnership will become stronger and the two companies more integrated.\""
+        }
+      ],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Microsoft's vast computing power and financial investment",
+          "quote": "This threat was backed by Microsoft's vast computing power, the key asset driving OpenAI's technology along with its staff of computer scientists."
+        },
+        {
+          "item": "Microsoft's pledge of billions of dollars to OpenAI and potential influence",
+          "quote": "Analysts said the reshuffle will favor Altman and Microsoft (MSFT.O), which has pledged billions of dollars to the startup and is rolling out its technology to its customers globally."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Greg Brockman",
+    "description": "President of OpenAI",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "73299474",
+      "name": "Greg Brockman",
+      "extract": "Greg Brockman (born November 29, 1987) is an American entrepreneur, investor and software developer who is a co-founder and currently the president of OpenAI. He began his career at Stripe in 2010, upon leaving MIT, and became their CTO in 2013. He left Stripe in 2015 to co-found OpenAI, where he also assumed the role of CTO.",
+      "description": "Greg Brockman is an American entrepreneur, software developer, and co-founder of OpenAI, who formerly held the position of CTO at Stripe."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [
+        {
+          "item": "Protest against Sam Altman's removal.",
+          "quote": "His departure triggered a major upheaval at OpenAI, with President Greg Brockman quitting in protest."
+        },
+        {
+          "item": "Reinstatement of Sam Altman.",
+          "quote": "By Monday, nearly all of OpenAI's over 700-strong staff had threatened to leave and join Microsoft's effort unless the board stepped down and reinstated Altman, according to a letter reviewed by Reuters."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Leaving OpenAI to join Microsoft.",
+          "quote": "By Monday, nearly all of OpenAI's over 700-strong staff had threatened to leave and join Microsoft's effort unless the board stepped down and reinstated Altman, according to a letter reviewed by Reuters."
+        },
+        {
+          "item": "Leading a new research team at Microsoft.",
+          "quote": "When he was out of a job, CEO Nadella said Altman could head a new research team alongside Brockman and other colleagues departing from OpenAI."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Reinstatement of Sam Altman as OpenAI CEO.",
+          "quote": "By Sunday Altman was back at OpenAI's offices expecting his swift reappointment, when the board surprised again by naming ex-Twitch boss Emmett Shear as interim CEO."
+        },
+        {
+          "item": "Unity and strength within OpenAI.",
+          "quote": "\"We will come back stronger & more unified than ever,\" he said."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Sam Altman's removal from OpenAI.",
+          "quote": "His departure triggered a major upheaval at OpenAI, with President Greg Brockman quitting in protest."
+        },
+        {
+          "item": "Uncertainty and turmoil threatening future of OpenAI.",
+          "quote": "Reuters earlier reported some shareholders were exploring legal recourse after the turmoil threatened the future of OpenAI, recently expected to have an over $80 billion valuation."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Loss of Sam Altman from OpenAI.",
+          "quote": "His departure triggered a major upheaval at OpenAI, with President Greg Brockman quitting in protest."
+        },
+        {
+          "item": "Threat to the future of OpenAI due to internal turmoil.",
+          "quote": "Reuters earlier reported some shareholders were exploring legal recourse after the turmoil threatened the future of OpenAI, recently expected to have an over $80 billion valuation."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Influence over the direction of OpenAI.",
+          "quote": "\"The return of Altman consolidates his influence over the direction of OpenAI, and probably means it will be more bold and profit focused, but also potentially less risk averse,\" said Kyle Rodda, analyst at Capital.com."
+        },
+        {
+          "item": "Support from OpenAI staff.",
+          "quote": "By Monday, nearly all of OpenAI's over 700-strong staff had threatened to leave and join Microsoft's effort unless the board stepped down and reinstated Altman, according to a letter reviewed by Reuters."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Emmett Shear",
+    "description": "Ex-Twitch boss, interim CEO of OpenAI",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "33627170",
+      "name": "Emmett Shear",
+      "extract": "Emmett Shear (born 1983) is an American Internet entrepreneur and investor. He is the co-founder of live video platform Justin.tv. He served as the chief executive officer of Twitch when it was spun off from Justin.tv until March 2023. In 2011, Shear was appointed as a part-time partner at venture capital firm Y Combinator. In November 2023, he briefly served as interim CEO of OpenAI.\n\n",
+      "description": "Emmett Shear, born 1983, is an American Internet entrepreneur and investor, known as the co-founder of Justin.tv and former CEO of Twitch, and for his brief tenure as interim CEO of OpenAI in 2023."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Restabilizing OpenAI",
+          "quote": "In a post on X on Tuesday, Shear said he worked \"~72 very intense hours\" to bring stability - and ultimately Altman - back to OpenAI."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Safety and fairness",
+          "quote": "\"This was the pathway that maximized safety alongside doing right by all stakeholders involved,\" he said."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Brought Altman back to OpenAI",
+          "quote": "In a post on X on Tuesday, Shear said he worked \"~72 very intense hours\" to bring stability - and ultimately Altman - back to OpenAI."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Altman returning to OpenAI",
+          "quote": "In a post on X on Tuesday, Shear said he worked \"~72 very intense hours\" to bring stability - and ultimately Altman - back to OpenAI."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Losing staffs",
+          "quote": "By Monday, nearly all of OpenAI's over 700-strong staff had threatened to leave and join Microsoft's effort unless the board stepped down and reinstated Altman, according to a letter reviewed by Reuters."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Instability of OpenAI",
+          "quote": "In a post on X on Tuesday, Shear said he worked \"~72 very intense hours\" to bring stability - and ultimately Altman - back to OpenAI."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Experience as former CEO of Twitch",
+          "quote": "the board surprised again by naming ex-Twitch boss Emmett Shear as interim CEO."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Thrive Capital",
+    "description": "Backer of OpenAI",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "72557062",
+      "name": "Thrive Capital",
+      "extract": "Thrive Capital is an American venture capital firm based in New York City. It focuses on software and internet investments. The firm was founded by Joshua Kushner who is also co-founder of Oscar Health and minority owner of the Memphis Grizzlies.",
+      "description": "Thrive Capital is a New York-based American venture capital firm, founded by Joshua Kushner, specializing in software and internet investments."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [
+        {
+          "item": "Seeing stability in the companies it invests in",
+          "quote": "\"We believe this is the best outcome for the company,\" said Thrive Capital, a backer of OpenAI."
+        }
+      ],
+      "possible_actions": [],
+      "good_scenarios": [
+        {
+          "item": "Stabilization and good governance within the companies it invests in",
+          "quote": "\"We believe this is the best outcome for the company,\" said Thrive Capital, a backer of OpenAI."
+        }
+      ],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": []
+    }
+  },
+  {
+    "name": "Steve Jobs",
+    "description": "Former CEO of Apple",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "7412236",
+      "name": "Steve Jobs",
+      "extract": "Steven Paul Jobs (February 24, 1955 – October 5, 2011) was an American businessman, inventor, and investor best known as the co-founder of Apple. Jobs was also chairman and majority shareholder of Pixar, and the founder of NeXT. He was a pioneer of the personal computer revolution of the 1970s and 1980s, along with his early business partner and fellow Apple co-founder Steve Wozniak.\nJobs was born in San Francisco to a Syrian father and Swiss-German American mother. He was adopted shortly after his birth. He attended Reed College in 1972 before withdrawing that same year. In 1974, he traveled through India seeking enlightenment before later studying Zen Buddhism. He and Wozniak co-founded Apple in 1976 to sell Wozniak's Apple I personal computer. Together the duo gained fame and wealth a year later with production and sale of the Apple II, one of the first highly successful mass-produced microcomputers. Jobs saw the commercial potential of the Xerox Alto in 1979, which was mouse-driven and had a graphical user interface (GUI). This led to the development of the unsuccessful Apple Lisa in 1983, followed by the breakthrough Macintosh in 1984, the first mass-produced computer with a GUI. The Macintosh introduced the desktop publishing industry in 1985 with the addition of the Apple LaserWriter, the first laser printer to feature vector graphics.\nIn 1985, Jobs departed Apple after a long power struggle with the company's board and its then-CEO, John Sculley. That same year, Jobs took some Apple employees with him to found NeXT, a computer platform development company that specialized in computers for higher-education and business markets, serving as its CEO. In addition, he helped develop the visual effects industry when he funded the computer graphics division of George Lucas's Lucasfilm in 1986. The Graphics Group eventually spun off independently as Pixar, producing the first 3D computer-animated feature film Toy Story (1995) and becoming a leading animation studio, producing over 27 films since.\nIn 1997, Jobs returned to Apple as CEO after the company's acquisition of NeXT. He was largely responsible for reviving Apple, which was on the verge of bankruptcy. He worked closely with British designer Jony Ive to develop a line of products and services that had larger cultural ramifications, beginning with the \"Think different\" advertising campaign, and leading to the iMac, iTunes, Mac OS X, Apple Store, iPod, iTunes Store, iPhone, App Store, and iPad. In 2003, Jobs was diagnosed with a pancreatic neuroendocrine tumor. He died of respiratory arrest related to the tumor in 2011, at the age of 56, with Tim Cook succeeding him as CEO of Apple. In 2022, he was posthumously awarded the Presidential Medal of Freedom.",
+      "description": "Steve Jobs was an American businessman and inventor, best known as the co-founder of Apple and Pixar, who contributed majorly to the personal computer revolution and changed the tech industry with products like the Macintosh, iPhone, and iPad."
+    },
+    "motives": {
+      "message": "The provided document does not contain any direct information about Steve Jobs to answer the specific questions. Please provide a document related to Steve Jobs to extract the necessary information."
+    }
+  },
+  {
+    "name": "Ilya Sutskever",
+    "description": "OpenAI chief scientist, former board member",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "51097862",
+      "name": "Ilya Sutskever",
+      "extract": "Ilya Sutskever  (Hebrew: איליה סוצקבר; Russian: Илья Суцкевер; /ilja su:ʦkɪvər/ born 1985/86) is a computer scientist working in machine learning. He is a co-founder and Chief Scientist at OpenAI.He has made several major contributions to the field of deep learning. In 2023, Sutskever and the OpenAI board fired CEO Sam Altman, who returned a week later. He is the co-inventor, with Alex Krizhevsky and Geoffrey Hinton, of AlexNet, a convolutional neural network. Sutskever is also one of the many co-authors of the AlphaGo paper.",
+      "description": "Ilya Sutskever is a renowned computer scientist and co-founder of OpenAI who has made significant contributions to deep learning, including the co-invention of AlexNet, a convolutional neural network."
+    },
+    "motives": {
+      "description": "The document does not provide specific details on Ilya Sutskever's stated goals, motivations, possible actions, good and bad scenarios, main fears and resources. The document is centered around Sam Altman's return as CEO of Open AI. Ilya Sutskever is only mentioned as the chief scientist of OpenAI in the previous board. Please provide a document more focused on Ilya Sutskever for a valuable analysis.",
+      "details": {
+        "stated_goals": [],
+        "main_motivations": [],
+        "possible_actions": [],
+        "good_scenarios": [],
+        "bad_scenarios": [],
+        "main_fears": [],
+        "resources": []
+      }
+    }
+  },
+  {
+    "name": "Tasha McCauley",
+    "description": "Former board member of OpenAI",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "48795986",
+      "name": "OpenAI",
+      "extract": "OpenAI is an American artificial intelligence (AI) research organization consisting of the non-profit OpenAI, Inc. registered in Delaware and its for-profit subsidiary OpenAI Global, LLC. OpenAI researches artificial intelligence with the declared intention of developing \"safe and beneficial\" artificial general intelligence, which it defines as \"highly autonomous systems that outperform humans at most economically valuable work\". OpenAI has also developed several large language models, such as ChatGPT and GPT-4, as well as advanced image generation models like DALL-E 3, and in the past published open-source models.The organization was founded in December 2015 by Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston, John Schulman, Pamela Vagata, and Wojciech Zaremba, with Sam Altman and Elon Musk serving as the initial board members. Microsoft provided OpenAI Global LLC with a $1 billion investment in 2019 and a $10 billion investment in 2023, with a significant portion of the investment in the form of compute resources on Microsoft's Azure cloud service.On November 17, 2023, the board removed Altman as CEO, while Brockman was removed as chairman and then resigned as president. Four days later, both returned after negotiations with the board, and most of the board members resigned. The new initial board included former Salesforce co-CEO Bret Taylor as chairman. OpenAI also announced that Microsoft would have a non-voting board seat at OpenAI.",
+      "description": "OpenAI is an American AI research organization, focusing on developing \"safe and beneficial\" artificial general intelligence and producing large language and image generation models, funded by significant investments by Microsoft."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "To develop AI that benefits humanity",
+          "quote": "The original board had given scant explanation for Altman's firing on Friday other than his lack of candor and its need to defend OpenAI's mission to develop AI that benefits humanity."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "To maintain a partnership with Microsoft and become more integrated with it",
+          "quote": "What does seem clear is that Microsoft will now play a much bigger role, that the partnership will become stronger and the two companies more integrated."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Return of Sam Altman as CEO could drive commercialization and boldness with potential risk-taking",
+          "quote": "The return of Altman consolidates his influence over the direction of OpenAI, and probably means it will be more bold and profit focused, but also potentially less risk averse."
+        },
+        {
+          "item": "Potential reshuffling of the board",
+          "quote": "It was not immediately clear if the previous board directors who hold no equity in OpenAI would retain their seats, or if the backers of its capped-profit subsidiary - such as 49% owner Microsoft - would ultimately win board appointments."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Further integration with Microsoft",
+          "quote": "We believe this is a first essential step on a path to more stable, well-informed, and effective governance."
+        },
+        {
+          "item": "Potential profit focus and bold decisions under Altman's leadership",
+          "quote": "The return of Altman consolidates his influence over the direction of OpenAI, and probably means it will be more bold and profit focused, but also potentially less risk averse."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Loss of staff following Sam Altman's firing",
+          "quote": "By Monday, nearly all of OpenAI's over 700-strong staff had threatened to leave and join Microsoft's effort unless the board stepped down and reinstated Altman, according to a letter reviewed by Reuters."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Potential risks and dangers of AI",
+          "quote": "The return of Altman could potentially usher in a new era for the startup which had long juggled concerns among staff about AI's dangers and its potential for commercialization."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Funding support from Microsoft",
+          "quote": "Microsoft (MSFT.O), which has pledged billions of dollars to the startup and is rolling out its technology to its customers globally."
+        },
+        {
+          "item": "Computer scientists and other staff",
+          "quote": "This threat was backed by Microsoft's vast computing power, the key asset driving OpenAI's technology along with its staff of computer scientists."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Helen Toner",
+    "description": "Former board member of OpenAI",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "75380868",
+      "name": "Helen Toner",
+      "extract": "Helen Toner is an Australian researcher and former board member of OpenAI.",
+      "description": "Helen Toner is an Australian researcher and ex-board member at OpenAI."
+    },
+    "motives": {
+      "name": "Helen Toner",
+      "information": {
+        "specificInformation": "None",
+        "relationWith": {
+          "Sam Altman": "None",
+          "OpenAI": "Previous Board Member"
+        },
+        "possibleActions": "None",
+        "scenarios": "None",
+        "fears": "None",
+        "resources": "None",
+        "motivations": "None",
+        "positionsHeld": [
+          {
+            "organization": "OpenAI",
+            "position": "Board Member",
+            "status": "Previous"
+          }
+        ],
+        "associations": [
+          "Tasha McCauley",
+          "Ilya Sutskever",
+          "D'Angelo"
+        ]
+      },
+      "quote": "OpenAI's previous board consisted of Tasha McCauley, Helen Toner, and OpenAI chief scientist Ilya Sutskever and Quora CEO D'Angelo, who is part of the revamped board."
+    }
+  },
+  {
+    "name": "Asia-Pacific Economic Cooperation (APEC)",
+    "description": "Inter-governmental forum",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "135976",
+      "name": "Asia-Pacific Economic Cooperation",
+      "extract": "Asia-Pacific Economic Cooperation (APEC  AY-pek) is an inter-governmental forum for 21 member economies in the Pacific Rim that promotes free trade throughout the Asia-Pacific region. Following the success of ASEAN's series of post-ministerial conferences launched in the mid-1980s, APEC started in 1989, in response to the growing interdependence of Asia-Pacific economies and the advent of regional trade blocs in other parts of the world; it aimed to establish new markets for agricultural products and raw materials beyond Europe. Headquartered in Singapore, APEC is recognized as one of the highest-level multilateral blocs and oldest forums in the Asia-Pacific region, and exerts significant global influence.The heads of government of all APEC members except Taiwan (which is represented by a ministerial-level official as economic leader) attend an annual APEC Economic Leaders' Meeting. The location of the meeting rotates annually among the member economies, and a famous tradition, followed for most (but not all) summits, involves the attending leaders dressing in a national costume of the host country. APEC has three official observers: the Association of Southeast Asian Nations Secretariat, the Pacific Economic Cooperation Council and the Pacific Islands Forum Secretariat. APEC's Host Economy of the Year is considered to be invited in the first place for geographical representation to attend G20 meetings following G20 guidelines.",
+      "description": "Asia-Pacific Economic Cooperation (APEC) is an inter-governmental forum involving 21 Pacific Rim economies, headquartered in Singapore, that promotes free trade in the Asia-Pacific region and exerts significant global influence."
+    }
+  },
+  {
+    "name": "Reuters",
+    "description": "International news organization",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "18998750",
+      "name": "Reuters",
+      "extract": "Reuters ( , ROY-terz) is a news agency owned by Thomson Reuters Corporation. It employs around 2,500 journalists and 600 photojournalists in about 200 locations worldwide. Reuters is one of the largest news agencies in the world.The agency was established in London in 1851 by the German-born Paul Reuter. It was acquired by the Thomson Corporation of Canada in 2008 and now makes up the news media division of Thomson Reuters.\n\n",
+      "description": "Reuters is a global news agency, owned by the Thomson Reuters Corporation, that was established in London in 1851 and employs around 2,500 journalists worldwide."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [
+        {
+          "item": "Integration between companies",
+          "quote": "\"What does seem clear is that Microsoft will now play a much bigger role, that the partnership will become stronger and the two companies more integrated.\""
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Uncertainty about board stability",
+          "quote": "It was not immediately clear if the previous board directors who hold no equity in OpenAI would retain their seats, or if the backers of its capped-profit subsidiary - such as 49% owner Microsoft - would ultimately win board appointments."
+        },
+        {
+          "item": "Turmoil and potential legal issues due to board changes",
+          "quote": "Reuters earlier reported some shareholders were exploring legal recourse after the turmoil threatened the future of OpenAI, recently expected to have an over $80 billion valuation."
+        }
+      ],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Extensive global network of reporters",
+          "quote": "Reporting by Jeffrey Dastin in San Francisco and Aditya Soni, Shivani Tanna and Bansari Mayur Kamdar in Bengaluru. Editing by Dhanya Ann Thoppil, Nivedita Bhattacharjee, Sam Holmes and Jane Merriman"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kyle Rodda",
+    "description": "Analyst at Capital.com",
+    "mentions": 1,
+    "wikipedia": {
+      "error": "Error extracting pageId:None of the provided options from the Wikipedia search API directly match to \"Kyle Rodda\" as an \"Analyst at Capital.com\". Therefore, it isn't possible to provide a definitive pageid."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Return Sam Altman as CEO",
+          "quote": "Sam Altman is returning as CEO of OpenAI just days after his ouster"
+        },
+        {
+          "item": "Defend OpenAI's mission",
+          "quote": "OpenAI's mission to develop AI that benefits humanity"
+        },
+        {
+          "item": "Full integration with Microsoft",
+          "quote": "Microsoft will now play a much bigger role, that the partnership will become stronger and the two companies more integrated."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Restoration of stability",
+          "quote": "We believe this is a first essential step on a path to more stable, well-informed, and effective governance."
+        },
+        {
+          "item": "Commercialization of AI",
+          "quote": "The return of Altman could potentially usher in a new era for the startup which had long juggled concerns among staff about AI's dangers and its potential for commercialization."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Board Reformation",
+          "quote": "The ChatGPT maker also unveiled a new initial board with former Salesforce co-CEO Bret Taylor as chair and Larry Summers, former U.S. Treasury Secretary, and Adam D'Angelo as directors."
+        },
+        {
+          "item": "Potential reshuffling",
+          "quote": "Analysts said the reshuffle will favor Altman and Microsoft (MSFT.O)"
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Stronger Integration with Microsoft",
+          "quote": "Microsoft will now play a much bigger role, that the partnership will become stronger and the two companies more integrated."
+        },
+        {
+          "item": "Reinstatement of Sam Altman and Stability",
+          "quote": "We believe this is the best outcome for the company."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Loss of staff and ally company",
+          "quote": "By Monday, nearly all of OpenAI's over 700-strong staff had threatened to leave and join Microsoft's effort unless the board stepped down and reinstated Altman."
+        },
+        {
+          "item": "Unstable governance and leadership",
+          "quote": "OpenAI's mission to develop AI that benefits humanity."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "AI's dangers and impact on employees",
+          "quote": "The startup which had long juggled concerns among staff about AI's dangers."
+        },
+        {
+          "item": "Potential loss of staff and collapse",
+          "quote": "By Monday, nearly all of OpenAI's over 700-strong staff had threatened to leave and join Microsoft's effort unless the board stepped down and reinstated Altman."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Investment and support from Microsoft",
+          "quote": "Microsoft has pledged billions of dollars to the startup and is rolling out its technology to its customers globally."
+        },
+        {
+          "item": "Talented and skilled staff workforce",
+          "quote": "OpenAI's over 700-strong staff."
+        },
+        {
+          "item": "Significant valuation of the company",
+          "quote": "OpenAI, recently expected to have an over $80 billion valuation."
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "title": "Microsoft hires former OpenAI CEO Sam Altman",
+  "source": "Guardian",
+  "date": "Mon 20 Nov 2023 23.45 GMT",
+  "authors": [
+    "Dan Milmo",
+    "Josh Taylor"
+  ],
+  "link": "https://www.theguardian.com/technology/2023/nov/20/sam-altman-openai-ceo-wont-return-chatgpt-talks-fail-emmett-shear-twitch",
+  "relevance_score": 0.9,
+  "relevance_explanation": "This document is highly relevant to the research goals as it discusses the termination of Sam Altman from OpenAI and the subsequent hiring of Altman by Microsoft, providing insights into the dynamics between OpenAI and Microsoft, and noting the unrest in OpenAI after the incident. It reveals motivations behind key decisions and offers a glimpse into power shifts and internal communications.",
+  "summary": "Sam Altman was fired by OpenAI for alleged communication issues and replaced by Emmett Shear. Microsoft, OpenAI's largest investor, quickly appointed Altman and the former OpenAI president, Greg Brockman, to a newly formed advanced AI team. Microsoft CEO Satya Nadella hinted at more OpenAI staff moving to Microsoft. Altman's firing caused considerable reaction among OpenAI staff and within Silicon Valley. Talks to rehire him failed, leading to his shift to Microsoft, and discussions about OpenAI governance, safety, and commercial prospects.",
+  "events": [
+    "Sam Altman fired from OpenAI",
+    "Emmett Shear appointed as OpenAI CEO",
+    "Microsoft hires Sam Altman and Greg Brockman",
+    "Unrest among OpenAI staff following Altman's departure",
+    "Failed talks to reinstate Altman at OpenAI",
+    "Potential discussion of OpenAI governance restructuring",
+    "Microsoft showing commitment despite changes at OpenAI"
+  ],
+  "entities": [
+    "OpenAI",
+    "Sam Altman",
+    "Microsoft",
+    "Satya Nadella",
+    "Emmett Shear",
+    "Twitch",
+    "Greg Brockman",
+    "Mira Murati",
+    "John Naughton",
+    "Jony Ive",
+    "Masayoshi Son",
+    "SoftBank",
+    "The Verge",
+    "Jason Kwon",
+    "Jakub Pachocki",
+    "Aleksander Mądry",
+    "Szymon Sidor",
+    "Ilya Sutskever"
+  ],
+  "document_type": "Newspaper article"
+}

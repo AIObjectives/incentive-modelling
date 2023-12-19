@@ -1,0 +1,201 @@
+Title: OpenAI: The Battle of the Board
+Author: ZVI MOWSHOWITZ
+Date: 22 NOV 2023
+Source: Substack 
+Link: https://thezvi.substack.com/p/openai-the-battle-of-the-board
+
+=== 
+
+On Friday afternoon, OpenAI’s board fired CEO Sam Altman.
+
+Overnight, an agreement in principle was reached to reinstate Sam Altman as CEO of OpenAI, with an initial new board of Bret Taylor (ex-co-CEO of Salesforce, chair), Larry Summers and Adam D’Angelo.
+
+What happened? Why did it happen? How will it ultimately end? The fight is far from over. 
+
+We do not entirely know, but we know a lot more than we did a few days ago.
+
+This is my attempt to put the pieces together.
+
+This is a Fight For Control; Altman Started it
+This was and still is a fight about control of OpenAI, its board, and its direction.
+
+This has been a long simmering battle and debate. The stakes are high.
+
+Until recently, Sam Altman worked to reshape the company in his own image, while clashing with the board, and the board did little.
+
+While I must emphasize we do not know what motivated the board, a recent power move by Altman likely played a part in forcing the board’s hand.
+
+OpenAI is a Non-Profit With a Mission
+The structure of OpenAI and its board put control in doubt.
+
+Here is a diagram of OpenAI’s structure:
+
+A block diagram of OpenAI's unusual structure, provided by OpenAI.
+Here is OpenAI’s mission statement, the link has intended implementation details as well:
+
+This document reflects the strategy we’ve refined over the past two years, including feedback from many people internal and external to OpenAI. The timeline to AGI remains uncertain, but our Charter will guide us in acting in the best interests of humanity throughout its development.
+
+OpenAI’s mission is to ensure that artificial general intelligence (AGI)—by which we mean highly autonomous systems that outperform humans at most economically valuable work—benefits all of humanity. We will attempt to directly build safe and beneficial AGI, but will also consider our mission fulfilled if our work aids others to achieve this outcome.
+
+OpenAI warned investors that they might not make any money:
+
+Image
+The way a 501(c)3 works is essentially that the board is answerable to no one. If you have a majority of the board for one meeting, you can take full control of the board.
+
+But does the board have power? Sort of. It has a supervisory role, which means it can hire or fire the CEO. Often the board uses this leverage to effectively be in charge of major decisions. Other times, the CEO effectively controls the board and the CEO does what he wants.
+
+A critical flaw is that firing (and hiring) the CEO, and choosing the composition of a new board, is the board’s only real power.
+
+The board only has one move. It can fire the CEO or not fire the CEO. Firing the CEO is a major escalation that risks disruption. But escalation and disruption have costs, reputational and financial. Knowing this, the CEO can and often does take action to make them painful to fire, or calculates that the board would not dare.
+
+Sam Altman’s Perspective
+While his ultimate goals for OpenAI are far grander, Sam Altman wants OpenAI for now to mostly function as an ordinary Big Tech company in partnership with Microsoft. He wants to build and ship, to move fast and break things. He wants to embark on new business ventures to remove bottlenecks and get equity in the new ventures, including planning a Saudi-funded chip factory in the UAE and starting an AI hardware project. He lobbies in accordance with his business interests, and puts a combination of his personal power, valuation and funding rounds, shareholders and customers first.
+
+To that end, over the course of years, he has remade the company culture through addition and subtraction, hiring those who believe in this mission and who would be personally loyal to him. He has likely structured the company to give him free rein and hide his actions from the board and others. Normal CEO did normal CEO things.
+
+Altman is very good, Paul Graham says best in the world, at becoming powerful and playing power games. That, and scaling tech startups, are core to his nature. One assumes that ‘not being fully candid’ and other strategic action was part of this.
+
+Sam Altman’s intermediate goal has been, from the beginning, full personal control of OpenAI, and thus control over the construction of AGI. Power always wants more power. I can’t fault him for rational instrumental convergence in his goals. The ultimate goal is to build ‘safe’ AGI.
+
+That does not mean that Sam Altman does not believe in the necessity of ensuring that AI is safe. Altman understands this. I do not think he understands how hard it will be or the full difficulties that lie ahead, but he understands such questions better than most. He signed the CAIS letter. He testified frankly before Congress. Unlike many who defended him, Altman understands that AGI will be truly transformational, and he does not want humans to lose control over the future. He does not mean the effect on jobs.
+
+To be clear, I do think that Altman sincerely believes that his way is best for everyone.
+
+Right before Altman was fired, Altman had firm control over two board seats. One was his outright. Another belonged to Greg Brockman.
+
+That left four other board members.
+
+The Outside Board’s Perspective
+Helen Toner, Adam D’Angelo and Tasha McCauley had a very different perspective on the purpose of OpenAI and what was good for the world.
+
+They did not want OpenAI to be a big tech company. They do not want OpenAI to move as quickly as possible to train and deploy ever-more-capable frontier models, and sculpt them into maximally successful consumer products. They acknowledge the need for commercialization in order to raise funds, and I presume that such products can provide great value for people and that this is good.
+
+They want a more cautious approach, that avoids unnecessarily creating or furthering race dynamics with other labs or driving surges of investment like we saw after ChatGPT, that takes necessary precautions at each step. And they want to ensure that the necessary controls are in place, including government controls, for when the time comes that AGI is on the line, to ensure we can train and deploy it safely.
+
+Adam D’Angelo said the whole point was not to let OpenAI become a big tech company. Helen Toner is a strong advocate for policy action to guard against existential risk. I presume from what we know Tasha McCauley is in the same camp.
+
+Ilya Sutskever’s Perspective
+Ilya Sutskever loves OpenAI and its people, and the promise of building safe AGI. He had reportedly become increasingly concerned that timelines until AGI could be remarkably short. He was also reportedly concerned Altman was moving too fast and was insufficiently concerned with the risks. He may or may not have been privy to additional information about still-undeployed capabilities advances.
+
+Reports are Ilya’s takes on alignment have been epistemically improving steadily. He is co-leading the Superalignment Taskforce seeking to figure out how to align future superintelligent AI. I am not confident in what alignment takes I have heard from members of the taskforce, but Ilya is an iterator, and my hope is that timelines are not as short as he thinks and Ilya, Jan Leike and his team can figure it out before the chips have to be down.
+
+Ilya later reversed course, after the rest of the board fully lost control of the narrative and employees, and the situation threatened to tear OpenAI apart.
+
+Altman Moves to Take Control
+Altman and the board were repeatedly clashing. Altman continued to consolidate his power, confident that Ilya would not back an attempt to fire him. But it was tense. It would be much better to have a board more clearly loyal to Altman, more on board with the commercial mission.
+
+Then Altman saw an opportunity.
+
+In October, board member Helen Toner, together with Andrew Imbrie and Owen Daniels, published the paper Decoding Intentions: Artificial Intelligence and Costly Signals.
+
+The paper correctly points out that while OpenAI engages in costly signaling and takes steps to ensure safety, Anthropic does more costly signaling and takes more steps to ensure safety, and puts more emphasis on communicating this message. That is not something anyone could reasonably disagree with. The paper also notes that others have criticized OpenAI, and says OpenAI could and perhaps should do more. The biggest criticism in the paper is that it asserts that ChatGPT set off an arms race, with Anthropic’s Claude only following afterwards. This is very clearly true. OpenAI didn’t expect ChatGPT to take off like it did, but in practice ChatGPT definitely set off an arms race. To the extent it is a rebuke, it is stating facts. 
+
+However, the paper was sufficiently obscure that, if I saw it at all, I don’t remember it in the slightest. It is a trifle.
+
+Altman strongly rebuked Helen Toner for the paper, according to the New York Times.
+
+In the email, Mr. Altman said that he had reprimanded Ms. Toner for the paper and that it was dangerous to the company, particularly at a time, he added, when the Federal Trade Commission was investigating OpenAI over the data used to build its technology.
+
+Ms. Toner defended it as an academic paper that analyzed the challenges that the public faces when trying to understand the intentions of the countries and companies developing A.I. But Mr. Altman disagreed.
+
+“I did not feel we’re on the same page on the damage of all this,” he wrote in the email. “Any amount of criticism from a board member carries a lot of weight.”
+
+Senior OpenAI leaders, including Mr. Sutskever, who is deeply concerned that A.I. could one day destroy humanity, later discussed whether Ms. Toner should be removed, a person involved in the conversations said.
+
+From my perspective, even rebuking Toner here is quite bad. It is completely inconsistent with the nonprofit’s mission to not allow debate and disagreement and criticism. I do not agree with Altman’s view that Toner’s paper ‘carried a lot of weight,’ and I question whether Altman believed it either. But even if the paper did carry weight, we are not going to get through this crucial period if we cannot speak openly. Altman’s reference to the FTC investigation is a non-sequitur given the content of the paper as far as I can tell.
+
+Sam Altman then attempted to use this (potentially manufactured) drama to get Toner removed from the board. He used a similar tactic at Reddit, a manufactured crisis to force others to give up power. Once Toner was gone, presumably Altman would have moved to reshape the rest of the board.
+
+One Last Chance
+The board had a choice.
+
+If Ilya was willing to cooperate, the board could fire Altman, with the Thanksgiving break available to aid the transition, and hope for the best.
+
+Alternatively, the board could choose once again not to fire Altman, watch as Altman finished taking control of OpenAI and turned it into a personal empire, and hope this turns out well for the world.
+
+They chose to pull the trigger.
+
+We do not know what the board knew, or what combination of factors ultimately drove their decision. The board made a strategic decision not to explain their reasoning or justifications in detail during this dispute.
+
+What do we know?
+
+The board felt it at least had many small data points saying it could not trust Altman, in combination with Altman’s known power-seeking moves elsewhere (e.g. what happened at Reddit), and also that Altman was taking many actions that the board might reasonably see as in direct conflict with the mission.
+
+Why has the board failed to provide details on deception? Presumably because without one clear smoking gun, any explanations would be seen as weak sauce. All CEOs do some amount of manipulation and politics and withholding information. When you give ten examples, people often then judge on the strength of the weakest one rather than adding them up. Providing details might also burn bridges and expose legal concerns, make reconciliations and business harder. There is still much we do not know about what we do not know.
+
+What about concrete actions?
+
+Altman was raising tens of billions from Saudis, to start a chip company to rival Nvidia, which was to produce its chips in the UAE, leveraging the fundraising for OpenAI in the process. For various reasons this is kind of a ‘wtf’ move. 
+
+Altman was also looking to start an AI hardware device company. Which in principle seems good and fine, mundane utility, but as the CEO of OpenAI with zero equity the conflict is obvious.
+
+Altman increasingly focused on shipping products the way you would if you were an exceptional tech startup founder, and hired and rebuilt the culture in that image. Anthropic visibly built a culture of concern about safety in a way that OpenAI did not.
+
+Concerns about safety (at least in part) led to the Anthropic exodus after the board declined to remove Altman at that time. If you think the exit was justified, Altman wasn’t adhering to the charter. If you think it wasn’t, Altman created a rival and intensified arms race dynamics, which is a huge failure.
+
+This article claims both OpenAI and Microsoft were central in lobbying to take any meaningful requirements for foundation models out of the EU’s AI Act. If I was a board member, I would see this as incompatible with the OpenAI charter.
+
+Altman aggressively cut prices in ways that prioritized growth and made OpenAI much more dependent on Microsoft and further fueling the boom in AI development. Other deals and arrangements with Microsoft deepened the dependence, while making a threatened move to Microsoft more credible.
+
+He also offered a legal shield to users on copyright infringement, potentially endangering the company. It seems reasonable to assume he moved to expand OpenAI’s offerings on Dev Day in the face of safety concerns. Various attack vectors seem fully exposed.
+
+And he reprimanded and moved to remove Helen Toner from the board for writing a standard academic paper exploring how to pursue AI safety. To me this is indeed a smoking gun, although I understand why they did not expect others to see it that way.
+
+Botched Communications
+From the perspective of the public, or of winning over hearts and minds inside or outside the company, the board utterly failed in its communications. Rather than explain, the board issued its statement:
+
+Mr. Altman’s departure follows a deliberative review process by the board, which concluded that he was not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities. The board no longer has confidence in his ability to continue leading OpenAI.
+
+Then it went silent. The few times it offered any explanation at all, the examples were so terrible it was worse than staying silent.
+
+As the previous section shows, the board had many reasonable explanations it could have given. Would that have mattered? Could they have won over enough of the employees for this to have turned out differently? We will never know.
+
+Even Emmett Shear, the board’s third pick for CEO (after Nat Friedman and Alex Wang), couldn’t get a full explanation. His threat to walk away without one was a lot of what enabled the ultimate compromise on a new board and bringing Altman back.
+
+By contrast, based on what we know, Altman played the communication and political games masterfully. Three times he coordinated the employees to his side in ways that did not commit anyone to anything. The message his team wanted to send about what was going on consistently was the one that got reported. He imposed several deadlines, the deadlines passed and no credibility was lost. He threatened joining Microsoft and taking all the employees, without ever agreeing to anything there either.
+
+Really great show. Do you want your leader to have those skills? That depends.
+
+The Negotiation
+Note the symmetry. Both sides were credibly willing to blow up OpenAI rather than give board control, and with it ultimate control of OpenAI, to the other party. Both sides were willing to let Altman return as CEO only under the right conditions.
+
+Altman moved to take control. Once the board pulled the trigger firing him in response, Altman had a choice on what to do next, even if we all knew what choice he would make. If Altman wanted OpenAI to thrive without him, he could have made that happen. Finding investors would not have been an issue for OpenAI, or for Altman’s new ventures whatever they might be.
+
+Instead, as everyone rightfully assumed he would, he chose to fight, clearly willing to destroy OpenAI if not put back in charge. He and the employees demanded the board resign, offering unconditional surrender. Or else they would all move to Microsoft.
+
+That is a very strong negotiating position.
+
+You know what else is a very strong negotiating position? Believing that OpenAI, if you give full control over it to Altman, would be a net negative for the company’s mission.
+
+This was misrepresented to be ‘Helen Toner thinks that destroying OpenAI would accomplish its mission of building safe AGI.’ Not so. She was expressing, highly reasonably, the perspective that if the only other option was Altman with full board control, determined to use his status and position to blitz forward on AI on all fronts, not taking safety sufficiently seriously, that might well be worse for OpenAI’s mission than OpenAI ceasing to exist in its current form.
+
+Thus, a standoff. A negotiation. Unless both the board and Sam Altman agree that OpenAI survives, OpenAI does not survive. They had to agree on a new governance framework. That means a new board.
+
+Which in the end was Bret Taylor, Larry Summers and Adam D’Angelo.
+
+What Now for OpenAI?
+Emmett Shear is saying mission accomplished, passes the baton, seeing this result as the least bad option including for safety. This is strong evidence it was the least bad option.
+
+Altman, Brockman and the employees are declaring victory. They are so back.
+
+Mike Solana summarizes as ‘Altman knifed the board.’
+
+Not so fast.
+
+This is not over.
+
+Altman very much did not get an obviously controlled board.
+
+The succession problem is everything.
+
+What will the new board do? What full board will they select? What will they find when they investigate further? 
+
+These are three ‘adults in the room’ to be sure. But D’Angelo already voted to fire Altman once, and Summers is a well-known bullet-biter and is associated with Effective Altruism.  
+
+If you assume that Altman was always in the right, everyone knows it is his company to run as he wants to maximize profits, and any sane adult would side with him? Then you assume Bret Taylor and Larry Summers will conclude that as well. 
+
+If you do not assume that, if you assume OpenAI is a non-profit with a charter? If you see many of Altman’s actions and instincts as in conflict with that charter? If you think there might be a lot of real problems here, including things we do not know? If you think that this new board could lead to a new expanded board that could serve as a proper check on Altman, without the lack of gravitas and experience that plagued the previous board, and with a fresh start on employee relations?
+
+If you think OpenAI could be a great thing for the world, or its end, depending on choices we make?
+
+Then this is far from over. 

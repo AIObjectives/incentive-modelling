@@ -1,0 +1,574 @@
+[
+  {
+    "name": "Sam Altman",
+    "description": "Co-founder and former CEO of OpenAI, now CEO at Microsoft's advanced AI team",
+    "mentions": 31,
+    "wikipedia": {
+      "id": "22476815",
+      "name": "Sam Altman",
+      "extract": "Samuel Harris Altman (; AWLT-mən; born April 22, 1985) is an American entrepreneur and investor, who has been the CEO of OpenAI since 2019 (he was briefly fired and reinstated in November 2023). Prior to OpenAI, Altman was president of Y Combinator from 2014 to 2019.\n\n",
+      "description": "Samuel Harris Altman, born April 22, 1985, is an American entrepreneur and investor, currently serving as the CEO of OpenAI, and was previously the president of Y Combinator from 2014 to 2019."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Reinstated as CEO of OpenAI",
+          "quote": "Sam Altman will return as CEO of OpenAI, overcoming an attempted boardroom coup that sent the company into chaos over the past several days."
+        },
+        {
+          "item": "Achieving the mission OpenAI",
+          "quote": "And we’re making such great progress on the mission that I care so much about, the mission of safe and beneficial AGI."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Love for the company",
+          "quote": "“Obviously, I really loved the company and had poured my life force into this for the last four and a half years full time"
+        },
+        {
+          "item": "Advancing AI technology",
+          "quote": "At OpenAI’s first developer conference just a week before his ouster, Altman said the service had over 100 million weekly users, and more than 2 million developers were building on the company’s APIs."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Regaining leadership at OpenAI",
+          "quote": "It’s official: Sam Altman is, once again, the CEO of OpenAI."
+        },
+        {
+          "item": "Joining Microsoft",
+          "quote": "Microsoft is hiring former OpenAI CEO Sam Altman and co-founder Greg Brockman."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Back at the helm of OpenAI",
+          "quote": "It’s official: Sam Altman is, once again, the CEO of OpenAI."
+        },
+        {
+          "item": "Continued growth of OpenAI’s services",
+          "quote": "At OpenAI’s first developer conference just a week before his ouster, Altman said the service had over 100 million weekly users, and more than 2 million developers were building on the company’s APIs."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Firing from OpenAI",
+          "quote": "On November 17th, OpenAI’s board abruptly announced that co-founder and CEO Sam Altman was out"
+        },
+        {
+          "item": "Potential for OpenAI to fracture",
+          "quote": "Then hundreds of OpenAI employees — including former interim CEO Mira Murati and (now-former) board member Ilya Sutskever — signed a letter saying they would leave the company for jobs at Microsoft unless Altman is reinstated."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Uncertainty at OpenAI",
+          "quote": "We are told everyone, including the board, is trying to be reasonable, and put OpenAI back together."
+        },
+        {
+          "item": "Potential for loss of talented employees",
+          "quote": "Then hundreds of OpenAI employees — including former interim CEO Mira Murati and (now-former) board member Ilya Sutskever — signed a letter saying they would leave the company for jobs at Microsoft unless Altman is reinstated."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Support from employees",
+          "quote": "Then hundreds of OpenAI employees — including former interim CEO Mira Murati and (now-former) board member Ilya Sutskever — signed a letter saying they would leave the company for jobs at Microsoft unless Altman is reinstated."
+        },
+        {
+          "item": "Offer from Microsoft",
+          "quote": "Microsoft is hiring former OpenAI CEO Sam Altman and co-founder Greg Brockman."
+        }
+      ]
+    }
+  },
+  {
+    "name": "OpenAI",
+    "description": "A generative AI company undergoing management turbulence",
+    "mentions": 46,
+    "wikipedia": {
+      "id": "75352338",
+      "name": "Removal of Sam Altman from OpenAI",
+      "extract": "On November 17, 2023, OpenAI's board of directors removed co-founder and chief executive Sam Altman with a statement that it had no confidence in Altman's leadership.  \nApproximately 107 hours later, after an intense pressure campaign from investors and a threatened mass resignation of OpenAI’s employees, OpenAI announced that it had reached an agreement in principle to have Altman return as CEO with a reconstituted board of the non-profit entity which oversees the for-profit company. Altman’s announced return was the third change of CEO announcement within a chaotic 4.5 day period.\n\n",
+      "description": "Sam Altman was removed as CEO by OpenAI's board due to lack of confidence but was reinstated after pressure from investors and potential employee resignations, marking the third CEO change within a tumultuous 4.5 day period in November 2023."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Restore the stability of OpenAI's leadership",
+          "quote": "Now, Bloomberg reports that global affairs VP Anna Makanju sent a memo to staff confirming that negotiations have continued between Altman, the remaining board members, and new interim CEO Emmett Shear, they won’t have a final response tonight and plan to continue discussions on Tuesday morning."
+        },
+        {
+          "item": "Restructure OpenAI’s board",
+          "quote": "The deal also includes a new set of board members, which now will include representation from Microsoft."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Preserving the interests of OpenAI",
+          "quote": "When OpenAI’s board asked Sam Altman to return a day after they fired him, he initially felt defiant, hurt, and angry."
+        },
+        {
+          "item": "Preventing a potential mass exodus of employees",
+          "quote": "Then hundreds of OpenAI employees — including former interim CEO Mira Murati and (now-former) board member Ilya Sutskever — signed a letter saying they would leave the company for jobs at Microsoft unless Altman is reinstated."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Rehire Sam Altman",
+          "quote": "On November 17th, OpenAI’s board abruptly announced that co-founder and CEO Sam Altman was out, effective immediately. After weekend talks to restore Sam Altman to his post fell apart, former Twitch boss Emmett Shear was announced as the interim CEO of OpenAI. After some negotiations, Altman has returned, along with president Greg Brockman, while Murati is returning to her role as the company’s CTO."
+        },
+        {
+          "item": "Reform the board of directors",
+          "quote": "The deal also includes a new set of board members, which now will include representation from Microsoft."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Stabilizing OpenAI leadership with Sam Altman's reinstatement",
+          "quote": "Sam Altman will return as CEO of OpenAI, overcoming an attempted boardroom coup that sent the company into chaos over the past several days."
+        },
+        {
+          "item": "Mitigating potential losses of key personnel",
+          "quote": "Then hundreds of OpenAI employees — including former interim CEO Mira Murati and (now-former) board member Ilya Sutskever — signed a letter saying they would leave the company for jobs at Microsoft unless Altman is reinstated."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Loss of human resources due to leadership issues",
+          "quote": "In a letter to OpenAI’s board that was reported on this morning by Wired and journalist Kara Swisher, more than 500 current OpenAI staffers say that “Microsoft has assured us that there are positions for all OpenAI employees at this new subsidiary should we choose to join.”"
+        },
+        {
+          "item": "Continued leadership instability",
+          "quote": "After a weekend of negotiations to potentially bring back Sam Altman as OpenAI CEO following his shock firing, the company’s nonprofit board has gone another way entirely and named former Twitch CEO and co-founder Emmett Shear as interim CEO."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Mass exit of employees",
+          "quote": "In a letter to OpenAI’s board that was reported on this morning by Wired and journalist Kara Swisher, more than 500 current OpenAI staffers say that “Microsoft has assured us that there are positions for all OpenAI employees at this new subsidiary should we choose to join.”"
+        },
+        {
+          "item": "Potential damage to OpenAI's reputation and progress",
+          "quote": "OpenAI’s workforce is voicing complaints on X (formerly Twitter) following the ousting of former CEO Sam Altman and the confirmation on Sunday that he wouldn’t be re-instated."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Big name sponsorships such as Microsoft",
+          "quote": "Microsoft is getting a non-voting observer seat on the nonprofit board that controls OpenAI as well, the company announced on Wednesday."
+        },
+        {
+          "item": "Highly skilled workforce",
+          "quote": "At OpenAI’s first developer conference just a week before his ouster, Altman said the service had over 100 million weekly users, and more than 2 million developers were building on the company’s APIs."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Microsoft",
+    "description": "Technology corporation, financial backer of OpenAI and future employer for Sam Altman and several threatened-to-quit OpenAI employees",
+    "mentions": 16,
+    "wikipedia": {
+      "id": "19001",
+      "name": "Microsoft",
+      "extract": "Microsoft Corporation is an American multinational technology corporation headquartered in Redmond, Washington. Microsoft's best-known software products are the Windows line of operating systems, the Microsoft 365 suite of productivity applications, and the Edge web browser. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. Microsoft ranked No. 14 in the 2022 Fortune 500 rankings of the largest United States corporations by total revenue; it was the world's largest software maker by revenue as of 2022. It is considered one of the Big Five American information technology companies, alongside Alphabet (parent company of Google), Amazon, Apple, and Meta.\nMicrosoft was founded by Bill Gates and Paul Allen on April 4, 1975, to develop and sell BASIC interpreters for the Altair 8800. It rose to dominate the personal computer operating system market with MS-DOS in the mid-1980s, followed by Windows. The company's 1986 initial public offering (IPO) and subsequent rise in its share price created three billionaires and an estimated 12,000 millionaires among Microsoft employees. Since the 1990s, it has increasingly diversified from the operating system market and has made several corporate acquisitions, the largest being the acquisition of Activision Blizzard for $68.7 billion in October 2023, followed by its acquisition of LinkedIn for $26.2 billion in December 2016, and its acquisition of Skype Technologies for $8.5 billion in May 2011.As of 2015, Microsoft is market-dominant in the IBM PC compatible operating system market and the office software suite market, although it has lost the majority of the overall operating system market to Android. The company also produces a wide range of other consumer and enterprise software for desktops, laptops, tabs, gadgets, and servers, including Internet search (with Bing), the digital services market (through MSN), mixed reality (HoloLens), cloud computing (Azure), and software development (Visual Studio).\nSteve Ballmer replaced Gates as CEO in 2000 and later envisioned a \"devices and services\" strategy. This unfolded with Microsoft acquiring Danger Inc. in 2008, entering the personal computer production market for the first time in June 2012 with the launch of the Microsoft Surface line of tablet computers, and later forming Microsoft Mobile through the acquisition of Nokia's devices and services division. Since Satya Nadella took over as CEO in 2014, the company has scaled back on hardware and instead focused on cloud computing, a move that helped the company's shares reach their highest value since December 1999. Under Nadella's direction, the company has also heavily expanded its gaming business to support the Xbox brand, establishing the Microsoft Gaming division in 2022, dedicated to operating Xbox in addition to its three subsidiaries (publishers). Microsoft Gaming is the third-largest gaming company in the world by revenue as of 2023.Earlier dethroned by Apple in 2010, in 2018, Microsoft reclaimed its position as the most valuable publicly traded company in the world. In April 2019, Microsoft reached a trillion-dollar market cap, becoming the third U.S. public company to be valued at over $1 trillion after Apple and Amazon, respectively. As of 2023, Microsoft has the third-highest global brand valuation.\nMicrosoft has been criticized for its monopolistic practices and the company's software has been criticized for problems with ease of use, robustness, and security.",
+      "description": "Microsoft Corporation, an American multinational headquartered in Redmond, Washington, is known for software products including the Windows operating systems and Microsoft 365 applications, along with hardware products like Xbox consoles and Surface personal computers, and is globally recognized as one of the biggest revenue-earning software makers and an influential entity among the Big Five IT companies in the US."
+    },
+    "motives": {
+      "summary": {
+        "description": "Unfortunately, the document provided does not contain enough explicit information about Microsoft Corporation to form responses to your questions. The primary focus of the document is on OpenAI and its internal developments, with Microsoft only being mentioned in relation to these events.",
+        "references": "For example, there are references to Microsoft potentially hiring OpenAI employees and joining OpenAI’s board, but these scenarios rather concern OpenAI’s interests, not Microsoft's.",
+        "conclusions": "Therefore, no conclusions can be drawn about Microsoft's stated goals, main motivations, possible actions, considered good and bad scenarios, main fears, and resources from this document."
+      },
+      "recommendation": "If you have other documents that more directly pertain to Microsoft Corporation, I would be happy to assist with analysis of those. For the best results, these documents should contain clear information about Microsoft's strategies, goals, internal structure, products, markets, financials, and stakeholders."
+    }
+  },
+  {
+    "name": "Emmett Shear",
+    "description": "Former Twitch boss, named interim CEO of OpenAI after Altman's departure",
+    "mentions": 5,
+    "wikipedia": {
+      "id": "33627170",
+      "name": "Emmett Shear",
+      "extract": "Emmett Shear (born 1983) is an American Internet entrepreneur and investor. He is the co-founder of live video platform Justin.tv. He served as the chief executive officer of Twitch when it was spun off from Justin.tv until March 2023. In 2011, Shear was appointed as a part-time partner at venture capital firm Y Combinator. In November 2023, he briefly served as interim CEO of OpenAI.\n\n",
+      "description": "Emmett Shear, born 1983, is an American Internet entrepreneur and investor, known as the co-founder of Justin.tv and former CEO of Twitch, and for his brief tenure as interim CEO of OpenAI in 2023."
+    }
+  },
+  {
+    "name": "Mira Murati",
+    "description": "Former interim CEO of OpenAI, now returning to her role as the company's CTO",
+    "mentions": 3,
+    "wikipedia": {
+      "id": "73229875",
+      "name": "Mira Murati",
+      "extract": "Mira Murati (born 16 December 1988) is an Albanian engineer and business manager who has been serving as chief technology officer of OpenAI since 2018.She briefly served as  interim chief executive officer of OpenAI from 17 to 20 November 2023.",
+      "description": "Mira Murati, born in 1988, is an Albanian engineer and business manager who has been the chief technology officer at OpenAI since 2018 and served briefly as its interim CEO in 2023."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Continuing her role as CTO in OpenAI",
+          "quote": "Murati is returning to her role as the company’s CTO."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Remain with OpenAI while Sam Altman is reinstated",
+          "quote": "Then hundreds of OpenAI employees — including former interim CEO Mira Murati and (now-former) board member Ilya Sutskever — signed a letter saying they would leave the company for jobs at Microsoft unless Altman is reinstated."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Choosing to leave OpenAI for Microsoft",
+          "quote": "Then hundreds of OpenAI employees — including former interim CEO Mira Murati and (now-former) board member Ilya Sutskever — signed a letter saying they would leave the company for jobs at Microsoft unless Altman is reinstated."
+        },
+        {
+          "item": "Continue working in OpenAI after Altman’s reinstatement",
+          "quote": "Murati is returning to her role as the company’s CTO."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Sam Altman's reinstatement",
+          "quote": "Then hundreds of OpenAI employees — including former interim CEO Mira Murati and (now-former) board member Ilya Sutskever — signed a letter saying they would leave the company for jobs at Microsoft unless Altman is reinstated."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Altman's permanent firing",
+          "quote": "Then hundreds of OpenAI employees — including former interim CEO Mira Murati and (now-former) board member Ilya Sutskever — signed a letter saying they would leave the company for jobs at Microsoft unless Altman is reinstated."
+        }
+      ],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Her position as CTO in OpenAI",
+          "quote": "Murati is returning to her role as the company’s CTO."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Greg Brockman",
+    "description": "President of OpenAI who returned along with Sam Altman to OpenAI",
+    "mentions": 5,
+    "wikipedia": {
+      "id": "73299474",
+      "name": "Greg Brockman",
+      "extract": "Greg Brockman (born November 29, 1987) is an American entrepreneur, investor and software developer who is a co-founder and currently the president of OpenAI. He began his career at Stripe in 2010, upon leaving MIT, and became their CTO in 2013. He left Stripe in 2015 to co-found OpenAI, where he also assumed the role of CTO.",
+      "description": "Greg Brockman is an American entrepreneur, software developer, and co-founder of OpenAI, who formerly held the position of CTO at Stripe."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Ensuring the progress of OpenAI's mission",
+          "quote": "And we’re making such great progress on the mission that I care so much about, the mission of safe and beneficial AGI."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Dedication to the company and it's mission",
+          "quote": " 'Obviously, I really loved the company and had poured my life force into this for the last four and a half years full time, but really longer than that with most of my time.'"
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Returning as the reinstate of his position at OpenAI",
+          "quote": "After a weekend of negotiations to potentially bring Altman back to OpenAI, Microsoft CEO Satya Nadella announced that both Altman and OpenAI co-founder Greg Brockman will be joining to lead Microsoft’s new advanced AI research team."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Reunification of OpenAI",
+          "quote": "I will do everything I can to reunite the company."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Executive changes and uncertainty at OpenAI",
+          "quote": "On November 17th, OpenAI’s board abruptly announced that co-founder and CEO Sam Altman was out, effective immediately."
+        }
+      ],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Significant talent and technological capabilities at OpenAI",
+          "quote": "At OpenAI’s first developer conference just a week before his ouster, Altman said the service had over 100 million weekly users, and more than 2 million developers were building on the company’s APIs."
+        },
+        {
+          "item": "Potential support from Microsoft",
+          "quote": "Microsoft’s offer to hire everyone who threatened to quit is still on the table, and has now been made officially public, after being noted in the employee walkout letter yesterday."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ilya Sutskever",
+    "description": "Former board member of OpenAI who initially moved to fire Altman",
+    "mentions": 4,
+    "wikipedia": {
+      "id": "75352338",
+      "name": "Removal of Sam Altman from OpenAI",
+      "extract": "On November 17, 2023, OpenAI's board of directors removed co-founder and chief executive Sam Altman with a statement that it had no confidence in Altman's leadership.  \nApproximately 107 hours later, after an intense pressure campaign from investors and a threatened mass resignation of OpenAI’s employees, OpenAI announced that it had reached an agreement in principle to have Altman return as CEO with a reconstituted board of the non-profit entity which oversees the for-profit company. Altman’s announced return was the third change of CEO announcement within a chaotic 4.5 day period.\n\n",
+      "description": "Sam Altman was removed as CEO by OpenAI's board due to lack of confidence but was reinstated after pressure from investors and potential employee resignations, marking the third CEO change within a tumultuous 4.5 day period in November 2023."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Restore the stability of OpenAI's leadership",
+          "quote": "Now, Bloomberg reports that global affairs VP Anna Makanju sent a memo to staff confirming that negotiations have continued between Altman, the remaining board members, and new interim CEO Emmett Shear, they won’t have a final response tonight and plan to continue discussions on Tuesday morning."
+        },
+        {
+          "item": "Restructure OpenAI’s board",
+          "quote": "The deal also includes a new set of board members, which now will include representation from Microsoft."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Preserving the interests of OpenAI",
+          "quote": "When OpenAI’s board asked Sam Altman to return a day after they fired him, he initially felt defiant, hurt, and angry."
+        },
+        {
+          "item": "Preventing a potential mass exodus of employees",
+          "quote": "Then hundreds of OpenAI employees — including former interim CEO Mira Murati and (now-former) board member Ilya Sutskever — signed a letter saying they would leave the company for jobs at Microsoft unless Altman is reinstated."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Rehire Sam Altman",
+          "quote": "On November 17th, OpenAI’s board abruptly announced that co-founder and CEO Sam Altman was out, effective immediately. After weekend talks to restore Sam Altman to his post fell apart, former Twitch boss Emmett Shear was announced as the interim CEO of OpenAI. After some negotiations, Altman has returned, along with president Greg Brockman, while Murati is returning to her role as the company’s CTO."
+        },
+        {
+          "item": "Reform the board of directors",
+          "quote": "The deal also includes a new set of board members, which now will include representation from Microsoft."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Stabilizing OpenAI leadership with Sam Altman's reinstatement",
+          "quote": "Sam Altman will return as CEO of OpenAI, overcoming an attempted boardroom coup that sent the company into chaos over the past several days."
+        },
+        {
+          "item": "Mitigating potential losses of key personnel",
+          "quote": "Then hundreds of OpenAI employees — including former interim CEO Mira Murati and (now-former) board member Ilya Sutskever — signed a letter saying they would leave the company for jobs at Microsoft unless Altman is reinstated."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Loss of human resources due to leadership issues",
+          "quote": "In a letter to OpenAI’s board that was reported on this morning by Wired and journalist Kara Swisher, more than 500 current OpenAI staffers say that “Microsoft has assured us that there are positions for all OpenAI employees at this new subsidiary should we choose to join.”"
+        },
+        {
+          "item": "Continued leadership instability",
+          "quote": "After a weekend of negotiations to potentially bring back Sam Altman as OpenAI CEO following his shock firing, the company’s nonprofit board has gone another way entirely and named former Twitch CEO and co-founder Emmett Shear as interim CEO."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Mass exit of employees",
+          "quote": "In a letter to OpenAI’s board that was reported on this morning by Wired and journalist Kara Swisher, more than 500 current OpenAI staffers say that “Microsoft has assured us that there are positions for all OpenAI employees at this new subsidiary should we choose to join.”"
+        },
+        {
+          "item": "Potential damage to OpenAI's reputation and progress",
+          "quote": "OpenAI’s workforce is voicing complaints on X (formerly Twitter) following the ousting of former CEO Sam Altman and the confirmation on Sunday that he wouldn’t be re-instated."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Big name sponsorships such as Microsoft",
+          "quote": "Microsoft is getting a non-voting observer seat on the nonprofit board that controls OpenAI as well, the company announced on Wednesday."
+        },
+        {
+          "item": "Highly skilled workforce",
+          "quote": "At OpenAI’s first developer conference just a week before his ouster, Altman said the service had over 100 million weekly users, and more than 2 million developers were building on the company’s APIs."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Satya Nadella",
+    "description": "CEO of Microsoft, announced the hiring of Sam Altman and Greg Brockman for an AI research team at Microsoft",
+    "mentions": 6,
+    "wikipedia": {
+      "id": "38309941",
+      "name": "Satya Nadella",
+      "extract": "Satya Narayana Nadella (; born 19 August 1967) is an Indian-American business executive. He is the executive chairman and CEO of Microsoft, succeeding Steve Ballmer in 2014 as CEO and John W. Thompson in 2021 as chairman. Before becoming CEO, he was the executive vice president of Microsoft's cloud and enterprise group, responsible for building and running the company's computing platforms.",
+      "description": "Satya Narayana Nadella, born on 19 August 1967, is an Indian-American business executive serving as the executive chairman and CEO of Microsoft since 2014."
+    }
+  },
+  {
+    "name": "Adam D’Angelo",
+    "description": "Board member of OpenAI",
+    "mentions": 3,
+    "wikipedia": {
+      "id": "28125485",
+      "name": "Adam D'Angelo",
+      "extract": "Adam D'Angelo (born August 21, 1984) is an American internet entrepreneur. He is best known for his role as the co-founder and CEO of Quora, based in Mountain View, California.",
+      "description": "Adam D'Angelo is an American internet entrepreneur, best known as the co-founder and CEO of Quora."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [
+        {
+          "item": "Participating as a board member of OpenAI",
+          "quote": "Adam D’Angelo... is a holdover from the previous board that initially fired Altman on Friday. He remains on this new board to give the previous board some representation, we’re told."
+        }
+      ],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Serving as Quora CEO & creating AI bot platform - Poe",
+          "quote": "He was there to talk about Poe, the AI bot platform that is his pet project as the CEO of Quora."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bret Taylor",
+    "description": "An apparent member of a new OpenAI board",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "24401213",
+      "name": "Bret Taylor",
+      "extract": "Bret Steven Taylor (born 1980) is an American computer programmer and entrepreneur. He is most notable for leading the team that co-created Google Maps and his tenures as the CTO of Facebook (now Meta Platforms), as the chairman of Twitter, Inc.'s board of directors prior to its acquisition by Elon Musk, and as the co-CEO of Salesforce (alongside co-founder Marc Benioff). Taylor was additionally one of the founders of FriendFeed and the creator of Quip. Since November 2023, he is chairman of OpenAI.",
+      "description": "Bret Steven Taylor is an American computer programmer notable for co-creating Google Maps, serving as the CTO of Facebook, chairman of Twitter, Inc., co-CEO of Salesforce, and he is currently the chairman of OpenAI as of November 2023.\n"
+    }
+  },
+  {
+    "name": "Larry Summers",
+    "description": "An apparent member of a new OpenAI board",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "206211",
+      "name": "Lawrence Summers",
+      "extract": "Lawrence Henry Summers (born November 30, 1954) is an American economist who served as the 71st United States Secretary of the Treasury from 1999 to 2001 and as director of the National Economic Council from 2009 to 2010. He also served as president of Harvard University from 2001 to 2006, where he is the Charles W. Eliot university professor and director of the Mossavar-Rahmani Center for Business and Government at Harvard Kennedy School. In November 2023, Summers joined the board of directors of artificial general intelligence company OpenAI.Summers became a professor of economics at Harvard University in 1983. He left Harvard in 1991, working as the Chief Economist of the World Bank from 1991 to 1993. In 1993, Summers was appointed Under Secretary for International Affairs of the United States Department of the Treasury under President Bill Clinton's administration. In 1995, he was promoted to Deputy Secretary of the Treasury under his long-time political mentor Robert Rubin. In 1999, he succeeded Rubin as Secretary of the Treasury. While working for the Clinton administration, Summers played a leading role in the American response to the 1994 economic crisis in Mexico, the 1997 Asian financial crisis, and the Russian financial crisis. He was also influential in the Harvard Institute for International Development and American-advised privatization of the economies of the post-Soviet states, and in the deregulation of the U.S financial system, including the repeal of the Glass-Steagall Act.\nFollowing the end of Clinton's term, Summers served as the 27th president of Harvard University from 2001 to 2006. Summers resigned as Harvard's president in the wake of a no-confidence vote by Harvard faculty, which resulted in large part from Summers's conflict with Cornel West, financial conflict of interest questions regarding his relationship with Andrei Shleifer, and a 2005 speech in which he offered three reasons for the under-representation of women in science and engineering, including the possibility that there exists a \"different availability of aptitude at the high end\", in addition to patterns of discrimination and socialization.After his departure from Harvard, Summers worked as a managing partner at the hedge fund D. E. Shaw & Co. Summers rejoined public service during the Obama administration, serving as the Director of the White House United States National Economic Council for President Barack Obama from January 2009 until November 2010, where he emerged as a key economic decision-maker in the Obama administration's response to the Great Recession.\n\n",
+      "description": "Lawrence Henry Summers is a renowned American economist who has served as the 71st United States Secretary of the Treasury, director of the National Economic Council, and president of Harvard University, and in 2023, joined the board of directors of artificial general intelligence company OpenAI."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": []
+    }
+  },
+  {
+    "name": "ChatGPT",
+    "description": "An artificial intelligence software launched by OpenAI",
+    "mentions": 3,
+    "wikipedia": {
+      "id": "72417803",
+      "name": "ChatGPT",
+      "extract": "ChatGPT (Chat Generative Pre-trained Transformer) is a large language model-based chatbot developed by OpenAI and launched on November 30, 2022, that enables users to refine and steer a conversation towards a desired length, format, style, level of detail, and language. Successive prompts and replies, known as prompt engineering, are considered at each conversation stage as a context.ChatGPT is built upon either GPT-3.5 or GPT-4, both of which are members of OpenAI's proprietary series of generative pre-trained transformer (GPT) models, based on the transformer architecture developed by Google—and is fine-tuned for conversational applications using a combination of supervised and reinforcement learning techniques. ChatGPT was released as a freely available research preview, but due to its popularity, OpenAI now operates the service on a freemium model. It allows users on its free tier to access the GPT-3.5-based version. In contrast, the more advanced GPT-4-based version and priority access to newer features are provided to paid subscribers under the commercial name \"ChatGPT Plus\".\nBy January 2023, it had become what was then the fastest-growing consumer software application in history, gaining over 100 million users and contributing to OpenAI's valuation growing to $29 billion. ChatGPT's release spurred the development of competing products, including Bard, Ernie Bot, LLaMA, Claude, and Grok. Microsoft launched its Bing Chat based on OpenAI's GPT-4. It raised concern among some observers over the potential of ChatGPT and similar programs to displace or atrophy human intelligence, enable plagiarism, or fuel misinformation.\n\n",
+      "description": "ChatGPT, developed by OpenAI, is a language model-based chatbot using GPT-3.5 or GPT-4 models, designed for text conversation with features like refining length, style, and detail level and operates on a freemium model - free users get access to the GPT-3.5 version and paid subscribers get access to the more advanced GPT-4 version under 'ChatGPT Plus'."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Generate mainstream appeal",
+          "quote": "ChatGPT, which quickly entered mainstream conversation ..."
+        },
+        {
+          "item": "Build a user base",
+          "quote": "ChatGPT .... became one of the fastest-growing apps in history"
+        },
+        {
+          "item": "Safe and beneficial AGI",
+          "quote": "And we’re making such great progress on the mission that I care so much about, the mission of safe and beneficial AGI."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Generative AI development",
+          "quote": "initiated an industry-wide race to build generative AI tools and hardware to power them."
+        },
+        {
+          "item": "Creating AGI",
+          "quote": "it could be a step toward creating artificial general intelligence (AGI)."
+        },
+        {
+          "item": "Unify OpenAI in the face of turmoil",
+          "quote": "“our number one goal remains to reunify OpenAI.”"
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Adding new features to ChatGPT",
+          "quote": "ChatGPT’s voice feature is now available to all users for free."
+        },
+        {
+          "item": "Continued development of AI tools",
+          "quote": "At OpenAI’s first developer conference just a week before his ouster, Altman said the service had over 100 million weekly users, and more than 2 million developers were building on the company’s APIs."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Expansion into other services via Microsoft",
+          "quote": "Most of the staff at OpenAI have threatened to resign from the company and join Microsoft..."
+        },
+        {
+          "item": "Retention of CEO leading to stabilty",
+          "quote": "Sam Altman will return as CEO of OpenAI."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Loss of stability due to CEO turmoil",
+          "quote": "On November 17th, OpenAI’s board abruptly announced that co-founder and CEO Sam Altman was out"
+        },
+        {
+          "item": "Mass resignation of employees",
+          "quote": "more than 500 current OpenAI staffers say that “Microsoft has assured us that there are positions for all OpenAI employees at this new subsidiary should we choose..."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Disruption of company structure and stability",
+          "quote": "How did the world’s hottest generative AI company go through three CEOs in under a week and end up with the same one it had at the start?"
+        },
+        {
+          "item": "Possible damage to company reputation",
+          "quote": "a report Ilya Sutskever gave employees two explanations for Altman’s firing: that he gave two people the same project and that he allegedly gave two board members different opinions about a member of personnel."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Significant user base",
+          "quote": "Altman said the service had over 100 million weekly users."
+        },
+        {
+          "item": "Advanced AI technology",
+          "quote": "an OpenAI model called Q* (pronounced Q Star) that was recently demonstrated internally and is capable of solving simple math problems."
+        },
+        {
+          "item": "Support from major tech organizations",
+          "quote": "Microsoft is getting a non-voting observer seat on the nonprofit board that controls OpenAI as well."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Twitch",
+    "description": "Streaming platform, previous company of OpenAI's interim CEO Emmett Shear",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "33548254",
+      "name": "Twitch (service)",
+      "extract": "Twitch is an American video live streaming service that focuses on video game live streaming, including broadcasts of esports competitions, in addition to offering music broadcasts, creative content, and \"in real life\" streams. Twitch is operated by Twitch Interactive, a subsidiary of Amazon.com, Inc. It was introduced in June 2011 as a spin-off of the general-interest streaming platform Justin.tv. Content on the site can be viewed either live or via video on demand. The games shown on Twitch's current homepage are listed according to audience preference and include genres such as real-time strategy games (RTS), fighting games, racing games, and first-person shooters.The popularity of Twitch eclipsed that of its general-interest counterpart. In October 2013, the website had 45 million unique viewers, and by February 2014, it was considered the fourth-largest source of peak Internet traffic in the United States. At the same time, Justin.tv's parent company was re-branded as Twitch Interactive to represent the shift in focus – Justin.tv was shut down in August 2014. That month, the service was acquired by Amazon for US$970 million, which later led to the introduction of synergies with the company's subscription service Amazon Prime. Twitch acquired Curse LLC in 2016, an operator of online video gaming communities and introduced means to purchase games through links on streams along with a program allowing streamers to receive commissions on the sales of games that they play.\nBy 2015, Twitch had more than 100 million viewers per month. In 2017, Twitch remained the leading live streaming video service for video games in the US, and had an advantage over YouTube Gaming, which shut down its standalone app in May 2019. As of February 2020, it had 3 million broadcasters monthly and 15 million daily active users, with 1.4 million average concurrent users. As of May 2018, Twitch had over 27,000 partner channels. As of October 2023, Twitch was the 37th visited website in the world with 20.26% of its traffic coming from the United States, followed by Germany with 7.08% and South Korea with 5.49%.\n\n",
+      "description": "Twitch, a subsidiary of Amazon, is an American live video streaming platform mostly known for video game broadcasts, esports competitions, music, and creative content streams, and has grown to be one the largest sources of Internet traffic in the US with millions of daily users worldwide."
+    },
+    "motives": {
+      "document": {
+        "status": "provided",
+        "content": "The document does not contain specific information about Twitch (service) to answer your questions. It seems to be more focused on developments at OpenAI.",
+        "request": "Could you please provide a different document that contains clear and explicit information about Twitch (service)?"
+      }
+    }
+  }
+]

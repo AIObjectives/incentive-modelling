@@ -1,0 +1,44 @@
+{
+  "title": "Sam Altman: Ousted OpenAI boss to return days after being sacked",
+  "source": "BBC",
+  "date": "22 November 2023",
+  "authors": [
+    "Thomas Mackintosh",
+    "Chris Vallance"
+  ],
+  "link": "https://www.bbc.co.uk/news/business-67494165",
+  "relevance_score": 0.9,
+  "relevance_explanation": "This document is highly relevant as it details the firing and subsequent rehiring of Sam Altman from OpenAI, the internal disputes within the company, and the involvement of external entities like Microsoft. It touches on the power dynamics, internal company culture, and the strategic or emotional motivations behind key decisions, which are crucial to understanding the overall situation.",
+  "summary": "Sam Altman was fired as OpenAI boss by the board but is set to return following staff backlash and new board appointments. Co-founder Greg Brockman resigned in protest of Altman's firing but will also return. Microsoft offered Altman a position which was potentially a factor in the board's revision of their decision. OpenAI is undergoing a reconstitution including the addition of Bret Taylor and Larry Summers to its board, indicating a shift in internal dynamics.",
+  "events": [
+    "Sam Altman fired by OpenAI board",
+    "Sam Altman agrees to return as OpenAI boss",
+    "OpenAI staff threaten mass resignations",
+    "Co-founder Greg Brockman resigns but later agrees to return",
+    "Microsoft offers Sam Altman a job",
+    "OpenAI board is partly reconstituted with new members",
+    "OpenAI's interim CEO Emmett Shear is deeply pleased with the resolution",
+    "Microsoft's Satya Nadella comments positively on board changes"
+  ],
+  "entities": [
+    "Sam Altman",
+    "OpenAI",
+    "Greg Brockman",
+    "Adam D'Angelo",
+    "Tasha McCauley",
+    "Helen Toner",
+    "Ilya Sutskever",
+    "Microsoft",
+    "Bret Taylor",
+    "Larry Summers",
+    "Emmett Shear",
+    "Satya Nadella",
+    "Cory Decareaux",
+    "Nick Patience",
+    "S&P Global Market Intelligence",
+    "Be My Eyes",
+    "Michael Buckley",
+    "Elon Musk"
+  ],
+  "document_type": "Online newspaper article"
+}

@@ -1,0 +1,73 @@
+Source: Reuters 
+Title: Sam Altman to return as OpenAI CEO after his tumultuous ouster
+Authors: By Jeffrey Dastin and Aditya Soni
+Date: November 22, 20231:25 PM GMT
+Link: https://www.reuters.com/technology/sam-altman-return-openai-ceo-2023-11-22/
+
+=== 
+
+SAN FRANCISCO, Nov 22 (Reuters) - Sam Altman is returning as CEO of OpenAI just days after his ouster, capping frenzied discussions about the future of the startup at the center of an artificial intelligence boom.
+
+The ChatGPT maker also unveiled a new initial board with former Salesforce co-CEO Bret Taylor as chair and Larry Summers, former U.S. Treasury Secretary, and Adam D'Angelo as directors. D'Angelo was part of the original board that had dismissed Altman.
+
+The return of Altman could potentially usher in a new era for the startup which had long juggled concerns among staff about AI's dangers and its potential for commercialization.
+
+"i'm looking forward to returning to openai," Altman said in a post on the X social media platform late on Tuesday.
+
+
+The original board had given scant explanation for Altman's firing on Friday other than his lack of candor and its need to defend OpenAI's mission to develop AI that benefits humanity.
+
+Analysts said the reshuffle will favor Altman and Microsoft (MSFT.O), which has pledged billions of dollars to the startup and is rolling out its technology to its customers globally.
+
+"There are still huge questions about why Altman was fired and why Microsoft had been kept in the dark about the decision," said Danni Hewson, AJ Bell's head of financial analysis.
+
+"What does seem clear is that Microsoft will now play a much bigger role, that the partnership will become stronger and the two companies more integrated."
+
+Microsoft's CEO Satya Nadella welcomed the changes.
+
+"We believe this is a first essential step on a path to more stable, well-informed, and effective governance," he said on X.
+
+
+Microsoft shares rose nearly 1% in premarket U.S trading.
+
+It was not immediately clear if the previous board directors who hold no equity in OpenAI would retain their seats, or if the backers of its capped-profit subsidiary - such as 49% owner Microsoft - would ultimately win board appointments.
+
+Unlike most Silicon Valley startups, OpenAI is overseen by a nonprofit parent board designed to ensure AI safety is given priority alongside growth. It created the capped-profit unit in 2019 to raise funds and grant stock options to its employees.
+
+"The return of Altman consolidates his influence over the direction of OpenAI, and probably means it will be more bold and profit focused, but also potentially less risk averse," said Kyle Rodda, analyst at Capital.com.
+
+APEC Summit in San Francisco
+Sam Altman attends the Asia-Pacific Economic Cooperation (APEC) CEO Summit in San Francisco, California, U.S. November 16, 2023. REUTERS/Carlos Barria/File Photo Acquire Licensing Rights
+
+Spokespeople for the startup did not immediately respond to a request for comment.
+
+OpenAI's previous board consisted of Tasha McCauley, Helen Toner and OpenAI chief scientist Ilya Sutskever and Quora CEO D'Angelo, who is part of the revamped board.
+
+Reuters earlier reported some shareholders were exploring legal recourse after the turmoil threatened the future of OpenAI, recently expected to have an over $80 billion valuation.
+
+Tuesday's moves reassured some investors.
+
+"We believe this is the best outcome for the company," said Thrive Capital, a backer of OpenAI.
+
+Windows maker reveals multi-year, multi-billion dollar investment in OpenAI in January
+Windows maker reveals multi-year, multi-billion dollar investment in OpenAI in January
+YEARS FASTER THAN STEVE JOBS
+Altman's dramatic turnaround drew comparisons in Silicon Valley lore to Steve Jobs, Apple's CEO who left the computer maker in a 1985 power struggle only to return 12 years later.
+
+Altman took back the CEO mantle after four days.
+
+His departure triggered a major upheaval at OpenAI, with President Greg Brockman quitting in protest. By Sunday Altman was back at OpenAI's offices expecting his swift reappointment, when the board surprised again by naming ex-Twitch boss Emmett Shear as interim CEO.
+
+In a post on X on Tuesday, Shear said he worked "~72 very intense hours" to bring stability - and ultimately Altman - back to OpenAI. "This was the pathway that maximized safety alongside doing right by all stakeholders involved," he said.
+
+Altman's master stroke was made possible in part by Microsoft. When he was out of a job, CEO Nadella said Altman could head a new research team alongside Brockman and other colleagues departing from OpenAI.
+
+By Monday, nearly all of OpenAI's over 700-strong staff had threatened to leave and join Microsoft's effort unless the board stepped down and reinstated Altman, according to a letter reviewed by Reuters.
+
+This threat was backed by Microsoft's vast computing power, the key asset driving OpenAI's technology along with its staff of computer scientists.
+
+Co-founder and President Brockman celebrated with a staff selfie late Tuesday night, having beaten the U.S. Thanksgiving holiday deadline against which parties raced to negotiate.
+
+"We will come back stronger & more unified than ever," he said.
+
+Reporting by Jeffrey Dastin in San Francisco and Aditya Soni, Shivani Tanna and Bansari Mayur Kamdar in Bengaluru. Editing by Dhanya Ann Thoppil, Nivedita Bhattacharjee, Sam Holmes and Jane Merriman

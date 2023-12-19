@@ -1,0 +1,964 @@
+[
+  {
+    "name": "OpenAI",
+    "description": "An artificial intelligence research lab consisting of human and artificial intelligence researchers",
+    "mentions": 48,
+    "wikipedia": {
+      "id": "48795986",
+      "name": "OpenAI",
+      "extract": "OpenAI is an American artificial intelligence (AI) research organization consisting of the non-profit OpenAI, Inc. registered in Delaware and its for-profit subsidiary OpenAI Global, LLC. OpenAI researches artificial intelligence with the declared intention of developing \"safe and beneficial\" artificial general intelligence, which it defines as \"highly autonomous systems that outperform humans at most economically valuable work\". OpenAI has also developed several large language models, such as ChatGPT and GPT-4, as well as advanced image generation models like DALL-E 3, and in the past published open-source models.The organization was founded in December 2015 by Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston, John Schulman, Pamela Vagata, and Wojciech Zaremba, with Sam Altman and Elon Musk serving as the initial board members. Microsoft provided OpenAI Global LLC with a $1 billion investment in 2019 and a $10 billion investment in 2023, with a significant portion of the investment in the form of compute resources on Microsoft's Azure cloud service.On November 17, 2023, the board removed Altman as CEO, while Brockman was removed as chairman and then resigned as president. Four days later, both returned after negotiations with the board, and most of the board members resigned. The new initial board included former Salesforce co-CEO Bret Taylor as chairman. OpenAI also announced that Microsoft would have a non-voting board seat at OpenAI.",
+      "description": "OpenAI is an American AI research organization, focusing on developing \"safe and beneficial\" artificial general intelligence and producing large language and image generation models, funded by significant investments by Microsoft."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "OpenAI’s main goal is to ensure that artificial general intelligence benefits all of humanity.",
+          "quote": "OpenAI’s mission is to ensure that artificial general intelligence (AGI)—by which we mean highly autonomous systems that outperform humans at most economically valuable work—benefits all of humanity."
+        },
+        {
+          "item": "OpenAI aims to build safe and beneficial AGI, and considers its mission fulfilled if its work also aids others to achieve the same outcome.",
+          "quote": "We will attempt to directly build safe and beneficial AGI, but will also consider our mission fulfilled if our work aids others to achieve this outcome."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "OpenAI wants to act in the best interests of humanity while developing AGI.",
+          "quote": "The timeline to AGI remains uncertain, but our Charter will guide us in acting in the best interests of humanity throughout its development."
+        },
+        {
+          "item": "OpenAI has a motivation to ensure control and safety over AGI developments.",
+          "quote": "Altman understands that AGI will be truly transformational, and he does not want humans to lose control over the future."
+        },
+        {
+          "item": "There is a motivation to shape OpenAI and its direction of growth and research.",
+          "quote": "This was and still is a fight about control of OpenAI, its board, and its direction."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "OpenAI’s board can control the company’s direction by hiring or firing the CEO.",
+          "quote": "The board only has one move. It can fire the CEO or not fire the CEO."
+        },
+        {
+          "item": "OpenAI can work towards development of AGI and aligning standards for its safety and benefit.",
+          "quote": "He is co-leading the Superalignment Taskforce seeking to figure out how to align future superintelligent AI."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "OpenAI might consider it a good scenario if it can build a safe and beneficial AGI, fulfilling its mission statement.",
+          "quote": "We will attempt to directly build safe and beneficial AGI, but will also consider our mission fulfilled if our work aids others to achieve this outcome."
+        },
+        {
+          "item": "OpenAI would consider it favourable if it can find a balance between advancement and safety in AI development.",
+          "quote": "They want a more cautious approach, that avoids unnecessarily creating or furthering race dynamics with other labs or driving surges of investment like we saw after ChatGPT, that takes necessary precautions at each step."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "OpenAI would consider it a bad scenario if the safety and control over AGI were compromised.",
+          "quote": "Altman understands that AGI will be truly transformational, and he does not want humans to lose control over the future."
+        },
+        {
+          "item": "OpenAI might consider it a failure if its AI development unintentionally sets off an arms race in the field.",
+          "quote": "If you think it wasn’t, Altman created a rival and intensified arms race dynamics, which is a huge failure."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "A main concern is the potential for AGI development to become a threat to humanity.",
+          "quote": "Senior OpenAI leaders, including Mr. Sutskever, who is deeply concerned that A.I. could one day destroy humanity."
+        },
+        {
+          "item": "There is a fear of losing control over AGI developments and its subsequent implications.",
+          "quote": "They want to ensure that the necessary controls are in place, including government controls, for when the time comes that AGI is on the line."
+        }
+      ],
+      "resources": [
+        {
+          "item": "OpenAI has significant resources in terms of the potential for fund-raising/a financial resources.",
+          "quote": "Altman was raising tens of billions from Saudis, to start a chip company to rival Nvidia."
+        },
+        {
+          "item": "OpenAI has a strong team of researchers, advisors and administrators as a resource.",
+          "quote": "Ilya Sutskever loves OpenAI and its people, and the promise of building safe AGI."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sam Altman",
+    "description": "Former CEO of OpenAI",
+    "mentions": 23,
+    "wikipedia": {
+      "id": "22476815",
+      "name": "Sam Altman",
+      "extract": "Samuel Harris Altman (; AWLT-mən; born April 22, 1985) is an American entrepreneur and investor, who has been the CEO of OpenAI since 2019 (he was briefly fired and reinstated in November 2023). Prior to OpenAI, Altman was president of Y Combinator from 2014 to 2019.\n\n",
+      "description": "Samuel Harris Altman, born April 22, 1985, is an American entrepreneur and investor, currently serving as the CEO of OpenAI, and was previously the president of Y Combinator from 2014 to 2019."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Complete control of OpenAI to build AGI",
+          "quote": "Sam Altman’s intermediate goal has been, from the beginning, full personal control of OpenAI, and thus control over the construction of AGI."
+        },
+        {
+          "item": "Turn OpenAI into a regular Big Tech Company",
+          "quote": "Sam Altman wants OpenAI for now to mostly function as an ordinary Big Tech company in partnership with Microsoft."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Desire for personal power",
+          "quote": "Altman is very good, Paul Graham says best in the world, at becoming powerful and playing power games."
+        },
+        {
+          "item": "Rational instrumental convergence of his goals",
+          "quote": "Power always wants more power. I can’t fault him for rational instrumental convergence in his goals. The ultimate goal is to build ‘safe’ AGI."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Shaping OpenAI according to his vision",
+          "quote": "Until recently, Sam Altman worked to reshape the company in his own image, while clashing with the board, and the board did little."
+        },
+        {
+          "item": "Power play with the board",
+          "quote": "While I must emphasize we do not know what motivated the board, a recent power move by Altman likely played a part in forcing the board’s hand."
+        },
+        {
+          "item": "Initiation of new business ventures",
+          "quote": "He wants to embark on new business ventures to remove bottlenecks and get equity in the new ventures, including planning a Saudi-funded chip factory in the UAE and starting an AI hardware project."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Maintaining control over OpenAI",
+          "quote": "Altman moved to take control. Once the board pulled the trigger firing him in response, Altman had a choice on what to do next, even if we all knew what choice he would make."
+        },
+        {
+          "item": "Being reinstated as CEO of OpenAI",
+          "quote": "Overnight, an agreement in principle was reached to reinstate Sam Altman as CEO of OpenAI"
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Board gaining full control over OpenAI",
+          "quote": "Altman very much did not get an obviously controlled board."
+        },
+        {
+          "item": "Being sacked as CEO permanently",
+          "quote": "On Friday afternoon, OpenAI’s board fired CEO Sam Altman."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Losing control over AGI",
+          "quote": "Unlike many who defended him, Altman understands that AGI will be truly transformational, and he does not want humans to lose control over the future."
+        },
+        {
+          "item": "Facing criticism and opposition",
+          "quote": "Any amount of criticism from a board member carries a lot of weight.”"
+        }
+      ],
+      "resources": [
+        {
+          "item": "Investor relations and business acumen",
+          "quote": "Altman was raising tens of billions from Saudis, to start a chip company to rival Nvidia, which was to produce its chips in the UAE, leveraging the fundraising for OpenAI in the process."
+        },
+        {
+          "item": "Support from employees",
+          "quote": "Three times he coordinated the employees to his side in ways that did not commit anyone to anything."
+        },
+        {
+          "item": "Influence and power",
+          "quote": "Altman is very good, Paul Graham says best in the world, at becoming powerful and playing power games."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Helen Toner",
+    "description": "A former board member of OpenAI",
+    "mentions": 6,
+    "wikipedia": {
+      "id": "75380868",
+      "name": "Helen Toner",
+      "extract": "Helen Toner is an Australian researcher and former board member of OpenAI.",
+      "description": "Helen Toner is an Australian researcher and ex-board member at OpenAI."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Ensuring AGI Benefits Humanity",
+          "quote": "OpenAI’s mission is to ensure that artificial general intelligence (AGI)—by which we mean highly autonomous systems that outperform humans at most economically valuable work—benefits all of humanity."
+        },
+        {
+          "item": "Promoting Cautious AI Development",
+          "quote": "They want a more cautious approach, that avoids unnecessarily creating or furthering race dynamics with other labs or driving surges of investment like we saw after ChatGPT, that takes necessary precautions at each step."
+        },
+        {
+          "item": "Policy Advocacy for AGI Safety",
+          "quote": "Helen Toner is a strong advocate for policy action to guard against existential risk."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Preventing Dangerous AGI Use",
+          "quote": "They want to ensure that the necessary controls are in place, including government controls, for when the time comes that AGI is on the line, to ensure we can train and deploy it safely."
+        },
+        {
+          "item": "Promoting Transparency in AI Development",
+          "quote": "Helen Toner, together with Andrew Imbrie and Owen Daniels, published the paper Decoding Intentions: Artificial Intelligence and Costly Signals."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Advocacy for AI Safety Policy",
+          "quote": "Helen Toner is a strong advocate for policy action to guard against existential risk."
+        },
+        {
+          "item": "Criticism and Feedback for AI Developments",
+          "quote": "Mr. Altman said that he had reprimanded Ms. Toner for the paper and that it was dangerous to the company."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Safe and Beneficial Development of AGI",
+          "quote": "We will attempt to directly build safe and beneficial AGI, but will also consider our mission fulfilled if our work aids others to achieve this outcome."
+        },
+        {
+          "item": "OpenAI Remaining a Non-profit",
+          "quote": "Adam D’Angelo said the whole point was not to let OpenAI become a big tech company."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Over-rapid Development of AGI",
+          "quote": "He was also reportedly concerned Altman was moving too fast and was insufficiently concerned with the risks."
+        },
+        {
+          "item": "Loss of Control Over AI Direction",
+          "quote": "Alternatively, the board could choose once again not to fire Altman, watch as Altman finished taking control of OpenAI and turned it into a personal empire, and hope this turns out well for the world."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Irresponsible Development of AGI",
+          "quote": "They want a more cautious approach, that avoids unnecessarily creating or furthering race dynamics with other labs or driving surges of investment like we saw after ChatGPT, that takes necessary precautions at each step."
+        },
+        {
+          "item": "Lack of Public Understanding of AI Development",
+          "quote": "Ms. Toner defended it as an academic paper that analyzed the challenges that the public faces when trying to understand the intentions of the countries and companies developing A.I."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Board Membership at OpenAI",
+          "quote": "Senior OpenAI leaders, including Mr. Sutskever, later discussed whether Ms. Toner should be removed."
+        },
+        {
+          "item": "Ability to Write and Publish Research",
+          "quote": "In October, board member Helen Toner, together with Andrew Imbrie and Owen Daniels, published the paper Decoding Intentions: Artificial Intelligence and Costly Signals."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Adam D’Angelo",
+    "description": "Tech entrepreneur, and one of the new board of OpenAI",
+    "mentions": 3,
+    "wikipedia": {
+      "id": "28125485",
+      "name": "Adam D'Angelo",
+      "extract": "Adam D'Angelo (born August 21, 1984) is an American internet entrepreneur. He is best known for his role as the co-founder and CEO of Quora, based in Mountain View, California.",
+      "description": "Adam D'Angelo is an American internet entrepreneur, best known as the co-founder and CEO of Quora."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Prevent OpenAI from becoming a big tech company",
+          "quote": "Adam D’Angelo said the whole point was not to let OpenAI become a big tech company."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Advocate for policy action regarding AI safety",
+          "quote": "Helen Toner is a strong advocate for policy action to guard against existential risk. I presume from what we know Tasha McCauley is in the same camp."
+        },
+        {
+          "item": "Maintain a cautious approach with AGI",
+          "quote": "They want a more cautious approach, that avoids unnecessarily creating or furthering race dynamics with other labs or driving surges of investment like we saw after ChatGPT, that takes necessary precautions at each step."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Influence the direction of OpenAI as a board member",
+          "quote": "Overnight, an agreement in principle was reached to reinstate Sam Altman as CEO of OpenAI, with an initial new board of Bret Taylor (ex-co-CEO of Salesforce, chair), Larry Summers and Adam D’Angelo."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Train and deploy AGI safely",
+          "quote": "And they want to ensure that the necessary controls are in place, including government controls, for when the time comes that AGI is on the line, to ensure we can train and deploy it safely."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "OpenAI becoming a big tech company",
+          "quote": "Adam D’Angelo said the whole point was not to let OpenAI become a big tech company."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Risk of AGI being trained and deployed unsafely",
+          "quote": "They want a more cautious approach, that avoids unnecessarily creating or furthering race dynamics with other labs or driving surges of investment like we saw after ChatGPT, that takes necessary precautions at each step. And they want to ensure that the necessary controls are in place, including government controls, for when the time comes that AGI is on the line, to ensure we can train and deploy it safely."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Position on OpenAI's board",
+          "quote": "Overnight, an agreement in principle was reached to reinstate Sam Altman as CEO of OpenAI, with an initial new board of Bret Taylor (ex-co-CEO of Salesforce, chair), Larry Summers and Adam D’Angelo."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Microsoft",
+    "description": "A multinational technology company",
+    "mentions": 4,
+    "wikipedia": {
+      "id": "19001",
+      "name": "Microsoft",
+      "extract": "Microsoft Corporation is an American multinational technology corporation headquartered in Redmond, Washington. Microsoft's best-known software products are the Windows line of operating systems, the Microsoft 365 suite of productivity applications, and the Edge web browser. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. Microsoft ranked No. 14 in the 2022 Fortune 500 rankings of the largest United States corporations by total revenue; it was the world's largest software maker by revenue as of 2022. It is considered one of the Big Five American information technology companies, alongside Alphabet (parent company of Google), Amazon, Apple, and Meta.\nMicrosoft was founded by Bill Gates and Paul Allen on April 4, 1975, to develop and sell BASIC interpreters for the Altair 8800. It rose to dominate the personal computer operating system market with MS-DOS in the mid-1980s, followed by Windows. The company's 1986 initial public offering (IPO) and subsequent rise in its share price created three billionaires and an estimated 12,000 millionaires among Microsoft employees. Since the 1990s, it has increasingly diversified from the operating system market and has made several corporate acquisitions, the largest being the acquisition of Activision Blizzard for $68.7 billion in October 2023, followed by its acquisition of LinkedIn for $26.2 billion in December 2016, and its acquisition of Skype Technologies for $8.5 billion in May 2011.As of 2015, Microsoft is market-dominant in the IBM PC compatible operating system market and the office software suite market, although it has lost the majority of the overall operating system market to Android. The company also produces a wide range of other consumer and enterprise software for desktops, laptops, tabs, gadgets, and servers, including Internet search (with Bing), the digital services market (through MSN), mixed reality (HoloLens), cloud computing (Azure), and software development (Visual Studio).\nSteve Ballmer replaced Gates as CEO in 2000 and later envisioned a \"devices and services\" strategy. This unfolded with Microsoft acquiring Danger Inc. in 2008, entering the personal computer production market for the first time in June 2012 with the launch of the Microsoft Surface line of tablet computers, and later forming Microsoft Mobile through the acquisition of Nokia's devices and services division. Since Satya Nadella took over as CEO in 2014, the company has scaled back on hardware and instead focused on cloud computing, a move that helped the company's shares reach their highest value since December 1999. Under Nadella's direction, the company has also heavily expanded its gaming business to support the Xbox brand, establishing the Microsoft Gaming division in 2022, dedicated to operating Xbox in addition to its three subsidiaries (publishers). Microsoft Gaming is the third-largest gaming company in the world by revenue as of 2023.Earlier dethroned by Apple in 2010, in 2018, Microsoft reclaimed its position as the most valuable publicly traded company in the world. In April 2019, Microsoft reached a trillion-dollar market cap, becoming the third U.S. public company to be valued at over $1 trillion after Apple and Amazon, respectively. As of 2023, Microsoft has the third-highest global brand valuation.\nMicrosoft has been criticized for its monopolistic practices and the company's software has been criticized for problems with ease of use, robustness, and security.",
+      "description": "Microsoft Corporation, an American multinational headquartered in Redmond, Washington, is known for software products including the Windows operating systems and Microsoft 365 applications, along with hardware products like Xbox consoles and Surface personal computers, and is globally recognized as one of the biggest revenue-earning software makers and an influential entity among the Big Five IT companies in the US."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [
+        {
+          "item": "Form a partnership with OpenAI",
+          "quote": "Sam Altman wants OpenAI for now to mostly function as an ordinary Big Tech company in partnership with Microsoft."
+        }
+      ],
+      "possible_actions": [],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Technology and market presence",
+          "quote": "Other deals and arrangements with Microsoft deepened the dependence"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bret Taylor",
+    "description": "Ex-co-CEO of Salesforce, also a new board member of OpenAI",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "24401213",
+      "name": "Bret Taylor",
+      "extract": "Bret Steven Taylor (born 1980) is an American computer programmer and entrepreneur. He is most notable for leading the team that co-created Google Maps and his tenures as the CTO of Facebook (now Meta Platforms), as the chairman of Twitter, Inc.'s board of directors prior to its acquisition by Elon Musk, and as the co-CEO of Salesforce (alongside co-founder Marc Benioff). Taylor was additionally one of the founders of FriendFeed and the creator of Quip. Since November 2023, he is chairman of OpenAI.",
+      "description": "Bret Steven Taylor is an American computer programmer notable for co-creating Google Maps, serving as the CTO of Facebook, chairman of Twitter, Inc., co-CEO of Salesforce, and he is currently the chairman of OpenAI as of November 2023.\n"
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "No explicit stated goals of Bret Taylor are mentioned in document.",
+          "quote": "Not applicable."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "No explicit motivations of Bret Taylor are mentioned in the document.",
+          "quote": "Not applicable."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "As a board member, Bret Taylor can influence the direction and decisions of OpenAI.",
+          "quote": "The board only has one move. It can fire the CEO or not fire the CEO."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Bret Taylor would like a situation where he can ensure OpenAI pursues its mission effectively.",
+          "quote": "The board only has one move. It can fire the CEO or not fire the CEO. Firing the CEO is a major escalation that risks disruption."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Disruption or detriment to OpenAI's mission due to internal power struggles.",
+          "quote": "Firing the CEO is a major escalation that risks disruption. But escalation and disruption have costs, reputational and financial."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Potential dangers to OpenAI's reputation and financial stability due to internal power struggles.",
+          "quote": "Firing the CEO is a major escalation that risks disruption. But escalation and disruption have costs, reputational and financial."
+        }
+      ],
+      "resources": [
+        {
+          "item": "As chairman of OpenAI, Bret Taylor has influence over major decisions impacting the direction and functioning of the company.",
+          "quote": "The board only has one move. It can fire the CEO or not fire the CEO."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Larry Summers",
+    "description": "American economist who is a member of the new OpenAI board",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "206211",
+      "name": "Lawrence Summers",
+      "extract": "Lawrence Henry Summers (born November 30, 1954) is an American economist who served as the 71st United States Secretary of the Treasury from 1999 to 2001 and as director of the National Economic Council from 2009 to 2010. He also served as president of Harvard University from 2001 to 2006, where he is the Charles W. Eliot university professor and director of the Mossavar-Rahmani Center for Business and Government at Harvard Kennedy School. In November 2023, Summers joined the board of directors of artificial general intelligence company OpenAI.Summers became a professor of economics at Harvard University in 1983. He left Harvard in 1991, working as the Chief Economist of the World Bank from 1991 to 1993. In 1993, Summers was appointed Under Secretary for International Affairs of the United States Department of the Treasury under President Bill Clinton's administration. In 1995, he was promoted to Deputy Secretary of the Treasury under his long-time political mentor Robert Rubin. In 1999, he succeeded Rubin as Secretary of the Treasury. While working for the Clinton administration, Summers played a leading role in the American response to the 1994 economic crisis in Mexico, the 1997 Asian financial crisis, and the Russian financial crisis. He was also influential in the Harvard Institute for International Development and American-advised privatization of the economies of the post-Soviet states, and in the deregulation of the U.S financial system, including the repeal of the Glass-Steagall Act.\nFollowing the end of Clinton's term, Summers served as the 27th president of Harvard University from 2001 to 2006. Summers resigned as Harvard's president in the wake of a no-confidence vote by Harvard faculty, which resulted in large part from Summers's conflict with Cornel West, financial conflict of interest questions regarding his relationship with Andrei Shleifer, and a 2005 speech in which he offered three reasons for the under-representation of women in science and engineering, including the possibility that there exists a \"different availability of aptitude at the high end\", in addition to patterns of discrimination and socialization.After his departure from Harvard, Summers worked as a managing partner at the hedge fund D. E. Shaw & Co. Summers rejoined public service during the Obama administration, serving as the Director of the White House United States National Economic Council for President Barack Obama from January 2009 until November 2010, where he emerged as a key economic decision-maker in the Obama administration's response to the Great Recession.\n\n",
+      "description": "Lawrence Henry Summers is a renowned American economist who has served as the 71st United States Secretary of the Treasury, director of the National Economic Council, and president of Harvard University, and in 2023, joined the board of directors of artificial general intelligence company OpenAI."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Make decision for the OpenAI organization",
+          "quote": "But does the board have power? Sort of. It has a supervisory role, which means it can hire or fire the CEO."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Prevent OpenAI's misuse",
+          "quote": "If you do not assume that, if you assume OpenAI is a non-profit with a charter? If you see many of Altman’s actions and instincts as in conflict with that charter?"
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Influence OpenAI's direction",
+          "quote": "What will the new board do? What full board will they select? What will they find when they investigate further?"
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "A properly controlled OpenAI",
+          "quote": "If you think that this new board could lead to a new expanded board that could serve as a proper check on Altman, without the lack of gravitas and experience that plagued the previous board, and with a fresh start on employee relations?"
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "OpenAI being fully controlled by Altman",
+          "quote": "If you assume that Altman was always in the right, everyone knows it is his company to run as he wants to maximize profits, and any sane adult would side with him? Then you assume Bret Taylor and Larry Summers will conclude that as well."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Unsafety and misuse of AGI",
+          "quote": "If you think OpenAI could be a great thing for the world, or its end, depending on choices we make?"
+        }
+      ],
+      "resources": [
+        {
+          "item": "Power to hire or fire CEO",
+          "quote": "A critical flaw is that firing (and hiring) the CEO, and choosing the composition of a new board, is the board’s only real power"
+        },
+        {
+          "item": "Influence in decision making",
+          "quote": "While I must emphasize we do not know what motivated the board, a recent power move by Altman likely played a part in forcing the board’s hand."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Greg Brockman",
+    "description": "CTO of OpenAI",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "73299474",
+      "name": "Greg Brockman",
+      "extract": "Greg Brockman (born November 29, 1987) is an American entrepreneur, investor and software developer who is a co-founder and currently the president of OpenAI. He began his career at Stripe in 2010, upon leaving MIT, and became their CTO in 2013. He left Stripe in 2015 to co-found OpenAI, where he also assumed the role of CTO.",
+      "description": "Greg Brockman is an American entrepreneur, software developer, and co-founder of OpenAI, who formerly held the position of CTO at Stripe."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Greg Brockman does not seem to have any stated goals in this document.",
+          "quote": "None"
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Greg Brockman's motivations are not explicitly mentioned in the document.",
+          "quote": "None"
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "There are no actions explicitly indicated for Greg Brockman in this document.",
+          "quote": "None"
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "No positive scenarios for Greg Brockman are mentioned in this document.",
+          "quote": "None"
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "No negative scenarios for Greg Brockman are mentioned in this document.",
+          "quote": "None"
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Greg Brockman's main fears or concerns are not explicitly mentioned in this document.",
+          "quote": "None"
+        }
+      ],
+      "resources": [
+        {
+          "item": "There's no mentioning of the resources that Greg Brockman can access in this document.",
+          "quote": "None"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Tasha McCauley",
+    "description": "A former board member of OpenAI",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "48795986",
+      "name": "OpenAI",
+      "extract": "OpenAI is an American artificial intelligence (AI) research organization consisting of the non-profit OpenAI, Inc. registered in Delaware and its for-profit subsidiary OpenAI Global, LLC. OpenAI researches artificial intelligence with the declared intention of developing \"safe and beneficial\" artificial general intelligence, which it defines as \"highly autonomous systems that outperform humans at most economically valuable work\". OpenAI has also developed several large language models, such as ChatGPT and GPT-4, as well as advanced image generation models like DALL-E 3, and in the past published open-source models.The organization was founded in December 2015 by Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston, John Schulman, Pamela Vagata, and Wojciech Zaremba, with Sam Altman and Elon Musk serving as the initial board members. Microsoft provided OpenAI Global LLC with a $1 billion investment in 2019 and a $10 billion investment in 2023, with a significant portion of the investment in the form of compute resources on Microsoft's Azure cloud service. Its release of ChatGPT is credited with starting the Artificial Intelligence Spring.On November 17, 2023, the board removed Altman as CEO, while Brockman was removed as chairman and then resigned as president. Four days later, both returned after negotiations with the board, and most of the board members resigned. The new initial board included former Salesforce co-CEO Bret Taylor as chairman. OpenAI also announced that Microsoft would have a non-voting board seat at OpenAI.",
+      "description": "OpenAI is an American artificial intelligence research organization aiming to develop \"safe and beneficial\" general artificial intelligence, and is known for developing large language and image generation models, partially funded by significant investments from Microsoft in the form of Azure cloud compute resources."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "To build safe and beneficial AGI",
+          "quote": "OpenAI’s mission is to ensure that artificial general intelligence (AGI)—by which we mean highly autonomous systems that outperform humans at most economically valuable work—benefits all of humanity. We will attempt to directly build safe and beneficial AGI, but will also consider our mission fulfilled if our work aids others to achieve this outcome."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "To act in the best interests of humanity in the development of AGI",
+          "quote": "The timeline to AGI remains uncertain, but our Charter will guide us in acting in the best interests of humanity throughout its development."
+        },
+        {
+          "item": "To shape the company according to Sam Altman's vision",
+          "quote": "Until recently, Sam Altman worked to reshape the company in his own image, while clashing with the board, and the board did little."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "To embark on new business ventures",
+          "quote": "He wants to embark on new business ventures to remove bottlenecks and get equity in the new ventures, including planning a Saudi-funded chip factory in the UAE and starting an AI hardware project."
+        },
+        {
+          "item": "To continue shipping AI products",
+          "quote": "Altman increasingly focused on shipping products the way you would if you were an exceptional tech startup founder"
+        },
+        {
+          "item": "To influence the direction of AI development",
+          "quote": "The board has a supervisory role, which means it can hire or fire the CEO. Often the board uses this leverage to effectively be in charge of major decisions."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "To obtain control of OpenAI and shape its future",
+          "quote": "Sam Altman’s intermediate goal has been, from the beginning, full personal control of OpenAI, and thus control over the construction of AGI."
+        },
+        {
+          "item": "If other organizations achieve the development of safe and beneficial AGI",
+          "quote": "We will attempt to directly build safe and beneficial AGI, but will also consider our mission fulfilled if our work aids others to achieve this outcome."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Losing control of OpenAI and AGI development",
+          "quote": "Unlike many who defended him, Altman understands that AGI will be truly transformational, and he does not want humans to lose control over the future."
+        },
+        {
+          "item": "Facing existential threat from AGI",
+          "quote": "Altman understands that AGI will be truly transformational, and he does not want humans to lose control over the future."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "AGI being developed without sufficient safety precautions",
+          "quote": "He signed the CAIS letter. He testified frankly before Congress. Unlike many who defended him, Altman understands that AGI will be truly transformational, and he does not want humans to lose control over the future."
+        },
+        {
+          "item": "OpenAI diverging from its mission and becoming a commercial entity",
+          "quote": "Adam D’Angelo said the whole point was not to let OpenAI become a big tech company."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Personnel with AI development expertise",
+          "quote": "over the course of years, he has remade the company culture through addition and subtraction, hiring those who believe in this mission and who would be personally loyal to him."
+        },
+        {
+          "item": "Partnerships with other companies, notably Microsoft",
+          "quote": "Altman aggressively cut prices in ways that prioritized growth and made OpenAI much more dependent on Microsoft and further fueling the boom in AI development."
+        },
+        {
+          "item": "Fundraising capacity",
+          "quote": "Altman was raising tens of billions from Saudis, to start a chip company to rival Nvidia, which was to produce its chips in the UAE, leveraging the fundraising for OpenAI in the process."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ilya Sutskever",
+    "description": "Co-founder of OpenAI",
+    "mentions": 4,
+    "wikipedia": {
+      "id": "51097862",
+      "name": "Ilya Sutskever",
+      "extract": "Ilya Sutskever  (Hebrew: איליה סוצקבר; Russian: Илья Суцкевер; /ilja su:ʦkɪvər/ born 1985/86) is a computer scientist working in machine learning. He is a co-founder and Chief Scientist at OpenAI.He has made several major contributions to the field of deep learning. In 2023, Sutskever and the OpenAI board fired CEO Sam Altman, who returned a week later. He is the co-inventor, with Alex Krizhevsky and Geoffrey Hinton, of AlexNet, a convolutional neural network. Sutskever is also one of the many co-authors of the AlphaGo paper.",
+      "description": "Ilya Sutskever is a renowned computer scientist and co-founder of OpenAI who has made significant contributions to deep learning, including the co-invention of AlexNet, a convolutional neural network."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Ilya Sutskever focuses on the construction and alignment of safe AGI",
+          "quote": "Ilya Sutskever loves OpenAI and its people, and the promise of building safe AGI. Reports are Ilya’s takes on alignment have been epistemically improving steadily. He is co-leading the Superalignment Taskforce seeking to figure out how to align future superintelligent AI."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "His primary motivation is the development of safe AI while considering the risks associated with it",
+          "quote": "He had reportedly become increasingly concerned that timelines until AGI could be remarkably short. He was also reportedly concerned Altman was moving too fast and was insufficiently concerned with the risks."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "He could continue spearheading initiatives related to AGI alignment",
+          "quote": "He is co-leading the Superalignment Taskforce seeking to figure out how to align future superintelligent AI."
+        },
+        {
+          "item": "He could influence the direction of OpenAI, desiring a more cautious approach",
+          "quote": "Ilya later reversed course, after the rest of the board fully lost control of the narrative and employees, and the situation threatened to tear OpenAI apart."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "A careful and well-planned development of AGI",
+          "quote": "He had reportedly become increasingly concerned that timelines until AGI could be remarkably short. He was also reportedly concerned Altman was moving too fast and was insufficiently concerned with the risks."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Uncontrolled progression and premature release of AGI",
+          "quote": "He had reportedly become increasingly concerned that timelines until AGI could be remarkably short. He was also reportedly concerned Altman was moving too fast and was insufficiently concerned with the risks."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "His main fear is the rapid development and release of AGI without enough safeguards",
+          "quote": "He had reportedly become increasingly concerned that timelines until AGI could be remarkably short. He was also reportedly concerned Altman was moving too fast and was insufficiently concerned with the risks."
+        }
+      ],
+      "resources": [
+        {
+          "item": "He is a co-leader of the Superalignment Taskforce, which could be considered a resource",
+          "quote": "He is co-leading the Superalignment Taskforce seeking to figure out how to align future superintelligent AI."
+        },
+        {
+          "item": "His position and influence within OpenAI",
+          "quote": "Ilya Sutskever loves OpenAI and its people, and the promise of building safe AGI."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Anthropic",
+    "description": "An AI research company aimed at ensuring artificial general intelligence (AGI) benefits all of humanity.",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "6206236",
+      "name": "Anthropic",
+      "extract": "Anthropic PBC is an American artificial intelligence (AI) startup company, founded by former members of OpenAI. Anthropic develops general AI systems and large language models. It is a public-benefit corporation, and has been connected to the effective altruism movement.\nAs of July 2023, Anthropic had raised US$1.5 billion in funding. In September, Amazon announced an investment of up to US$4 billion, followed by a $2 billion commitment from Google the next month.",
+      "description": "Anthropic PBC is an American AI startup, founded by ex-OpenAI members, that develops general AI systems and large language models, and as of 2023, has raised over US$7.5 billion from investors including Amazon and Google."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Anthropic appears committed to an extensive approach on AI safety",
+          "quote": "The paper correctly points out that while OpenAI engages in costly signaling and takes steps to ensure safety, Anthropic does more costly signaling and takes more steps to ensure safety, and puts more emphasis on communicating this message."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "The motivation of Anthropic is unclear from the document",
+          "quote": "N/A"
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Anthropic is likely to continue its extensive approach on AI safety",
+          "quote": "Anthropic does more costly signaling and takes more steps to ensure safety, and puts more emphasis on communicating this message."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Anthropic would likely consider scenarios that enhance AI safety as good",
+          "quote": "Anthropic does more costly signaling and takes more steps to ensure safety, and puts more emphasis on communicating this message."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Any scenario that compromises AI safety is likely unfavorable",
+          "quote": "The paper correctly points out that while OpenAI engages in costly signaling and takes steps to ensure safety, Anthropic does more costly signaling and takes more steps to ensure safety."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Anthropic's fears or concerns are unclear from the document",
+          "quote": "N/A"
+        }
+      ],
+      "resources": [
+        {
+          "item": "Detailed resources of Anthropic are not clearly described in the document",
+          "quote": "N/A"
+        }
+      ]
+    }
+  },
+  {
+    "name": "EU’s AI Act",
+    "description": "A set of regulations presented by the European Union for the governance of artificial intelligence",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "68665578",
+      "name": "Artificial Intelligence Act",
+      "extract": "The Artificial Intelligence Act (AI Act) is a proposed regulation of the European Union. Proposed by the European Commission on 21 April 2021, it aims to introduce a common regulatory and legal framework for artificial intelligence. Its scope encompasses all sectors (except for military), and to all types of artificial intelligence. As a piece of product regulation, it would not confer rights on individuals, but would regulate the providers of artificial intelligence systems, and entities making use of them in a professional capacity.\nThe proposed EU Artificial Intelligence Act aims to classify and regulate artificial intelligence applications based on their risk to cause harm. This classification primarily falls into three categories: banned practices, high-risk systems, and other AI systems.Banned practices are those that employ artificial intelligence to cause subliminal manipulation or exploit people's vulnerabilities that may result in physical or psychological harm, make indiscriminate use of real-time remote biometric identification in public spaces for law enforcement, or use AI-derived 'social scores' by authorities to unfairly disadvantage individuals or groups. The Act entirely prohibits the latter, while an authorisation regime is proposed for the first three in the context of law enforcement.High-risk systems, as per the Act, are those that pose significant threats to health, safety, or the fundamental rights of persons. They require a compulsory conformity assessment, undertaken as self-assessment by the provider, before being launched in the market. Particularly critical applications, such as those for medical devices, require the provider's self-assessment under AI Act requirements to be considered by the notified body conducting the assessment under existing EU regulations, like the Medical Devices Regulation.AI systems outside the categories above are not subject to any regulation, with Member States largely prevented from further regulating them via maximum harmonisation. Existing national laws related to the design or use of such systems are disapplied. However, a voluntary code of conduct for such systems is envisaged, though not from the outset.The Act further proposes the introduction of a European Artificial Intelligence Board to promote national cooperation and ensure compliance with the regulation.Like the European Union's General Data Protection Regulation, the AI Act could become a global standard. It is already having impact beyond Europe; in September 2021, Brazil's Congress passed a bill that creates a legal framework for artificial intelligence. The European Council adopted its general approach on the AI Act on 6 December 2022. Germany supports the Council's position but still sees some need for further improvement as formulated in an accompanying statement by the member state. Among the measures likely to be proposed is for AI developers for products such as Open AI's ChatGPT to declare whether copyrighted material was used to train their technology.",
+      "description": "The Artificial Intelligence Act (AI Act) is a proposed European Union regulation aiming to establish a common legal framework for artificial intelligence, regulating providers and users of AI systems, and classifying AI applications based on their potential harm risk.\n"
+    }
+  },
+  {
+    "name": "Federal Trade Commission",
+    "description": "An US government organization investigating OpenAI over data used to build their technology.",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "182215",
+      "name": "Federal Trade Commission",
+      "extract": "The Federal Trade Commission (FTC) is an independent agency of the United States government whose principal mission is the enforcement of civil (non-criminal) antitrust law and the promotion of consumer protection. The FTC shares jurisdiction over federal civil antitrust law enforcement with the Department of Justice Antitrust Division. The agency is headquartered in the Federal Trade Commission Building in Washington, DC.\nThe FTC was established in 1914 with the passage of the Federal Trade Commission Act, signed in response to the 19th-century monopolistic trust crisis. Since its inception, the FTC has enforced the provisions of the Clayton Act, a key antitrust statute, as well as the provisions of the FTC Act, 15 U.S.C. § 41 et seq. Over time, the FTC has been delegated with the enforcement of additional business regulation statutes and has promulgated a number of regulations (codified in Title 16 of the Code of Federal Regulations). The broad statutory authority granted to the FTC provides it with more surveillance and monitoring abilities than it actually uses.: 571 The FTC is composed of five commissioners, who each serve seven-year terms. Members of the commission are nominated by the President and subject to Senate confirmation, and no more than three FTC members can be of the same party. One member of the body serves as FTC Chair at the President's pleasure, with Commissioner Lina Khan having served as chair since June 2021.",
+      "description": "The Federal Trade Commission (FTC) is an independent U.S. government agency established in 1914, primarily tasked with enforcing civil antitrust law and promoting consumer protection."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [
+        {
+          "item": "Conducting investigations",
+          "quote": "…when the Federal Trade Commission was investigating OpenAI over the data used to build its technology"
+        }
+      ],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": []
+    }
+  },
+  {
+    "name": "Superalignment Taskforce",
+    "description": "A team working on how to align superintelligent AI.",
+    "mentions": 1,
+    "wikipedia": {
+      "error": "Error extracting pageId:It appears there is no existing Wikipedia page for \"Superalignment Taskforce\"."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "OpenAI's stated goal is ensuring that AI benefits all of humanity",
+          "quote": "OpenAI’s mission is to ensure that artificial general intelligence (AGI)—by which we mean highly autonomous systems that outperform humans at most economically valuable work—benefits all of humanity. We will attempt to directly build safe and beneficial AGI but will also consider our mission fulfilled if our work aids others to achieve this outcome."
+        },
+        {
+          "item": "Altman's goal is to establish OpenAI as a major player in the world of technology",
+          "quote": "While his ultimate goals for OpenAI are far grander, Sam Altman wants OpenAI for now to mostly function as an ordinary Big Tech company in partnership with Microsoft."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "OpenAI's motivation is creating and controlling AI for the benefit of mankind",
+          "quote": "This was and still is a fight about control of OpenAI, its board, and its direction."
+        },
+        {
+          "item": "Altman's motivation is the desire for power and the implementation of his vision for the future of AI",
+          "quote": "Sam Altman’s intermediate goal has been, from the beginning, full personal control of OpenAI, and thus control over the construction of AGI."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "The board of OpenAI has the power to hire or fire the CEO",
+          "quote": "But does the board have power? Sort of. It has a supervisory role, which means it can hire or fire the CEO."
+        },
+        {
+          "item": "OpenAI can overhaul its direction and leadership structure if necessary",
+          "quote": "The board made a strategic decision not to explain their reasoning or justifications in detail during this dispute."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Altman views a scenario where OpenAI functions like a big tech company as favorable",
+          "quote": "He wants to build and ship, to move fast and break things."
+        },
+        {
+          "item": "OpenAI sees fulfilling its mission of benefiting humanity through AGI as a good scenario",
+          "quote": "OpenAI’s mission is to ensure that artificial general intelligence (AGI)—by which we mean highly autonomous systems that outperform humans at most economically valuable work—benefits all of humanity."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "OpenAI's board sees a scenario where Altman maintains full control as unfavorable",
+          "quote": "The board felt it at least had many small data points saying it could not trust Altman, in combination with Altman’s known power-seeking moves elsewhere."
+        },
+        {
+          "item": "A potential negative for Altman is the loss of control over OpenAI and its direction",
+          "quote": "A critical flaw is that firing (and hiring) the CEO, and choosing the composition of a new board, is the board’s only real power."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "The loss of control within the AI sector is a major fear for OpenAI's leadership",
+          "quote": "This was and still is a fight about control of OpenAI, its board, and its direction."
+        },
+        {
+          "item": "Altman fears losing control over the development and deployment of AGI technology",
+          "quote": "Altman understands that AGI will be truly transformational, and he does not want humans to lose control over the future."
+        }
+      ],
+      "resources": [
+        {
+          "item": "OpenAI has a strong team of tech veterans and leaders",
+          "quote": "To that end, over the course of years, he has remade the company culture through addition and subtraction, hiring those who believe in this mission and who would be personally loyal to him."
+        },
+        {
+          "item": "OpenAI has the backing and partnership of major tech companies like Microsoft",
+          "quote": "Altman aggressively cut prices in ways that prioritized growth and made OpenAI much more dependent on Microsoft and further fueling the boom in AI development. Other deals and arrangements with Microsoft deepened the dependence."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Emmett Shear",
+    "description": "Considered as a potential pick for the CEO position of OpenAI.",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "33627170",
+      "name": "Emmett Shear",
+      "extract": "Emmett Shear (born 1983) is an American Internet entrepreneur and investor. He is the co-founder of live video platform Justin.tv. He served as the chief executive officer of Twitch when it was spun off from Justin.tv until March 2023. In 2011, Shear was appointed as a part-time partner at venture capital firm Y Combinator. In November 2023, he briefly served as interim CEO of OpenAI.\n\n",
+      "description": "Emmett Shear, born 1983, is an American Internet entrepreneur and investor, known as the co-founder of Justin.tv and former CEO of Twitch, and for his brief tenure as interim CEO of OpenAI in 2023."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": []
+    }
+  },
+  {
+    "name": "Nat Friedman",
+    "description": "A person considered for OpenAI's CEO position",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "153754",
+      "name": "Nat Friedman",
+      "extract": "Nathaniel Dourif Friedman is an American technology executive and investor. He was the chief executive officer (CEO) of GitHub, and former Chairman of the GNOME Foundation. Friedman is currently a board member at the Arc Institute, and an advisor of Midjourney.",
+      "description": "Nathaniel Dourif Friedman is an American tech executive and investor who was the CEO of GitHub, Chairman of the GNOME Foundation, and is currently a board member at the Arc Institute and an advisor of Midjourney."
+    }
+  },
+  {
+    "name": "Alex Wang",
+    "description": "A person considered for OpenAI's CEO position",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "75352338",
+      "name": "Removal of Sam Altman from OpenAI",
+      "extract": "On November 17, 2023, OpenAI's board of directors removed co-founder and chief executive Sam Altman with a statement that it had no confidence in Altman's leadership.  \nApproximately 107 hours later, after an intense pressure campaign from investors and a threatened mass resignation of OpenAI’s employees, OpenAI announced that it had reached an agreement in principle to have Altman return as CEO with a reconstituted board of the non-profit entity which oversees the for-profit company. Altman’s announced return was the third change of CEO announcement within a chaotic 4.5 day period.\n\n",
+      "description": "Sam Altman was removed as CEO by OpenAI's board due to lack of confidence but was reinstated after pressure from investors and potential employee resignations, marking the third CEO change within a tumultuous 4.5 day period in November 2023."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "To regain control of OpenAI",
+          "quote": "This is a Fight For Control; Altman Started it. This was and still is a fight about control of OpenAI, its board, and its direction."
+        },
+        {
+          "item": "Reshape OpenAI in Altman's image",
+          "quote": "Until recently, Sam Altman worked to reshape the company in his own image, while clashing with the board, and the board did little."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Personal control of OpenAI",
+          "quote": "Sam Altman’s intermediate goal has been, from the beginning, full personal control of OpenAI, and thus control over the construction of AGI."
+        },
+        {
+          "item": "To create a 'safe' AGI",
+          "quote": "The ultimate goal is to build ‘safe’ AGI."
+        },
+        {
+          "item": "To transition OpenAI into a Big Tech company",
+          "quote": "While his ultimate goals for OpenAI are far grander, Sam Altman wants OpenAI for now to mostly function as an ordinary Big Tech company in partnership with Microsoft."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Removal of dissenting board members",
+          "quote": "Sam Altman then attempted to use this (potentially manufactured) drama to get Toner removed from the board."
+        },
+        {
+          "item": "Building and shipping technologies rapidly",
+          "quote": "He wants to build and ship, to move fast and break things."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Taking full control of OpenAI",
+          "quote": "Sam Altman’s intermediate goal has been, from the beginning, full personal control of OpenAI, and thus control over the construction of AGI."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Losing control of OpenAI",
+          "quote": "Alternatively, the board could choose once again not to fire Altman, watch as Altman finished taking control of OpenAI and turned it into a personal empire, and hope this turns out well for the world."
+        },
+        {
+          "item": "Board stirring up controversy",
+          "quote": "Altman and the board were repeatedly clashing. Altman continued to consolidate his power, confident that Ilya would not back an attempt to fire him. But it was tense."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Potential escalation with board members",
+          "quote": "Altman and the board were repeatedly clashing. Altman continued to consolidate his power, confident that Ilya would not back an attempt to fire him. But it was tense. It would be much better to have a board more clearly loyal to Altman, more on board with the commercial mission."
+        },
+        {
+          "item": "Losing power and control over OpenAI",
+          "quote": "The board only has one move. It can fire the CEO or not fire the CEO. Firing the CEO is a major escalation that risks disruption."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Authority as CEO",
+          "quote": "While I must emphasize we do not know what motivated the board, a recent power move by Altman likely played a part in forcing the board’s hand."
+        },
+        {
+          "item": "Personal support within the company",
+          "quote": "To that end, over the course of years, he has remade the company culture through addition and subtraction, hiring those who believe in this mission and who would be personally loyal to him."
+        },
+        {
+          "item": "Strategy and manipulation skills",
+          "quote": "Altman is very good, Paul Graham says best in the world, at becoming powerful and playing power games."
+        }
+      ]
+    }
+  }
+]

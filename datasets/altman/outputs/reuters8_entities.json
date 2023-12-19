@@ -1,0 +1,934 @@
+[
+  {
+    "name": "Sam Altman",
+    "description": "CEO of OpenAI",
+    "mentions": 11,
+    "wikipedia": {
+      "id": "22476815",
+      "name": "Sam Altman",
+      "extract": "Samuel Harris Altman (; AWLT-mən; born April 22, 1985) is an American entrepreneur and investor, who has been the CEO of OpenAI since 2019 (he was briefly fired and reinstated in November 2023). Prior to OpenAI, Altman was president of Y Combinator from 2014 to 2019.\n\n",
+      "description": "Samuel Harris Altman, born April 22, 1985, is an American entrepreneur and investor, currently serving as the CEO of OpenAI, and was previously the president of Y Combinator from 2014 to 2019."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Returning to lead OpenAI as its CEO",
+          "quote": "OpenAI said on Tuesday it had reached an agreement for Sam Altman to return as CEO days after his ouster"
+        },
+        {
+          "item": "Influencing the direction of OpenAI",
+          "quote": "Sam Altman's views about how to run the company will dominate future direction"
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Driving the integrity and values of OpenAI",
+          "quote": "Sam and Greg (Brockman) possess a profound commitment to the company's integrity"
+        },
+        {
+          "item": "Leading in the AI space",
+          "quote": "OpenAI has the potential to be one of the most consequential companies in the history of computing."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Leading OpenAI as CEO",
+          "quote": "OpenAI said on Tuesday it had reached an agreement for Sam Altman to return as CEO days after his ouster"
+        },
+        {
+          "item": "Influencing the development of AI",
+          "quote": "Sam Altman's views about how to run the company will dominate future direction"
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Gaining the full backing and partnership of Microsoft",
+          "quote": "This latest boardroom tussle has shown that Altman has the full backing of Microsoft as a person and as long as he remains in charge of OpenAI, and there should not be any negative spillover effects between the partnership of OpenAI and Microsoft."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Lack of oversight from the board",
+          "quote": "Sam Altman seems awfully powerful and it is unclear that any board would be able to oversee him. The danger is the board becomes a rubber stamp."
+        },
+        {
+          "item": "Continued governance issues",
+          "quote": "It (Altman's return) may put an end to the turmoil on the surface for now but there may continue to be deep governance issues that remain."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Potential for anti-trust actions or conflicts",
+          "quote": "It may even be to protect Microsoft from anti-trust actions or conflicts as Microsoft itself has its own AI unit."
+        },
+        {
+          "item": "The possibility of being undermined or ousted from his position",
+          "quote": "His ousting upset to a point that company's existence was put to question."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Backing and support from Microsoft",
+          "quote": "Altman has the full backing of Microsoft"
+        },
+        {
+          "item": "Partnership with Greg Brockman",
+          "quote": "Sam and Greg (Brockman) possess a profound commitment to the company's integrity, and an unmatched ability to inspire and lead."
+        },
+        {
+          "item": "Leadership role in OpenAI",
+          "quote": "OpenAI said on Tuesday it had reached an agreement for Sam Altman to return as CEO days after his ouster"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Microsoft",
+    "description": "Multinational technology company",
+    "mentions": 6,
+    "wikipedia": {
+      "id": "19001",
+      "name": "Microsoft",
+      "extract": "Microsoft Corporation is an American multinational technology corporation headquartered in Redmond, Washington. Microsoft's best-known software products are the Windows line of operating systems, the Microsoft 365 suite of productivity applications, and the Edge web browser. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. Microsoft ranked No. 14 in the 2022 Fortune 500 rankings of the largest United States corporations by total revenue; it was the world's largest software maker by revenue as of 2022. It is considered one of the Big Five American information technology companies, alongside Alphabet (parent company of Google), Amazon, Apple, and Meta.\nMicrosoft was founded by Bill Gates and Paul Allen on April 4, 1975, to develop and sell BASIC interpreters for the Altair 8800. It rose to dominate the personal computer operating system market with MS-DOS in the mid-1980s, followed by Windows. The company's 1986 initial public offering (IPO) and subsequent rise in its share price created three billionaires and an estimated 12,000 millionaires among Microsoft employees. Since the 1990s, it has increasingly diversified from the operating system market and has made several corporate acquisitions, the largest being the acquisition of Activision Blizzard for $68.7 billion in October 2023, followed by its acquisition of LinkedIn for $26.2 billion in December 2016, and its acquisition of Skype Technologies for $8.5 billion in May 2011.As of 2015, Microsoft is market-dominant in the IBM PC compatible operating system market and the office software suite market, although it has lost the majority of the overall operating system market to Android. The company also produces a wide range of other consumer and enterprise software for desktops, laptops, tabs, gadgets, and servers, including Internet search (with Bing), the digital services market (through MSN), mixed reality (HoloLens), cloud computing (Azure), and software development (Visual Studio).\nSteve Ballmer replaced Gates as CEO in 2000 and later envisioned a \"devices and services\" strategy. This unfolded with Microsoft acquiring Danger Inc. in 2008, entering the personal computer production market for the first time in June 2012 with the launch of the Microsoft Surface line of tablet computers, and later forming Microsoft Mobile through the acquisition of Nokia's devices and services division. Since Satya Nadella took over as CEO in 2014, the company has scaled back on hardware and instead focused on cloud computing, a move that helped the company's shares reach their highest value since December 1999. Under Nadella's direction, the company has also heavily expanded its gaming business to support the Xbox brand, establishing the Microsoft Gaming division in 2022, dedicated to operating Xbox in addition to its three subsidiaries (publishers). Microsoft Gaming is the third-largest gaming company in the world by revenue as of 2023.Earlier dethroned by Apple in 2010, in 2018, Microsoft reclaimed its position as the most valuable publicly traded company in the world. In April 2019, Microsoft reached a trillion-dollar market cap, becoming the third U.S. public company to be valued at over $1 trillion after Apple and Amazon, respectively. As of 2023, Microsoft has the third-highest global brand valuation.\nMicrosoft has been criticized for its monopolistic practices and the company's software has been criticized for problems with ease of use, robustness, and security.",
+      "description": "Microsoft Corporation, an American multinational headquartered in Redmond, Washington, is known for software products including the Windows operating systems and Microsoft 365 applications, along with hardware products like Xbox consoles and Surface personal computers, and is globally recognized as one of the biggest revenue-earning software makers and an influential entity among the Big Five IT companies in the US."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Bigger role and stronger partnership with OpenAI",
+          "quote": "\"What does seem clear is that Microsoft will now play a much bigger role, that the partnership will become stronger and the two companies more integrated.\""
+        },
+        {
+          "item": "Seat on the new board",
+          "quote": "\"...the tech giant now wants a seat on the new board that will need to be formed over the coming months, as it wants to avoid any further surprises.\""
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Supporting Altman's return",
+          "quote": "\"Microsoft... had openly supported Altman's return over the weekend.\""
+        },
+        {
+          "item": "Avoiding surprises in the future",
+          "quote": "\"...as it wants to avoid any further surprises.\""
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Requesting a seat on the new board",
+          "quote": "\"...the tech giant now wants a seat on the new board that will need to be formed over the coming months.\""
+        },
+        {
+          "item": "More integration with OpenAI",
+          "quote": "\"...the partnership will become stronger and the two companies more integrated.\""
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Restoration of order at OpenAI",
+          "quote": "\"While he'll (Microsoft CEO Nadella) no doubt be pleased about the fact that order has been restored at OpenAI.\""
+        },
+        {
+          "item": "Positive partnership with OpenAI",
+          "quote": "\"This latest boardroom tussle has shown that Altman has the full backing of Microsoft as a person and as long as he remains in charge of OpenAI.\""
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Potential anti-trust actions",
+          "quote": "\"There may be good reasons why Microsoft does not have a board seat. It may even be to protect Microsoft from anti-trust actions or conflicts.\""
+        },
+        {
+          "item": "Uncertainty in oversight",
+          "quote": "\"Sam Altman seems awfully powerful and it is unclear that any board would be able to oversee him. The danger is the board becomes a rubber stamp.\""
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Losing control over OpenAI",
+          "quote": "\"Now, the outcome could be frustrating for Microsoft.\""
+        },
+        {
+          "item": "Potential anti-trust actions",
+          "quote": "\"It may even be to protect Microsoft from anti-trust actions or conflicts.\""
+        },
+        {
+          "item": "Governance issues within OpenAI",
+          "quote": "\"There may continue to be deep governance issues that remain.\""
+        }
+      ],
+      "resources": [
+        {
+          "item": "AI unit",
+          "quote": "\"...as Microsoft itself has its own AI unit.\""
+        },
+        {
+          "item": "Investment in OpenAI",
+          "quote": "\"While he'll (Microsoft CEO Nadella) no doubt be pleased about the fact that order has been restored at OpenAI, in which Microsoft is a major investor.\""
+        }
+      ]
+    }
+  },
+  {
+    "name": "OpenAI",
+    "description": "Artificial Intelligence research startup",
+    "mentions": 6,
+    "wikipedia": {
+      "id": "48795986",
+      "name": "OpenAI",
+      "extract": "OpenAI is an American artificial intelligence (AI) research organization consisting of the non-profit OpenAI, Inc. registered in Delaware and its for-profit subsidiary OpenAI Global, LLC. OpenAI researches artificial intelligence with the declared intention of developing \"safe and beneficial\" artificial general intelligence, which it defines as \"highly autonomous systems that outperform humans at most economically valuable work\". OpenAI has also developed several large language models, such as ChatGPT and GPT-4, as well as advanced image generation models like DALL-E 3, and in the past published open-source models.The organization was founded in December 2015 by Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston, John Schulman, Pamela Vagata, and Wojciech Zaremba, with Sam Altman and Elon Musk serving as the initial board members. Microsoft provided OpenAI Global LLC with a $1 billion investment in 2019 and a $10 billion investment in 2023, with a significant portion of the investment in the form of compute resources on Microsoft's Azure cloud service.On November 17, 2023, the board removed Altman as CEO, while Brockman was removed as chairman and then resigned as president. Four days later, both returned after negotiations with the board, and most of the board members resigned. The new initial board included former Salesforce co-CEO Bret Taylor as chairman. OpenAI also announced that Microsoft would have a non-voting board seat at OpenAI.",
+      "description": "OpenAI is an American AI research organization, focusing on developing \"safe and beneficial\" artificial general intelligence and producing large language and image generation models, funded by significant investments by Microsoft."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [
+        {
+          "item": "Maintain company's integrity",
+          "quote": "Sam and Greg (Brockman) possess a profound commitment to the company's integrity"
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Greater integration with Microsoft",
+          "quote": "Microsoft will now play a much bigger role, that the partnership will become stronger and the two companies more integrated."
+        },
+        {
+          "item": "Formation of a new board",
+          "quote": "the tech giant now wants a seat on the new board that will need to be formed over the coming months"
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Maintaining partnership with Microsoft",
+          "quote": "Altman has the full backing of Microsoft as a person and as long as he remains in charge of OpenAI, and there should not be any negative spillover effects between the partnership of OpenAI and Microsoft."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "CEO ousted or the loss of key figures",
+          "quote": "His ousting upset to a point that company's existence was put to question."
+        },
+        {
+          "item": "Governance issues",
+          "quote": "there may continue to be deep governance issues that remain."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Unclear leadership oversight",
+          "quote": "Sam Altman seems awfully powerful and it is unclear that any board would be able to oversee him."
+        },
+        {
+          "item": "Potential anti-trust actions or conflicts with Microsoft",
+          "quote": "It may even be to protect Microsoft from anti-trust actions or conflicts as Microsoft itself has its own AI unit."
+        }
+      ],
+      "resources": [
+        {
+          "item": "ChatGPT technology",
+          "quote": "Even though Microsoft benefits generously from ChatGPT's uprise"
+        },
+        {
+          "item": "Backing of Microsoft as investor",
+          "quote": "Altman has the full backing of Microsoft"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Danni Hewson",
+    "description": "Head of Financial Analysis at AJ Bell",
+    "mentions": 1,
+    "wikipedia": {
+      "error": "Error extracting pageId:None of these pages seem to be a good match for Danni Hewson, the \"Head of Financial Analysis at AJ Bell\". So, there is no pageid to provide in this case."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Sam Altman returning as CEO of OpenAI",
+          "quote": "OpenAI said on Tuesday it had reached an agreement for Sam Altman to return as CEO days after his ouster."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "The strive for stronger partnership with Microsoft",
+          "quote": "What does seem clear is that Microsoft will now play a much bigger role, that the partnership will become stronger and the two companies more integrated."
+        },
+        {
+          "item": "To achieve significant impact",
+          "quote": "OpenAI has the potential to be one of the most consequential companies in the history of computing."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Microsoft might seek a board seat",
+          "quote": "the tech giant now wants a seat on the new board that will need to be formed over the coming months, as it wants to avoid any further surprises."
+        },
+        {
+          "item": "Restructure with a new board",
+          "quote": "especially given he’ll be supervised under a new board."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Continued partnership with Microsoft",
+          "quote": "This latest boardroom tussle has shown that Altman has the full backing of Microsoft as a person and as long as he remains in charge of OpenAI, and there should not be any negative spillover effects between the partnership of OpenAI and Microsoft."
+        },
+        {
+          "item": "More autonomy for Sam Altman",
+          "quote": "Altman and (Microsoft CEO) Nadella may have pushed to allow Altman a much freer hand."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Lack of oversight on Altman",
+          "quote": "Sam Altman seems awfully powerful and it is unclear that any board would be able to oversee him. The danger is the board becomes a rubber stamp."
+        },
+        {
+          "item": "Potential anti-trust actions against Microsoft",
+          "quote": "There may be good reasons why Microsoft does not have a board seat. It may even be to protect Microsoft from anti-trust actions or conflicts as Microsoft itself has its own AI unit."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Continuation of internal turmoil",
+          "quote": "It (Altman's return) may put an end to the turmoil on the surface for now but there may continue to be deep governance issues that remain."
+        },
+        {
+          "item": "Potential disappointment from Microsoft",
+          "quote": "While he'll (Microsoft CEO Nadella) no doubt be pleased about the fact that order has been restored at OpenAI, in which Microsoft is a major investor, there might be an element of disappointment that he hasn't snapped up the Silicon Valley superstar Altman after all."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Strong team",
+          "quote": "The resilience and strength we have seen from the entire OpenAI team in the past few days has been extraordinary."
+        },
+        {
+          "item": "Microsoft’s involvement",
+          "quote": "Microsoft... had openly supported Altman's return over the weekend."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Daniela Hathorn",
+    "description": "Analyst at Capital.com",
+    "mentions": 1,
+    "wikipedia": {
+      "error": "Error extracting pageId:None of the provided options are a match for \"Daniela Hathorn\"."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Sam Altman returning as CEO of OpenAI",
+          "quote": "OpenAI said on Tuesday it had reached an agreement for Sam Altman to return as CEO days after his ouster."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "The strive for stronger partnership with Microsoft",
+          "quote": "What does seem clear is that Microsoft will now play a much bigger role, that the partnership will become stronger and the two companies more integrated."
+        },
+        {
+          "item": "To achieve significant impact",
+          "quote": "OpenAI has the potential to be one of the most consequential companies in the history of computing."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Microsoft might seek a board seat",
+          "quote": "the tech giant now wants a seat on the new board that will need to be formed over the coming months, as it wants to avoid any further surprises."
+        },
+        {
+          "item": "Restructure with a new board",
+          "quote": "especially given he’ll be supervised under a new board."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Continued partnership with Microsoft",
+          "quote": "This latest boardroom tussle has shown that Altman has the full backing of Microsoft as a person and as long as he remains in charge of OpenAI, and there should not be any negative spillover effects between the partnership of OpenAI and Microsoft."
+        },
+        {
+          "item": "More autonomy for Sam Altman",
+          "quote": "Altman and (Microsoft CEO) Nadella may have pushed to allow Altman a much freer hand."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Lack of oversight on Altman",
+          "quote": "Sam Altman seems awfully powerful and it is unclear that any board would be able to oversee him. The danger is the board becomes a rubber stamp."
+        },
+        {
+          "item": "Potential anti-trust actions against Microsoft",
+          "quote": "There may be good reasons why Microsoft does not have a board seat. It may even be to protect Microsoft from anti-trust actions or conflicts as Microsoft itself has its own AI unit."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Continuation of internal turmoil",
+          "quote": "It (Altman's return) may put an end to the turmoil on the surface for now but there may continue to be deep governance issues that remain."
+        },
+        {
+          "item": "Potential disappointment from Microsoft",
+          "quote": "While he'll (Microsoft CEO Nadella) no doubt be pleased about the fact that order has been restored at OpenAI, in which Microsoft is a major investor, there might be an element of disappointment that he hasn't snapped up the Silicon Valley superstar Altman after all."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Strong team",
+          "quote": "The resilience and strength we have seen from the entire OpenAI team in the past few days has been extraordinary."
+        },
+        {
+          "item": "Microsoft’s involvement",
+          "quote": "Microsoft... had openly supported Altman's return over the weekend."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Thrive Capital",
+    "description": "Investment company and OpenAI shareholder",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "72557062",
+      "name": "Thrive Capital",
+      "extract": "Thrive Capital is an American venture capital firm based in New York City. It focuses on software and internet investments. The firm was founded by Joshua Kushner who is also co-founder of Oscar Health and minority owner of the Memphis Grizzlies.",
+      "description": "Thrive Capital is a New York-based American venture capital firm, founded by Joshua Kushner, specializing in software and internet investments."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Supports OpenAI's integrity and its ability to inspire and lead",
+          "quote": "\"OpenAI has the potential to be one of the most consequential companies in the history of computing. Sam and Greg (Brockman) possess a profound commitment to the company's integrity, and an unmatched ability to inspire and lead.\""
+        },
+        {
+          "item": "Commitment to a favorable outcome for a variety of stakeholders",
+          "quote": "\"We believe this is the best outcome for the company, its employees, those who build on their technologies, and the world at large.\""
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Thrive Capital's main motivation is the potential significance and impact of OpenAI",
+          "quote": "\"OpenAI has the potential to be one of the most consequential companies in the history of computing.\""
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Thrive Capital could continue to back OpenAI, considering its potential influence on computing. The document does not explicitly state other possible actions.",
+          "quote": "\"OpenAI has the potential to be one of the most consequential companies in the history of computing.\""
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Situation with OpenAI leadership resulting in benefits to company, employees, and wider stakeholders",
+          "quote": "\"We believe this is the best outcome for the company, its employees, those who build on their technologies, and the world at large.\""
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "The document does not specifically address scenarios that Thrive Capital would consider bad or unfavorable.",
+          "quote": ""
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "The document does not specific discuss Thrive Capital's main fears and concerns.",
+          "quote": ""
+        }
+      ],
+      "resources": [
+        {
+          "item": "As a shareholder of OpenAI, Thrive Capital's main resource appears to be their potential influence and investment in the company",
+          "quote": "THRIVE CAPITAL, OPENAI SHAREHOLDER"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ipek Ozkardeskaya",
+    "description": "Analyst at Swissquote Bank",
+    "mentions": 1,
+    "wikipedia": {
+      "error": "Error extracting pageId:It appears there is no Wikipedia page for \"Ipek Ozkardeskaya\"."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Sam Altman returning as CEO of OpenAI",
+          "quote": "OpenAI said on Tuesday it had reached an agreement for Sam Altman to return as CEO days after his ouster."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "The strive for stronger partnership with Microsoft",
+          "quote": "What does seem clear is that Microsoft will now play a much bigger role, that the partnership will become stronger and the two companies more integrated."
+        },
+        {
+          "item": "To achieve significant impact",
+          "quote": "OpenAI has the potential to be one of the most consequential companies in the history of computing."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Microsoft might seek a board seat",
+          "quote": "the tech giant now wants a seat on the new board that will need to be formed over the coming months, as it wants to avoid any further surprises."
+        },
+        {
+          "item": "Restructure with a new board",
+          "quote": "especially given he’ll be supervised under a new board."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Continued partnership with Microsoft",
+          "quote": "This latest boardroom tussle has shown that Altman has the full backing of Microsoft as a person and as long as he remains in charge of OpenAI, and there should not be any negative spillover effects between the partnership of OpenAI and Microsoft."
+        },
+        {
+          "item": "More autonomy for Sam Altman",
+          "quote": "Altman and (Microsoft CEO) Nadella may have pushed to allow Altman a much freer hand."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Lack of oversight on Altman",
+          "quote": "Sam Altman seems awfully powerful and it is unclear that any board would be able to oversee him. The danger is the board becomes a rubber stamp."
+        },
+        {
+          "item": "Potential anti-trust actions against Microsoft",
+          "quote": "There may be good reasons why Microsoft does not have a board seat. It may even be to protect Microsoft from anti-trust actions or conflicts as Microsoft itself has its own AI unit."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Continuation of internal turmoil",
+          "quote": "It (Altman's return) may put an end to the turmoil on the surface for now but there may continue to be deep governance issues that remain."
+        },
+        {
+          "item": "Potential disappointment from Microsoft",
+          "quote": "While he'll (Microsoft CEO Nadella) no doubt be pleased about the fact that order has been restored at OpenAI, in which Microsoft is a major investor, there might be an element of disappointment that he hasn't snapped up the Silicon Valley superstar Altman after all."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Strong team",
+          "quote": "The resilience and strength we have seen from the entire OpenAI team in the past few days has been extraordinary."
+        },
+        {
+          "item": "Microsoft’s involvement",
+          "quote": "Microsoft... had openly supported Altman's return over the weekend."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Susannah Streeter",
+    "description": "Head of Money and Markets, Hargreaves Lansdown",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "12750623",
+      "name": "List of current BBC newsreaders and reporters",
+      "extract": "This is a list of newsreaders and reporters currently employed by BBC Television and BBC Radio.\nBBC News employs many presenters and correspondents who appear across television, radio and contribute to BBC Online. BBC News provides television journalism to BBC One bulletins and the rolling news channels BBC News (International) and the BBC News Channel in the United Kingdom. In addition, BBC News runs rolling news network BBC Radio 5 Live and the international BBC World Service. They also contribute to strands across BBC Radio 4 and bulletins on all radio networks. \nThe BBC has over 200 correspondents based both in the United Kingdom and abroad. BBC appointments can be short- or long-term; for example, reporter Peter Bowes revealed on BBC News (broadcast live on 8 September 2020) that Los Angeles has been his home for 25 years.",
+      "description": "The \"List of current BBC newsreaders and reporters\" page outlines all presenters and correspondents working across BBC Television, BBC Radio, and BBC Online, including those appointed domestically and internationally for both short and long-term durations."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "N/A",
+          "quote": "N/A"
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "N/A",
+          "quote": "N/A"
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "N/A",
+          "quote": "N/A"
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "N/A",
+          "quote": "N/A"
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "N/A",
+          "quote": "N/A"
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "N/A",
+          "quote": "N/A"
+        }
+      ],
+      "resources": [
+        {
+          "item": "N/A",
+          "quote": "N/A"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kelvin Wong",
+    "description": "Analyst, Oanda",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "58101185",
+      "name": "AT-1K Raybolt",
+      "extract": "The AT-1K Raybolt (Korean: 현궁 \"Hyeon-gung\", Hanja: 晛弓) is a South Korean man-portable third-generation anti-tank guided missile built by LIG Nex1. It has fire-and-forget capability using an infrared imaging seeker and has a tandem-warhead to defeat explosive reactive armor. The Raybolt has a top attack and direct attack modes. It is the first ATGM to be built by South Korea and entered mass production in June 2017.\nThe Raybolt is positioned by its manufacturer as a competitor and peer with the American FGM-148 Javelin and Israeli Spike-MR ATGMs.The Raybolt was first shown publicly at the Indodefence 2014 exhibition and at the IDEX 2015 exhibition.",
+      "description": "The AT-1K Raybolt is a South Korean third-generation anti-tank guided missile built by LIG Nex1, with fire-and-forget capability, tandem-warhead to defeat explosive reactive armor, and entered mass production in June 2017."
+    }
+  },
+  {
+    "name": "Mak Yuen Teen",
+    "description": "Director of Centre for Investor Protection at National University of Singapore Business School",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "49947626",
+      "name": "Fat Leonard scandal",
+      "extract": "The Fat Leonard scandal is an ongoing investigation and prosecution of corruption within the United States Navy during the 2000s and 2010s. It has involved ship support contractor Glenn Defense Marine Asia (GDMA), a Thai subsidiary of the Glenn Marine Group. The Washington Post called the scandal \"perhaps the worst national-security breach of its kind to hit the Navy since the end of the Cold War.\" The company's chief executive, president, and chairman, Malaysian national Leonard Glenn Francis (\"Fat Leonard\") bribed a large number of uniformed officers of the United States Seventh Fleet with at least a half million dollars in cash, plus travel expenses, luxury items, parties and prostitutes, in return for classified material about the movements of U.S. ships and submarines, confidential contracting information, and information about active law enforcement investigations into Glenn Defense Marine Asia. Francis then \"exploited the intelligence for illicit profit, brazenly ordering his moles to redirect aircraft carriers, ships and subs to ports he controlled in Southeast Asia so he could more easily bilk the Navy for fuel, tugboats, barges, food, water and sewage removal.\" The Navy, through GDMA, even employed divers to search harbors for explosives. He also directed them to author \"Bravo Zulu\" memos, which is an informal term for a letter of commendation from the Navy given to civilians who have performed outstanding services for the Navy, in order to bolster GDMA's credibility for jobs \"well done\".The first activities of the conspiracy were confirmed to have existed in 2006 when Francis recruited numerous Navy personnel to engage in corruption, including directing contracts toward his firm, disfavoring competitors, and inhibiting legitimate fiscal and operational oversight. The initial co-conspirators labeled themselves \"the cool kids\" and \"the wolf pack.\"U.S. federal prosecutors filed criminal charges against 33 individuals in connection with the Fat Leonard scandal. Of those, 22 pleaded guilty: Francis himself, four of his top aides, and 17 Navy officials (specifically, at least ten commissioned officers, two petty officers, one former NCIS special agent, and two civilian Navy contracting officials). Nine others are awaiting trial in U.S. district court in San Diego. Separately, five Navy officers were charged with crimes under the Uniform Code of Military Justice (UCMJ) and were subject to court-martial proceedings. An additional civilian pleaded guilty to a scandal-related crime in a Singapore court.Suffering health problems, Francis was hospitalized and released in March 2018. Rather than returning to the custody of the U.S. Marshals Service, he was granted a medical furlough and at first allowed to stay in San Diego at a private residence owned by one of his physicians, under 24-hour surveillance for which his family paid. At a deposition taken in 2018 in the David A. Morales case, Francis said he was being treated for kidney cancer.On September 4, 2022, Francis escaped home confinement by cutting off his ankle monitor and disappeared. He fled to Mexico, chartered a flight to Cuba, then flew on to Caracas, Venezuela, where he was apprehended, seventeen days after beginning his escape, preparing to board a flight to Russia.",
+      "description": "The Fat Leonard scandal is an ongoing case concerning corruption in the United States Navy throughout the 2000s and 2010s, where contractor Leonard Glenn Francis, aka \"Fat Leonard,\" bribed naval officers for sensitive information, leading to a significant national-security breach."
+    }
+  },
+  {
+    "name": "Victoria Scholar",
+    "description": "Head of Investment, Interactive Investor",
+    "mentions": 1,
+    "wikipedia": {
+      "error": "Error extracting pageId:None of the provided options seem to have a direct connection to Victoria Scholar, Head of Investment at Interactive Investor. It's possible that there is no existing Wikipedia page for this person or role."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Sam Altman returning as CEO of OpenAI",
+          "quote": "OpenAI said on Tuesday it had reached an agreement for Sam Altman to return as CEO days after his ouster."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "The strive for stronger partnership with Microsoft",
+          "quote": "What does seem clear is that Microsoft will now play a much bigger role, that the partnership will become stronger and the two companies more integrated."
+        },
+        {
+          "item": "To achieve significant impact",
+          "quote": "OpenAI has the potential to be one of the most consequential companies in the history of computing."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Microsoft might seek a board seat",
+          "quote": "the tech giant now wants a seat on the new board that will need to be formed over the coming months, as it wants to avoid any further surprises."
+        },
+        {
+          "item": "Restructure with a new board",
+          "quote": "especially given he’ll be supervised under a new board."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Continued partnership with Microsoft",
+          "quote": "This latest boardroom tussle has shown that Altman has the full backing of Microsoft as a person and as long as he remains in charge of OpenAI, and there should not be any negative spillover effects between the partnership of OpenAI and Microsoft."
+        },
+        {
+          "item": "More autonomy for Sam Altman",
+          "quote": "Altman and (Microsoft CEO) Nadella may have pushed to allow Altman a much freer hand."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Lack of oversight on Altman",
+          "quote": "Sam Altman seems awfully powerful and it is unclear that any board would be able to oversee him. The danger is the board becomes a rubber stamp."
+        },
+        {
+          "item": "Potential anti-trust actions against Microsoft",
+          "quote": "There may be good reasons why Microsoft does not have a board seat. It may even be to protect Microsoft from anti-trust actions or conflicts as Microsoft itself has its own AI unit."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Continuation of internal turmoil",
+          "quote": "It (Altman's return) may put an end to the turmoil on the surface for now but there may continue to be deep governance issues that remain."
+        },
+        {
+          "item": "Potential disappointment from Microsoft",
+          "quote": "While he'll (Microsoft CEO Nadella) no doubt be pleased about the fact that order has been restored at OpenAI, in which Microsoft is a major investor, there might be an element of disappointment that he hasn't snapped up the Silicon Valley superstar Altman after all."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Strong team",
+          "quote": "The resilience and strength we have seen from the entire OpenAI team in the past few days has been extraordinary."
+        },
+        {
+          "item": "Microsoft’s involvement",
+          "quote": "Microsoft... had openly supported Altman's return over the weekend."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Greg Brockman",
+    "description": "Co-founder of OpenAI, often associated with Sam Altman",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "73299474",
+      "name": "Greg Brockman",
+      "extract": "Greg Brockman (born November 29, 1987) is an American entrepreneur, investor and software developer who is a co-founder and currently the president of OpenAI. He began his career at Stripe in 2010, upon leaving MIT, and became their CTO in 2013. He left Stripe in 2015 to co-found OpenAI, where he also assumed the role of CTO.",
+      "description": "Greg Brockman is an American entrepreneur, software developer, and co-founder of OpenAI, who formerly held the position of CTO at Stripe."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [
+        {
+          "item": "Commitment to the company's integrity",
+          "quote": "Thrive Capital, OpenAI Shareholder: 'OpenAI has the potential to be one of the most consequential companies in the history of computing. Sam and Greg (Brockman) possess a profound commitment to the company's integrity, and an unmatched ability to inspire and lead.'"
+        }
+      ],
+      "possible_actions": [],
+      "good_scenarios": [
+        {
+          "item": "Uninterrupted collaboration in startup culture",
+          "quote": "Kelvin Wong, Analyst, OANDA: 'Altman and Brockman are also more suited to collaborate in start-up culture given the infancy of AI at this juncture without any red-tape hindrances from an MNC such as Microsoft.'"
+        }
+      ],
+      "bad_scenarios": [],
+      "main_fears": [
+        {
+          "item": "Possible deep governance issues",
+          "quote": "Mak Yuen Teen, Director of Center for Investor Protection at National University of Singapore Business School: 'It (Altman's return) may put an end to the turmoil on the surface for now but there may continue to be deep governance issues that remain.'"
+        }
+      ],
+      "resources": [
+        {
+          "item": "Support from Microsoft and OpenAI team",
+          "quote": "Thrive Capital, OpenAI Shareholder: 'The resilience and strength we have seen from the entire OpenAI team in the past few days has been extraordinary.'"
+        }
+      ]
+    }
+  },
+  {
+    "name": "ChatGPT",
+    "description": "AI language model developed by OpenAI",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "72417803",
+      "name": "ChatGPT",
+      "extract": "ChatGPT (Chat Generative Pre-trained Transformer) is a large language model-based chatbot developed by OpenAI and launched on November 30, 2022, that enables users to refine and steer a conversation towards a desired length, format, style, level of detail, and language. Successive prompts and replies, known as prompt engineering, are considered at each conversation stage as a context.ChatGPT is built upon either GPT-3.5 or GPT-4, both of which are members of OpenAI's proprietary series of generative pre-trained transformer (GPT) models, based on the transformer architecture developed by Google—and is fine-tuned for conversational applications using a combination of supervised and reinforcement learning techniques. ChatGPT was released as a freely available research preview, but due to its popularity, OpenAI now operates the service on a freemium model. It allows users on its free tier to access the GPT-3.5-based version. In contrast, the more advanced GPT-4-based version and priority access to newer features are provided to paid subscribers under the commercial name \"ChatGPT Plus\".\nBy January 2023, it had become what was then the fastest-growing consumer software application in history, gaining over 100 million users and contributing to OpenAI's valuation growing to $29 billion. ChatGPT's release spurred the development of competing products, including Bard, Ernie Bot, LLaMA, Claude, and Grok. Microsoft launched its Bing Chat based on OpenAI's GPT-4. It raised concern among some observers over the potential of ChatGPT and similar programs to displace or atrophy human intelligence, enable plagiarism, or fuel misinformation.\n\n",
+      "description": "ChatGPT, developed by OpenAI, is a language model-based chatbot using GPT-3.5 or GPT-4 models, designed for text conversation with features like refining length, style, and detail level and operates on a freemium model - free users get access to the GPT-3.5 version and paid subscribers get access to the more advanced GPT-4 version under 'ChatGPT Plus'."
+    },
+    "motives": {
+      "message": "The document you provided does not contain specific information about ChatGPT - it's goals, motivations, possible actions, good scenarios, bad scenarios, main fears and resources. Therefore, it's impossible for me to answer the questions you've asked based on this document."
+    }
+  },
+  {
+    "name": "Nadella",
+    "description": "CEO of Microsoft",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "38309941",
+      "name": "Satya Nadella",
+      "extract": "Satya Narayana Nadella (; born 19 August 1967) is an Indian-American business executive. He is the executive chairman and CEO of Microsoft, succeeding Steve Ballmer in 2014 as CEO and John W. Thompson in 2021 as chairman. Before becoming CEO, he was the executive vice president of Microsoft's cloud and enterprise group, responsible for building and running the company's computing platforms.",
+      "description": "Satya Narayana Nadella, born on 19 August 1967, is an Indian-American business executive serving as the executive chairman and CEO of Microsoft since 2014."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "To have a stronger partnership with OpenAI after Altman's return as CEO and to have a greater role in the company.",
+          "quote": "What does seem clear is that Microsoft will now play a much bigger role, that the partnership will become stronger and the two companies more integrated."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Avoiding surprises and issues related to OpenAI's governance that could potentially impact Microsoft.",
+          "quote": "The tech giant now wants a seat on the new board that will need to be formed over the coming months, as it wants to avoid any further surprises."
+        },
+        {
+          "item": "Possibly gaining more control over Altman in order to better align the direction of OpenAI with Microsoft's interests.",
+          "quote": "Altman and (Microsoft CEO) Nadella may have pushed to allow Altman a much freer hand."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Getting a seat on OpenAI's new board for Microsoft.",
+          "quote": "The tech giant now wants a seat on the new board that will need to be formed over the coming months, as it wants to avoid any further surprises."
+        },
+        {
+          "item": "Continue to support Altman's leadership at OpenAI.",
+          "quote": "This latest boardroom tussle has shown that Altman has the full backing of Microsoft as a person and as long as he remains in charge of OpenAI, and there should not be any negative spillover effects between the partnership of OpenAI and Microsoft."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Stabilization at OpenAI after Altman's return as Microsoft is a major investor.",
+          "quote": "While he'll (Microsoft CEO Nadella) no doubt be pleased about the fact that order has been restored at OpenAI, in which Microsoft is a major investor."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Potential governance issues at OpenAI that may affect Microsoft adversely.",
+          "quote": "\"It (Altman's return) may put an end to the turmoil on the surface for now but there may continue to be deep governance issues that remain."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Potential anti-trust actions or conflicts since Microsoft has its own AI unit.",
+          "quote": "There may be good reasons why Microsoft does not have a board seat. It may even be to protect Microsoft from anti-trust actions or conflicts as Microsoft itself has its own AI unit."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Being Microsoft's CEO, access to resources and influence of one of the world's leading tech companies.",
+          "quote": ""
+        }
+      ]
+    }
+  },
+  {
+    "name": "AJ Bell",
+    "description": "Investment management company",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "47861486",
+      "name": "AJ Bell",
+      "extract": "AJ Bell is a British public limited company that provides online investment platforms and stockbroker services. It is listed on the London Stock Exchange and is a constituent of the FTSE 250 Index.",
+      "description": "AJ Bell is a UK public company providing online investment platforms and stockbroker services, listed on the London Stock Exchange as part of the FTSE 250 Index."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": []
+    }
+  },
+  {
+    "name": "Capital.com",
+    "description": "Financial markets trading and investments company",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "38519448",
+      "name": "3G Capital",
+      "extract": "3G Capital is a Brazilian investment firm and private partnership built on an owner-operator approach to investing over a long-term horizon. Founded in 2004, 3G Capital evolved from the investment office of Jorge Paulo Lemann, Carlos Alberto Sicupira, and Marcel Herrmann Telles. 3G Capital is led by Alex Behring, Co-Founder and Co-Managing Partner, and Daniel Schwartz, Co-Managing Partner.The firm is best known for its long-term investments in Anheuser-Busch InBev, Restaurant Brands International (Burger King, Tim Hortons, Firehouse Subs, and Popeyes Louisiana Kitchen), Hunter Douglas, Kraft Heinz as well as partnering with Berkshire Hathaway for its acquisitions.",
+      "description": "3G Capital is a Brazilian investment firm known for its long-term investments in companies like Anheuser-Busch InBev, Restaurant Brands International, and Kraft Heinz, often partnering with Berkshire Hathaway for acquisitions."
+    }
+  },
+  {
+    "name": "Swissquote Bank",
+    "description": "Swiss banking group specialising in the provision of online financial and trading services",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "47979119",
+      "name": "Swissquote",
+      "extract": "Swissquote Group Holding SA is a Swiss banking group specialising in providing online financial and trading services. The Group's shares have been listed on the SIX Swiss Exchange under the ticker symbol “SQN” since 29 May 2000. The Group's headquarters are located in Gland, Switzerland. The Group has 1040 employees as of December 2022.",
+      "description": "Swissquote Group Holding SA is a Swiss online financial and trading services bank, listed on the SIX Swiss Exchange since 2000, with over 1000 employees as of December 2022."
+    }
+  },
+  {
+    "name": "Hargreaves Lansdown",
+    "description": "Financial service company based in Bristol, England",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "9451734",
+      "name": "Hargreaves Lansdown",
+      "extract": "Hargreaves Lansdown plc is a British financial service company based in Bristol, England. It sells funds and shares and related products to retail investors in the United Kingdom. The company is listed on the London Stock Exchange and is a constituent of the FTSE 100 Index.",
+      "description": "Hargreaves Lansdown plc is a UK-based financial service company in Bristol, selling funds, shares, and related products to retail investors, and is listed on the London Stock Exchange."
+    },
+    "motives": {
+      "content": {
+        "description": "The content of the document provided does not include specific information about Hargreaves Lansdown's strategies, motivations, actions, scenarios, fears or resources. The document is mainly centered around the return of Sam Altman as CEO of OpenAI and the associated comments made by different individuals and entities.",
+        "possible_to_answer": false,
+        "reason": "Therefore, it is not possible to provide suitable answers to your questions based on the given document."
+      }
+    }
+  },
+  {
+    "name": "Oanda",
+    "description": "Currency information, foreign exchange services and currency trading technology company",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "4504070",
+      "name": "CVC Capital Partners",
+      "extract": "CVC Capital Partners is a Luxembourg-based private equity and investment advisory firm with approximately US$155 billion of assets under management and approximately €157 billion in secured commitments since inception across American, European and Asian private equity, secondaries and credit funds. As of 31 December 2021, the funds managed or advised by CVC are invested in more than 100 companies worldwide, employing over 450,000 people in numerous countries. CVC was founded in 1981 and, as of 31 March 2022, has over 650 employees working across its network of 25 offices throughout EMEA, Asia and the Americas.In June 2022, CVC was ranked fourth in Private Equity International's PEI 300 ranking of the largest private equity firms in the world, but fell to 15th in the 2023 ranking.",
+      "description": "CVC Capital Partners is a global private equity and investment advisory firm with over $155 billion of managed assets and 650 employees, investing in over 100 companies worldwide as of March 2022."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": [],
+      "document_info": "The provided document doesn't mention CVC Capital Partners, so it isn't possible to answer your questions based on this document. Make sure to provide a document that specifically mentions CVC Capital Partners for more accurate results."
+    }
+  },
+  {
+    "name": "National University of Singapore Business School",
+    "description": "Business school of the National University of Singapore",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "286880",
+      "name": "National University of Singapore",
+      "extract": "The National University of Singapore (NUS) is a national public collegiate and research university in Singapore. Founded in 1905 as the Straits Settlements and Federated Malay States Government Medical School, NUS is the oldest autonomous university in Singapore. It offers degree programmes in disciplines at both the undergraduate and postgraduate levels, including in the sciences, medicine and dentistry, design and environment, law, arts and social sciences, engineering, business, computing, and music.NUS's main campus is located adjacent to the Kent Ridge subzone of Queenstown. The Duke–NUS Medical School is located at the Outram campus. The Bukit Timah campus houses the Faculty of Law and Lee Kuan Yew School of Public Policy.\nNUS's affiliated faculty members and researchers include one Nobel Prize laureate, one Tang Prize laureate, and one Vautrin Lud laureate.",
+      "description": "The National University of Singapore (NUS) is a public research university in Singapore that offers undergraduate and postgraduate degrees in a variety of fields, including sciences, medicine, law, arts, engineering, and business."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [
+        {
+          "item": "Beyond tumult in the AI sector",
+          "quote": "\"It (Altman's return) may put an end to the turmoil on the surface for now but there may continue to be deep governance issues that remain.\""
+        },
+        {
+          "item": "Uncontrolled power and poor oversight",
+          "quote": "\"Sam Altman seems awfully powerful and it is unclear that any board would be able to oversee him. The danger is the board becomes a rubber stamp. Altman and (Microsoft CEO) Nadella may have pushed to allow Altman a much freer hand.\""
+        }
+      ],
+      "resources": [
+        {
+          "item": "Expertise in investor protection",
+          "quote": "MAK YUEN TEEN, DIRECTOR OF CENTER FOR INVESTOR PROTECTION AT NATIONAL UNIVERSITY OF SINGAPORE BUSINss SCHOOL"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Interactive Investor",
+    "description": "UK's biggest flat-fee platform for online investing",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "15108139",
+      "name": "Interactive Investor",
+      "extract": "interactive investor is a subscription-based online investment service in the United Kingdom, founded in 1995. It provides financial information, as well as investment tools. It is the UK's biggest flat-fee investment platform, with (as of 2022) £59 billion of assets under administration and over 400,000 customers. The company is based in Manchester, with offices in London and Leeds. Since 2022 it has been a subsidiary of UK-based investment company Abrdn.",
+      "description": "Interactive Investor is a UK-based online investment platform providing financial information and investment tools, with over £59 billion of assets under administration and over 400,000 customers as of 2022.\n"
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": [],
+      "relevant_quote": {
+        "source": "Victoria Scholar, head of investment at Interactive Investor",
+        "quote": "While he'll (Microsoft CEO Nadella) no doubt be pleased about the fact that order has been restored at OpenAI, in which Microsoft is a major investor, there might be an element of disappointment that he hasn't snapped up the Silicon Valley superstar Altman after all."
+      }
+    }
+  }
+]

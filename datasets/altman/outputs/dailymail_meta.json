@@ -1,0 +1,39 @@
+{
+  "title": "Inside OpenAI's chaotic five days: How CEO Sam Altman was sacked, then snapped up by Microsoft, only for him to return to ChatGPT creators along with a new board",
+  "source": "Daily Mail",
+  "date": "22 November 2023",
+  "authors": [
+    "PAUL FARRELL"
+  ],
+  "link": "https://www.dailymail.co.uk/news/article-12779095/Inside-OpenAIs-chaotic-five-days-CEO-Sam-Altman-sacked-snapped-Microsoft-return-ChatGPT-creators-new-board.html",
+  "relevance_score": 0.9,
+  "relevance_explanation": "This document is highly relevant as it chronicles the unfolding events surrounding Sam Altman’s termination and return to OpenAI, the reactions from various stakeholders, and alterations in the power structure of the company. It provides insight into the motivations and actions of the parties involved as well as the wider impact on the AI industry.",
+  "summary": "OpenAI CEO Sam Altman was dismissed, leading to an employee revolt and a board shake-up. Altman, initially moving to Microsoft, returned as CEO as part of a dramatic five-day saga that involved key figures such as Microsoft CEO Satya Nadella and members of the OpenAI board. The power struggle centered on OpenAI's direction and AI safety, culminating in a restructured board with significant departures.",
+  "events": [
+    "Sam Altman ousted as CEO of OpenAI",
+    "OpenAI employees threatened to follow Altman to Microsoft",
+    "Negotiations over the weekend to bring Altman back",
+    "Announcement of Emmett Shear as interim CEO",
+    "Revelations of a conflict between Altman and board members over AI safety and company direction",
+    "Microsoft's involvement in negotiations",
+    "The departure of several OpenAI employees",
+    "The return of Altman as CEO alongside a new board"
+  ],
+  "entities": [
+    "Sam Altman",
+    "OpenAI",
+    "Microsoft",
+    "Emmett Shear",
+    "Ilya Sutskever",
+    "Helen Toner",
+    "Satya Nadella",
+    "Jakob Pachocki",
+    "Greg Brockman",
+    "Mira Murati",
+    "Larry Summers",
+    "Bret Taylor",
+    "Adam D'Angelo",
+    "Tasha McCauley"
+  ],
+  "document_type": "newspaper article"
+}

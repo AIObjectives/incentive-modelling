@@ -1,0 +1,167 @@
+Title: Timeline of the 106-Hour OpenAI Saga, Altman Will Return, New Board Formed
+Subtitle: Emmett Shear's term as interim OpenAI CEO led him to engineer Altman's return
+Author: BRET KINSELLA
+Date: 20 NOV 2023
+Source: Substack
+Link: https://synthedia.substack.com/p/sam-altman-will-not-return-to-openai
+
+=== 
+
+Sam Altman appeared set to return to OpenAI today after the board that fired him seemed to change course in response to overwhelmingly negative reactions from employees, investors, and a wide variety of befuddled industry professionals. However, talks broke down, and there will be no return. According to The Information, “Altman will not return to the startup he co-founded in 2015, Sutskever told staff. Emmett Shear, co-founder of Amazon-owned video streaming site Twitch, will take over as interim CEO.”
+
+Update 11/22/23: Sam Altman will return to OpenAI after all. More here.
+
+Update 11/20/23: In a surprising twist, Microsoft CEO Satya Nadella posted on LinkedIn just two hours after news of the negotiations broke down that Sam Altman and Greg Brockman would be joining Microsoft.
+
+
+Microsoft now has two big bets in generative AI, and the company has an insurance policy against OpenAI not fulfilling its innovation commitments. Microsoft’s new group will not have an impact overnight, but it will calm the company’s investors and, over time, may become an important alternative. Note that Nadella’s post says, “Sam Altman and Greg Brockman, together with colleagues, will be joining Microsoft.”
+
+The board may have inadvertently created the vehicle for generative AI advancement that they hoped to pull back from. In fact, the situation worsened as 505 of 700 OpenAI employees signed a letter calling on the board to resign. They have all been offered jobs at Microsoft and threatened to leave the OpenAI to continue their work. Sutskever was a signatory to the letter.
+
+Some of you may have focused on your real lives over the weekend, so I have included a timeline of events below. After that, I delve into what it will mean for OpenAI and the industry. Also, this post may be too long for your email, so you may need to click through to get the entire story. Let’s dig in.
+
+Thursday Evening, Nov 16
+Mira Murati, OpenAI CTO, told of Sam Altman’s pending dismissal and her elevation to interim CTO.
+
+Ilya Sutskever, OpenAI chief scientist and co-founder, sends a message and Google Meet link to Altman for a noon PST Friday call.
+
+Friday Afternoon / Evening, Nov 17
+Before the management shake-up went down, and clearly not expecting anything was amiss, Brockman shared the news on X that GPT-4 Turbo took the top spot on the Chatbots Arena LLM leaderboard.
+
+Ilya Sutskever, along with the full board, tells Sam he has been dismissed.
+
+Microsoft was informed of Altman’s dismissal one minute before the announcement went live in a company blog. (Axios)
+
+OpenAI announced that Sam Altman was being dismissed and Greg Brockman would stay with the company but lose his role as board chairman.
+
+The management was then informed of the news.
+
+Altman took to X to express his sentiment upon departing OpenAI.
+
+
+Brockman was next. He let everyone know he quit after hearing the news from Sutskever.
+
+
+Later, Brockman shared more details on X. “At 12:19pm, Greg got a text from Ilya asking for a quick call. At 12:23pm, Ilya sent a Google Meet link. Greg was told that he was being removed from the board (but was vital to the company and would retain his role) and that Sam had been fired. Around the same time, OpenAI published a blog post.”
+
+Microsoft issued a statement supportive of OpenAI. However, it was later reported by Bloomberg that, “Microsoft CEO Satya Nadella was ‘blindsided’ by the news and was furious.”
+
+At an all-hands meeting Friday evening, employees asked Sutskever if he had engineered a palace coup. (The Information)
+
+Three senior AI research scientists announced their resignation. (The Information)
+
+Bloomberg reported that Ilya Sutskever, a company co-founder and chief scientist, led the ouster. The controversy centered on a disagreement over how quickly to commercialize the technology and the steps related to ensuring it does not impact “safety.” (Bloomberg)
+
+Bloomberg indicated the “board members also contended with Altman’s entrepreneurial ambitions. Altman has been looking to raise tens of billions of dollars from Middle Eastern sovereign wealth funds to create an AI chip startup to compete with processors made by Nvidia Corp., according to a person with knowledge of the investment proposal. Altman was courting SoftBank Group Corp. chairman Masayoshi Son for a multibillion-dollar investment in a new company to make AI-oriented hardware in partnership with former Apple designer Jony Ive. Sutskever and his allies on the OpenAI board chafed at Altman’s efforts to raised [sic] funds off of OpenAI’s name, and they harbored concerns that the new businesses might not share the same governance model as OpenAI, the person said.” (Bloomberg)
+
+Bloomberg also disclosed that “A month ago, Sutskever’s responsibilities at the company were reduced, reflecting friction between him and Altman and Brockman. Sutskever later appealed to the board, winning over some members.”
+
+Please consider becoming a free or paid subscriber to Synthedia. Every day, we break down the data, technology, use cases, and strategy driving the generative AI market.
+
+marnette.bruno@gmail.com
+password
+marnette.bruno@gmail.com
+Subscribe
+Saturday Morning, Nov 18
+OpenAI chief operating officer Brad Lightcap shared a memo with company staff saying there was no malfeasance. (Axios)
+
+"Team - after yesterday's announcement, which took us all by surprise, we have had multiple conversations with the board to try to better understand the reasons and process behind their decision. These discussions and options regarding our path forward, are ongoing this morning."
+
+"We can say definitively that the board's decision was not made in response to malfeasance or anything related to our financial, business, safety, or security/privacy practices. This was a breakdown in communication between Sam and the board."
+
+Saturday Afternoon, Nov 18
+The Information reported on rumors from OpenAI insiders that the upcoming funding round led by Thrive Capital at an $86 billion valuation was unlikely to close due to the management shake-up. This was quickly revised as it became likely Altman and Brockman would return.
+
+Tiger Global and Sequoia, key investors in OpenAI, pressured the board to reverse the decision. (The Information)
+
+Semafor reported that only a fraction of Microsoft’s $10 billion investment in OpenAI has been delivered in the form of cash. It is divided into tranches released over time and most of it is in the form of Azure cloud computing credits. If Microsoft were to cut this off, OpenAI’s operations and future product development could be in jeopardy. (Semafor)
+
+The Verge reported that the OpenAI board was actively negotiating with Sam Altman to bring him back as CEO. (The Verge)
+
+Vinod Khosla says Khosla Ventures, the earliest outside investor in OpenAI, said he wanted Altman back.
+
+
+Sam Altman posted on X saying he loves the OpenAI team, and many staffers responded with hearts. This included Mira Murati, Altman’s interim CEO replacement.
+
+
+Jason Kwon, OpenAI’s chief strategy officer, sent a memo to company employees expressing optimism about bringing Altman, Brockman, and the others back. (The Information)
+
+Share
+
+Sunday, Nov 19
+Adam Goldberg, a member of OpenAI’s go-to-market team focused on ChatGPT Enterprise, posts the Uno reverse card on X with no text explanation. Everyone in the pro-Altman camp was optimistic. 🤔
+
+Altman arrives at the OpenAI offices to hammer out negotiations.
+
+
+According to The Information, “Murati told staff Sunday that she and her team were ‘the first to ask the board to reinstate OpenAI to its previous state.’” (The Information)
+
+Bloomberg’s Emily Cheng reported on X that Satya Nadella is leading the negotiations, but there is disagreement over the new board representation.
+
+
+Microsoft may get a board seat or a non-voting board observer seat on the new OpenAI board. According to The Information:
+
+Microsoft CEO Satya Nadella has been personally assisting OpenAI’s interim CEO Mira Murati in the discussions over Altman’s return, the people said. If Altman is unable to return to OpenAI, Microsoft would consider investing in Altman’s new venture, one of the people said.
+
+A key sticking point in later stage negotiations related to the board making a statement that Altman did nothing wrong, according to Emily Chang. However, the negotiations may have just been a stalling tactic that enabled Sutskever and the board to marshall supporters and identify an interim CEO who would instill more stakeholder confidence.
+
+The decision was finalized as “Sutskever, who was responsible for the company’s key technical breakthroughs, said he and the three other board members who removed Altman stand by their decision as the ‘only path’ to defend the company’s mission. He said Altman’s behavior and board interactions undermined its ability to supervise the company’s development of artificial intelligence.” (The Information)
+
+OpenAI’s board approached Anthropic’s co-founder and CEO, Dario Amodei, about joining the company as CEO or engineering a merger of the two generative AI powerhouses. GitHub’s former CEO Nat Friedman and Scale AI CEO Alex Wang were also approached. All three declined. (The Information)
+
+Emmett Shear, the co-founder of Twitch, was named interim CEO. It is unclear whether Mira Murati will return to her previous role as CTO. “Shear is known as an outspoken member of the ‘safety’ side of AI discourse. He's said earlier this year in an interview that its existential risk should make you ‘shit your pants,’ and has talked about AI safety on X, the social media site formerly known as Twitter, as being like navigating "the creation of an alien god." (Forbes)
+
+Monday, Nov 20
+Satya Nadella announced on X and LinkedIn that “Sam Altman and Greg Brockman, together with colleagues, will be joining Microsoft to lead a new advanced AI research team.”
+
+After recognizing that the episode inflicted harm on OpenAI that may have been avoidable, Sutskever took to X to apologize for his role in the fiasco. Does this suggest that the main protagonist was not Sutskever but another board member? This is plausible. Once Sutskever agreed to support the move, he was destined to be the spokesman for the board because of his position as an OpenAI co-founder and a member of the executive management team. Altman followed this post with hearts.
+
+
+
+According to a post on X by Kara Swisher, 505 of 700 employees have demanded the board resign or they plan to depart the company. Ilya Sutskever’s signature on the letter is important. It suggests he wanted to work something out to reverse the original board action but could not get the board to go along. The removal of Brockman and Altman from the board meant he had fewer allies to work with.
+
+
+By Monday evening, letter signatories totaled more than 700 of 770 total employees. (The Information)
+
+Synthedia published the first comprehensive analysis of OpenAI board member Adam D’Angelos’s apparent conflict of interest. (Synthedia)
+
+News of Altman’s dispute with board member Helen Toner about research she published praising Anthropic’s approach to safety at the expense of OpenAI’s reputation is leaked to the media. (The New York Times)
+
+Tuesday 11/21
+OpenAI announces an agreement in principle for Sam Altman to return as CEO and appoints a new three-person oversight board. The full story behind the reversal is here.
+
+
+The Elephant in the Room
+What precipitated this? There is speculation that OpenAI has made a new technical breakthrough that worried some board members from an alignment (i.e., safety) perspective. Altman and Brockman were impressed and unconcerned about integrating it into the product. Sutskever, according to Bloomberg’s reporting, was displeased.
+
+Comments by Sam Altman at the Cambridge Union two weeks ago may support this theory. In response to an audience question about the path to artificial general intelligence (AGI), Altman commented that he believed large language models would progress further, but he did not believe they were a path to AGI.
+
+Most of the speculation is that the breakthrough involves GPT-5, which may be in early testing. Sutskever believes the new capabilities are moving more quickly toward artificial general intelligence (AGI) or superintelligence.
+
+The Economist nailed the real story behind the story Sunday.
+
+The Sam Altman drama points to a deeper split in the tech world. Doomers and boomers are fighting for AI dominance.
+
+On one side are the “doomers”, who believe that, left unchecked, ai poses an existential risk to humanity and hence advocate stricter regulations. Opposing them are “boomers”, who play down fears of an ai apocalypse and stress its potential to turbocharge progress. The camp that proves more influential could either encourage or stymie tighter regulations, which could in turn determine who will profit most from ai in the future.
+
+Granted, it is hard to place Altman in the “boomers” camp. He has actively lobbied the U.S. government to regulate AI. It might be more accurate to say Ilya Sutskever is an extreme “doomer” along with Elon Musk, Geoff Hinton, and Emmett Shear, while Altman is a moderate “doomer.” Most investors in this saga are in the “boomer” camp.
+
+The Fallout
+This fallout is harder to predict, but it will be a difficult period. Many resignations by employees loyal to Altman and Brockman are expected to follow the email from Sutskever to OpenAI staff on Sunday evening. In fact, 85% of company personnel have threatened to leave. That will could lead to service disruption and will almost certainly slow product and feature introductions. Plus, the overall pace of activity will be hindered as new executives are brought in to fill the roles of departing staff. It is a gift to all of OpenAI’s competitors.
+
+Every company using OpenAI or planning to will also need to reconsider their options. They can still get access to OpenAI’s API and a stable instance of the solutions through Azure OpenAI Service, but there will surely be concern that OpenAI may not be as aggressive around new feature introductions in the future because of “safety” concerns. The challenge with that term is everyone has their own definition, and Sutskever may be biased toward more constraint than Altman or the desires of key customers. Customers who fear falling behind their competitors using other generative AI solutions may choose an alternative.
+
+Altman will almost certainly emerge from this with a well-funded new company with a strong lineup of technical staff that want to join him and Greg Brockman. The OpenAI we know today was seven years in the making, so the venture will not be an effective competitor overnight. However, X.ai has shown how quickly a new team that already knows what they are doing can build a credible solution. Altman won’t have Sutskever to lean on for technical skill, but he should have top-notch researchers.
+
+The bigger challenge for Altman’s new venture will be that it will arrive as just another competitor to OpenAI. It will not have ChatGPT’s 100 million weekly active users or 18,000 corporate users through Azure. It will not have all of the multimodal models OpenAI has assembled. That type of progress will take time and might never be achieved. OpenAI achieved its current position through product leadership, savvy marketing, and momentum that came from creating a new market. Everything is different now. But, he has proven to be a savvy executive. It may still work.
+
+Satya Nadella would have preferred the incident never happened. His strategy is so dependent on OpenAI at the moment that he will need to double his efforts to make sure the company delivers on its near-term commitments. However, I suspect Microsoft will immediately look to hedge its bets to have a fallback option. That may even involve curtailing its past funding commitment to OpenAI. Some of that freed-up cash may go to Altman’s new venture. Update: Microsoft moved quickly and simply hired the OpenAI team to start its own program. In fact, it may get a lot of the team quickly if the OpenAI board doesn’t resign. Over 500 staffers have threatened to resign.
+
+The bigger issue will be OpenAI’s funding situation. I suspect they will close a funding round soon to help establish confidence in the newly reorganized team. The valuation may be lower than what Sam and Greg could have commanded, but that may fit with Sutskever’s ambitions. I no longer see any way for OpenAI to raise new funding without the board’s resignation and new management that can instill confidence.
+
+Ilya Sutskever is now the sole remaining co-founder of OpenAI. Regardless of who the CEO is, Sutskever will be the company's central figure.
+
+The company will emerge weaker from this episode and that may be fine with Sutskever and the board. Their focus on “safety” is entirely compatible with less growth, but it will be accompanied by less influence. OpenAI may still be strong and even dominate the LLM market for some time. However, the rift will have lasting consequences. It will not have the same ability to control the market narrative. The company’s influence will be based primarily on its ability to lead in the innovation department, which may be harder to accomplish with a smaller team and fewer resources. Team and resources are two ingredients that Altman will not have to worry about.
+
+Two weeks ago, it looked like OpenAI was about to crush its competitors by making it harder for them to get any breathing space. OpenAI still has many advantages, but the market is now open for some aggressive moves. The wild ride of generative AI is about to get wilder.
+

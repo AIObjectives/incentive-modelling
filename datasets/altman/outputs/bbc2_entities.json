@@ -1,0 +1,774 @@
+[
+  {
+    "name": "Sam Altman",
+    "description": "co-founder and ex-boss of OpenAI",
+    "mentions": 11,
+    "wikipedia": {
+      "id": "22476815",
+      "name": "Sam Altman",
+      "extract": "Samuel Harris Altman (; AWLT-mən; born April 22, 1985) is an American entrepreneur and investor, who has been the CEO of OpenAI since 2019 (he was briefly fired and reinstated in November 2023). Prior to OpenAI, Altman was president of Y Combinator from 2014 to 2019.\n\n",
+      "description": "Samuel Harris Altman, born April 22, 1985, is an American entrepreneur and investor, currently serving as the CEO of OpenAI, and was previously the president of Y Combinator from 2014 to 2019."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Returning to OpenAI",
+          "quote": "\"I am looking forward to returning to OpenAI,\" Mr Altman said in a post on X, formerly Twitter."
+        },
+        {
+          "item": "Keeping the OpenAI team and its mission together",
+          "quote": "\"I love OpenAI, and everything I've done over the past few days has been in service of keeping this team and its mission together."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "His love for OpenAI and its mission",
+          "quote": "He added: \"I love OpenAI, and everything I've done over the past few days has been in service of keeping this team and its mission together."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Take a leading role in Microsoft's new advanced AI research team",
+          "quote": "Microsoft, which uses OpenAI technology in many of its products - and is its biggest investor - then offered Mr Altman a job leading \"a new advanced AI research team\" at the tech giant."
+        },
+        {
+          "item": "Return as the boss of OpenAI",
+          "quote": "Then on Wednesday, OpenAI said it had agreed Mr Altman's return to the tech company in principle, and that it would partly reconstitute the board of directors that had dismissed him."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Reinstatement as the head of OpenAI",
+          "quote": "Then on Wednesday, OpenAI said it had agreed Mr Altman's return to the tech company in principle, and that it would partly reconstitute the board of directors that had dismissed him."
+        },
+        {
+          "item": "Maintaining and leading the OpenAI team",
+          "quote": "\"I love OpenAI, and everything I've done over the past few days has been in service of keeping this team and its mission together."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Mass resignations from OpenAI staff",
+          "quote": "Mr Altman's sacking on Friday astonished industry watchers and led to staff threatening mass resignations unless he was reinstated."
+        },
+        {
+          "item": "Damage to the reputation of OpenAI",
+          "quote": "Others, though, suggest the episode has been damaging to OpenAI."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Losing the faith of the OpenAI team",
+          "quote": "The letter stated that Microsoft had assured them that there were jobs for all OpenAI staff if they wanted to join the company, with Microsoft later confirming it would match their existing pay."
+        },
+        {
+          "item": "Loss of confidence from the board",
+          "quote": "The battle at the top of OpenAI began when the then board announced it was firing Mr Altman, saying it had \"lost confidence\" in his leadership."
+        }
+      ],
+      "resources": [
+        {
+          "item": "The backing of over 700 staff from OpenAI",
+          "quote": "Whatever the explanation, it was clear that OpenAI staff were deeply unhappy - more-than-700 of them signed an open letter threatening to leave unless the board resigned."
+        },
+        {
+          "item": "Potential job offer from Microsoft",
+          "quote": "Microsoft, which uses OpenAI technology in many of its products - and is its biggest investor - then offered Mr Altman a job leading \"a new advanced AI research team\" at the tech giant."
+        }
+      ]
+    }
+  },
+  {
+    "name": "OpenAI",
+    "description": "An artificial intelligence company",
+    "mentions": 10,
+    "wikipedia": {
+      "id": "48795986",
+      "name": "OpenAI",
+      "extract": "OpenAI is an American artificial intelligence (AI) research organization consisting of the non-profit OpenAI, Inc. registered in Delaware and its for-profit subsidiary OpenAI Global, LLC. OpenAI researches artificial intelligence with the declared intention of developing \"safe and beneficial\" artificial general intelligence, which it defines as \"highly autonomous systems that outperform humans at most economically valuable work\". OpenAI has also developed several large language models, such as ChatGPT and GPT-4, as well as advanced image generation models like DALL-E 3, and in the past published open-source models.The organization was founded in December 2015 by Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston, John Schulman, Pamela Vagata, and Wojciech Zaremba, with Sam Altman and Elon Musk serving as the initial board members. Microsoft provided OpenAI Global LLC with a $1 billion investment in 2019 and a $10 billion investment in 2023, with a significant portion of the investment in the form of compute resources on Microsoft's Azure cloud service.On November 17, 2023, the board removed Altman as CEO, while Brockman was removed as chairman and then resigned as president. Four days later, both returned after negotiations with the board, and most of the board members resigned. The new initial board included former Salesforce co-CEO Bret Taylor as chairman. OpenAI also announced that Microsoft would have a non-voting board seat at OpenAI.",
+      "description": "OpenAI is an American AI research organization, focusing on developing \"safe and beneficial\" artificial general intelligence and producing large language and image generation models, funded by significant investments by Microsoft."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Creation of safe AI",
+          "quote": "The mission to create safe artificial general intelligence that benefits all of humanity"
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Benefit humanity",
+          "quote": "The mission to create \"safe artificial general intelligence that benefits all of humanity\""
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Board reconstitution",
+          "quote": "OpenAI said it had agreed Mr Altman's return to the tech company in principle, and that it would partly reconstitute the board of directors that had dismissed him"
+        },
+        {
+          "item": "Develop new AI technologies",
+          "quote": "OpenAI which - by creating the chatbot ChatGPT - became arguably the most important AI firm in the world"
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Return of Mr. Altman",
+          "quote": "Sam Altman will return as boss just days after he was fired by the board, the firm has said."
+        },
+        {
+          "item": "Staff unity",
+          "quote": "We're back - and we'll be better than ever"
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Loss of confidence in leadership",
+          "quote": "The then board announced it was firing Mr Altman, saying it had lost confidence in his leadership"
+        },
+        {
+          "item": "Potential staff walkout",
+          "quote": "More-than-700 of them signed an open letter threatening to leave unless the board resigned"
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Reputation damage",
+          "quote": "These episodes have been damaging to OpenAI which became arguably the most important AI firm in the world"
+        },
+        {
+          "item": "Uncertainty in leadership",
+          "quote": "The upheaval of the past few days has raised questions about how a group of just four people could make decisions that have rocked a multi-billion dollar technology business"
+        }
+      ],
+      "resources": [
+        {
+          "item": "Technological capabilities",
+          "quote": "One project, Be My Eyes, worked with the firm to develop an AI-powered assistant for blind and partially-sighted people."
+        },
+        {
+          "item": "Funding",
+          "quote": "Microsoft, which uses OpenAI technology in many of its products - and is its biggest investor"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Adam D'Angelo",
+    "description": "non-employee board member at OpenAI",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "28125485",
+      "name": "Adam D'Angelo",
+      "extract": "Adam D'Angelo (born August 21, 1984) is an American internet entrepreneur. He is best known for his role as the co-founder and CEO of Quora, based in Mountain View, California.",
+      "description": "Adam D'Angelo is an American internet entrepreneur, best known as the co-founder and CEO of Quora."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Influence as a board member of OpenAI",
+          "quote": "The decision was made by the three non-employee board members, Adam D'Angelo, Tasha McCauley and Helen Toner, and a third co-founder and the firm's chief scientist Ilya Sutskever."
+        },
+        {
+          "item": "Access to notable professional contacts",
+          "quote": "Former Salesforce co-CEO Bret Taylor and former US treasury secretary Larry Summers will join current director Adam D'Angelo, OpenAI said."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Tasha McCauley",
+    "description": "non-employee board member at OpenAI",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "48795986",
+      "name": "OpenAI",
+      "extract": "OpenAI is an American artificial intelligence (AI) research organization consisting of the non-profit OpenAI, Inc. registered in Delaware and its for-profit subsidiary OpenAI Global, LLC. OpenAI researches artificial intelligence with the declared intention of developing \"safe and beneficial\" artificial general intelligence, which it defines as \"highly autonomous systems that outperform humans at most economically valuable work\". OpenAI has also developed several large language models, such as ChatGPT and GPT-4, as well as advanced image generation models like DALL-E 3, and in the past published open-source models.The organization was founded in December 2015 by Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston, John Schulman, Pamela Vagata, and Wojciech Zaremba, with Sam Altman and Elon Musk serving as the initial board members. Microsoft provided OpenAI Global LLC with a $1 billion investment in 2019 and a $10 billion investment in 2023, with a significant portion of the investment in the form of compute resources on Microsoft's Azure cloud service.On November 17, 2023, the board removed Altman as CEO, while Brockman was removed as chairman and then resigned as president. Four days later, both returned after negotiations with the board, and most of the board members resigned. The new initial board included former Salesforce co-CEO Bret Taylor as chairman. OpenAI also announced that Microsoft would have a non-voting board seat at OpenAI.",
+      "description": "OpenAI is an American AI research organization, focusing on developing \"safe and beneficial\" artificial general intelligence and producing large language and image generation models, funded by significant investments by Microsoft."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Creation of safe AI",
+          "quote": "The mission to create safe artificial general intelligence that benefits all of humanity"
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Benefit humanity",
+          "quote": "The mission to create \"safe artificial general intelligence that benefits all of humanity\""
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Board reconstitution",
+          "quote": "OpenAI said it had agreed Mr Altman's return to the tech company in principle, and that it would partly reconstitute the board of directors that had dismissed him"
+        },
+        {
+          "item": "Develop new AI technologies",
+          "quote": "OpenAI which - by creating the chatbot ChatGPT - became arguably the most important AI firm in the world"
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Return of Mr. Altman",
+          "quote": "Sam Altman will return as boss just days after he was fired by the board, the firm has said."
+        },
+        {
+          "item": "Staff unity",
+          "quote": "We're back - and we'll be better than ever"
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Loss of confidence in leadership",
+          "quote": "The then board announced it was firing Mr Altman, saying it had lost confidence in his leadership"
+        },
+        {
+          "item": "Potential staff walkout",
+          "quote": "More-than-700 of them signed an open letter threatening to leave unless the board resigned"
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Reputation damage",
+          "quote": "These episodes have been damaging to OpenAI which became arguably the most important AI firm in the world"
+        },
+        {
+          "item": "Uncertainty in leadership",
+          "quote": "The upheaval of the past few days has raised questions about how a group of just four people could make decisions that have rocked a multi-billion dollar technology business"
+        }
+      ],
+      "resources": [
+        {
+          "item": "Technological capabilities",
+          "quote": "One project, Be My Eyes, worked with the firm to develop an AI-powered assistant for blind and partially-sighted people."
+        },
+        {
+          "item": "Funding",
+          "quote": "Microsoft, which uses OpenAI technology in many of its products - and is its biggest investor"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Helen Toner",
+    "description": "non-employee board member at OpenAI",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "75380868",
+      "name": "Helen Toner",
+      "extract": "Helen Toner is an Australian researcher and former board member of OpenAI.",
+      "description": "Helen Toner is an Australian researcher and ex-board member at OpenAI."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Position as a board member at OpenAI.",
+          "quote": "The decision was made by the three non-employee board members, Adam D'Angelo, Tasha McCauley and Helen Toner, and a third co-founder and the firm's chief scientist Ilya Sutskever."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ilya Sutskever",
+    "description": "chief scientist and third co-founder of OpenAI",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "51097862",
+      "name": "Ilya Sutskever",
+      "extract": "Ilya Sutskever  (Hebrew: איליה סוצקבר; Russian: Илья Суцкевер; /ilja su:ʦkɪvər/ born 1985/86) is a computer scientist working in machine learning. He is a co-founder and Chief Scientist at OpenAI.He has made several major contributions to the field of deep learning. In 2023, Sutskever and the OpenAI board fired CEO Sam Altman, who returned a week later. He is the co-inventor, with Alex Krizhevsky and Geoffrey Hinton, of AlexNet, a convolutional neural network. Sutskever is also one of the many co-authors of the AlphaGo paper.",
+      "description": "Ilya Sutskever is a renowned computer scientist and co-founder of OpenAI who has made significant contributions to deep learning, including the co-invention of AlexNet, a convolutional neural network."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [
+        {
+          "item": "Sign the staff letter calling on the board to reverse course",
+          "quote": "But on Monday Mr Sutskever apologised on X, and signed the staff letter calling on the board to reverse course."
+        }
+      ],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Influence as a co-founder and chief scientist at OpenAI",
+          "quote": "The decision was made by the three non-employee board members, Adam D'Angelo, Tasha McCauley and Helen Toner, and a third co-founder and the firm's chief scientist Ilya Sutskever."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Greg Brockman",
+    "description": "co-founder of OpenAI",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "73299474",
+      "name": "Greg Brockman",
+      "extract": "Greg Brockman (born November 29, 1987) is an American entrepreneur, investor and software developer who is a co-founder and currently the president of OpenAI. He began his career at Stripe in 2010, upon leaving MIT, and became their CTO in 2013. He left Stripe in 2015 to co-found OpenAI, where he also assumed the role of CTO.",
+      "description": "Greg Brockman is an American entrepreneur, software developer, and co-founder of OpenAI, who formerly held the position of CTO at Stripe."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [
+        {
+          "item": "Return to OpenAI after resignation",
+          "quote": "In a post on X, Mr Brockman also said he would be returning to the firm."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Reinstatement of Sam Altman as boss of OpenAI",
+          "quote": "Emmett Shear, who had been appointed OpenAI's interim chief executive, said he was 'deeply pleased' by Mr Altman's return after about '72 very intense hours of work'."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Disruption and instability in OpenAI",
+          "quote": "Last week, the board decided to remove Mr Altman, which led to co-founder Greg Brockman's resignation, sending the star artificial intelligence (AI) company into chaos."
+        }
+      ],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Support from the OpenAI team",
+          "quote": "Many staff, posting online, have been enthusiastic about the development: 'We're back - and we'll be better than ever', wrote employee Cory Decareaux on Linkedin."
+        },
+        {
+          "item": "Technological know-how and experience",
+          "quote": "Greg Brockman is...co-founder of OpenAI, who formerly held the position of CTO at Stripe."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Microsoft",
+    "description": "A multinational technology company",
+    "mentions": 3,
+    "wikipedia": {
+      "id": "19001",
+      "name": "Microsoft",
+      "extract": "Microsoft Corporation is an American multinational technology corporation headquartered in Redmond, Washington. Microsoft's best-known software products are the Windows line of operating systems, the Microsoft 365 suite of productivity applications, and the Edge web browser. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. Microsoft ranked No. 14 in the 2022 Fortune 500 rankings of the largest United States corporations by total revenue; it was the world's largest software maker by revenue as of 2022. It is considered one of the Big Five American information technology companies, alongside Alphabet (parent company of Google), Amazon, Apple, and Meta.\nMicrosoft was founded by Bill Gates and Paul Allen on April 4, 1975, to develop and sell BASIC interpreters for the Altair 8800. It rose to dominate the personal computer operating system market with MS-DOS in the mid-1980s, followed by Windows. The company's 1986 initial public offering (IPO) and subsequent rise in its share price created three billionaires and an estimated 12,000 millionaires among Microsoft employees. Since the 1990s, it has increasingly diversified from the operating system market and has made several corporate acquisitions, the largest being the acquisition of Activision Blizzard for $68.7 billion in October 2023, followed by its acquisition of LinkedIn for $26.2 billion in December 2016, and its acquisition of Skype Technologies for $8.5 billion in May 2011.As of 2015, Microsoft is market-dominant in the IBM PC compatible operating system market and the office software suite market, although it has lost the majority of the overall operating system market to Android. The company also produces a wide range of other consumer and enterprise software for desktops, laptops, tabs, gadgets, and servers, including Internet search (with Bing), the digital services market (through MSN), mixed reality (HoloLens), cloud computing (Azure), and software development (Visual Studio).\nSteve Ballmer replaced Gates as CEO in 2000 and later envisioned a \"devices and services\" strategy. This unfolded with Microsoft acquiring Danger Inc. in 2008, entering the personal computer production market for the first time in June 2012 with the launch of the Microsoft Surface line of tablet computers, and later forming Microsoft Mobile through the acquisition of Nokia's devices and services division. Since Satya Nadella took over as CEO in 2014, the company has scaled back on hardware and instead focused on cloud computing, a move that helped the company's shares reach their highest value since December 1999. Under Nadella's direction, the company has also heavily expanded its gaming business to support the Xbox brand, establishing the Microsoft Gaming division in 2022, dedicated to operating Xbox in addition to its three subsidiaries (publishers). Microsoft Gaming is the third-largest gaming company in the world by revenue as of 2023.Earlier dethroned by Apple in 2010, in 2018, Microsoft reclaimed its position as the most valuable publicly traded company in the world. In April 2019, Microsoft reached a trillion-dollar market cap, becoming the third U.S. public company to be valued at over $1 trillion after Apple and Amazon, respectively. As of 2023, Microsoft has the third-highest global brand valuation.\nMicrosoft has been criticized for its monopolistic practices and the company's software has been criticized for problems with ease of use, robustness, and security.",
+      "description": "Microsoft Corporation, an American multinational headquartered in Redmond, Washington, is known for software products including the Windows operating systems and Microsoft 365 applications, along with hardware products like Xbox consoles and Surface personal computers, and is globally recognized as one of the biggest revenue-earning software makers and an influential entity among the Big Five IT companies in the US."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [
+        {
+          "item": "Better governance of AI technology",
+          "quote": "Microsoft boss Satya Nadella said the firm was 'encouraged by the changes to the OpenAI board'... 'We believe this is a first essential step on a path to more stable, well-informed, and effective governance.'"
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Offering jobs to OpenAI staff",
+          "quote": "The letter stated that Microsoft had assured them that there were jobs for all OpenAI staff if they wanted to join the company, with Microsoft later confirming it would match their existing pay."
+        },
+        {
+          "item": "Leading AI research team within Microsoft",
+          "quote": "Microsoft, which uses OpenAI technology in many of its products - and is its biggest investor - then offered Mr Altman a job leading 'a new advanced AI research team' at the tech giant."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "OpenAI maintaining stability and governance",
+          "quote": "Microsoft boss Satya Nadella said the firm was 'encouraged by the changes to the OpenAI board'."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Instability within OpenAI",
+          "quote": "But the upheaval of the past few days has raised questions about how a group of just four people could make decisions that have rocked a multi-billion dollar technology business."
+        }
+      ],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Investment in OpenAI",
+          "quote": "Microsoft, which uses OpenAI technology in many of its products - and is its biggest investor"
+        },
+        {
+          "item": "Possible employment opportunities for OpenAI staff",
+          "quote": "The letter stated that Microsoft had assured them that there were jobs for all OpenAI staff if they wanted to join the company, with Microsoft later confirming it would match their existing pay."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bret Taylor",
+    "description": "Former Salesforce co-CEO",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "24401213",
+      "name": "Bret Taylor",
+      "extract": "Bret Steven Taylor (born 1980) is an American computer programmer and entrepreneur. He is most notable for leading the team that co-created Google Maps and his tenures as the CTO of Facebook (now Meta Platforms), as the chairman of Twitter, Inc.'s board of directors prior to its acquisition by Elon Musk, and as the co-CEO of Salesforce (alongside co-founder Marc Benioff). Taylor was additionally one of the founders of FriendFeed and the creator of Quip. Since November 2023, he is chairman of OpenAI.",
+      "description": "Bret Steven Taylor is an American computer programmer notable for co-creating Google Maps, serving as the CTO of Facebook, chairman of Twitter, Inc., co-CEO of Salesforce, and he is currently the chairman of OpenAI as of November 2023.\n"
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [
+        {
+          "item": "Joining the board of OpenAI",
+          "quote": "Former Salesforce co-CEO Bret Taylor and former US treasury secretary Larry Summers will join current director Adam D'Angelo, OpenAI said."
+        }
+      ],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": []
+    }
+  },
+  {
+    "name": "Larry Summers",
+    "description": "former US treasury secretary",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "206211",
+      "name": "Lawrence Summers",
+      "extract": "Lawrence Henry Summers (born November 30, 1954) is an American economist who served as the 71st United States Secretary of the Treasury from 1999 to 2001 and as director of the National Economic Council from 2009 to 2010. He also served as president of Harvard University from 2001 to 2006, where he is the Charles W. Eliot university professor and director of the Mossavar-Rahmani Center for Business and Government at Harvard Kennedy School. In November 2023, Summers joined the board of directors of artificial general intelligence company OpenAI.Summers became a professor of economics at Harvard University in 1983. He left Harvard in 1991, working as the Chief Economist of the World Bank from 1991 to 1993. In 1993, Summers was appointed Under Secretary for International Affairs of the United States Department of the Treasury under President Bill Clinton's administration. In 1995, he was promoted to Deputy Secretary of the Treasury under his long-time political mentor Robert Rubin. In 1999, he succeeded Rubin as Secretary of the Treasury. While working for the Clinton administration, Summers played a leading role in the American response to the 1994 economic crisis in Mexico, the 1997 Asian financial crisis, and the Russian financial crisis. He was also influential in the Harvard Institute for International Development and American-advised privatization of the economies of the post-Soviet states, and in the deregulation of the U.S financial system, including the repeal of the Glass-Steagall Act.\nFollowing the end of Clinton's term, Summers served as the 27th president of Harvard University from 2001 to 2006. Summers resigned as Harvard's president in the wake of a no-confidence vote by Harvard faculty, which resulted in large part from Summers's conflict with Cornel West, financial conflict of interest questions regarding his relationship with Andrei Shleifer, and a 2005 speech in which he offered three reasons for the under-representation of women in science and engineering, including the possibility that there exists a \"different availability of aptitude at the high end\", in addition to patterns of discrimination and socialization.After his departure from Harvard, Summers worked as a managing partner at the hedge fund D. E. Shaw & Co. Summers rejoined public service during the Obama administration, serving as the Director of the White House United States National Economic Council for President Barack Obama from January 2009 until November 2010, where he emerged as a key economic decision-maker in the Obama administration's response to the Great Recession.\n\n",
+      "description": "Lawrence Henry Summers is a renowned American economist who has served as the 71st United States Secretary of the Treasury, director of the National Economic Council, and president of Harvard University, and in 2023, joined the board of directors of artificial general intelligence company OpenAI."
+    }
+  },
+  {
+    "name": "Emmett Shear",
+    "description": "interim chief executive of OpenAI",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "33627170",
+      "name": "Emmett Shear",
+      "extract": "Emmett Shear (born 1983) is an American Internet entrepreneur and investor. He is the co-founder of live video platform Justin.tv. He served as the chief executive officer of Twitch when it was spun off from Justin.tv until March 2023. In 2011, Shear was appointed as a part-time partner at venture capital firm Y Combinator. In November 2023, he briefly served as interim CEO of OpenAI.\n\n",
+      "description": "Emmett Shear, born 1983, is an American Internet entrepreneur and investor, known as the co-founder of Justin.tv and former CEO of Twitch, and for his brief tenure as interim CEO of OpenAI in 2023."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [
+        {
+          "item": "Maintaining OpenAI's team and mission",
+          "quote": "Emmett Shear, who had been appointed OpenAI's interim chief executive, said he was 'deeply pleased' by Mr Altman's return after about '72 very intense hours of work'."
+        }
+      ],
+      "possible_actions": [],
+      "good_scenarios": [
+        {
+          "item": "Return of Sam Altman as OpenAI boss",
+          "quote": "Emmett Shear, who had been appointed OpenAI's interim chief executive, said he was 'deeply pleased' by Mr Altman's return after about '72 very intense hours of work'."
+        }
+      ],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Role as interim CEO of OpenAI",
+          "quote": "Emmett Shear, who had been appointed OpenAI's interim chief executive..."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Satya Nadella",
+    "description": "CEO of Microsoft",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "38309941",
+      "name": "Satya Nadella",
+      "extract": "Satya Narayana Nadella (; born 19 August 1967) is an Indian-American business executive. He is the executive chairman and CEO of Microsoft, succeeding Steve Ballmer in 2014 as CEO and John W. Thompson in 2021 as chairman. Before becoming CEO, he was the executive vice president of Microsoft's cloud and enterprise group, responsible for building and running the company's computing platforms.",
+      "description": "Satya Narayana Nadella, born on 19 August 1967, is an Indian-American business executive serving as the executive chairman and CEO of Microsoft since 2014."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [
+        {
+          "item": "Changes to the OpenAI board leading to more effective governance",
+          "quote": "Microsoft boss Satya Nadella said the firm was \"encouraged by the changes to the OpenAI board\". \"We believe this is a first essential step on a path to more stable, well-informed, and effective governance.\""
+        }
+      ],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Microsoft's influence in OpenAI",
+          "quote": "Microsoft, which uses OpenAI technology in many of its products - and is its biggest investor - then offered Mr Altman a job leading \"a new advanced AI research team\" at the tech giant."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Cory Decareaux",
+    "description": "Employee at OpenAI",
+    "mentions": 1,
+    "wikipedia": {
+      "error": "Error extracting pageId:It appears that there is no Wikipedia page for \"Cory Decareaux\"."
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Returning to OpenAI",
+          "quote": "\"I am looking forward to returning to OpenAI,\" Mr Altman said in a post on X, formerly Twitter."
+        },
+        {
+          "item": "Maintain the mission and team of OpenAI",
+          "quote": "\"I love OpenAI, and everything I've done over the past few days has been in service of keeping this team and its mission together.\""
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Love for OpenAI",
+          "quote": "He added: \"I love OpenAI, and everything I've done over the past few days has been in service of keeping this team and its mission together. \""
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Accepting the job offer from Microsoft",
+          "quote": "Microsoft, which uses OpenAI technology in many of its products - and is its biggest investor - then offered Mr Altman a job leading \"a new advanced AI research team\" at the tech giant."
+        },
+        {
+          "item": "Returning to OpenAI",
+          "quote": "Then on Wednesday, OpenAI said it had agreed Mr Altman's return to the tech company in principle, and that it would partly reconstitute the board of directors that had dismissed him."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Reinstatement at OpenAI",
+          "quote": "Emmett Shear, who had been appointed OpenAI's interim chief executive, said he was \"deeply pleased\" by Mr Altman's return after about \"72 very intense hours of work\"."
+        },
+        {
+          "item": "Gaining support from Microsoft",
+          "quote": "Microsoft boss Satya Nadella said the firm was \"encouraged by the changes to the OpenAI board\"."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Not being reinstated at OpenAI",
+          "quote": "Last week, the board decided to remove Mr Altman, which led to co-founder Greg Brockman's resignation, sending the star artificial intelligence (AI) company into chaos."
+        },
+        {
+          "item": "Being seen as not candid by OpenAI's board",
+          "quote": "It accused him of not being \"consistently candid in his communications\" - and, even after the many twists and turns since Friday, it remains unclear what they felt he was not being candid about."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Being perceived as not transparent",
+          "quote": "It accused him of not being \"consistently candid in his communications\" - and, even after the many twists and turns since Friday, it remains unclear what they felt he was not being candid about."
+        },
+        {
+          "item": "Disbanding of the OpenAI team",
+          "quote": "\"I love OpenAI, and everything I've done over the past few days has been in service of keeping this team and its mission together.\""
+        }
+      ],
+      "resources": [
+        {
+          "item": "The support of OpenAI staff",
+          "quote": "But on Monday Mr Sutskever apologised on X, and signed the staff letter calling on the board to reverse course."
+        },
+        {
+          "item": "Job offer from Microsoft",
+          "quote": "Microsoft, which uses OpenAI technology in many of its products - and is its biggest investor - then offered Mr Altman a job leading \"a new advanced AI research team\" at the tech giant."
+        },
+        {
+          "item": "Reinstated as the boss of OpenAI",
+          "quote": "But the upheaval of the past few days has raised questions about how a group of just four people could make decisions that have rocked a multi-billion dollar technology business."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nick Patience",
+    "description": "of S&P Global Market Intelligence",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "46648108",
+      "name": "Farzad Dibachi",
+      "extract": "Farzad Dibachi is a serial entrepreneur and business executive. He is the chief executive officer and co-founder of Silicon Valley startup Inxeption. Previously, Dibachi founded Noribachi, a custom LED lighting manufacturer specializing in industrial and commercial applications. In addition, he founded other Silicon Valley companies including Niku, later acquired by CA, Inc., and Diba, which he sold to Sun Microsystems. He is also the co-author of the book \"Just Add Management: Seven Steps to Creating a Productive Workplace and Motivating Your Employees In Challenging Times.\" He authored \"Diary of a Startup\" for Upside (magazine) from 1996 to 1997.",
+      "description": "Farzad Dibachi is a serial entrepreneur and CEO who co-founded several Silicon Valley companies including Inxeption and Noribachi, and authored business-focused books."
+    }
+  },
+  {
+    "name": "Be My Eyes",
+    "description": "Project that developed an AI-powered assistant for blind and partially-sighted people with OpenAI",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "69179614",
+      "name": "Be My Eyes",
+      "extract": "Be My Eyes is a Danish mobile app that aims to help blind and visually impaired people to recognize objects and cope with everyday situations. An online community of sighted volunteers receive photos or videos from randomly assigned affected individuals and assist via live chat. The app is currently available for Android and iOS.",
+      "description": "\"Be My Eyes\" is a Danish app that connects blind and visually impaired individuals with sighted volunteers to help recognize objects and navigate everyday situations through photos, videos, and live chat."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": [
+        {
+          "item": "Partnership with OpenAI",
+          "quote": "One project, Be My Eyes, worked with the firm to develop an AI-powered assistant for blind and partially-sighted people."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Michael Buckley",
+    "description": "Chief executive of Be My Eyes",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "31988678",
+      "name": "Michael Buckley",
+      "extract": "Michael Buckley may refer to:\n\nMichael Buckley (author) (born 1969), children's book author\nMichael Buckley (civil servant) (born 1939), former Parliamentary and Health Service Ombudsman\nMichael Buckley (YouTuber) (born 1975), American Internet celebrity, comedian and vlogger\nMichael Buckley (professor), clinical professor at the University of Texas at Arlington\nMick Buckley (1953–2013), English footballer\nMichael J. Buckley (1931–2019), Jesuit professor of theology at Santa Clara University\nMichael Buckley Jr. (1902–2006), U.S. Army officer",
+      "description": "Michael Buckley refers to several notable individuals such as an author, civil servant, YouTuber, professor, a footballer, a Jesuit professor of theology, and a U.S. Army officer."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": []
+    }
+  },
+  {
+    "name": "X",
+    "description": "Platform where multiple statements regarding the situation were made",
+    "mentions": 4,
+    "wikipedia": {
+      "id": "30304",
+      "name": "The X-Files",
+      "extract": "The X-Files is an American science fiction drama television series created by Chris Carter.  The original television series aired from September 1993 to May 2002 on Fox. During its original run, the program spanned nine seasons, with 202 episodes. A short tenth season consisting of six episodes ran from January to February 2016. Following the ratings success of this revival, The X-Files returned for an eleventh season of ten episodes, which ran from January to March 2018. In addition to the television series, two feature films have been released: The 1998 film The X-Files and the stand-alone film The X-Files: I Want to Believe, released in 2008, six years after the original television run had ended.\nThe series revolves around Federal Bureau of Investigation (FBI) Special Agents Fox Mulder (David Duchovny) and Dana Scully (Gillian Anderson), who investigate the eponymous \"X-Files\": marginalized, unsolved cases involving paranormal phenomena. Mulder is a skilled criminal profiler, an ardent supernaturalist, and a conspiracy theorist who believes in the existence of the paranormal, whereas Scully is a medical doctor and a skeptic who has been assigned to scientifically analyze Mulder's discoveries. Early in the series, both agents become pawns in a larger conflict and come to trust only each other and a few select people. The agents also discover an agenda of the government to keep secret the existence of extraterrestrial life. Mulder and Scully's shared adventures lead them to develop a close platonic bond, which by series' end develops into a romantic relationship. Roughly one third of the series' episodes follow a complex mythopoeia-driven story arc about a planned alien invasion, whereas the other two-thirds are \"monster of the week\" episodes that each focus on a one-off villain, mutant, or monster.\nThe X-Files was inspired by earlier television series which featured elements of suspense and speculative fiction, including The Twilight Zone, Night Gallery, Tales from the Darkside, Twin Peaks, and especially Kolchak: The Night Stalker. When creating the main characters, Carter sought to reverse gender stereotypes by making Mulder a believer and Scully a skeptic. The first seven seasons featured Duchovny and Anderson equally. In the eighth and ninth seasons, Anderson took precedence while Duchovny appeared intermittently. New main characters were introduced: FBI Special Agents John Doggett (Robert Patrick) and Monica Reyes (Annabeth Gish). Mulder and Scully's boss, Assistant Director Walter Skinner (Mitch Pileggi), also became a main character. The first five seasons of The X-Files were filmed and produced in Vancouver, British Columbia, before production eventually moved to Los Angeles to accommodate Duchovny. The series later returned to Vancouver to film The X-Files: I Want to Believe as well as the tenth and eleventh seasons.\nThe X-Files was a hit for the Fox network and received largely positive reviews, although its long-term story arc was criticized near the conclusion. Initially considered a cult series, it turned into a pop culture touchstone that tapped into public mistrust of governments and large institutions and embraced conspiracy theories and spirituality. Both the series itself and lead actors Duchovny and Anderson received multiple awards and nominations, and by its conclusion the show was the longest-running science fiction series in U.S. television history. The series also spawned a franchise that includes Millennium and The Lone Gunmen spin-offs, two theatrical films, and accompanying merchandise.",
+      "description": "\"The X-Files is an American drama television series that centers around FBI Special Agents Fox Mulder and Dana Scully investigating unsolved cases with paranormal phenomena, which leads them to uncover a government conspiracy to hide the existence of extraterrestrial life.\""
+    },
+    "motives": {
+      "stated_goals": [
+        {
+          "item": "Create safe artificial general intelligence",
+          "quote": "with the mission to create 'safe artificial general intelligence that benefits all of humanity'."
+        }
+      ],
+      "main_motivations": [
+        {
+          "item": "Benefit humanity",
+          "quote": "with the mission to create 'safe artificial general intelligence that benefits all of humanity'."
+        },
+        {
+          "item": "Preserve a unified company culture",
+          "quote": "This is an example of what a united company culture looks like."
+        },
+        {
+          "item": "Maintain credibility by reinstating Sam Altman after ousting",
+          "quote": "But the upheaval of the past few days has raised questions about how a group of just four people could make decisions that have rocked a multi-billion dollar technology business."
+        }
+      ],
+      "possible_actions": [
+        {
+          "item": "Can reinstate ousted company members",
+          "quote": "Sam Altman will return as boss just days after he was fired by the board, the firm has said."
+        },
+        {
+          "item": "Can change board members",
+          "quote": "The agreement 'in principle' involves new board members being appointed, the tech company added."
+        },
+        {
+          "item": "Can appoint interim CEO's",
+          "quote": "Emmett Shear, who had been appointed OpenAI's interim chief executive, said he was deeply pleased by Mr Altman's return after about 72 very intense hours of work."
+        }
+      ],
+      "good_scenarios": [
+        {
+          "item": "Reinstate Sam Altman as CEO",
+          "quote": "OpenAI co-founder Sam Altman will return as boss just days after he was fired by the board, the firm has said."
+        },
+        {
+          "item": "Preservation of existing staff",
+          "quote": "The letter stated that Microsoft had assured them that there were jobs for all OpenAI staff if they wanted to join the company, with Microsoft later confirming it would match their existing pay."
+        }
+      ],
+      "bad_scenarios": [
+        {
+          "item": "Damage to company reputation",
+          "quote": "Others, though, suggest the episode has been damaging to OpenAI."
+        },
+        {
+          "item": "Loss of staff",
+          "quote": "more-than-700 of them signed an open letter threatening to leave unless the board resigned."
+        }
+      ],
+      "main_fears": [
+        {
+          "item": "Loss of confidence in leadership",
+          "quote": "It accused him of not being 'consistently candid in his communications' - and, even after the many twists and turns since Friday, it remains unclear what they felt he was not being candid about."
+        },
+        {
+          "item": "Mass resignations from staff",
+          "quote": "more-than-700 of them signed an open letter threatening to leave unless the board resigned."
+        }
+      ],
+      "resources": [
+        {
+          "item": "Significant staff",
+          "quote": "more-than-700 of them signed an open letter threatening to leave unless the board resigned."
+        },
+        {
+          "item": "Investments from major corporations",
+          "quote": "Microsoft, which uses OpenAI technology in many of its products - and is its biggest investor"
+        },
+        {
+          "item": "Strategic collaborations",
+          "quote": "One project, Be My Eyes, worked with the firm to develop an AI-powered assistant for blind and partially-sighted people."
+        }
+      ]
+    }
+  },
+  {
+    "name": "Elon Musk",
+    "description": "CEO of Tesla",
+    "mentions": 1,
+    "wikipedia": {
+      "id": "909036",
+      "name": "Elon Musk",
+      "extract": "Elon Reeve Musk ( EE-lon; born June 28, 1971) is a businessman and investor. Musk is the founder, chairman, CEO and chief technology officer of SpaceX; angel investor, CEO, product architect and former chairman of Tesla, Inc.; owner, chairman and CTO of X Corp.; founder of the Boring Company and xAI; co-founder of Neuralink and OpenAI; and president of the Musk Foundation. He is the wealthiest person in the world, with an estimated net worth of US$222 billion as of December 2023, according to the Bloomberg Billionaires Index, and $244 billion according to Forbes, primarily from his ownership stakes in Tesla and SpaceX.A member of the wealthy South African Musk family, Elon was born in Pretoria and briefly attended the University of Pretoria before immigrating to Canada at age 18, acquiring citizenship through his Canadian-born mother. Two years later, he matriculated at Queen's University at Kingston in Canada. Musk later transferred to the University of Pennsylvania, and received bachelor's degrees in economics and physics. He moved to California in 1995 to attend Stanford University. However, Musk dropped out after two days and, with his brother Kimbal, co-founded online city guide software company Zip2. The startup was acquired by Compaq for $307 million in 1999, and, that same year Musk co-founded X.com, a direct bank. X.com merged with Confinity in 2000 to form PayPal.\nIn October 2002, eBay acquired PayPal for $1.5 billion, and that same year, with $100 million of the money he made, Musk founded SpaceX, a spaceflight services company. In 2004, he became an early investor in electric vehicle manufacturer Tesla Motors, Inc. (now Tesla, Inc.). He became its chairman and product architect, assuming the position of CEO in 2008. In 2006, Musk helped create SolarCity, a solar-energy company that was acquired by Tesla in 2016 and became Tesla Energy. In 2013, he proposed a hyperloop high-speed vactrain transportation system. In 2015, he co-founded OpenAI, a nonprofit artificial intelligence research company. The following year, Musk co-founded Neuralink—a neurotechnology company developing brain–computer interfaces—and the Boring Company, a tunnel construction company. In 2022, he acquired Twitter for $44 billion. He subsequently merged the company into newly created X Corp. and rebranded the service as X the following year. In March 2023, he founded xAI, an artificial intelligence company.Musk has expressed views that have made him a polarizing figure. He has been criticized for making unscientific and misleading statements, including COVID-19 misinformation, transphobia and antisemitic conspiracy theories. His Twitter ownership has been similarly controversial, including laying off a large number of employees, an increase in hate speech on the website, and changes to Twitter Blue verification. In 2018, the U.S. Securities and Exchange Commission (SEC) sued him for falsely tweeting that he had secured funding for a private takeover of Tesla. To settle the case, Musk stepped down as the chairman of Tesla and paid a $20 million fine.\n\n",
+      "description": "Elon Musk, born June 28, 1971, is a globally recognized entrepreneur and founder of SpaceX, CEO of Tesla, co-founder of Neuralink and OpenAI, and owner of X Corp and the Boring Company. He's known for his impact on the electric vehicle and space travel industries, and is considered the world's wealthiest person with a net worth estimated at over $200 billion."
+    },
+    "motives": {
+      "stated_goals": [],
+      "main_motivations": [],
+      "possible_actions": [],
+      "good_scenarios": [],
+      "bad_scenarios": [],
+      "main_fears": [],
+      "resources": []
+    }
+  },
+  {
+    "name": "BBC",
+    "description": "Media Outlet",
+    "mentions": 2,
+    "wikipedia": {
+      "id": "19344654",
+      "name": "BBC",
+      "extract": "The British Broadcasting Corporation (BBC) is a British public service broadcaster headquartered at Broadcasting House in London. Originally established in 1922 as the British Broadcasting Company, it evolved into its current state with its current name on New Year's Day 1927. The oldest and largest local and global broadcaster by stature and by number of employees, the BBC employs over 21,000 staff in total, of whom approximately 17,900 are in public-sector broadcasting.The BBC is established under a royal charter and operates under its agreement with the Secretary of State for Culture, Media and Sport. Its work is funded principally by an annual television licence fee which is charged to all British households, companies, and organisations using any type of equipment to receive or record live television broadcasts or to use the BBC's streaming service, iPlayer. The fee is set by the British Government, agreed by Parliament, and is used to fund the BBC's radio, TV, and online services covering the nations and regions of the UK. Since 1 April 2014, it has also funded the BBC World Service (launched in 1932 as the BBC Empire Service), which broadcasts in 28 languages and provides comprehensive TV, radio, and online services in Arabic and Persian.\nSome of the BBC's revenue comes from its commercial subsidiary BBC Studios (formerly BBC Worldwide), which sells BBC programmes and services internationally and also distributes the BBC's international 24-hour English-language news services BBC World News, and from BBC.com, provided by BBC Global News Ltd. In 2009, the company was awarded the Queen's Award for Enterprise in recognition of its international achievements in business.Since its formation in 1922, the BBC has played a prominent role in British life and culture. It is colloquially known as the Beeb or Auntie.",
+      "description": "The British Broadcasting Corporation (BBC) is a UK-based public service broadcaster, funded by an annual TV licence fee, operating under a royal charter with over 21,000 employees and offering local and global radio, TV, and online services."
+    },
+    "motives": {
+      "message": "Based on your provided document, none of the questions about the BBC can be answered as the document pertains to the events and inner workings of OpenAI, not the BBC. The document provided does not mention the BBC's goals, motivations, possible actions, scenarios, fears, or resources. Please provide a relevant document for the analysis of BBC."
+    }
+  }
+]

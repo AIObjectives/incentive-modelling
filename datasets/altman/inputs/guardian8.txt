@@ -1,0 +1,51 @@
+Source: Guardian
+Title: OpenAI staff threaten to quit en masse unless Sam Altman is reinstated
+Subtitle: More than 600 employees demand resignation of board after shock firing of chief executive
+Authors: Dan Milmo and Blake Montgomery
+Date: Mon 20 Nov 2023 23.46 GMT
+Link: https://www.theguardian.com/technology/2023/nov/20/openai-staff-walkout-sam-altman-board
+
+=== 
+
+Turmoil has engulfed the company behind ChatGPT after hundreds of OpenAI staff members threatened to quit en masse unless the board overseeing the business reinstates its ousted chief executive, Sam Altman, and steps down.
+
+In an open letter, nearly all of OpenAI’s 700 employees demanded the resignation of the board and said they may walk out if Altman is not brought back.
+
+Altman was fired on Friday in a move that shocked Silicon Valley, riled the company’s employees and put rival tech companies on alert for a talent exodus.
+
+OpenAI staff threaten to quit unless Sam Altman returns; Abu Dhabi fund lined up to take control of Telegraph – as it happened
+Read more
+Monday’s letter to OpenAI’s four remaining board directors said: “Your actions have made it obvious that you are incapable of overseeing OpenAI. We are unable to work for or with people that lack competence, judgment and care for our mission and employees.” The board’s members have yet to comment publicly.
+
+The letter added that the signatories could join Altman and OpenAI’s former president Greg Brockman at Microsoft after the US tech company announced on Monday it had hired the duo to head a new AI research unit. On Monday evening, however, the Microsoft CEO, Satya Nadella, said he was open to Altman staying at OpenAI or joining Microsoft. Either way, the executive told Bloomberg TV, OpenAI’s governance structure needed to change. Microsoft is OpenAI’s biggest shareholder.
+
+“We, the undersigned, may choose to resign from OpenAI and join the newly announced Microsoft subsidiary run by Sam Altman and Greg Brockman,” the employees wrote. “We will take this step imminently, unless all current board members resign … and [reinstate] Sam Altman and Greg Brockman.” The letter was first reported by the tech magazine Wired and the journalist Kara Swisher.
+
+After the letter became public, OpenAI employees began tweeting “OpenAI is nothing without its people” in a show of solidarity. One AI researcher, Noam, wrote on X: “Everyone at @OpenAI is united. This is not a civil war. Unless Sam and Greg are brought back, there will be no OpenAI left to govern.”
+
+OpenAI was founded as a non-profit entity. It controls a commercial subsidiary that until Friday was run by Altman. The 38-year-old has become a globally renowned executive off the back of the success of ChatGPT, the AI text-generating system that raced to 100 million users soon after its launch in November last year.
+
+The non-profit board now consists of four members: OpenAI’s chief scientist, Ilya Sutskever; Adam D’Angelo, the co-founder of the question-and-answer website Quora; Tasha McCauley, a tech entrepreneur; and Helen Toner, a director at Georgetown University’s Center for Security and Emerging Technology.
+
+In a surprising development, Sutskever appeared to back his own removal from the board, as one of the signatories of the open letter.
+
+Other signatories included Mira Murati, OpenAI’s chief technology officer who was appointed interim chief executive for a brief period after Altman’s departure but was then replaced on Sunday by Emmett Shear, the co-founder of the video game streaming platform Twitch. Altman showed up to OpenAI’s headquarters on Sunday after his firing, tweeting he had been forced to wear a guest badge, but he was not ultimately reinstated as CEO.
+
+skip past newsletter promotion
+Sign up to Business Today
+
+Free daily newsletter
+Get set for the working day – we'll point you to all the business news and analysis you need every morning
+
+
+Privacy Notice: Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Privacy Policy. We use Google reCaptcha to protect our website and the Google Privacy Policy and Terms of Service apply.
+after newsletter promotion
+Shear denied in a post on X that Altman’s departure was linked to concerns over safety at the company. ChatGPT’s success has stoked fears among some experts, politicians and tech professionals that AI companies are locked in an arms race that could produce systems capable of evading human control.
+
+The OpenAI board said in its surprise statement on Friday that Altman had been fired for failing to be “consistently candid in his communications” but did not elaborate further.
+
+Sutskever added his signature to the letter as he wrote on Monday that he regretted his role in Altman’s departure. In a post on X, he wrote: “I deeply regret my participation in the board’s actions. I never intended to harm OpenAI. I love everything we’ve built together and I will do everything I can to reunite the company.” Altman and Brockman responded with heart emojis, and many of the letter’s signatories followed suit, indicating a detente.
+
+Altman’s hiring also pulls into focus Microsoft’s relationship with OpenAI, in which it owns a 49% stake and has backed with a multibillion-dollar investment. Dan Ives, an analyst at the US financial services firm Wedbush Securities, said Altman was still in control of OpenAI.
+
+“Altman will essentially now call the shots at OpenAI from Microsoft’s perch despite the clown-show board move over the weekend,” he said.

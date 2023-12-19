@@ -1,0 +1,68 @@
+Source: Reuters 
+Title: ChatGPT maker OpenAI ousts CEO Sam Altman
+Authors: Jeffrey Dastin, Anna Tong, Samrhitha A and Krystal Hu
+Date: November 18, 20235:54 AM GMT
+Link: https://www.reuters.com/technology/openai-ceo-sam-altman-step-down-2023-11-17/
+
+===
+
+Nov 17 (Reuters) - The board of the company behind ChatGPT on Friday fired OpenAI CEO Sam Altman - to many, the human face of generative AI - sending shock waves across the tech industry.
+
+OpenAI's Chief Technology Officer Mira Murati will serve as interim CEO, the company said, adding that it will conduct a formal search for a permanent CEO.
+
+"Altman's departure follows a deliberative review process by the board, which concluded that he was not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities," OpenAI said in the blog without elaborating.
+
+Greg Brockman, OpenAI president and co-founder, who stepped down from the board as chairman as part of the management shuffle, quit the company, he announced on messaging platform X late on Friday. "Based on today's news, i quit," he wrote.
+
+The departures blindsided many employees who discovered the abrupt management change from an internal message and the company's public facing blog. It came as a surprise to Altman and Brockman as well, who learned the board's decision within minutes of the announcement, Brockman said.
+
+"We too are still trying to figure out exactly what happened," he posted on X, formerly Twitter, adding, "We will be fine. Greater things coming soon."
+
+The now four-person board consists of three independent directors holding no equity in OpenAI and its Chief Scientist Ilya Sutskever. The organization did not immediately answer a request for comment on Brockman's claims.
+
+Backed by billions of dollars from Microsoft (MSFT.O), which does not have a board seat in the non-profit governing the startup, OpenAI kicked off the generative AI craze last November by releasing ChatGPT. The chatbot became one of the world's fastest-growing software applications.
+
+Trained on reams of data, generative AI can create human-like content, helping users spin up term papers, complete science homework and even write entire novels. After ChatGPT's launch, regulators scrambled to catch up: the European Union revised its AI Act and the U.S. kicked off AI regulation efforts.
+
+Altman, who ran Y Combinator, is a serial entrepreneur and investor. He was the face of OpenAI and the wildly popular generative AI technology as he toured the world this year.
+
+Altman posted on X shortly after OpenAI published its blog: "i loved my time at openai. it was transformative for me personally, and hopefully the world a little bit. most of all i loved working with such talented people. will have more to say about what’s next later."
+
+Altman did not respond to requests for comment.
+
+Murati, who has worked for Tesla, joined OpenAI in 2018 and later became chief technology officer. She oversaw product launches including that of ChatGPT.
+
+At an emergency all-hands meeting on Friday afternoon after the announcement, Murati sought to calm employees and said OpenAI's partnership with Microsoft is stable and its backer's executives, including CEO Satya Nadella, continue to express confidence in the startup, a person familiar with the matter told Reuters.
+
+APEC Summit in San Francisco
+Sam Altman, CEO of OpenAI, attends the Asia-Pacific Economic Cooperation (APEC) CEO Summit in San Francisco, California, U.S. November 16, 2023. REUTERS/Carlos Barria - RC2NE4ALUNJG Acquire Licensing Rights
+
+The Information previously reported details of the meeting.
+
+"Microsoft remains committed to Mira and their team as we bring this next era of AI to our customers," a spokesperson for the software maker told Reuters on Friday.
+
+In a statement published on Microsoft's website, Nadella said: "We have a long-term agreement with OpenAI... Together, we will continue to deliver the meaningful benefits of this technology to the world."
+
+EARTHQUAKE
+The shakeup is not the first at OpenAI, launched in 2015. Tesla CEO Elon Musk once was its co-chair, and in 2020 other executives departed, going on to found competitor Anthropic, which has claimed it has a greater focus on AI safety.
+
+Well wishers and critics piled onto digital forums as news of the latest shuffle spread.
+
+On X, former Google CEO Eric Schmidt called Altman "a hero of mine," adding, "He built a company from nothing to $90 Billion in value, and changed our collective world forever. I can't wait to see what he does next. I, and billions of people, will benefit from his future work- it's going to be simply incredible."
+
+"This is a shocker and Altman was a key ingredient in the recipe for success of OpenAI," said Daniel Ives, an analyst at Wedbush Securities. "That said, we believe Microsoft and Nadella will exert more control at OpenAI going forward with Altman gone."
+
+The full impact of the OpenAI surprise will unfold over time, but its fundraising prospects were an immediate concern. Altman was considered a master fundraiser who managed to negotiate billions of dollars in investment from Microsoft as well as having led the company's tender offer transactions this year that fueled OpenAI's valuation from $29 billion to over $80 billion.
+
+"In the short term it will impair OpenAI's ability to raise more capital. In the intermediate term it will be a non-issue," said Thomas Hayes, chairman at hedge fund Great Hill Capital.
+
+Other analysts said Altman's departure, while disruptive, would not derail generative AI's popularity or OpenAI or Microsoft's competitive advantage.
+
+"The innovation created by OpenAI is bigger than any one or two people, and there is no reason to think this would cause OpenAI to cede its leadership position," said D.A. Davidson analyst Gil Luria. "If nothing else, Microsoft's stake and significant interest in OpenAI's progress ensure the appropriate leadership changes are being implemented."
+
+As late as Thursday evening, Altman showed no signs of concern at two public events. He joined colleagues in a panel on the sidelines of the Asia-Pacific Economic Cooperation (APEC) conference in San Francisco, describing his commitment and vision for AI.
+
+Later he spoke at a Burning Man-related event in Oakland, California, engaging in an hour-long conversation on the topic of art and AI. Altman seemed relaxed and gave no indication anything was wrong, but left right after his talk was over at 7:30 p.m.
+
+The event organizer said at the event that Altman had another meeting to attend.
+
