@@ -55,7 +55,7 @@ export default function Page({ dataset, data }: { dataset: string, data: any }) 
   const raws = [
     // ["name", (x: any) => x.name],
     // ["Wikipedia", (x: any) => x.wikipedia?.description],
-    ["Description", (x: any) => ([{ item: x.description }])],
+    // ["Description", (x: any) => ([{ item: x.description }])],
     ["Stated Goals", (x: any) => x.motives?.stated_goals || []],
     ["Main Motivations", (x: any) => x.motives?.main_motivations || []],
     ["Possible Actions", (x: any) => x.motives?.possible_actions || []],

@@ -18,11 +18,10 @@ node main_step1_matrix.js altman
 node main_step2_tables.js altman
 ```
 
-The first script will produce a bunch of files in `./outputs` including a `data.json` files with contains
-all the data used by the client to display the large matrix view.
+The first script will produce files in `./outputs` of the form `[...]_entities.json`. These contain the data used by the client to display the large matrix view.
 
-The second script will produce files in `./outputs/` of the form `table_....json`. These contains the data
-used by the front-end to display the individual tables with clusters of incentives.
+The second script will produce files in `./outputs/` of the form `table_[...].json`. These contain the
+data used by the front-end to display the individual tables with clusters of incentives.
 
 ## Development
 
