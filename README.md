@@ -13,6 +13,7 @@ Create an empty `./cache` folder and `./outputs` folder.
 Install a modern version of node and then run the following, substituting `altman` with the name of your dataset folder.
 
 ```
+npm i
 export OPENAI_API_KEY=...
 node main_step1_matrix.js altman
 node main_step2_tables.js altman
@@ -29,5 +30,6 @@ To run the front-end locally:
 
 ```
 cd client
+npm i
 npm run dev
 ```
