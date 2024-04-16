@@ -1,4 +1,27 @@
-# Incentives Modelling Prototype
+# Incentives Modelling 
+
+## TL;DR: 
+
+This repo contains some prototype code and examples related to 
+[https://www.lesswrong.com/posts/hYS2KGAeB44SiJnJe/modeling-incentives-at-scale-using-llms](Modeling Incentives At Scalre Using LLMs). 
+
+The goals of this technical exploration were to figure out: 
+* how LLMs might be used to analyse different types of inputs (newspaper article, substack or podcast transtript) and extract various bits of information
+* how LLMS could help combine, summarize and organise these bits of informations to construct "incentive models"
+* what may be the best ways to visualize and consume these incentive models. 
+
+Key learnings and challenges:
+
+*  LLMs are pretty smart are extracting all the bits that we technically asked them to extract (see prompts)
+*  it's harder to get LLMs to extract only the interesting bits (the outputs offen include uninteresting noise)
+*  with the current prompts, the LLMs also didn't do a great job at clustering and deduplicating similar points
+
+We believe that the quality of models could be improved a lot by iterating on the prompts, especially by borrowing some of the prompt 
+engineering techniques that we developped for other projects (see [Talk to the City](https://ai.objectives.institute/talk-to-the-city). 
+
+## Screenshots 
+
+
 
 ## Add new datasets under `/datasets`
 
@@ -33,3 +56,5 @@ cd client
 npm i
 npm run dev
 ```
+
+
